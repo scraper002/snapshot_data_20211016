@@ -22,6 +22,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 115.196.77.207|/LitecoinCore:0.18.1/|70015|4134|115.192.0.0/11|CN|apnic|2008-09-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 115.196.77.207|/LitecoinCore:0.18.1/|70208|4134|115.192.0.0/11|CN|apnic|2008-09-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 116.202.51.248|/EasticoinCore:0.14.2/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
+116.203.55.105|/open-nodes:0.1/|70015|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.70.173.207|/loaf:2.1/|70015|4721|116.70.160.0/19|JP|apnic|2007-05-16|JCN Jupiter Telecommunications Co., Ltd., JP
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
@@ -127,6 +128,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.201.104.49|/LitecoinCore:0.17.1/|70015|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
 197.185.109.168|/LitecoinCore:0.18.1/|70015|37105|197.185.108.0/23|ZA|afrinic|2012-12-06|rain, ZA
 197.185.109.168|/LitecoinCore:0.18.1/|70208|37105|197.185.108.0/23|ZA|afrinic|2012-12-06|rain, ZA
+200.229.158.215|/NBitcoin:5.0.49/|70012|61805|200.229.156.0/22|BR|lacnic|2014-06-25|Emex Internet, BR
 200.229.159.222|/NBitcoin:5.0.49/|70012|61805|200.229.156.0/22|BR|lacnic|2014-06-25|Emex Internet, BR
 201.13.44.132|/NBitcoin:5.0.49/|70012|27699|201.13.0.0/17|BR|lacnic|2004-06-08|TELEFONICA BRASIL S.A, BR
 201.17.124.81|/NBitcoin:5.0.49/|70012|28573|201.17.0.0/17|BR|lacnic|2004-07-26|CLARO S.A., BR
@@ -145,6 +147,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.178.60.14|/LitecoinCore:0.18.1/|70208|8439|213.178.48.0/20|RU|ripencc|2008-01-17|AIST Togliatti, Russia, RU
 213.32.6.132|/DigitaleuroCore:0.16.3/|70015|16276|213.32.0.0/17|FR|ripencc|1999-06-28|OVH, FR
 216.117.176.23|/LitecoinCore:0.17.1/|70015|10843|216.117.128.0/18|US|arin|1998-11-11|AITNET, US
+217.118.90.248|/loaf-android:175/|70015|16345|217.118.90.0/24|RU|ripencc|2003-06-10|BEE-AS Russia, RU
 217.138.252.220|/LitecoinCore:0.18.1/|70015|9009|217.138.252.0/24|GB|ripencc|2001-01-31|M247, GB
 217.138.252.220|/LitecoinCore:0.18.1/|70208|9009|217.138.252.0/24|GB|ripencc|2001-01-31|M247, GB
 217.28.81.38|/NBitcoin:5.0.49/|70012|51800|217.28.80.0/21|CZ|ripencc|2010-11-05|FIBERNET-ASN, CZ
@@ -181,6 +184,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.114.108.254|/LitecoinCore:0.17.1/|70015|6805|46.114.0.0/15|DE|ripencc|2010-05-11|TDDE-ASN1, DE
 46.114.154.130|/WalletKit:0.1.0/|70015|6805|46.114.0.0/15|DE|ripencc|2010-05-11|TDDE-ASN1, DE
 46.166.49.41|/loaf-android:175/|70015|25454|46.166.0.0/18|MD|ripencc|2010-12-14|ASN-OMD-FNO Orange Moldova Fixed Network Autonomous System, MD
+46.44.12.36|/LitecoinCore:0.18.1/|70015|28917|46.44.0.0/18|RU|ripencc|2010-08-18|FIORD-AS IP-transit operator in Europe, LT
+46.44.12.36|/LitecoinCore:0.18.1/|70208|28917|46.44.0.0/18|RU|ripencc|2010-08-18|FIORD-AS IP-transit operator in Europe, LT
 47.107.160.41|/CounosXCore:0.17.2/|70015|37963|47.107.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.241.32.78|/LitecoinCore:0.17.1/|70015|45102|47.241.0.0/17|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -189,9 +194,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.91.74.132|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.91.77.232|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 5.133.65.82|/LitecoinCore:0.17.1/|70015|15440|5.133.65.0/24|LT|ripencc|2018-11-09|BALTNETA Customers AS, LT
-5.178.11.54|/loaf-android:175/|70015|28787|5.178.11.0/24|AZ|ripencc|2012-08-03|BAKINTER-AS Bakinternet ISP, Azerbaijan, AZ
 5.9.227.230|/CounosXCore:0.17.2/|70015|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 50.5.9.168|/FutureBit-ApolloCore:0.17.1/|70015|6181|50.5.0.0/17|US|arin|2010-09-09|FUSE-NET, US
+50.72.153.99|/LitecoinCore:0.18.1/|70015|6327|50.72.152.0/22|CA|arin|2010-10-28|SHAW, CA
+50.72.153.99|/LitecoinCore:0.18.1/|70208|6327|50.72.152.0/22|CA|arin|2010-10-28|SHAW, CA
 51.159.56.35|/LitecoinCore:0.17.1/|70015|12876|51.158.0.0/15|FR|ripencc|1993-09-01|Online SAS, FR
 51.254.47.231|/LitecoinCore:0.18.1/|70015|16276|51.254.0.0/15|FR|ripencc|1993-09-01|OVH, FR
 51.254.47.231|/LitecoinCore:0.18.1/|70208|16276|51.254.0.0/15|FR|ripencc|1993-09-01|OVH, FR
@@ -201,6 +207,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.196.0.0/14|US|arin|2015-09-02|AMAZON-02, US
 54.196.252.59|/Dain:0.1.0/|70003|14618|54.196.0.0/15|US|arin|2014-10-23|AMAZON-AES, US
 54.210.165.33|/btcwire:0.5.0/ltcd:0.20.1/|70013|14618|54.210.0.0/16|US|arin|2014-10-23|AMAZON-AES, US
+54.237.50.89|/LitecoinCore:0.16.3/|70015|14618|54.237.0.0/16|US|arin|2012-03-01|AMAZON-AES, US
 54.36.166.67|/LitecoinCore:0.17.1/|70015|16276|54.36.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.38.177.230|/LitecoinCore:0.18.1/|70015|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.38.177.230|/LitecoinCore:0.18.1/|70208|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
@@ -279,6 +286,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 90.211.102.244|/LitecoinCore:0.18.1/|70208|5607|90.192.0.0/11|GB|ripencc|2007-06-14|BSKYB-BROADBAND-AS, GB
 91.207.174.235|/loaf-android:175/|70015|9009|91.207.174.0/24|RO|ripencc|2018-04-20|M247, GB
 93.125.50.127|/LitecoinCore:0.17.1/|70015|50593|93.125.50.0/24|BY|ripencc|2008-04-15|TRANSTELECOM-AS, BY
+93.90.44.65|/LitecoinCore:0.18.1/|70015|12714|93.90.32.0/20|RU|ripencc|2008-04-16|TI-AS Moscow, Russia, RU
+93.90.44.65|/LitecoinCore:0.18.1/|70208|12714|93.90.32.0/20|RU|ripencc|2008-04-16|TI-AS Moscow, Russia, RU
 94.241.4.142|/LitecoinCore:0.18.1/|70015|12389|94.241.0.0/21|RU|ripencc|2008-09-29|ROSTELECOM-AS, RU
 94.241.4.142|/LitecoinCore:0.18.1/|70208|12389|94.241.0.0/21|RU|ripencc|2008-09-29|ROSTELECOM-AS, RU
 94.243.71.12|/loaf-android:175/|70015|25454|94.243.68.0/22|MD|ripencc|2008-10-22|ASN-OMD-FNO Orange Moldova Fixed Network Autonomous System, MD
