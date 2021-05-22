@@ -46,6 +46,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 110.140.171.204|9333|/FutureBit-ApolloCore:0.17.1/|1221|110.140.0.0/15|AU|apnic|2009-04-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 111.108.29.123|9513|/Satoshi:0.8.7.2/|2516|111.108.0.0/16|JP|apnic|2009-06-12|KDDI KDDI CORPORATION, JP
 111.90.145.106|9333|/LitecoinCore:0.18.1/|45839|111.90.144.0/21|MY|apnic|2009-06-17|SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY
+112.17.178.52|9333|/LitecoinCore:0.16.1(bitcore)/|56041|112.17.128.0/18|CN|apnic|2008-12-15|CMNET-ZHEJIANG-AP China Mobile communications corporation, CN
 112.202.160.60|9333|/LitecoinCore:0.16.3/|9299|112.202.160.0/19|PH|apnic|2009-02-16|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 112.5.37.131|11081|/WorldcoinFoundation:0.10.4/|9808|112.5.32.0/21|CN|apnic|2008-12-15|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 112.54.13.221|9333|/LitecoinCore:0.17.1/|56044|112.54.0.0/20|CN|apnic|2008-12-15|CMNET-AS-LIAONING China Mobile communications corporation, CN
@@ -225,6 +226,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.134.5|9333|/LitecoinCore:0.18.1/|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.99.47|9333|/LitecoinCore:0.18.1/|51167|161.97.98.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 162.0.211.61|9333|/LitecoinCore:0.18.1/|22612|162.0.211.0/24|US|arin|2020-09-03|NAMECHEAP-NET, US
+162.239.104.200|9333|/FutureBit-ApolloCore:0.17.1/|7018|162.224.0.0/12|US|arin|2013-05-21|ATT-INTERNET4, US
 162.55.75.206|9333|/LitecoinCore:0.18.1/|24940|162.55.0.0/16|DE|ripencc|1992-08-03|HETZNER-AS, DE
 162.62.21.32|9333|/LitecoinCore:0.18.1/|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 162.62.21.41|9333|/LitecoinCore:0.18.1/|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
@@ -279,7 +281,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.249.53.194|9333|/LitecoinCore:0.17.1/|51167|173.249.52.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.255.204.124|9333|/LitecoinCore:0.18.1/|63949|173.255.192.0/20|US|arin|2010-08-27|LINODE-AP Linode, LLC, US
 173.51.177.2|9333|/LitecoinCore:0.18.1/|5650|173.51.176.0/23|US|arin|2008-10-09|FRONTIER-FRTR, US
-173.63.217.110|9333|/LitecoinCore:0.18.1/|701|173.63.0.0/16|US|arin|2008-10-09|UUNET, US
 173.72.18.211|9333|/LitecoinCore:0.18.1/|701|173.72.0.0/17|US|arin|2008-08-11|UUNET, US
 174.18.36.83|9333|/FutureBit-ApolloCore:0.17.1/|209|174.18.0.0/16|US|arin|2009-02-17|CENTURYLINK-US-LEGACY-QWEST, US
 175.118.126.20|19334|/LitecoinCore:0.17.1/|9318|175.112.0.0/13|KR|apnic|2009-12-17|SKB-AS SK Broadband Co Ltd, KR
@@ -1029,6 +1030,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.93.111.235|9333|/LitecoinCore:0.16.3/|16509|54.93.64.0/18|US|arin|2014-06-20|AMAZON-02, US
 58.161.158.138|9333|/Satoshi:0.8.6.2/|1221|58.160.0.0/12|AU|apnic|2005-05-30|ASN-TELSTRA Telstra Corporation Ltd, AU
 58.221.60.225|11804|/WorldcoinFoundation:0.10.4/|4134|58.208.0.0/12|CN|apnic|2005-06-24|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+58.229.208.217|9333|/LitecoinCore:0.14.2/|9318|58.224.0.0/13|KR|apnic|2005-06-27|SKB-AS SK Broadband Co Ltd, KR
 59.110.141.202|9333|/LitecoinCore:0.16.3/|37963|59.110.128.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 59.110.22.131|9333|/LitecoinCore:0.16.3/|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 59.110.30.9|9333|/LitecoinCore:0.16.3/|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -1214,6 +1216,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.248.20.65|9333|/LitecoinCore:0.18.1/|5578|85.248.0.0/16|SK|ripencc|2005-01-20|AS-BENESTRA Bratislava, Slovak Republic, SK
 85.25.202.57|7999|/DigitalcoinV3.0:3.0.1/|8972|85.25.192.0/20|DE|ripencc|2005-12-05|GD-EMEA-DC-SXB1, DE
 86.104.14.179|9333|/LitecoinCore:0.16.3/|202505|86.104.14.0/24|TR|ripencc|2005-04-18|NETBUDUR netbudur.com, TR
+86.106.143.10|9553|/LitecoinCore:0.18.1/|9009|86.106.143.0/24|RO|ripencc|2005-04-18|M247, GB
 86.107.187.54|9333|/LitecoinCore:0.18.1/|207375|86.107.186.0/23|NL|ripencc|2005-04-18|FIBO, NL
 86.146.198.240|9333|/LitecoinCore:0.18.1/|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.161.194.146|9333|/LitecoinCore:0.18.1/|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
@@ -1269,7 +1272,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.245.6.89|9333|/LitecoinCore:0.18.1/|44631|92.245.0.0/20|SK|ripencc|2008-02-08|CONDORNET, SK
 92.32.119.109|9333|/LitecoinCore:0.18.1/|2119|92.32.0.0/14|SE|ripencc|2007-11-28|TELENOR-NEXTEL Telenor Norge AS, NO
 92.33.191.207|9333|/LitecoinCore:0.18.1/|2119|92.32.0.0/14|SE|ripencc|2007-11-28|TELENOR-NEXTEL Telenor Norge AS, NO
-92.92.163.7|9333|/Satoshi:0.8.7.5/|15557|92.88.0.0/13|FR|ripencc|2007-10-17|LDCOMNET, FR
 93.100.33.175|9333|/LitecoinCore:0.18.1/|35807|93.100.0.0/16|RU|ripencc|2008-02-28|SKYNET-SPB-AS, RU
 93.103.20.210|9333|/LitecoinCore:0.18.1/|34779|93.103.0.0/19|SI|ripencc|2008-03-14|T-2-AS AS set propagated by T-2 d.o.o., SI
 93.104.214.69|9333|/LitecoinCore:0.18.1/|8767|93.104.0.0/16|DE|ripencc|2008-03-18|MNET-AS Germany, DE
