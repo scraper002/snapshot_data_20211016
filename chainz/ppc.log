@@ -77,6 +77,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 206.189.90.171|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|14061|206.189.80.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
 212.66.63.145|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|44539|212.66.32.0/19|UA|ripencc|1999-06-01|REDI, UA
 212.85.236.29|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|198144|212.85.236.0/23|ES|ripencc|2000-05-19|RONDA, ES
+213.127.65.237|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|33915|213.127.0.0/17|NL|ripencc|1999-09-16|TNF-AS, NL
 213.159.81.229|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|43284|213.159.80.0/20|CH|ripencc|2000-03-01|IWB-TELEKOM Industrielle Werke Basel, CH
 213.65.216.250|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3301|213.64.0.0/14|SE|ripencc|1999-11-12|TELIANET-SWEDEN Telia Company, SE
 216.15.58.235|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6079|216.15.0.0/17|US|arin|1998-07-02|RCN-AS, US
@@ -84,7 +85,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.245.195.45|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.245.204.168|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.250.115.194|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
-217.68.105.52|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|25400|217.68.96.0/19|NO|ripencc|2000-11-14|TELIA-NORWAY-AS Telia Norway Core Networks, NO
 221.122.37.74|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|23724|221.122.32.0/20|CN|apnic|2003-07-07|CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN
 223.255.228.101|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|45727|223.255.228.0/24|ID|apnic|2010-08-09|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 223.255.228.108|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|45727|223.255.228.0/24|ID|apnic|2010-08-09|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
@@ -144,6 +144,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 74.135.197.38|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|10796|74.135.128.0/17|US|arin|2006-04-07|TWC-10796-MIDWEST, US
 74.44.202.242|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7011|74.44.200.0/21|US|arin|2006-01-27|FRONTIER-AND-CITIZENS, US
 75.118.114.96|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12083|75.118.112.0/21|US|arin|2006-11-02|WOW-INTERNET, US
+76.104.188.154|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
 76.105.126.49|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
 76.119.115.115|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
 76.168.168.99|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|20001|76.168.0.0/13|US|arin|2006-07-26|TWC-20001-PACWEST, US
@@ -156,7 +157,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.137.67.138|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
 79.202.185.20|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.225.158.55|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-79.233.100.231|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.108.64.53|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6830|80.108.0.0/16|AT|ripencc|2001-07-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 80.135.56.128|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.138.252.26|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
