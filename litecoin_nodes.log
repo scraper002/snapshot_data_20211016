@@ -585,6 +585,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2400:4050:ae81:bc00:145e:1ba9:5c25:e040|9333|/LitecoinCore:0.17.1/|4713|2400:4000::/22|JP|apnic|2005-08-15|OCN NTT Communications Corporation, JP
 2400:8901::f03c:91ff:fe92:4ea0|33666|/CypherfunkCore:0.15.2/|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2400:dd01:102d:37:3943:a0e7:358b:1c63|9333|/LitecoinCore:0.18.1/|7497|2400:dd01:102d::/48|CN|apnic|2011-05-23|CSTNET-AS-AP Computer Network Information Center, CN
+2401:4900:544e:61e2:5c97:ca27:a704:4d2c|9333|/LitecoinCore:0.17.1/|45609|2401:4900:5440::/44|IN|apnic|2011-06-23|BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service, IN
 2402:1f00:8001:71d::|9333|/LitecoinCore:0.16.3/|16276|2402:1f00:8000::/40|HK|apnic|2011-10-04|OVH, FR
 2402:1f00:8100:181::|9333|/LitecoinCore:0.16.3/|16276|2402:1f00:8100::/40|HK|apnic|2011-10-04|OVH, FR
 2402:1f00:8101:970::|9333|/LitecoinCore:0.16.3/|16276|2402:1f00:8100::/40|HK|apnic|2011-10-04|OVH, FR
@@ -615,7 +616,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2603:300c:130a:8c00:5c01:3d13:eee6:92eb|9333|/LitecoinCore:0.18.1/|7922|2603:3000::/24|US|arin|2015-05-13|COMCAST-7922, US
 2603:301f:2502:fa00:453a:cdb9:91be:e0cc|9333|/LitecoinCore:0.18.1/|7922|2603:3000::/24|US|arin|2015-05-13|COMCAST-7922, US
 2603:3026:100:f800::6936|9333|/LitecoinCore:0.18.1/|7922|2603:3000::/24|US|arin|2015-05-13|COMCAST-7922, US
-2603:6010:5647:dc79::a1b|9333|/LitecoinCore:0.18.1/|10796|2603:6010::/28|US|arin|2016-12-02|TWC-10796-MIDWEST, US
 2603:8001:5000:2b3a:5054:ff:fe1b:2913|9333|/LitecoinCore:0.17.1/|20001|2603:8000::/28|US|arin|2017-03-20|TWC-20001-PACWEST, US
 2603:8080:a609:593:4878:9070:9487:d704|9333|/LitecoinCore:0.18.1/|11427|2603:8080::/28|US|arin|2017-03-20|TWC-11427-TEXAS, US
 2604:2dc0:100:12be::|9333|/LitecoinCore:0.18.1/|16276|2604:2dc0::/32|US|arin|2017-04-03|OVH, FR
@@ -1228,7 +1228,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.214.35.11|9333|/LitecoinCore:0.18.1/|209805|88.214.32.0/22|RU|ripencc|2018-11-20|SBCLOUD, RU
 88.214.57.143|9333|/LitecoinCore:0.17.1/|30823|88.214.57.0/24|DE|ripencc|2018-11-20|COMBAHTON combahton GmbH, DE
 88.214.57.95|9333|/LitecoinCore:0.17.1/|30823|88.214.57.0/24|DE|ripencc|2018-11-20|COMBAHTON combahton GmbH, DE
-88.71.248.255|9333|/LitecoinCore:0.17.1/|3209|88.64.0.0/12|DE|ripencc|2005-08-15|VODANET International IP-Backbone of Vodafone, DE
+88.70.133.121|9333|/LitecoinCore:0.17.1/|3209|88.64.0.0/12|DE|ripencc|2005-08-15|VODANET International IP-Backbone of Vodafone, DE
 88.80.187.187|9331|/Node:0.8.7.2/|63949|88.80.184.0/21|US|ripencc|2005-11-30|LINODE-AP Linode, LLC, US
 88.90.127.251|9333|/LitecoinCore:0.18.1/|2119|88.88.0.0/13|NO|ripencc|2005-11-25|TELENOR-NEXTEL Telenor Norge AS, NO
 88.98.88.158|9333|/LitecoinCore:0.15.1(BollockstoBrexit)/|13037|88.98.64.0/19|GB|ripencc|2005-08-03|ZEN-AS Zen Internet - UK, GB
