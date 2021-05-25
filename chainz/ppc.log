@@ -53,7 +53,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.9.145.156|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.63.112|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 178.114.225.39|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|8437|178.114.0.0/16|AT|ripencc|2010-01-12|UTA-AS, AT
-178.235.102.110|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|29314|178.235.0.0/17|PL|ripencc|2010-05-11|VECTRANET-AS Al. Zwyciestwa 253, 81-525 Gdynia, Poland, PL
 178.33.239.210|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|178.32.0.0/15|FR|ripencc|2010-01-19|OVH, FR
 178.49.167.228|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|31200|178.49.128.0/17|RU|ripencc|2009-12-28|NTK IPv6 customers, RU
 183.225.235.163|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|9808|183.225.128.0/17|CN|apnic|2009-11-08|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
@@ -122,6 +121,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.62.221.168|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|12430|47.62.0.0/16|US|arin|2012-05-15|VODAFONE_ES, ES
 49.161.215.21|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|17858|49.160.0.0/13|KR|apnic|2010-12-01|POWERVIS-AS-KR LG POWERCOMM, KR
 49.87.245.254|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|4134|49.64.0.0/11|CN|apnic|2010-11-15|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+5.128.87.126|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|31200|5.128.0.0/16|RU|ripencc|2012-06-29|NTK IPv6 customers, RU
 51.210.216.77|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.210.220.135|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.77.67.209|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|51.77.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -189,12 +189,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.19.25.38|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
 85.249.168.145|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
 86.146.0.178|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
+86.42.1.25|/PeercoinJ:0.13.1/Peercoin Wallet:3.2/|60012|5466|86.40.0.0/13|IE|ripencc|2005-03-31|EIRCOM Internet House, IE
 86.83.229.71|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 87.173.56.85|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 88.99.235.240|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.182.88.194|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|13045|89.182.0.0/16|DE|ripencc|2006-04-06|HTP-AS, DE
 90.146.210.230|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|12605|90.146.128.0/17|AT|ripencc|2006-11-23|LIWEST-AT Linz, Austria, AT
 90.146.219.79|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12605|90.146.128.0/17|AT|ripencc|2006-11-23|LIWEST-AT Linz, Austria, AT
+91.125.255.18|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|6871|91.125.0.0/16|GB|ripencc|2006-10-09|PLUSNET UK Internet Service Provider, GB
 91.150.178.190|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|42673|91.150.160.0/19|PL|ripencc|2007-01-12|SKYWARE-AS, PL
 91.152.120.76|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
 91.158.81.173|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
