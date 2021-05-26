@@ -13,6 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 124.120.192.74|/Satoshi:2.1.8/|70005|17552|124.120.192.0/18|TH|apnic|2006-02-16|TRUEONLINE-AS-AP True Online, TH
 134.215.155.136|/Satoshi:2.1.8/|70005|4181|134.215.144.0/20|US|arin|1989-07-25|TDS-AS, US
 139.162.244.34|/Satoshi:2.1.8/|70005|63949|139.162.224.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
+140.182.30.246|/Satoshi:2.1.8/|70005|87|140.182.0.0/19|US|arin|1990-05-16|INDIANA-AS, US
 141.134.107.189|/Satoshi:2.1.8/|70005|6848|141.134.0.0/17|BE|ripencc|2011-06-20|TELENET-AS, BE
 143.244.63.38|/Satoshi:2.1.8/|70005|60068|143.244.62.0/23|GB|ripencc|1990-10-26|CDN77 (^_^)/, GB
 144.48.37.28|/Satoshi:2.1.8/|70005|136557|144.48.37.0/24|IN|apnic|2016-04-07|HOST-AS-AP Host Universal Pty Ltd, AU
@@ -36,7 +37,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.118.183.73|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
 178.142.19.129|/Satoshi:2.1.8/|70005|9145|178.142.0.0/16|DE|ripencc|2010-05-03|EWETEL Cloppenburger Strasse 310, DE
 178.197.249.22|/Satoshi:2.1.8/|70005|3303|178.196.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom (Switzerland) Ltd, CH
-178.25.126.34|/Satoshi:2.1.8/|70005|3209|178.24.0.0/14|DE|ripencc|2010-02-17|VODANET International IP-Backbone of Vodafone, DE
 184.100.196.142|/Satoshi:2.1.8/|70005|209|184.100.0.0/16|US|arin|2010-04-06|CENTURYLINK-US-LEGACY-QWEST, US
 184.94.190.79|/Satoshi:2.1.8/|70005|25914|184.94.176.0/20|CA|arin|2011-05-02|QCC-AS, CA
 185.38.178.255|/Satoshi:2.1.8/|70005|62161|185.38.178.0/24|HR|ripencc|2013-10-24|PRO-PING, HR
@@ -54,6 +54,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.146.82.84|/Satoshi:2.1.8/|70005|25369|217.146.80.0/20|GB|ripencc|2004-04-21|BANDWIDTH-AS, GB
 217.62.25.201|/Satoshi:2.1.8/|70005|33915|217.62.0.0/17|NL|ripencc|2000-11-23|TNF-AS, NL
 24.117.130.196|/Satoshi:2.1.8/|70005|11492|24.117.130.0/24|US|arin|1996-09-25|CABLEONE, US
+27.33.188.81|/Satoshi:2.1.8/|70005|7545|27.33.188.0/24|AU|apnic|2010-03-18|TPG-INTERNET-AP TPG Telecom Limited, AU
 31.150.106.7|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
 31.150.120.238|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
 31.150.140.87|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
@@ -62,6 +63,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.131.193.104|/Satoshi:2.1.8/|70005|27589|45.131.193.0/24|NL|ripencc|2019-07-22|MOJOHOST, US
 45.143.236.238|/Satoshi:2.1.8/|70005|51579|45.143.236.0/23|RU|ripencc|2019-08-21|CORP-PARTNER-AS, RU
 45.158.172.249|/Satoshi:2.1.8/|70005|20810|45.158.172.0/22|DE|ripencc|2019-09-30|NETCOM-KASSEL Netcom Kassel, DE
+46.39.227.91|/Satoshi:2.1.8/|70005|29124|46.39.224.0/19|RU|ripencc|2010-12-28|ISKRATELECOM-AS SEVEN-SKY, RU
 46.5.255.98|/Satoshi:2.1.8/|70005|3209|46.5.128.0/17|DE|ripencc|2010-09-02|VODANET International IP-Backbone of Vodafone, DE
 46.55.167.50|/Satoshi:2.1.8/|70005|51582|46.55.128.0/18|BG|ripencc|2010-10-01|DCC-, BG
 47.151.251.27|/Satoshi:2.1.8/|70005|5650|47.144.0.0/13|US|arin|2015-08-28|FRONTIER-FRTR, US
@@ -93,7 +95,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.233.243.136|/Satoshi:2.1.8/|70005|12322|78.224.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
 78.48.32.202|/Satoshi:2.1.8/|70005|6805|78.48.0.0/13|DE|ripencc|2007-02-28|TDDE-ASN1, DE
 79.220.51.184|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-79.253.129.206|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.101.228.8|/Satoshi:2.1.8/|70005|3265|80.100.0.0/15|NL|ripencc|2001-07-16|XS4ALL-NL Amsterdam, NL
 80.131.126.87|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.144.46.52|/Satoshi:2.1.8/|70005|3320|80.144.0.0/13|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
@@ -102,13 +103,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.155.217.164|/Satoshi:2.1.8/|70005|2856|81.128.0.0/11|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
 81.198.250.187|/Satoshi:2.1.8/|70005|12578|81.198.0.0/16|LV|ripencc|2002-10-02|APOLLO-AS Latvia, LV
 81.245.37.69|/Satoshi:2.1.8/|70005|5432|81.244.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
-81.246.220.222|/Satoshi:2.1.8/|70005|5432|81.244.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
 81.82.220.83|/Satoshi:2.1.8/|70005|6848|81.82.0.0/15|BE|ripencc|2002-04-29|TELENET-AS, BE
 81.82.222.38|/Satoshi:2.1.8/|70005|6848|81.82.0.0/15|BE|ripencc|2002-04-29|TELENET-AS, BE
 82.64.79.4|/Satoshi:2.1.8/|70005|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.75.4.159|/Satoshi:2.1.8/|70005|33915|82.74.0.0/15|NL|ripencc|2003-07-04|TNF-AS, NL
 82.95.149.103|/Satoshi:2.1.8/|70005|3265|82.92.0.0/14|NL|ripencc|2003-11-25|XS4ALL-NL Amsterdam, NL
-83.58.32.111|/Satoshi:2.1.8/|70005|3352|83.58.0.0/16|ES|ripencc|2004-10-07|TELEFONICA_DE_ESPANA, ES
 83.79.3.180|/Satoshi:2.1.8/|70005|3303|83.79.0.0/16|CH|ripencc|2003-12-10|SWISSCOM Swisscom (Switzerland) Ltd, CH
 83.99.27.39|/Satoshi:2.1.8/|70005|6661|83.99.0.0/17|LU|ripencc|2004-01-20|EPT-LU Entreprise des P. et T. Luxembourg, LU
 83.99.83.115|/Satoshi:2.1.8/|70005|6661|83.99.0.0/17|LU|ripencc|2004-01-20|EPT-LU Entreprise des P. et T. Luxembourg, LU
@@ -157,7 +156,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.230.106.201|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.34.159.217|/Satoshi:2.1.8/|70005|12874|93.34.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
 94.110.135.218|/Satoshi:2.1.8/|70005|47377|94.110.128.0/19|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
-94.208.209.243|/Satoshi:2.1.8/|70005|33915|94.208.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
+94.31.84.16|/Satoshi:2.1.8/|70005|60294|94.31.64.0/18|DE|ripencc|2010-02-03|DE-DGW Deutsche Glasfaser Wholesale Internet, DE
 95.168.173.30|/Satoshi:2.1.8/|70005|60781|95.168.160.0/20|NL|ripencc|2009-01-06|LEASEWEB-NL-AMS-01 Netherlands, NL
 95.217.78.80|/Satoshi:2.1.8/|70005|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.223.75.250|/Satoshi:2.1.8/|70005|3209|95.223.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
