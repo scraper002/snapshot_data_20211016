@@ -46,6 +46,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 189.180.52.254|/Satoshi:2.1.8/|70005|8151|189.180.48.0/21|MX|lacnic|2006-05-12|Uninet S.A. de C.V., MX
 190.110.178.230|/Satoshi:2.1.8/|70005|52300|190.110.178.0/24|AR|lacnic|2010-12-02|Internet Local, AR
 190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
+193.121.184.189|/Satoshi:2.1.8/|70005|5432|193.121.0.0/16|BE|ripencc|1996-05-08|PROXIMUS-ISP-AS, BE
 193.80.97.219|/Satoshi:2.1.8/|70005|1901|193.80.0.0/15|AT|ripencc|1993-09-01|EUNETAT-AS A1 Telekom Austria AG, AT
 203.173.24.106|/Satoshi:2.1.8/|70005|7545|203.173.16.0/20|AU|apnic|2000-02-01|TPG-INTERNET-AP TPG Telecom Limited, AU
 212.102.45.121|/Satoshi:2.1.8/|70005|60068|212.102.44.0/23|GB|ripencc|1999-06-10|CDN77 (^_^)/, GB
@@ -56,12 +57,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.62.25.201|/Satoshi:2.1.8/|70005|33915|217.62.0.0/17|NL|ripencc|2000-11-23|TNF-AS, NL
 24.117.130.196|/Satoshi:2.1.8/|70005|11492|24.117.130.0/24|US|arin|1996-09-25|CABLEONE, US
 31.150.106.7|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
+31.150.120.238|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
 31.150.140.87|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
 31.46.242.209|/Satoshi:2.1.8/|70005|5483|31.46.0.0/16|HU|ripencc|2011-03-21|MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Nyrt., HU
 37.201.116.82|/Satoshi:2.1.8/|70005|3209|37.201.0.0/17|DE|ripencc|2012-03-22|VODANET International IP-Backbone of Vodafone, DE
 45.143.236.238|/Satoshi:2.1.8/|70005|51579|45.143.236.0/23|RU|ripencc|2019-08-21|CORP-PARTNER-AS, RU
 45.158.172.249|/Satoshi:2.1.8/|70005|20810|45.158.172.0/22|DE|ripencc|2019-09-30|NETCOM-KASSEL Netcom Kassel, DE
+46.5.255.98|/Satoshi:2.1.8/|70005|3209|46.5.128.0/17|DE|ripencc|2010-09-02|VODANET International IP-Backbone of Vodafone, DE
 46.55.167.50|/Satoshi:2.1.8/|70005|51582|46.55.128.0/18|BG|ripencc|2010-10-01|DCC-, BG
+47.151.251.27|/Satoshi:2.1.8/|70005|5650|47.144.0.0/13|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.157.9.170|/Satoshi:2.1.8/|70005|5650|47.157.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
 58.178.231.177|/Satoshi:2.1.8/|70005|9443|58.178.0.0/16|AU|apnic|2005-06-15|VOCUS-RETAIL-AU Vocus Retail, AU
 58.6.171.56|/Satoshi:2.1.8/|70005|7545|58.6.168.0/21|AU|apnic|2006-03-02|TPG-INTERNET-AP TPG Telecom Limited, AU
@@ -118,6 +122,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.121.186.94|/Satoshi:2.1.8/|70005|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
 86.154.156.35|/Satoshi:2.1.8/|70005|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.81.26.241|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
+86.84.93.20|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 87.123.48.172|/Satoshi:2.1.8/|70005|8881|87.123.48.0/20|DE|ripencc|2005-07-27|VERSATEL, DE
 87.164.34.103|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.191.135.113|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
@@ -142,7 +147,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.206.16.214|/Satoshi:2.1.8/|70005|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 91.219.215.103|/Satoshi:2.1.8/|70005|9009|91.219.215.0/24|RO|ripencc|2010-10-25|M247, GB
 91.42.50.125|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
-91.67.39.68|/Satoshi:2.1.8/|70005|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
 91.7.101.126|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.74.186.166|/Satoshi:2.1.8/|70005|15802|91.74.160.0/19|AE|ripencc|2006-08-15|DU-AS1, AE
 92.200.81.231|/Satoshi:2.1.8/|70005|20676|92.200.0.0/15|DE|ripencc|2007-10-17|PLUSNET *****************, DE
