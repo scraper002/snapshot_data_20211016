@@ -7,6 +7,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.86.96.87|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4812|101.80.0.0/13|CN|apnic|2011-01-03|CHINANET-SH-AP China Telecom (Group), CN
 104.207.134.60|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|20473|104.207.132.0/22|US|arin|2014-10-01|AS-CHOOPA, US
 106.68.112.138|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7545|106.68.96.0/19|AU|apnic|2011-04-04|TPG-INTERNET-AP TPG Telecom Limited, AU
+109.197.205.4|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16345|109.197.205.0/24|RU|ripencc|2010-03-10|BEE-AS Russia, RU
 109.80.194.146|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|5610|109.80.0.0/15|CZ|ripencc|2009-07-10|O2-CZECH-REPUBLIC, CZ
 110.143.130.252|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1221|110.143.0.0/16|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 110.33.40.254|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4804|110.33.0.0/17|AU|apnic|2009-02-24|MPX-AS Microplex PTY LTD, AU
@@ -24,7 +25,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 134.209.127.31|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|14061|134.209.112.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
 138.197.141.227|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|14061|138.197.128.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
 139.47.6.149|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|15704|139.47.0.0/17|ES|ripencc|1990-06-19|AS15704, ES
-141.138.45.132|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|13046|141.138.40.0/21|HR|ripencc|2011-06-29|ASN-ISKON HEP, HR
 141.98.255.143|/ppcoin-seeder:0.1.0/|70015|39351|141.98.255.0/24|SE|ripencc|2019-01-16|ESAB-AS, SE
 144.91.77.184|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51167|144.91.76.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 149.56.155.28|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
@@ -90,7 +90,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.129.26.247|/Satoshi:0.8.6/Peercoin:0.7.1/|70002|12876|212.129.0.0/18|FR|ripencc|1999-03-15|Online SAS, FR
 212.35.185.12|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12389|212.35.184.0/23|RU|ripencc|2011-02-14|ROSTELECOM-AS, RU
 212.85.236.29|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|198144|212.85.236.0/23|ES|ripencc|2000-05-19|RONDA, ES
-213.16.244.93|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1241|213.16.192.0/18|GR|ripencc|2000-08-14|FORTHNET-GR Forthnet, EU
 213.65.216.250|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3301|213.64.0.0/14|SE|ripencc|1999-11-12|TELIANET-SWEDEN Telia Company, SE
 216.209.158.207|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|577|216.209.0.0/16|CA|arin|1999-03-12|BACOM, CA
 217.82.249.236|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
@@ -111,12 +110,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.10.145.51|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6830|31.10.128.0/18|CH|ripencc|2011-04-14|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 31.13.195.74|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|34224|31.13.195.0/24|BG|ripencc|2011-04-19|NETERRA-AS, BG
 37.172.107.229|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
+37.173.47.35|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 37.19.213.108|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|212238|37.19.212.0/23|GB|ripencc|2011-12-21|CDNEXT, GB
 37.5.251.63|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3209|37.4.0.0/15|DE|ripencc|2011-12-09|VODANET International IP-Backbone of Vodafone, DE
 45.187.85.64|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|269589|45.187.84.0/23|BR|lacnic|2019-11-25|MECONECTE COM, BR
 45.76.241.62|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|20473|45.76.240.0/21|US|arin|2015-04-24|AS-CHOOPA, US
 45.78.129.145|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|11698|45.78.128.0/20|US|arin|2015-05-26|WIATEL, US
-45.95.147.215|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|49870|45.95.147.0/24|NL|ripencc|2019-07-10|AS49870-BV, NL
+45.95.147.215|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|49870|45.95.147.0/24|NL|ripencc|2019-07-10|AS49870-BV, NL
 46.127.160.4|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6830|46.127.0.0/16|CH|ripencc|2010-06-01|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 46.147.92.93|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|42116|46.147.92.0/22|RU|ripencc|2010-10-13|ERTH-NCHLN-AS, RU
 46.166.139.111|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|43350|46.166.136.0/21|NL|ripencc|2010-12-16|NFORCE, NL
@@ -150,6 +150,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.235.243.115|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|7922|71.224.0.0/12|US|arin|2005-04-15|COMCAST-7922, US
 72.66.6.160|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|701|72.66.0.0/17|US|arin|2005-06-24|UUNET, US
 72.78.73.161|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|701|72.78.0.0/16|US|arin|2005-06-24|UUNET, US
+73.125.135.103|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.142.139.2|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.152.233.100|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.33.119.117|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
@@ -195,7 +196,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.152.120.76|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
 91.158.81.173|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
 91.44.95.230|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
-91.64.55.146|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
 92.201.93.124|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|20676|92.200.0.0/15|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 93.41.236.48|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12874|93.41.0.0/16|IT|ripencc|2008-02-25|FASTWEB, IT
 93.46.126.34|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12874|93.46.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
