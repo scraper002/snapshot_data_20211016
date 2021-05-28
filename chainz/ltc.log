@@ -28,6 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 133.123.5.68|/LitecoinCore:0.18.1/|70015|7522|133.123.0.0/16|JP|apnic|1997-03-01|STCN STNet, Incorporated, JP
 134.175.52.189|/btc-seeder:0.0001/|70013|45090|134.175.48.0/20|CN|apnic|1989-06-28|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 134.209.192.211|/CounosXCore:0.17.2/|70015|14061|134.209.192.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
+139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 142.176.10.61|/NBitcoin:5.0.49/|70012|855|142.176.10.0/24|CA|arin|1992-08-26|CANET-ASN-4, CA
@@ -113,7 +114,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 31.10.134.19|/LitecoinCore:0.18.1/|70015|6830|31.10.128.0/18|CH|ripencc|2011-04-14|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 31.17.255.231|/LitecoinCore:0.18.1/|70015|3209|31.16.0.0/14|DE|ripencc|2011-03-24|VODANET International IP-Backbone of Vodafone, DE
-31.171.152.244|/BitcoinKit:0.1.0/|70015|197706|31.171.152.0/21|AL|ripencc|2011-04-01|KEMINET, AL
 31.18.135.56|/BitcoinKit:0.1.0/|70015|3209|31.16.0.0/14|DE|ripencc|2011-03-24|VODANET International IP-Backbone of Vodafone, DE
 31.60.98.237|/Satoshi:0.8.5.1/|70002|5617|31.60.0.0/14|PL|ripencc|2011-02-25|TPNET, PL
 37.48.40.44|/WalletKit:0.1.0/|70015|13036|37.48.0.0/18|CZ|ripencc|2012-01-23|TMOBILE-, CZ
@@ -130,7 +130,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.91.74.132|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 47.91.77.232|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 5.102.239.95|/LitecoinCore:0.16.3/|70015|47956|5.102.224.0/20|IL|ripencc|2012-06-27|XFONE, IL
-5.138.39.121|/loaf-android:175/|70015|12389|5.138.32.0/19|RU|ripencc|2012-07-03|ROSTELECOM-AS, RU
 5.165.147.83|/LitecoinCore:0.18.1/|70015|57026|5.165.144.0/22|RU|ripencc|2012-07-25|CHEB-AS, RU
 5.34.183.6|/Satoshi:0.18.1/|70012|15626|5.34.182.0/23|UA|ripencc|2012-05-11|ITLAS, UA
 5.9.227.230|/CounosXCore:0.17.2/|70015|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
@@ -164,7 +163,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.168.206.11|/FutureBit-ApolloCore:0.17.1/|70015|209|75.168.0.0/16|US|arin|2006-10-24|CENTURYLINK-US-LEGACY-QWEST, US
 76.14.26.177|/BitcoinKit:0.1.0/|70015|11404|76.14.0.0/17|US|arin|2007-05-02|AS-WAVE-1, US
 76.91.25.143|/FutureBit-ApolloCore:0.17.1/|70015|20001|76.90.0.0/15|US|arin|2006-12-22|TWC-20001-PACWEST, US
-78.63.5.14|/LitecoinCore:0.18.1/|70015|8764|78.63.4.0/22|LT|ripencc|2007-03-21|TELIA-LIETUVA, LT
 8.46.116.185|/LitecoinCore:0.18.1/|70015|13335|8.46.116.0/24|US|arin|1992-12-01|CLOUDFLARENET, US
 80.56.198.183|/loaf-android:175/|70015|33915|80.56.0.0/16|NL|ripencc|2001-05-16|TNF-AS, NL
 81.172.101.133|/LitecoinCore:0.18.1/|70015|12430|81.172.0.0/17|ES|ripencc|2003-01-14|VODAFONE_ES, ES
@@ -176,6 +174,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.174.202.101|/LitecoinCore:0.18.1/|70015|12389|85.174.192.0/19|RU|ripencc|2004-12-22|ROSTELECOM-AS, RU
 86.106.143.10|/LitecoinCore:0.18.1/|70015|9009|86.106.143.0/24|RO|ripencc|2005-04-18|M247, GB
 86.127.169.240|/NBitcoin:5.0.49/|70012|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
+88.127.176.169|/LitecoinCore:0.17.1/|70015|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
 88.99.150.139|/LitecoinCore:0.16.3/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.69.120.231|/LitecoinCore:0.16.0/|70015|6830|89.64.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 89.72.4.244|/NBitcoin:5.0.49/|70012|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
