@@ -33,6 +33,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.3.162.199|/LitecoinCore:0.17.1/|70015|55990|119.3.160.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+124.120.213.179|/loaf-android:175/|70015|17552|124.120.192.0/18|TH|apnic|2006-02-16|TRUEONLINE-AS-AP True Online, TH
 125.67.76.147|/LitecoinCore:0.18.1/|70015|4134|125.64.0.0/13|CN|apnic|2005-08-22|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 125.67.76.147|/LitecoinCore:0.18.1/|70208|4134|125.64.0.0/13|CN|apnic|2005-08-22|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
@@ -104,7 +105,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 187.120.158.87|/NBitcoin:5.0.49/|70012|262272|187.120.158.0/23|BR|lacnic|2010-02-18|FIT Telecom Eireli, BR
 187.254.150.50|/NBitcoin:5.0.49/|70012|28523|187.254.144.0/20|MX|lacnic|2013-02-22|Cablevision Red, S.A de C.V., MX
 188.131.162.86|/btc-seeder:0.0001/|70013|45090|188.131.160.0/20|CN|apnic|2009-04-14|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
-188.18.232.192|/loaf-android:175/|70015|12389|188.18.224.0/20|RU|ripencc|2009-02-03|ROSTELECOM-AS, RU
 188.208.121.81|/loaf-android:175/|70015|8926|188.208.121.0/24|MD|ripencc|2009-05-08|MOLDTELECOM-AS Moldtelecom Autonomous System, MD
 188.26.85.198|/NBitcoin:5.0.49/|70012|8708|188.26.0.0/17|RO|ripencc|2009-02-11|RCS-RDS 73-75 Dr. Staicovici, RO
 188.75.254.84|/LitecoinCore:0.16.3/|70015|48212|188.75.224.0/19|RU|ripencc|2009-08-25|MKS-CHITA-AS, RU
@@ -131,7 +131,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.42.197.231|/LitecoinCore:0.18.1/|70208|12083|24.42.192.0/19|US|arin|2008-07-14|WOW-INTERNET, US
 24.49.247.66|/LitecoinCore:0.18.1/|70015|11290|24.49.224.0/19|CA|arin|2008-10-31|CC-3272, CA
 24.49.247.66|/LitecoinCore:0.18.1/|70208|11290|24.49.224.0/19|CA|arin|2008-10-31|CC-3272, CA
-24.94.180.21|/loaf:2.1/|70015|11427|24.94.160.0/19|US|arin|1997-05-02|TWC-11427-TEXAS, US
 27.33.247.94|/LitecoinCore:0.15.1/|70015|7545|27.33.247.0/24|AU|apnic|2010-03-18|TPG-INTERNET-AP TPG Telecom Limited, AU
 27.46.18.40|/LitecoinCore:0.18.1/|70015|17623|27.46.16.0/22|CN|apnic|2010-03-23|CNCGROUP-SZ China Unicom Shenzen network, CN
 27.46.18.40|/LitecoinCore:0.18.1/|70208|17623|27.46.16.0/22|CN|apnic|2010-03-23|CNCGROUP-SZ China Unicom Shenzen network, CN
@@ -195,7 +194,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 69.16.200.173|/LitecoinCore:0.18.1/|70208|32244|69.16.192.0/18|US|arin|2005-05-26|LIQUIDWEB, US
 71.193.217.80|/LitecoinCore:0.18.1/|70015|7922|71.192.0.0/12|US|arin|2005-07-27|COMCAST-7922, US
 71.193.217.80|/LitecoinCore:0.18.1/|70208|7922|71.192.0.0/12|US|arin|2005-07-27|COMCAST-7922, US
-71.237.88.25|/WalletKit:0.1.0/|70015|7922|71.224.0.0/12|US|arin|2005-04-15|COMCAST-7922, US
 71.93.238.85|/loaf:2.1/|70015|20115|71.93.224.0/20|US|arin|2005-05-19|CHARTER-20115, US
 73.190.156.30|/BitcoinKit:0.1.0/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.225.8.164|/LitecoinCore:0.18.1/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
@@ -234,6 +232,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.187.168.72|/LitecoinCore:0.18.1/|70208|60068|89.187.168.0/24|CZ|ripencc|2006-04-28|CDN77 (^_^)/, GB
 89.47.167.149|/LitecoinCore:0.16.3/|70015|62282|89.47.160.0/21|LT|ripencc|2005-11-29|RACKRAY UAB Rakrejus, LT
 91.228.146.143|/LitecoinCore:0.17.1/|70015|28907|91.228.146.0/23|UA|ripencc|2011-05-31|MIROHOST Web hosting, datacenter and domain names registration in Ukraine, UA
+92.114.234.123|/LitecoinCore:0.18.1/|70015|8926|92.114.192.0/18|MD|ripencc|2007-10-15|MOLDTELECOM-AS Moldtelecom Autonomous System, MD
+92.114.234.123|/LitecoinCore:0.18.1/|70208|8926|92.114.192.0/18|MD|ripencc|2007-10-15|MOLDTELECOM-AS Moldtelecom Autonomous System, MD
 92.131.68.15|/NBitcoin:5.0.49/|70012|3215|92.131.0.0/17|FR|ripencc|2007-07-12|France Telecom - Orange, FR
 92.38.138.120|/LitecoinCore:0.16.0/|70015|199524|92.38.138.0/24|LU|ripencc|2008-02-08|GCORE, LU
 93.70.40.134|/NBitcoin:5.0.49/|70012|30722|93.70.0.0/16|IT|ripencc|2008-03-17|VODAFONE-IT-ASN, IT
@@ -248,4 +248,3 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 99.107.186.212|/Satoshi:0.8.6.2/|70002|7018|99.106.0.0/15|US|arin|2008-02-25|ATT-INTERNET4, US
 99.137.208.220|/LitecoinCore:0.18.1/|70015|7018|99.136.0.0/14|US|arin|2007-08-29|ATT-INTERNET4, US
 99.137.208.220|/LitecoinCore:0.18.1/|70208|7018|99.136.0.0/14|US|arin|2007-08-29|ATT-INTERNET4, US
-99.235.141.182|/loaf:2.1/|70015|812|99.235.128.0/18|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
