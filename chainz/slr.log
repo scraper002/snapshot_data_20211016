@@ -22,6 +22,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 166.172.63.153|/Satoshi:2.1.8/|70005|20057|166.172.60.0/22|US|arin|1993-07-09|ATT-MOBILITY-LLC-AS20057, US
 171.100.11.218|/Satoshi:2.1.8/|70005|7470|171.100.11.0/24|TH|apnic|2011-03-07|TRUEINTERNET-AS-AP TRUE INTERNET Co.,Ltd., TH
 172.58.188.74|/Satoshi:2.1.8/|70005|21928|172.58.184.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
+173.33.249.44|/Satoshi:2.1.8/|70005|812|173.32.0.0/14|CA|arin|2008-08-06|ROGERS-COMMUNICATIONS, CA
 174.52.57.101|/Satoshi:2.1.8/|70005|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
 176.120.237.55|/Satoshi:2.1.8/|70005|42892|176.120.237.0/24|RU|ripencc|2012-06-25|LOFIS-AS, RU
 176.147.154.88|/Satoshi:2.1.8/|70005|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
@@ -31,7 +32,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.116.196.136|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
 178.117.115.177|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
 178.118.183.73|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
-178.142.19.97|/Satoshi:2.1.8/|70005|9145|178.142.0.0/16|DE|ripencc|2010-05-03|EWETEL Cloppenburger Strasse 310, DE
 178.25.126.34|/Satoshi:2.1.8/|70005|3209|178.24.0.0/14|DE|ripencc|2010-02-17|VODANET International IP-Backbone of Vodafone, DE
 178.51.109.38|/Satoshi:2.1.8/|70005|47377|178.50.0.0/15|BE|ripencc|2010-07-21|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
 178.51.93.84|/Satoshi:2.1.8/|70005|47377|178.50.0.0/15|BE|ripencc|2010-07-21|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
@@ -93,7 +93,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.207.82.107|/Satoshi:2.1.8/|70005|1136|81.204.0.0/14|NL|ripencc|2002-10-16|KPN KPN National, NL
 81.246.220.222|/Satoshi:2.1.8/|70005|5432|81.244.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
 81.83.177.177|/Satoshi:2.1.8/|70005|6848|81.82.0.0/15|BE|ripencc|2002-04-29|TELENET-AS, BE
-82.119.88.211|/Satoshi:2.1.8/|70005|197184|82.119.88.0/23|BG|ripencc|2004-02-16|ORBITAL-AS, BG
 82.142.90.162|/Satoshi:2.1.8/|70005|16019|82.142.64.0/18|CZ|ripencc|2003-09-05|VODAFONE-CZ-AS, CZ
 82.64.79.4|/Satoshi:2.1.8/|70005|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.95.149.103|/Satoshi:2.1.8/|70005|3265|82.92.0.0/14|NL|ripencc|2003-11-25|XS4ALL-NL Amsterdam, NL
@@ -126,6 +125,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.198.92.47|/Satoshi:2.1.8/|70005|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 89.22.253.58|/Satoshi:2.1.8/|70005|57093|89.22.240.0/20|UA|ripencc|2011-07-15|ASYALTA, UA
 90.35.123.58|/Satoshi:2.1.8/|70005|3215|90.35.0.0/17|FR|ripencc|2006-03-02|France Telecom - Orange, FR
+90.35.126.173|/Satoshi:2.1.8/|70005|3215|90.35.0.0/17|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.16.34.50|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.170.103.34|/Satoshi:2.1.8/|70005|12322|91.160.0.0/12|FR|ripencc|2006-08-25|PROXAD, FR
 91.178.91.154|/Satoshi:2.1.8/|70005|5432|91.176.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
@@ -138,7 +138,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.230.103.75|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.232.2.165|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.232.30.102|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-93.236.252.96|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.37.135.7|/Satoshi:2.1.8/|70005|12874|93.37.128.0/17|IT|ripencc|2008-02-25|FASTWEB, IT
 94.110.135.218|/Satoshi:2.1.8/|70005|47377|94.110.128.0/19|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
 94.208.209.243|/Satoshi:2.1.8/|70005|33915|94.208.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
