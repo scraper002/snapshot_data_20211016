@@ -4,7 +4,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 100.4.220.245|/LitecoinCore:0.18.1/|70015|701|100.4.128.0/17|US|arin|2010-12-28|UUNET, US
 101.224.224.227|/Satoshi:0.13.2/|70015|4812|101.224.0.0/13|CN|apnic|2011-01-03|CHINANET-SH-AP China Telecom (Group), CN
 101.86.139.46|/LitecoinCore:0.14.2/|70015|4812|101.80.0.0/13|CN|apnic|2011-01-03|CHINANET-SH-AP China Telecom (Group), CN
-104.131.161.171|/litecoin-seeder:0.01/|70002|14061|104.131.160.0/20|US|arin|2014-06-02|DIGITALOCEAN-ASN, US
 104.236.57.24|/Node:0.8.7.2/|70002|14061|104.236.0.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
 105.112.186.151|/loaf-android:175/|70015|36873|105.112.186.0/24|NG|afrinic|2013-09-20|VNL1-AS, NG
 107.179.248.116|/NBitcoin:5.0.49/|70012|5645|107.179.240.0/20|CA|arin|2014-01-30|TEKSAVVY, CA
@@ -19,6 +18,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.100.88.170|/Satoshi:0.8.6.2/|70002|4134|114.96.0.0/13|CN|apnic|2008-05-16|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 116.14.180.88|/BitcoinKit:0.1.0/|70015|9506|116.14.128.0/17|SG|apnic|2007-03-27|SINGTEL-FIBRE Singtel Fibre Broadband, SG
 118.121.8.65|/LitecoinCore:0.16.3/|70015|4134|118.120.0.0/14|CN|apnic|2007-09-12|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.18.1.30|/LitecoinCore:0.18.1/|70015|4764|119.18.0.0/23|AU|apnic|2007-12-06|WIDEBAND-AS-AP Aussie Broadband, AU
 119.3.162.199|/LitecoinCore:0.17.1/|70015|55990|119.3.160.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
@@ -181,11 +181,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.172.101.133|/LitecoinCore:0.18.1/|70015|12430|81.172.0.0/17|ES|ripencc|2003-01-14|VODAFONE_ES, ES
 81.229.164.27|/LitecoinCore:0.18.1/|70015|3301|81.224.0.0/12|SE|ripencc|2002-10-04|TELIANET-SWEDEN Telia Company, SE
 82.144.161.188|/litecoinj:0.15.2-SNAPSHOT/|70002|12301|82.144.160.0/22|HU|ripencc|2003-06-04|INVITECH, HU
+82.42.87.59|/BitcoinKit:0.1.0/|70015|5089|82.42.0.0/16|GB|ripencc|2003-01-31|NTL, GB
 82.69.52.140|/LitecoinCore:0.18.1/|70015|13037|82.68.0.0/14|GB|ripencc|2003-04-28|ZEN-AS Zen Internet - UK, GB
 82.8.13.133|/LitecoinCore:0.18.1/|70015|5089|82.8.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 83.169.216.50|/BitcoinKit:0.1.0/|70015|31224|83.169.216.0/24|RU|ripencc|2004-04-20|MF-UGSM-AS, RU
 84.122.90.19|/litecoinj:0.15.2-SNAPSHOT/|70002|6739|84.122.0.0/16|ES|ripencc|2004-04-15|ONO-AS Cableuropa - ONO, ES
 85.140.40.66|/LitecoinCore:0.17.1/|70015|39811|85.140.40.0/22|RU|ripencc|2004-12-13|MTSNET-FAR-EAST-AS An Autonomous System for the Far East divisions, RU
+85.140.5.33|/BitcoinKit:0.1.0/|70015|8359|85.140.0.0/21|RU|ripencc|2004-12-13|MTS, RU
 86.106.143.10|/LitecoinCore:0.18.1/|70015|9009|86.106.143.0/24|RO|ripencc|2005-04-18|M247, GB
 88.127.176.169|/LitecoinCore:0.17.1/|70015|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
 88.130.63.115|/LitecoinCore:0.18.1/|70015|8881|88.130.63.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
