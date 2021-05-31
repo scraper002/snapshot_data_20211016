@@ -25,6 +25,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 134.101.35.47|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12693|134.101.32.0/19|DE|ripencc|1989-05-22|EDISCOM Am Kanal 4a, 14467 Potsdam, DE
 134.209.127.31|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|14061|134.209.112.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
 135.181.164.189|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
+141.98.255.143|/ppcoin-seeder:0.1.0/|70015|39351|141.98.255.0/24|SE|ripencc|2019-01-16|ESAB-AS, SE
 143.244.37.63|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|60068|143.244.36.0/22|GB|ripencc|1990-10-26|CDN77 (^_^)/, GB
 144.91.77.184|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51167|144.91.76.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 149.56.155.28|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
@@ -72,7 +73,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 191.96.106.248|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|174|191.96.106.0/24|CL|lacnic|2013-10-24|COGENT-174, US
 192.222.229.98|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1403|192.222.224.0/19|CA|arin|2012-12-20|EBOX, CA
 194.165.230.33|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|12501|194.165.224.0/19|SE|ripencc|1996-02-09|NORRNOD ITS, SE
-194.219.228.100|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1241|194.219.128.0/17|GR|ripencc|1995-12-20|FORTHNET-GR Forthnet, EU
 195.133.30.59|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|60840|195.133.30.0/24|CZ|ripencc|1997-04-15|TELECOMSERVICEVRN, RU
 195.138.71.80|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|6876|195.138.64.0/19|UA|ripencc|1997-02-25|TENET-AS, UA
 195.154.184.48|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|12876|195.154.0.0/16|FR|ripencc|1996-08-27|Online SAS, FR
@@ -153,7 +153,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.75.36.104|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|42926|77.75.36.0/24|TR|ripencc|2007-05-03|RADORE, TR
 78.132.143.220|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|13056|78.132.128.0/17|RU|ripencc|2007-06-05|RT-TMB-AS Tambov branch, RU
 78.46.18.218|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
-79.135.192.31|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|44078|79.135.192.0/19|UA|ripencc|2007-11-14|ICN-AS, UA
+79.135.192.31|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|44078|79.135.192.0/19|UA|ripencc|2007-11-14|ICN-AS, UA
 79.137.67.138|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
 79.247.237.147|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.104.76.16|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3269|80.104.64.0/19|IT|ripencc|2001-07-17|ASN-IBSNAZ, IT
@@ -188,6 +188,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.17.243.252|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12709|94.17.224.0/19|MT|ripencc|2008-06-20|MELITACABLE, MT
 94.31.85.67|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|60294|94.31.64.0/18|DE|ripencc|2010-02-03|DE-DGW Deutsche Glasfaser Wholesale Internet, DE
 95.165.24.200|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|25513|95.165.0.0/16|RU|ripencc|2009-01-27|ASN-MGTS-USPD, RU
+95.172.232.116|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|5413|95.172.232.0/22|GB|ripencc|2009-03-03|AS5413, GB
 95.217.39.81|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.27.46.47|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|8402|95.26.0.0/15|RU|ripencc|2008-10-10|CORBINA-AS OJSC _Vimpelcom_, RU
 95.65.35.43|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|31252|95.65.0.0/17|MD|ripencc|2008-10-28|STARNET-AS, MD
