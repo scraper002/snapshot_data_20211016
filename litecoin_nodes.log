@@ -111,7 +111,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.112.124|9333|/LitecoinCore:0.17.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.136.95|9333|/LitecoinCore:0.18.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.178.210|9333|/LitecoinCore:0.18.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
-135.181.211.44|9333|/LitecoinCore:0.18.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.41.17|9333|/LitecoinCore:0.13.2(bitcore)/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.94.218|9333|/LitecoinCore:0.18.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 136.144.230.61|9333|/LitecoinCore:0.13.2(bitcore)/|20857|136.144.192.0/18|NL|ripencc|1989-08-29|TRANSIP-AS Amsterdam, the Netherlands, NL
@@ -498,6 +497,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:bc8:47a4:1119::1|9532|/LitecoinCore:0.18.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:634:1917::1|9333|/LitecoinCore:0.18.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:f40:908:2cdf:a933:9d18:93f5:be0|9333|/LitecoinCore:0.18.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
+2002:3add:3ce1::3add:3ce1|11804|/WorldcoinFoundation:0.10.4/|6939|2002::/16||other||HURRICANE, US
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|6939|2002::/16||other||HURRICANE, US
 2002:52ca:fafa::52ca:fafa|9333|/LitecoinCore:0.18.1/|6939|2002::/16||other||HURRICANE, US
 2002:88f3:2a9c::88f3:2a9c|9333|/LitecoinCore:0.18.1/|6939|2002::/16||other||HURRICANE, US
@@ -638,7 +638,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:5600:5ab:c001:ca15:300:b1c:1337|9333|/LitecoinCore:0.17.1/|31863|2607:5600::/32|US|arin|2011-03-01|DACEN-2, US
 2607:f1c0:1800:11::1|1337|/DefcoinCore:1.0.0/|8560|2607:f1c0::/32|US|arin|2007-10-18|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2607:f2c0:100:200:1::2e8|9333|/LitecoinCore:0.18.1/|5645|2607:f2c0::/32|CA|arin|2008-01-17|TEKSAVVY, CA
-2607:fea8:bd1f:5220::bc9d|9333|/LitecoinCore:0.18.1/|812|2607:fea8::/32|CA|arin|2009-11-12|ROGERS-COMMUNICATIONS, CA
 27.254.47.16|9333|/LitecoinCore:0.18.1/|9891|27.254.40.0/21|TH|apnic|2010-03-16|CSLOX-IDC-AS-AP CS LOXINFO Public Company Limited., TH
 2804:14c:bbad:403b:2586:959d:28ba:cbfc|9333|/LitecoinCore:0.18.1/|28573|2804:14c:bbad::/48|BR|lacnic|2012-02-10|CLARO S.A., BR
 2806:103e:27:184f:8851:c190:13c9:8f67|9333|/LitecoinCore:0.17.1/|8151|2806:103e:27::/48|MX|lacnic|2011-03-01|Uninet S.A. de C.V., MX
@@ -1069,6 +1068,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 64.4.160.13|9333|/LitecoinCore:0.18.1/|55293|64.4.160.0/22|US|arin|2020-08-20|A2HOSTING, US
 64.44.162.2|9333|/LitecoinCore:0.18.1/|20278|64.44.160.0/20|US|arin|2017-02-21|NEXEON, US
 65.27.174.32|9333|/FutureBit-ApolloCore:0.17.1/|10796|65.27.128.0/17|US|arin|2000-08-22|TWC-10796-MIDWEST, US
+65.35.192.46|9333|/LitecoinCore:0.18.1/|33363|65.35.0.0/16|US|arin|2000-08-22|BHN-33363, US
 66.151.242.154|10333|/LitecoinCore:0.16.3/|63018|66.151.242.0/24|US|arin|2001-07-13|DEDICATED, US
 66.215.201.222|9333|/FutureBit-ApolloCore:0.17.1/|20115|66.215.192.0/18|US|arin|2001-12-31|CHARTER-20115, US
 66.220.122.95|9333|/LitecoinCore:0.18.1/|4181|66.220.112.0/20|US|arin|2002-01-23|TDS-AS, US

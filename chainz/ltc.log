@@ -17,7 +17,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.43.88.105|/LitecoinCore:0.18.1/|70015|9808|112.43.0.0/16|CN|apnic|2008-12-15|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 113.65.206.164|/LitecoinCore:0.14.2/|70015|4134|113.64.0.0/11|CN|apnic|2008-11-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 114.37.118.106|/LitecoinCore:0.18.1/|70015|3462|114.37.0.0/16|TW|apnic|2008-04-18|HINET Data Communication Business Group, TW
-116.203.57.65|/LitecoinCore:0.18.1/|70015|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.117.122.230|/LitecoinCore:0.18.1/|70015|4134|118.112.0.0/13|CN|apnic|2007-09-12|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
@@ -61,6 +60,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 165.227.143.37|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|165.227.128.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 165.227.144.131|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|165.227.144.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
+170.254.98.11|/NBitcoin:5.0.49/|70012|265102|170.254.96.0/22|BR|lacnic|2016-07-19|ARNET- Servicos de Conexao a Internet Ltda.-ME, BR
 172.104.227.211|/litecoinj:0.15.2-SNAPSHOT/|70002|63949|172.104.224.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
 172.242.146.223|/NBitcoin:5.0.49/|70012|7155|172.242.146.0/24|US|arin|2013-04-11|VIASAT-SP-BACKBONE, US
 172.3.253.190|/LitecoinCore:0.18.1/|70015|7018|172.0.0.0/12|US|arin|2012-08-20|ATT-INTERNET4, US
@@ -107,6 +107,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 197.214.118.130|/DigitaleuroCore:0.16.3/|70015|37276|197.214.118.0/24|ZA|afrinic|2012-11-28|VOFFICE, ZA
 201.17.124.81|/NBitcoin:5.0.49/|70012|28573|201.17.0.0/17|BR|lacnic|2004-07-26|CLARO S.A., BR
 201.71.42.65|/NBitcoin:5.0.49/|70012|262785|201.71.42.0/24|BR|lacnic|2013-02-06|Click Tecnologia e Telecomunicacao Ltda, BR
+201.9.247.79|/loaf-android:175/|70015|7738|201.9.192.0/18|BR|lacnic|2004-06-04|Telemar Norte Leste S.A., BR
 202.126.90.58|/loaf-android:175/|70015|55805|202.126.90.0/24|MN|apnic|2006-09-06|MOBICOM-AS-MN MobiCom Corporation, MN
 203.160.69.99|/WalletKit:0.1.0/|70015|10099|203.160.64.0/19|HK|apnic|2000-06-01|UNICOM-GLOBAL China Unicom Global, HK
 204.138.190.19|/litecoinj:0.15.2-SNAPSHOT/|70002|394968|204.138.190.0/24|US|arin|2021-02-16|QTS-CHI, US
@@ -137,7 +138,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.114.32.230|/BitcoinKit:0.1.0/|70015|6805|46.114.0.0/15|DE|ripencc|2010-05-11|TDDE-ASN1, DE
 46.166.44.152|/loaf-android:175/|70015|25454|46.166.44.0/22|MD|ripencc|2010-12-14|ASN-OMD-FNO Orange Moldova Fixed Network Autonomous System, MD
 46.172.78.242|/loaf-android:175/|70015|43110|46.172.78.0/24|UA|ripencc|2010-12-06|ROSTNET-AS Kharkov, Ukraine, UA
-46.211.51.202|???|0|15895|46.211.0.0/16|UA|ripencc|2010-12-17|KSNET-AS, UA
 46.4.121.221|/LitecoinCore:0.18.1/|70015|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 47.107.160.41|/CounosXCore:0.17.2/|70015|37963|47.107.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.72.189.206|/BitcoinKit:0.1.0/|70015|9500|47.72.0.0/16|US|arin|2012-05-15|VODAFONE-TRANSIT-AS Vodafone NZ Ltd., NZ
@@ -148,6 +148,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.91.77.232|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 49.230.216.124|???|0|131445|49.230.216.0/22|TH|apnic|2010-11-25|AIS3G-2100-AS-AP Advance Wireless Network, TH
 5.102.238.195|/LitecoinCore:0.16.3/|70015|47956|5.102.224.0/20|IL|ripencc|2012-06-27|XFONE, IL
+5.14.150.49|/BitcoinKit:0.1.0/|70015|8708|5.12.0.0/14|RO|ripencc|2012-04-27|RCS-RDS 73-75 Dr. Staicovici, RO
 5.165.147.83|/LitecoinCore:0.18.1/|70015|57026|5.165.144.0/22|RU|ripencc|2012-07-25|CHEB-AS, RU
 5.188.158.207|/LitecoinCore:0.16.3/|70015|49505|5.188.158.0/24|RU|ripencc|2012-08-09|SELECTEL, RU
 5.34.183.6|/Satoshi:0.18.1/|70012|15626|5.34.182.0/23|UA|ripencc|2012-05-11|ITLAS, UA
@@ -182,9 +183,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.96.50.254|/BitcoinKit:0.1.0/|70015|22773|68.96.48.0/20|US|arin|2002-02-04|ASN-CXA-ALL-CCI-22773-RDC, US
 69.16.200.173|/LitecoinCore:0.18.1/|70015|32244|69.16.192.0/18|US|arin|2005-05-26|LIQUIDWEB, US
 70.52.229.250|/BitcoinKit:0.1.0/|70015|577|70.52.0.0/16|CA|arin|2004-05-10|BACOM, CA
-71.114.80.129|/LitecoinCore:0.18.1/|70015|701|71.114.64.0/19|US|arin|2005-01-18|UUNET, US
 73.152.233.100|/LitecoinCore:0.18.1/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
-75.172.105.92|/LitecoinCore:0.18.1/|70015|209|75.172.0.0/16|US|arin|2006-10-24|CENTURYLINK-US-LEGACY-QWEST, US
 76.14.26.177|/BitcoinKit:0.1.0/|70015|11404|76.14.0.0/17|US|arin|2007-05-02|AS-WAVE-1, US
 77.204.246.8|/BitcoinKit:0.1.0/|70015|15557|77.192.0.0/12|FR|ripencc|2006-11-30|LDCOMNET, FR
 79.113.255.98|/NBitcoin:5.0.49/|70012|8708|79.112.0.0/14|RO|ripencc|2007-05-29|RCS-RDS 73-75 Dr. Staicovici, RO
@@ -197,6 +196,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.140.19.149|/loaf-android:175/|70015|8359|85.140.16.0/21|RU|ripencc|2004-12-13|MTS, RU
 85.140.40.66|/LitecoinCore:0.17.1/|70015|39811|85.140.40.0/22|RU|ripencc|2004-12-13|MTSNET-FAR-EAST-AS An Autonomous System for the Far East divisions, RU
 85.203.22.89|/loaf-android:175/|70015|13213|85.203.22.0/24|NL|ripencc|2005-01-12|UK2NET-AS, GB
+85.51.18.75|/LitecoinCore:0.18.1/|70015|12479|85.51.18.0/24|ES|ripencc|2004-09-07|UNI2-AS, ES
 87.123.207.71|/LitecoinCore:0.18.1/|70015|8881|87.123.207.0/24|DE|ripencc|2005-07-27|VERSATEL, DE
 88.102.240.162|/LitecoinCore:0.18.1/|70015|5610|88.102.0.0/16|CZ|ripencc|2005-10-04|O2-CZECH-REPUBLIC, CZ
 88.156.133.32|/NBitcoin:5.0.49/|70012|29314|88.156.132.0/23|PL|ripencc|2006-01-19|VECTRANET-AS Al. Zwyciestwa 253, 81-525 Gdynia, Poland, PL
