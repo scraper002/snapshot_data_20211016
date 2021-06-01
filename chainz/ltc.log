@@ -28,6 +28,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 111.65.58.199|/BitcoinKit:0.1.0/|70015|45143|111.65.58.0/24|SG|apnic|2009-05-26|SINGTELMOBILE-AS-AP SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore, SG
 112.43.88.105|/LitecoinCore:0.18.1/|70015|9808|112.43.0.0/16|CN|apnic|2008-12-15|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 112.43.88.105|/LitecoinCore:0.18.1/|70208|9808|112.43.0.0/16|CN|apnic|2008-12-15|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
+116.148.19.16|/LitecoinCore:0.18.1/|70015|4837|116.148.0.0/16|CN|apnic|2007-05-11|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+116.148.19.16|/LitecoinCore:0.18.1/|70208|4837|116.148.0.0/16|CN|apnic|2007-05-11|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 116.7.45.65|/Satoshi:0.13.2/|70015|4134|116.4.0.0/14|CN|apnic|2007-03-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 118.121.8.58|/LitecoinCore:0.16.3/|70015|4134|118.120.0.0/14|CN|apnic|2007-09-12|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
@@ -52,8 +54,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.93.229.149|/litetroll.net:1.0/|70015|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
 146.185.139.235|/ltc_node_scanner:0.0.1/|70015|14061|146.185.128.0/19|US|ripencc|2011-07-13|DIGITALOCEAN-ASN, US
 149.248.53.93|/DigitaleuroCore:0.16.3/|70015|20473|149.248.48.0/20|US|arin|2018-07-03|AS-CHOOPA, US
-154.21.28.28|/LitecoinCore:0.18.1/|70015|174|154.21.0.0/16|US|arin|1992-02-05|COGENT-174, US
-154.21.28.28|/LitecoinCore:0.18.1/|70208|174|154.21.0.0/16|US|arin|1992-02-05|COGENT-174, US
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|157.230.112.0/20|US|arin|2018-08-22|DIGITALOCEAN-ASN, US
 157.230.30.126|/LitecoinCore:0.18.1/|70015|14061|157.230.16.0/20|US|arin|2018-08-22|DIGITALOCEAN-ASN, US
 157.230.30.126|/LitecoinCore:0.18.1/|70208|14061|157.230.16.0/20|US|arin|2018-08-22|DIGITALOCEAN-ASN, US
@@ -101,7 +101,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.220.101.215|/BitcoinKit:0.1.0/|70015|208294|185.220.101.0/24|DE|ripencc|2017-09-12|RELAYON, US
 185.244.217.172|/LitecoinCore:0.18.1/|70015|204601|185.244.217.0/24|NL|ripencc|2018-02-05|ON-LINE-DATA Server location - Netherlands, Dronten, NL
 185.244.217.172|/LitecoinCore:0.18.1/|70208|204601|185.244.217.0/24|NL|ripencc|2018-02-05|ON-LINE-DATA Server location - Netherlands, Dronten, NL
-187.120.156.9|/NBitcoin:5.0.49/|70012|262272|187.120.156.0/23|BR|lacnic|2010-02-18|FIT Telecom Eireli, BR
 187.254.151.218|/NBitcoin:5.0.49/|70012|28523|187.254.144.0/20|MX|lacnic|2013-02-22|Cablevision Red, S.A de C.V., MX
 187.63.11.229|/NBitcoin:5.0.49/|70012|28658|187.63.8.0/21|BR|lacnic|2009-06-01|Gigalink de Nova Friburgo Solucoes em Rede Multimi, BR
 188.138.177.102|/loaf-android:175/|70015|31252|188.138.128.0/17|MD|ripencc|2011-01-07|STARNET-AS, MD
@@ -118,7 +117,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.86.109.126|/NBitcoin:5.0.49/|70012|14754|190.86.64.0/18|SV|lacnic|2006-10-23|Telgua, GT
 193.106.49.240|/loaf-android:175/|70015|50251|193.106.49.0/24|KG|ripencc|2009-12-07|NURTELECOM-AS2, KG
 195.201.104.49|/LitecoinCore:0.17.1/|70015|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
-195.201.216.71|/loaf-android:175/|70015|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
+195.64.208.214|/LitecoinCore:0.18.1/|70015|5563|195.64.208.0/21|RU|ripencc|1997-03-24|URAL Ural Regional Net, RU
+195.64.208.214|/LitecoinCore:0.18.1/|70208|5563|195.64.208.0/21|RU|ripencc|1997-03-24|URAL Ural Regional Net, RU
 197.214.118.130|/DigitaleuroCore:0.16.3/|70015|37276|197.214.118.0/24|ZA|afrinic|2012-11-28|VOFFICE, ZA
 200.82.240.135|/LitecoinCore:0.18.1/|70015|21826|200.82.240.0/23|VE|lacnic|2004-08-23|Corporacion Telemic C.A., VE
 200.82.240.135|/LitecoinCore:0.18.1/|70208|21826|200.82.240.0/23|VE|lacnic|2004-08-23|Corporacion Telemic C.A., VE
@@ -247,6 +247,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.40.84.242|/LitecoinCore:0.18.1/|70208|34471|89.40.84.0/23|ES|ripencc|2005-11-29|EXCOM-AS, ES
 89.47.167.149|/LitecoinCore:0.16.3/|70015|62282|89.47.160.0/21|LT|ripencc|2005-11-29|RACKRAY UAB Rakrejus, LT
 89.72.4.244|/NBitcoin:5.0.49/|70012|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
+90.237.58.8|/Satoshi:0.8.5.1/|70002|3301|90.224.0.0/12|SE|ripencc|2006-05-30|TELIANET-SWEDEN Telia Company, SE
 92.238.122.131|/NBitcoin:5.0.49/|70012|5089|92.238.0.0/15|GB|ripencc|2007-10-31|NTL, GB
 92.39.213.29|/LitecoinCore:0.16.3/|70015|39001|92.39.212.0/23|RU|ripencc|2008-03-05|MTS, RU
 92.80.250.111|/loaf-android:175/|70015|9050|92.80.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
