@@ -1478,7 +1478,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.220.166.119|9999|/Dash Core:0.15.0/|19318|162.220.160.0/21|US|arin|2013-08-28|IS-AS-1, US
 162.243.12.174|9999|/Dash Core:0.16.1.1/|14061|162.243.0.0/17|US|arin|2013-09-06|DIGITALOCEAN-ASN, US
 162.243.136.143|9999|/Dash Core:0.15.0/|14061|162.243.128.0/19|US|arin|2013-09-06|DIGITALOCEAN-ASN, US
-162.243.136.18|9999|/Dash Core:0.15.0/|14061|162.243.128.0/19|US|arin|2013-09-06|DIGITALOCEAN-ASN, US
+162.243.136.18|9999|/Dash Core:0.15.0/
 162.243.136.66|9999|/Dash Core:0.15.0/|14061|162.243.128.0/19|US|arin|2013-09-06|DIGITALOCEAN-ASN, US
 162.243.205.212|9999|/Dash Core:0.16.1.1/|14061|162.243.192.0/18|US|arin|2013-09-06|DIGITALOCEAN-ASN, US
 162.243.219.25|9999|/Dash Core:0.16.1.1/|14061|162.243.192.0/18|US|arin|2013-09-06|DIGITALOCEAN-ASN, US
@@ -4578,6 +4578,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.110.197.29|9999|/Dash Core:0.15.0/|37963|47.110.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.110.197.5|9999|/Dash Core:0.15.0/|37963|47.110.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.110.199.2|9999|/Dash Core:0.15.0/|37963|47.110.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+47.110.199.254|9999|/Dash Core:0.17.0.2/|37963|47.110.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.110.199.4|9999|/Dash Core:0.15.0/|37963|47.110.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.110.4.109|9999|/Dash Core:0.15.0/|37963|47.110.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.112.215.23|9999|/Dash Core:0.14.0/|37963|47.112.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -4608,14 +4609,12 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.94.39.157|9999|/Dash Core:0.14.0.1/|37963|47.94.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.94.44.131|9999|/Dash Core:0.14.0.2/|37963|47.94.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.95.144.87|9999|/Dash Core:0.14.0.1/|37963|47.94.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-47.96.222.176|9999|/Dash Core:0.17.0.2/|37963|47.96.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.96.53.47|9999|/Dash Core:0.15.0/|37963|47.96.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.96.84.255|9999|/Dash Core:0.16.1.1/|37963|47.96.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.98.246.79|9999|/Dash Core:0.15.0/|37963|47.98.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.98.250.19|9999|/Dash Core:0.15.0/|37963|47.98.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.98.66.94|9999|/Dash Core:0.15.0/|37963|47.98.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.98.66.95|9999|/Dash Core:0.17.0.2/|37963|47.98.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-47.98.66.96|9999|/Dash Core:0.17.0.2/|37963|47.98.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.99.225.59|9999|/Dash Core:0.15.0/|37963|47.98.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.99.229.213|9999|/Dash Core:0.15.0/|37963|47.98.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 49.12.108.95|9999|/Dash Core:0.17.0.2/|24940|49.12.0.0/16|DE|ripencc|2010-10-21|HETZNER-AS, DE
@@ -5127,6 +5126,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.141.209.212|9999|/Dash Core:0.17.0.2/|20473|78.141.208.0/20|US|ripencc|2007-07-30|AS-CHOOPA, US
 78.141.209.213|9999|/Dash Core:0.16.0.1/|20473|78.141.208.0/20|US|ripencc|2007-07-30|AS-CHOOPA, US
 78.141.211.224|9999|/Dash Core:0.15.0/|20473|78.141.208.0/20|US|ripencc|2007-07-30|AS-CHOOPA, US
+78.141.212.17|9999|/Dash Core:0.17.0.2/|20473|78.141.208.0/20|US|ripencc|2007-07-30|AS-CHOOPA, US
 78.141.212.97|9999|/Dash Core:0.17.0.2/|20473|78.141.208.0/20|US|ripencc|2007-07-30|AS-CHOOPA, US
 78.141.214.209|9999|/Dash Core:0.14.0.5/|20473|78.141.208.0/20|US|ripencc|2007-07-30|AS-CHOOPA, US
 78.141.218.33|9999|/Dash Core:0.16.0.1/|20473|78.141.208.0/20|US|ripencc|2007-07-30|AS-CHOOPA, US
@@ -5180,6 +5180,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 8.129.10.99|9999|/Dash Core:0.17.0.2/|37963|8.129.0.0/17|SG|apnic|1992-12-01|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.131.254.82|9999|/Dash Core:0.16.1.1/|37963|8.131.0.0/16|SG|apnic|1992-12-01|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.136.240.152|9999|/Dash Core:0.17.0.2/|37963|8.136.128.0/17|SG|apnic|1992-12-01|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+8.136.251.60|9999|/Dash Core:0.17.0.2/|37963|8.136.128.0/17|SG|apnic|1992-12-01|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.210.202.121|9999|/Dash Core:0.14.0.3/|45102|8.210.128.0/17|SG|apnic|1992-12-01|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 8.9.36.84|9999|/Dash Core:0.16.1.1/|20473|8.9.36.0/23|US|arin|1992-12-01|AS-CHOOPA, US
 80.100.30.50|9999|/Dash Core:0.17.0.2/|3265|80.100.0.0/15|NL|ripencc|2001-07-16|XS4ALL-NL Amsterdam, NL
@@ -5582,7 +5583,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.209.241.167|9999|/Dash Core:0.15.0/|205581|85.209.241.0/24|PL|ripencc|2019-03-01|CVD, PL
 85.209.241.168|9999|/Dash Core:0.15.0/|205581|85.209.241.0/24|PL|ripencc|2019-03-01|CVD, PL
 85.209.241.169|9999|/Dash Core:0.15.0/|205581|85.209.241.0/24|PL|ripencc|2019-03-01|CVD, PL
-85.209.241.17|9999|/Dash Core:0.17.0.2/|205581|85.209.241.0/24|PL|ripencc|2019-03-01|CVD, PL
 85.209.241.170|9999|/Dash Core:0.17.0.2/|205581|85.209.241.0/24|PL|ripencc|2019-03-01|CVD, PL
 85.209.241.171|9999|/Dash Core:0.15.0/|205581|85.209.241.0/24|PL|ripencc|2019-03-01|CVD, PL
 85.209.241.172|9999|/Dash Core:0.15.0/|205581|85.209.241.0/24|PL|ripencc|2019-03-01|CVD, PL
@@ -5828,7 +5828,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.25.249.93|9999|/Dash Core:0.16.1.1/|8972|85.25.248.0/21|DE|ripencc|2005-12-05|GD-EMEA-DC-SXB1, DE
 85.255.1.65|9999|/Dash Core:0.17.0.2/|24806|85.255.0.0/20|PL|ripencc|2005-02-17|INTERNET-CZ Ktis 2, 384 03 Ktis, CZ
 85.93.91.154|9999|/Dash Core:0.14.0.5(bitcore)/|8972|85.93.91.0/24|DE|ripencc|2004-12-08|GD-EMEA-DC-SXB1, DE
-86.190.52.236|9999|/Dash Core:0.16.1.1/|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 87.106.126.146|9999|/Dash Core:0.15.0/|8560|87.106.0.0/16|DE|ripencc|2005-08-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 88.119.171.76|9999|/Dash Core:0.16.1/|61272|88.119.171.0/24|LT|ripencc|2005-10-24|IST-AS, LT
 88.198.105.134|9999|/Dash Core:0.16.0.1/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
