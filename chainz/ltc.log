@@ -1,7 +1,6 @@
 # https://chainz.cryptoid.info/ and whois results
 # Litecoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-103.242.21.224|/loaf-android:175/|70015|24432|103.242.21.0/24|BD|apnic|2013-09-11|AXIATA-ROBI-AS-AP TM International Bangladesh Ltd.Internet service Provider,Gulshan-1,Dhaka-1212, BD
 104.236.57.24|/Node:0.8.7.2/|70002|14061|104.236.0.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
 104.236.65.178|/DefcoinCore:1.0.0/|70015|14061|104.236.64.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
 106.68.179.5|/BitcoinKit:0.1.0/|70015|7545|106.68.176.0/21|AU|apnic|2011-04-04|TPG-INTERNET-AP TPG Telecom Limited, AU
@@ -47,6 +46,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 157.97.69.85|/litecoinj:0.15.2-SNAPSHOT/|70002|24953|157.97.68.0/22|AT|ripencc|1995-07-13|ASN-NETPLANET AS MACRO: AS-24953 (customers), AT
 158.69.196.61|/Node:0.8.7.2/|70002|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
+161.117.190.8|/LitecoinCore:0.13.2/|70015|45102|161.117.128.0/17|SG|apnic|1992-07-09|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 161.35.53.66|/B2CCoinCore:0.16.3/|70015|14061|161.35.48.0/20|US|arin|2019-07-30|DIGITALOCEAN-ASN, US
 162.251.220.87|/LitecoinCore:0.18.1/|70015|16433|162.251.220.0/22|US|arin|2014-01-15|NCTC-ISP, US
 162.62.21.32|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
@@ -65,6 +65,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 177.124.109.171|/NBitcoin:5.0.49/|70012|271357|177.124.109.0/24|BR|lacnic|2021-03-03|fibra digital Telecom eireli, BR
 177.124.44.226|/NBitcoin:5.0.49/|70012|52599|177.124.44.0/22|BR|lacnic|2014-01-27|A Rede Telecom LTDA ME, BR
 178.19.232.2|/loaf:2.1/|70015|199284|178.19.232.0/22|DE|ripencc|2010-05-21|ENCOLINE, DE
+178.36.206.24|/LitecoinCore:0.18.1/|70015|12741|178.36.0.0/15|PL|ripencc|2010-01-28|AS-NETIA Warszawa 02-822, PL
 178.63.123.92|/CounosCashCore:0.15.1/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 178.63.47.71|/Satoshi:0.13.2/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 18.162.58.175|/LitecoinCore:0.18.1/|70015|16509|18.162.0.0/16|US|arin|2019-10-07|AMAZON-02, US
@@ -95,7 +96,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 200.75.107.14|/LitecoinCore:0.18.1/|70015|21826|200.75.104.0/22|VE|lacnic|2001-10-02|Corporacion Telemic C.A., VE
 200.82.240.135|/LitecoinCore:0.18.1/|70015|21826|200.82.240.0/23|VE|lacnic|2004-08-23|Corporacion Telemic C.A., VE
 201.0.69.226|/NBitcoin:5.0.49/|70012|27699|201.0.0.0/17|BR|lacnic|2003-08-07|TELEFONICA BRASIL S.A, BR
-201.17.123.26|/NBitcoin:5.0.49/|70012|28573|201.17.0.0/17|BR|lacnic|2004-07-26|CLARO S.A., BR
 201.49.204.13|/NBitcoin:5.0.49/|70012|28287|201.49.204.0/22|BR|lacnic|2007-05-03|FIT Telecom Eireli, BR
 202.169.119.143|/LitecoinCore:0.18.1/|70015|9310|202.169.119.0/24|AU|apnic|2010-07-09|MYREPUBLICNETS-AS-AP MYREPUBLIC PTY LTD, AU
 202.190.45.236|/LitecoinCore:0.18.1/|70015|9930|202.190.0.0/16|MY|apnic|1995-05-18|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
@@ -204,13 +204,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 90.152.146.97|/LitecoinCore:0.18.1/|70015|8562|90.152.128.0/17|AT|ripencc|2006-10-26|LICPLUS-AS, AT
 90.167.189.129|/LitecoinCore:0.18.1/|70015|12479|90.167.189.0/24|ES|ripencc|2006-09-12|UNI2-AS, ES
 92.244.238.29|/BitcoinKit:0.1.0/|70015|6856|92.244.224.0/19|RU|ripencc|2008-02-07|IC-VORONEZH-AS Informsvyaz - Chernozemye, RU
+92.62.66.130|/WalletKit:0.1.0/|70015|29061|92.62.66.0/23|KG|ripencc|2008-01-22|SAIMANET-AS Chui 121, KG
 92.85.16.253|/LitecoinCore:0.16.3/|70015|9050|92.85.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 93.106.199.126|/BitcoinKit:0.1.0/|70015|1759|93.106.0.0/16|FI|ripencc|2008-04-03|TSF-IP-CORE Telia Finland Oyj, FI
 93.125.50.127|/LitecoinCore:0.17.1/|70015|50593|93.125.50.0/24|BY|ripencc|2008-04-15|TRANSTELECOM-AS, BY
 93.177.73.38|???|0|9009|93.177.73.0/24|RO|ripencc|2018-11-22|M247, GB
 93.90.44.65|/LitecoinCore:0.18.1/|70015|12714|93.90.32.0/20|RU|ripencc|2008-04-16|TI-AS Moscow, Russia, RU
 94.140.11.78|/LitecoinCore:0.16.3/|70015|136787|94.140.11.0/24|DE|ripencc|2008-11-28|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
-94.198.43.109|/LitecoinCore:0.18.1/|70015|9009|94.198.43.0/24|RO|ripencc|2018-06-28|M247, GB
 94.198.43.71|/LitecoinCore:0.18.1/|70015|9009|94.198.43.0/24|RO|ripencc|2018-06-28|M247, GB
 94.219.81.116|/BitcoinKit:0.1.0/|70015|3209|94.216.0.0/13|DE|ripencc|2008-07-28|VODANET International IP-Backbone of Vodafone, DE
 95.179.183.86|/litecoinj:0.15.2-SNAPSHOT/|70002|20473|95.179.176.0/20|US|ripencc|2009-01-22|AS-CHOOPA, US
