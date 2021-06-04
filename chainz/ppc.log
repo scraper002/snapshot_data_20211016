@@ -31,6 +31,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.216.218|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.98.157|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 139.47.4.144|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|15704|139.47.0.0/17|ES|ripencc|1990-06-19|AS15704, ES
+143.131.14.12|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|36492|143.131.14.0/24|US|arin|2019-09-27|GOOGLEWIFI, US
 143.131.14.13|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|36492|143.131.14.0/24|US|arin|2019-09-27|GOOGLEWIFI, US
 143.176.58.239|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|13127|143.176.0.0/16|NL|ripencc|1990-10-01|T-MOBILE AS for the Trans-European T-Mobile IP Transport backbone, NL
 143.198.133.198|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|14061|143.198.128.0/20|US|arin|2020-01-24|DIGITALOCEAN-ASN, US
@@ -40,7 +41,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 147.135.97.55|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
 149.56.155.28|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 150.140.159.218|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|5408|150.140.128.0/17|GR|ripencc|1984-01-01|GR-NET http://www.grnet.gr, GR
-151.76.143.219|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1267|151.76.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 156.146.62.204|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|60068|156.146.62.0/24|GB|ripencc|1990-02-05|CDN77 (^_^)/, GB
 158.174.41.249|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|8473|158.174.0.0/16|GB|ripencc|1992-03-24|BAHNHOF http://www.bahnhof.net/, SE
 159.48.53.85|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|62240|159.48.53.0/24|DE|ripencc|1992-03-06|CLOUVIDER Clouvider - Global ASN, GB
@@ -141,6 +141,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.142.139.2|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.148.215.220|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.152.233.100|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
+73.250.253.145|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.40.50.177|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 74.44.207.151|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7011|74.44.200.0/21|US|arin|2006-01-27|FRONTIER-AND-CITIZENS, US
 76.119.115.115|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
@@ -175,7 +176,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.71.89.29|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|15557|86.64.0.0/12|FR|ripencc|2005-03-02|LDCOMNET, FR
 87.156.218.190|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 88.135.84.123|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12403|88.135.80.0/20|RU|ripencc|2009-11-23|FEONET-AS, RU
-88.166.210.68|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|12322|88.160.0.0/12|FR|ripencc|2005-10-03|PROXAD, FR
 88.99.235.240|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.187.171.229|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|60068|89.187.170.0/23|CZ|ripencc|2006-04-28|CDN77 (^_^)/, GB
 89.222.217.128|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|50668|89.222.216.0/21|RU|ripencc|2006-09-18|DIALOGK-AS, RU
