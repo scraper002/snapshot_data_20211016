@@ -16,6 +16,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 113.218.171.88|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4134|113.218.0.0/15|CN|apnic|2008-12-16|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 113.64.99.37|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4134|113.64.0.0/11|CN|apnic|2008-11-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 116.202.132.28|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
+119.3.138.218|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|55990|119.3.128.0/20|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
 120.158.10.132|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1221|120.158.0.0/16|AU|apnic|2009-04-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 121.208.198.215|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1221|121.208.0.0/12|AU|apnic|2006-06-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 121.208.203.85|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1221|121.208.0.0/12|AU|apnic|2006-06-20|ASN-TELSTRA Telstra Corporation Ltd, AU
@@ -50,7 +51,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.37.82.11|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|39608|176.37.0.0/16|UA|ripencc|2011-05-20|LANETUA-AS, UA
 178.49.167.228|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|31200|178.49.128.0/17|RU|ripencc|2009-12-28|NTK IPv6 customers, RU
 185.107.47.215|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|43350|185.107.44.0/22|NL|ripencc|2015-07-03|NFORCE, NL
-185.159.157.9|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|209103|185.159.157.0/24|CH|ripencc|2016-07-14|PROTONVPN, CH
 185.169.255.106|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|62240|185.169.255.0/24|DE|ripencc|2016-09-27|CLOUVIDER Clouvider - Global ASN, GB
 185.220.100.252|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
 185.220.100.255|/Satoshi:0.16.3/|70015|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
@@ -74,6 +74,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2.30.185.185|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|12576|2.30.0.0/16|GB|ripencc|2010-09-21|EE Ltd, GB
 206.189.90.171|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|14061|206.189.80.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
 212.186.183.194|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6830|212.186.128.0/17|AT|ripencc|1999-03-04|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
+220.176.118.92|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|4134|220.176.0.0/15|CN|apnic|2002-10-30|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 221.122.37.74|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|23724|221.122.32.0/20|CN|apnic|2003-07-07|CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN
 23.119.121.151|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7018|23.112.0.0/12|US|arin|2013-08-09|ATT-INTERNET4, US
 23.97.222.172|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|8075|23.96.0.0/14|US|arin|2013-06-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
@@ -152,7 +153,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.96.200.38|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|35470|83.96.200.0/22|NL|ripencc|2003-12-18|XL-AS, NL
 84.241.10.250|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|31549|84.241.0.0/18|IR|ripencc|2004-06-10|RASANA, IR
 85.249.170.194|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
-85.249.170.221|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
 85.249.173.15|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
 85.75.36.61|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6799|85.75.0.0/18|GR|ripencc|2006-05-17|OTENET-GR Athens - Greece, GR
 86.146.0.178|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
