@@ -17,6 +17,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 111.85.66.128|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4837|111.85.0.0/16|CN|apnic|2009-06-11|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 111.85.68.184|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4837|111.85.0.0/16|CN|apnic|2009-06-11|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 113.246.186.120|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4134|113.240.0.0/13|CN|apnic|2008-12-16|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+114.124.195.150|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|23693|114.124.192.0/18|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 114.124.195.22|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|23693|114.124.192.0/18|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 116.202.132.28|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.7.245.182|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4134|116.4.0.0/14|CN|apnic|2007-03-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
@@ -83,7 +84,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 200.233.227.99|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16735|200.233.192.0/18|BR|lacnic|2004-01-23|ALGAR TELECOM S/A, BR
 206.214.228.13|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|36492|206.214.228.0/24|US|arin|2020-12-31|GOOGLEWIFI, US
 209.141.55.26|/Satoshi:0.16.3/|70015|53667|209.141.32.0/19|US|arin|2011-01-27|PONYNET, US
-209.58.147.102|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|394380|209.58.144.0/20|US|arin|1999-04-29|LEASEWEB-USA-DAL-10, US
 211.26.153.3|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|9443|211.26.0.0/16|AU|apnic|2002-08-20|VOCUS-RETAIL-AU Vocus Retail, AU
 212.102.59.180|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|60068|212.102.58.0/23|GB|ripencc|1999-06-10|CDN77 (^_^)/, GB
 212.186.183.194|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6830|212.186.128.0/17|AT|ripencc|1999-03-04|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
@@ -164,8 +164,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.75.36.61|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6799|85.75.0.0/18|GR|ripencc|2006-05-17|OTENET-GR Athens - Greece, GR
 86.127.67.111|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
 86.151.206.96|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
+86.238.157.39|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3215|86.238.128.0/17|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 86.71.89.29|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|15557|86.64.0.0/12|FR|ripencc|2005-03-02|LDCOMNET, FR
-87.156.217.181|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.174.61.51|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 88.108.152.251|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|9105|88.108.0.0/15|GB|ripencc|2005-08-05|TISCALI-UK TalkTalk Communications Limited, GB
 88.130.61.253|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|8881|88.130.61.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
@@ -184,7 +184,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.152.120.76|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
 91.206.16.214|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 91.245.130.143|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|47914|91.245.128.0/19|RU|ripencc|2012-08-20|CREATIVEDIRECTMARKETINGSOLUTIONS, RU
-91.58.128.95|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.210.55.121|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3209|92.208.0.0/14|DE|ripencc|2007-10-17|VODANET International IP-Backbone of Vodafone, DE
 93.142.156.102|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|5391|93.142.0.0/16|HR|ripencc|2008-04-23|T-HT Croatian Telecom Inc., HR
 93.41.236.48|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12874|93.41.0.0/16|IT|ripencc|2008-02-25|FASTWEB, IT
