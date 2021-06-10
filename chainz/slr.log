@@ -22,7 +22,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 136.32.16.125|/Satoshi:2.1.8/|70005|16591|136.32.16.0/20|US|arin|2015-10-06|GOOGLE-FIBER, US
 146.0.189.144|/Satoshi:2.1.8/|70005|6661|146.0.128.0/18|LU|ripencc|2011-07-07|EPT-LU Entreprise des P. et T. Luxembourg, LU
 149.172.238.233|/Satoshi:2.1.8/|70005|3209|149.172.128.0/17|DE|ripencc|2011-08-03|VODANET International IP-Backbone of Vodafone, DE
-151.34.87.70|/Satoshi:2.1.8/|70005|1267|151.34.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 151.38.105.188|/Satoshi:2.1.8/|70005|1267|151.38.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 151.38.105.68|/Satoshi:2.1.8/|70005|1267|151.38.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 158.222.229.196|/Satoshi:2.1.8/|70005|12271|158.222.128.0/17|US|arin|2014-06-26|TWC-12271-NYC, US
@@ -65,7 +64,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.214.38.18|/Satoshi:2.1.8/|70005|6848|213.214.32.0/19|BE|ripencc|2003-03-28|TELENET-AS, BE
 216.213.139.253|/Satoshi:2.1.8/|70005|56329|216.213.128.0/18|GB|ripencc|1999-04-06|GIGACLEAR, GB
 216.232.200.114|/Satoshi:2.1.8/|70005|852|216.232.0.0/16|CA|arin|2000-01-13|TELUS Communications, CA
-217.178.19.241|/Satoshi:2.1.8/|70005|55391|217.178.0.0/18|JP|apnic|2001-03-02|MF-NATIVE6-E INTERNET MULTIFEED CO., JP
 217.235.231.186|/Satoshi:2.1.8/|70005|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.62.25.201|/Satoshi:2.1.8/|70005|33915|217.62.0.0/17|NL|ripencc|2000-11-23|TNF-AS, NL
 24.117.130.196|/Satoshi:2.1.8/|70005|11492|24.117.130.0/24|US|arin|1996-09-25|CABLEONE, US
@@ -141,6 +139,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.139.192.148|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.190.27.184|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.192.127.168|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
+84.192.254.254|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 84.199.9.234|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 84.83.197.159|/Satoshi:2.1.8/|70005|1136|84.80.0.0/13|NL|ripencc|2004-03-17|KPN KPN National, NL
 85.135.151.238|/Satoshi:2.1.8/|70005|8257|85.135.128.0/18|SK|ripencc|2004-12-16|SLOVANET-BROADBAND http://www.slovanet.net/, SK
@@ -162,6 +161,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.171.112.170|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.243.5.219|/Satoshi:2.1.8/|70005|39737|87.243.0.0/21|RO|ripencc|2010-07-08|PRIME-TELECOM-AS, RO
 88.122.110.233|/Satoshi:2.1.8/|70005|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
+88.70.113.13|/Satoshi:2.1.8/|70005|3209|88.64.0.0/12|DE|ripencc|2005-08-15|VODANET International IP-Backbone of Vodafone, DE
 89.244.81.123|/Satoshi:2.1.8/|70005|8881|89.244.80.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
 89.37.122.22|/Satoshi:2.1.8/|70005|39737|89.37.120.0/21|RO|ripencc|2005-11-29|PRIME-TELECOM-AS, RO
 90.107.152.35|/Satoshi:2.1.8/|70005|3215|90.107.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
@@ -170,6 +170,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.180.97.95|/Satoshi:2.1.8/|70005|5432|91.180.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
 91.19.120.237|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.108.14.31|/Satoshi:2.1.8/|70005|33915|92.108.0.0/15|NL|ripencc|2007-10-23|TNF-AS, NL
+92.196.201.194|/Satoshi:2.1.8/|70005|20676|92.192.0.0/13|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 92.27.71.55|/Satoshi:2.1.8/|70005|13285|92.26.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
 92.75.61.200|/Satoshi:2.1.8/|70005|3209|92.72.0.0/13|DE|ripencc|2007-07-27|VODANET International IP-Backbone of Vodafone, DE
 93.202.11.247|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE

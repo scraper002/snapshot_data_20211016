@@ -5,6 +5,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 100.14.9.2|9333|/LitecoinCore:0.18.1/|701|100.14.0.0/16|US|arin|2010-12-28|UUNET, US
 100.2.172.211|9333|/LitecoinCore:0.18.1/|701|100.2.0.0/16|US|arin|2010-12-28|UUNET, US
 100.4.220.245|9333|/LitecoinCore:0.18.1/|701|100.4.128.0/17|US|arin|2010-12-28|UUNET, US
+101.166.59.154|9333|/FutureBit-ApolloCore:0.17.1/|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 103.12.211.237|9333|/Satoshi:0.8.7.4/|132335|103.12.211.0/24|IN|apnic|2012-07-19|NETWORK-LEAPSWITCH-IN LeapSwitch Networks Pvt Ltd, IN
 103.147.12.229|11081|/WorldcoinFoundation:0.10.4/|38186|103.147.12.0/24|CN|apnic|2019-12-23|FTG-AS-AP Forewin Telecom Group Limited, ISP at, HK
 103.206.31.61|9333|/LitecoinCore:0.18.1/|45887|103.206.30.0/23|SG|apnic|2016-01-11|GPLHOST-AS-AP GPLHost LLC, AU
@@ -621,6 +622,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:5300:60:4fcb::4000|9333|/LitecoinCore:0.18.1/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
 2607:5300:60:6f79::|14334|/LitecoinCore:0.18.1/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
 2607:5300:60:980c::|28653|/LitecoinCore:0.18.1/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
+2607:5600:5ab:1337:420:4:2:0|9333|/LitecoinCore:0.17.1/|31863|2607:5600::/32|US|arin|2011-03-01|DACEN-2, US
 2607:5600:5ab:c001:ca15:300:b1c:1337|9333|/LitecoinCore:0.17.1/|31863|2607:5600::/32|US|arin|2011-03-01|DACEN-2, US
 2607:f1c0:1800:11::1|1337|/DefcoinCore:1.0.0/|8560|2607:f1c0::/32|US|arin|2007-10-18|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2607:f2c0:100:200:1::2e8|9333|/LitecoinCore:0.18.1/|5645|2607:f2c0::/32|CA|arin|2008-01-17|TEKSAVVY, CA
@@ -743,6 +745,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:7e01::f03c:92ff:fe11:8cb3|9333|/LitecoinCore:0.18.1/|63949|2a01:7e01::/32|US|ripencc|2011-02-01|LINODE-AP Linode, LLC, US
 2a01:e0a:1a6:2a00:853a:6cae:ffa2:a4be|9333|/LitecoinCore:0.18.1/|12322|2a01:e0a::/39|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:1f2:8550:39a7:8d5f:558d:7eb5|9333|/LitecoinCore:0.18.1/|12322|2a01:e0a::/39|FR|ripencc|2008-01-21|PROXAD, FR
+2a01:e0a:95c:b0d0:613b:bc05:ee5d:d3a7|9333|/LitecoinCore:0.16.3/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:a0a:c520:44b4:b268:14e3:a5d4|9333|/LitecoinCore:0.18.1/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:ec47:f7c0:20c:29ff:fe64:3e69|9333|/LitecoinCore:0.18.1/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:1206:4547:56b0:e8c3:70bc:bd46:adc2|9333|/LitecoinCore:0.18.1/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom (Switzerland) Ltd, CH
@@ -1029,7 +1032,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.171.175.90|9333|/LitecoinCore:0.18.1/|51167|62.171.174.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.190.193|9333|/LitecoinCore:0.17.1/|51167|62.171.190.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.212.83.41|9333|/Satoshi:0.13.2/|60781|62.212.64.0/19|NL|ripencc|2000-06-22|LEASEWEB-NL-AMS-01 Netherlands, NL
-62.215.127.73|9333|/LitecoinCore:0.18.1/|21050|62.215.120.0/21|KW|ripencc|2000-12-18|FAST-TELCO, KW
 62.38.110.250|9333|/LitecoinCore:0.17.1/|3329|62.38.0.0/16|GR|ripencc|2001-05-30|HOL-GR Athens, Greece, GR
 62.75.216.136|9333|/LitecoinCore:0.18.1/|8972|62.75.216.0/24|DE|ripencc|2001-07-27|GD-EMEA-DC-SXB1, DE
 63.224.227.253|9333|/LitecoinCore:0.16.3/|209|63.224.226.0/23|US|arin|1999-06-07|CENTURYLINK-US-LEGACY-QWEST, US
@@ -1091,6 +1093,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.213.113.91|9333|/LitecoinCore:0.18.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.219.89.94|9333|/LitecoinCore:0.18.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.43.98.10|9333|/LitecoinCore:0.18.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
+73.74.143.251|9333|/LitecoinCore:0.18.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 74.192.182.180|9333|/LitecoinCore:0.18.1/|19108|74.192.0.0/16|US|arin|2006-09-27|SUDDENLINK-COMMUNICATIONS, US
 74.208.18.176|1337|/DefcoinCore:1.0.0/|8560|74.208.0.0/16|US|arin|2006-11-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 75.119.157.139|9333|/LitecoinCore:0.18.1/|51167|75.119.128.0/19|DE|ripencc|2006-05-12|CONTABO, DE
@@ -1235,6 +1238,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.218.245.70|9333|/LitecoinCore:0.16.3/|50867|91.218.245.0/24|RU|ripencc|2010-08-24|HOSTKEY-RU-AS, NL
 91.228.146.143|9333|/LitecoinCore:0.17.1/|28907|91.228.146.0/23|UA|ripencc|2011-05-31|MIROHOST Web hosting, datacenter and domain names registration in Ukraine, UA
 91.232.105.180|9333|/LitecoinCore:0.16.3/|49981|91.232.105.0/24|NL|ripencc|2011-11-09|WORLDSTREAM, NL
+91.239.130.62|9333|/LitecoinCore:0.18.1/|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 91.240.142.228|9333|/LitecoinCore:0.18.1/|59461|91.240.140.0/22|RU|ripencc|2012-06-28|ASBERLAYN, UA
 92.204.40.25|9333|/LitecoinCore:0.18.1/|8972|92.204.40.0/24|DE|ripencc|2007-10-17|GD-EMEA-DC-SXB1, DE
 92.245.6.89|9333|/LitecoinCore:0.18.1/|44631|92.245.0.0/20|SK|ripencc|2008-02-08|CONDORNET, SK
