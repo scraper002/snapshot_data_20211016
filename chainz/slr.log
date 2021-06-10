@@ -18,7 +18,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.0.52.8|/Satoshi:2.1.8/|70005|54614|135.0.0.0/18|CA|arin|2012-03-19|CIKTELECOM-CABLE, CA
 136.32.16.125|/Satoshi:2.1.8/|70005|16591|136.32.16.0/20|US|arin|2015-10-06|GOOGLE-FIBER, US
 146.0.189.144|/Satoshi:2.1.8/|70005|6661|146.0.128.0/18|LU|ripencc|2011-07-07|EPT-LU Entreprise des P. et T. Luxembourg, LU
-149.172.238.233|/Satoshi:2.1.8/|70005|3209|149.172.128.0/17|DE|ripencc|2011-08-03|VODANET International IP-Backbone of Vodafone, DE
 151.34.79.10|/Satoshi:2.1.8/|70005|1267|151.34.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 151.38.105.188|/Satoshi:2.1.8/|70005|1267|151.38.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 158.222.229.196|/Satoshi:2.1.8/|70005|12271|158.222.128.0/17|US|arin|2014-06-26|TWC-12271-NYC, US
@@ -31,6 +30,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.58.188.91|/Satoshi:2.1.8/|70005|21928|172.58.184.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 173.2.195.19|/Satoshi:2.1.8/|70005|6128|173.2.0.0/15|US|arin|2008-05-12|CABLE-NET-1, US
 174.52.57.101|/Satoshi:2.1.8/|70005|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
+176.120.237.55|/Satoshi:2.1.8/|70005|42892|176.120.237.0/24|RU|ripencc|2012-06-25|LOFIS-AS, RU
 176.199.134.205|/Satoshi:2.1.8/|70005|3209|176.199.0.0/16|DE|ripencc|2011-07-18|VODANET International IP-Backbone of Vodafone, DE
 176.63.87.55|/Satoshi:2.1.8/|70005|21334|176.63.0.0/17|HU|ripencc|2011-06-08|ASN-VODAFONE-, HU
 178.117.115.177|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
@@ -77,6 +77,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.81.26.215|/Satoshi:2.1.8/|70005|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 46.85.96.199|/Satoshi:2.1.8/|70005|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 47.151.251.27|/Satoshi:2.1.8/|70005|5650|47.144.0.0/13|US|arin|2015-08-28|FRONTIER-FRTR, US
+47.157.20.54|/Satoshi:2.1.8/|70005|5650|47.157.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.157.9.170|/Satoshi:2.1.8/|70005|5650|47.157.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
 5.56.227.140|/Satoshi:2.1.8/|70005|3209|5.56.224.0/19|DE|ripencc|2012-05-31|VODANET International IP-Backbone of Vodafone, DE
 50.235.115.118|/Satoshi:2.1.8/|70005|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
@@ -135,7 +136,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.135.151.238|/Satoshi:2.1.8/|70005|8257|85.135.128.0/18|SK|ripencc|2004-12-16|SLOVANET-BROADBAND http://www.slovanet.net/, SK
 85.135.182.185|/Satoshi:2.1.8/|70005|8257|85.135.128.0/18|SK|ripencc|2004-12-16|SLOVANET-BROADBAND http://www.slovanet.net/, SK
 85.148.226.126|/Satoshi:2.1.8/|70005|5390|85.148.0.0/16|NL|ripencc|2004-10-06|EURONET, NL
-85.203.44.177|/Satoshi:2.1.8/|70005|43350|85.203.44.0/24|NL|ripencc|2005-01-12|NFORCE, NL
 85.203.44.43|/Satoshi:2.1.8/|70005|43350|85.203.44.0/24|NL|ripencc|2005-01-12|NFORCE, NL
 86.136.228.112|/Satoshi:2.1.8/|70005|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.196.219.42|/Satoshi:2.1.8/|70005|3215|86.196.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
@@ -144,7 +144,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.59.179.11|/Satoshi:2.1.8/|70005|5483|86.59.128.0/17|HU|ripencc|2012-09-10|MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Nyrt., HU
 86.60.178.2|/Satoshi:2.1.8/|70005|39699|86.60.128.0/17|FI|ripencc|2005-09-08|SSPOY-AS, FI
 86.84.135.104|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
-86.84.93.20|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 86.93.14.93|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 87.137.77.160|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.138.144.94|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
