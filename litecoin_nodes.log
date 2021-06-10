@@ -532,6 +532,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.73.150.21|9333|/LitecoinCore:0.18.1/|44901|212.73.150.0/24|CY|ripencc|2004-11-19|BELCLOUD, BG
 212.92.101.189|9333|/LitecoinCore:0.17.1/|49505|212.92.101.0/24|RU|ripencc|1999-11-03|SELECTEL, RU
 212.99.226.35|9010|/LitecoinCore:0.18.1/|29100|212.99.224.0/19|DK|ripencc|2003-04-10|BROADCOM, DK
+213.110.203.168|9333|/LitecoinCore:0.18.1/|47111|213.110.192.0/19|RU|ripencc|2009-09-14|RU-AKADO-SPB-AS Peering Ltd, RU
 213.136.92.251|9333|/LitecoinCore:0.17.1/|51167|213.136.92.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.239.196.9|9333|/LitecoinCore:0.18.1/|24940|213.239.192.0/18|DE|ripencc|2003-05-28|HETZNER-AS, DE
 213.239.201.46|9333|/LitecoinCore:0.16.3/|24940|213.239.192.0/18|DE|ripencc|2003-05-28|HETZNER-AS, DE
@@ -814,7 +815,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.246.202.14|9333|/LitecoinCore:0.18.1/|15169|35.244.0.0/14|US|arin|2017-09-29|GOOGLE, US
 37.1.204.231|8333|/LitecoinCore:0.17.1/|58061|37.1.200.0/21|GB|ripencc|2011-12-13|SCALAXY-AS, NL
 37.1.207.4|9333|/LitecoinCore:0.18.1/|58061|37.1.200.0/21|GB|ripencc|2011-12-13|SCALAXY-AS, NL
-37.112.64.77|9432|/Satoshi:0.8.6.5/|49048|37.112.64.0/22|RU|ripencc|2012-02-09|TVER-AS, RU
 37.187.128.6|9333|/LitecoinCore:0.18.1/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
 37.187.22.76|9333|/LitecoinCore:0.14.2/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
 37.187.29.104|9333|/LitecoinCore:0.18.1/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
@@ -1224,7 +1224,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.33.195.97|9333|/LitecoinCore:0.18.1/|203523|89.33.195.0/24|RO|ripencc|2005-11-29|VIRTONO-NETWORKS, RO
 89.39.104.167|9333|/LitecoinCore:0.17.1/|49981|89.39.104.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
 89.79.119.66|9333|/LitecoinCore:0.18.1/|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-90.255.53.121|9333|/Satoshi:0.8.5.1/|5378|90.252.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
 91.121.163.195|9333|/LitecoinCore:0.14.2/|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 91.121.249.167|9335|/LitecoinCore:0.17.1/|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 91.121.67.125|9333|/LitecoinCore:0.18.1/|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
@@ -1235,6 +1234,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.218.245.70|9333|/LitecoinCore:0.16.3/|50867|91.218.245.0/24|RU|ripencc|2010-08-24|HOSTKEY-RU-AS, NL
 91.228.146.143|9333|/LitecoinCore:0.17.1/|28907|91.228.146.0/23|UA|ripencc|2011-05-31|MIROHOST Web hosting, datacenter and domain names registration in Ukraine, UA
 91.232.105.180|9333|/LitecoinCore:0.16.3/|49981|91.232.105.0/24|NL|ripencc|2011-11-09|WORLDSTREAM, NL
+91.239.130.62|9333|/LitecoinCore:0.18.1/|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 91.240.142.228|9333|/LitecoinCore:0.18.1/|59461|91.240.140.0/22|RU|ripencc|2012-06-28|ASBERLAYN, UA
 92.204.40.25|9333|/LitecoinCore:0.18.1/|8972|92.204.40.0/24|DE|ripencc|2007-10-17|GD-EMEA-DC-SXB1, DE
 92.245.6.89|9333|/LitecoinCore:0.18.1/|44631|92.245.0.0/20|SK|ripencc|2008-02-08|CONDORNET, SK
@@ -1243,6 +1243,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.179.197.152|9333|/LitecoinCore:0.17.1/|31242|93.179.192.0/18|PL|ripencc|2008-04-14|TKPSA-AS, PL
 93.197.37.51|9333|/LitecoinCore:0.17.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.214.236.135|9333|/LitecoinCore:0.18.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.228.69.131|11081|/WorldcoinFoundation:0.8.7.5/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.46.80.157|9333|/LitecoinCore:0.18.1/|12874|93.46.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
 94.112.19.237|9333|/LitecoinCore:0.17.1/|16019|94.112.0.0/16|CZ|ripencc|2008-07-09|VODAFONE-CZ-AS, CZ
 94.130.179.91|9333|/LitecoinCore:0.17.1/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
