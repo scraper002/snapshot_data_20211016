@@ -46,11 +46,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 110.140.156.66|9333|/FutureBit-ApolloCore:0.17.1/|1221|110.140.0.0/15|AU|apnic|2009-04-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 111.108.29.123|9513|/Satoshi:0.8.7.2/|2516|111.108.0.0/16|JP|apnic|2009-06-12|KDDI KDDI CORPORATION, JP
 111.90.145.106|9333|/LitecoinCore:0.18.1/|45839|111.90.144.0/21|MY|apnic|2009-06-17|SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY
+112.17.178.52|9333|/LitecoinCore:0.16.1(bitcore)/|56041|112.17.128.0/18|CN|apnic|2008-12-15|CMNET-ZHEJIANG-AP China Mobile communications corporation, CN
 112.202.255.111|9333|/LitecoinCore:0.16.3/|9299|112.202.224.0/19|PH|apnic|2009-02-16|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 112.5.37.131|11081|/WorldcoinFoundation:0.10.4/|9808|112.5.32.0/21|CN|apnic|2008-12-15|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 112.74.105.15|9333|/LitecoinCore:0.16.3/|37963|112.74.0.0/17|CN|apnic|2008-12-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 112.74.45.139|9333|/LitecoinCore:0.18.1/|37963|112.74.0.0/17|CN|apnic|2008-12-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 112.74.86.230|9333|/LitecoinCore:0.16.3/|37963|112.74.0.0/17|CN|apnic|2008-12-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+114.34.80.144|9333|/LitecoinCore:0.18.1/|3462|114.34.0.0/16|TW|apnic|2008-04-18|HINET Data Communication Business Group, TW
 115.68.73.150|9333|/LitecoinCore:0.16.3/|38700|115.68.0.0/17|KR|apnic|2008-07-15|SMILESERV-AS-KR SMILESERV, KR
 115.73.221.175|9333|/LitecoinCore:0.18.1/|7552|115.73.216.0/21|VN|apnic|2008-07-17|VIETEL-AS-AP Viettel Group, VN
 116.109.106.72|9333|/LitecoinCore:0.18.1/|24086|116.109.104.0/21|VN|apnic|2007-05-18|VIETTEL-AS-VN Viettel Corporation, VN
@@ -343,7 +345,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 183.110.220.210|30303|/LitecoinCore:0.18.1/|4766|183.104.0.0/13|KR|apnic|2009-11-04|KIXS-AS-KR Korea Telecom, KR
 183.98.142.192|9333|/LitecoinCore:0.18.1(www.isdnetworks.pe.kr)/|4766|183.96.0.0/13|KR|apnic|2009-11-04|KIXS-AS-KR Korea Telecom, KR
 184.105.70.100|9333|/LitecoinCore:0.17.1/|6939|184.104.0.0/15|US|arin|2010-05-10|HURRICANE, US
-184.70.4.58|9333|/LitecoinCore:0.18.1/|6327|184.70.0.0/19|CA|arin|2010-01-15|SHAW, CA
 184.96.172.9|9333|/LitecoinCore:0.18.1/|209|184.96.0.0/16|US|arin|2010-04-06|CENTURYLINK-US-LEGACY-QWEST, US
 185.107.83.55|9333|/LitecoinCore:0.18.1/|43350|185.107.80.0/22|NL|ripencc|2015-07-03|NFORCE, NL
 185.108.244.41|9333|/LitecoinCore:0.18.1/|21232|185.108.244.0/22|CH|ripencc|2015-07-14|GGAMAUR, CH
@@ -483,17 +484,14 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:b07:5d2b:d187:3583:a807:a44b:a5ce|9333|/LitecoinCore:0.18.1/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
 2001:bc8:1200:0:dac4:97ff:fe2a:3554|20088|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:47a4:1119::1|9532|/LitecoinCore:0.18.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
-2001:f40:908:2cdf:a933:9d18:93f5:be0|9333|/LitecoinCore:0.18.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:52ca:fafa::52ca:fafa|9333|/LitecoinCore:0.18.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
-2002:5d49:1eda::5d49:1eda|9333|/LitecoinCore:0.18.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:88f3:2a9c::88f3:2a9c|9333|/LitecoinCore:0.18.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e24a::95d2:e24a|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:95d2:e558::95d2:e558|10333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:b07e:a70a::b07e:a70a|9333|/LitecoinCore:0.18.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2003:cb:870e:9402:aaa1:59ff:fe57:7779|9333|/LitecoinCore:0.17.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
 202.177.24.140|9333|/LitecoinCore:0.16.0/|7479|202.177.24.0/24|HK|apnic|1997-03-10|KDDHK-AS-AP KDD HONG KONG LIMITED, HK
-202.187.9.117|9333|/LitecoinCore:0.18.1/|9930|202.186.0.0/15|MY|apnic|1996-10-29|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
 202.61.224.27|9333|/LitecoinCore:0.16.3/|197540|202.61.224.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE
 202.61.248.197|9333|/LitecoinCore:0.18.1/|197540|202.61.240.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE
 202.61.249.29|9333|/LitecoinCore:0.16.3/|197540|202.61.240.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE
@@ -1022,7 +1020,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.171.142.156|9333|/LitecoinCore:0.18.1/|51167|62.171.142.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.175.90|9333|/LitecoinCore:0.18.1/|51167|62.171.174.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.190.193|9333|/LitecoinCore:0.17.1/|51167|62.171.190.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.210.110.189|9333|/LitecoinCore:0.18.1/|12876|62.210.0.0/16|FR|ripencc|2000-10-26|Online SAS, FR
 62.212.83.41|9333|/Satoshi:0.13.2/|60781|62.212.64.0/19|NL|ripencc|2000-06-22|LEASEWEB-NL-AMS-01 Netherlands, NL
 62.215.127.73|9333|/LitecoinCore:0.18.1/|21050|62.215.120.0/21|KW|ripencc|2000-12-18|FAST-TELCO, KW
 62.38.110.250|9333|/LitecoinCore:0.17.1/|3329|62.38.0.0/16|GR|ripencc|2001-05-30|HOL-GR Athens, Greece, GR
@@ -1061,7 +1058,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.43.133.71|9333|/LitecoinCore:0.16.3/|7922|68.32.0.0/11|US|arin|2001-11-29|COMCAST-7922, US
 69.16.200.173|9333|/LitecoinCore:0.18.1/|32244|69.16.192.0/18|US|arin|2005-05-26|LIQUIDWEB, US
 69.164.196.239|9333|/LitecoinCore:0.18.1/|63949|69.164.192.0/20|US|arin|2009-05-15|LINODE-AP Linode, LLC, US
-69.253.162.160|9333|/LitecoinCore:0.17.1/|7922|69.240.0.0/12|US|arin|2004-02-11|COMCAST-7922, US
 69.61.54.37|9333|/LitecoinCore:0.14.2/|22653|69.61.0.0/17|US|arin|2003-07-08|GLOBALCOMPASS, US
 70.106.18.143|9333|/LitecoinCore:0.18.1/|701|70.106.16.0/20|US|arin|2004-09-21|UUNET, US
 70.175.153.65|9333|/LitecoinCore:0.18.1/|22773|70.175.128.0/19|US|arin|2004-07-21|ASN-CXA-ALL-CCI-22773-RDC, US
@@ -1097,7 +1093,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.66.135.168|9333|/LitecoinCore:0.14.2/|7922|75.64.0.0/13|US|arin|2006-07-07|COMCAST-7922, US
 75.82.185.108|9333|/LitecoinCore:0.18.1/|20001|75.82.0.0/15|US|arin|2006-07-19|TWC-20001-PACWEST, US
 76.103.7.22|9333|/LitecoinCore:0.17.1(opreturn.net)/|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
-76.167.148.205|9333|/LitecoinCore:0.18.1/|20001|76.166.0.0/15|US|arin|2006-07-26|TWC-20001-PACWEST, US
 76.186.208.250|9333|/FutureBit-ApolloCore:0.17.1/|11427|76.184.0.0/14|US|arin|2006-07-26|TWC-11427-TEXAS, US
 76.230.156.129|9333|/LitecoinCore:0.18.1/|7018|76.224.0.0/13|US|arin|2006-09-15|ATT-INTERNET4, US
 76.30.62.156|9333|/LitecoinCore:0.18.1/|7922|76.16.0.0/12|US|arin|2006-06-28|COMCAST-7922, US
@@ -1164,6 +1159,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.99.245.20|9333|/LitecoinCore:0.17.1/|24651|83.99.128.0/17|LV|ripencc|2004-01-27|LVBALTICOM-AS, LV
 84.215.92.141|9333|/FutureBit-ApolloCore:0.17.1/|41164|84.215.0.0/17|NO|ripencc|2005-07-07|GET-NO GET Norway, NO
 84.242.219.62|9333|/LitecoinCore:0.18.1/|16301|84.242.192.0/18|RU|ripencc|2004-07-07|DATACOM-AS, RU
+84.243.203.220|9333|/LitecoinCore:0.18.1/|39647|84.243.192.0/18|NL|ripencc|2004-07-09|REDHOSTING-AS, NL
 84.38.184.139|9333|/LitecoinCore:0.16.3/|49505|84.38.184.0/24|RU|ripencc|2010-07-06|SELECTEL, RU
 84.38.189.208|9333|/LitecoinCore:0.16.3/|49505|84.38.188.0/23|RU|ripencc|2010-07-06|SELECTEL, RU
 85.10.203.112|9333|/LitecoinCore:0.18.1/|24940|85.10.192.0/18|DE|ripencc|2005-02-23|HETZNER-AS, DE
@@ -1215,7 +1211,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.33.195.97|9333|/LitecoinCore:0.18.1/|203523|89.33.195.0/24|RO|ripencc|2005-11-29|VIRTONO-NETWORKS, RO
 89.39.104.167|9333|/LitecoinCore:0.17.1/|49981|89.39.104.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
 89.79.119.66|9333|/LitecoinCore:0.18.1/|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-90.21.82.230|9333|/Satoshi:0.8.7.5/|3215|90.21.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.121.163.195|9333|/LitecoinCore:0.14.2/|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 91.121.67.125|9333|/LitecoinCore:0.18.1/|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 91.152.120.228|9333|/LitecoinCore:0.18.1/|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
@@ -1225,6 +1220,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.218.245.70|9333|/LitecoinCore:0.16.3/|50867|91.218.245.0/24|RU|ripencc|2010-08-24|HOSTKEY-RU-AS, NL
 91.228.146.143|9333|/LitecoinCore:0.17.1/|28907|91.228.146.0/23|UA|ripencc|2011-05-31|MIROHOST Web hosting, datacenter and domain names registration in Ukraine, UA
 91.232.105.180|9333|/LitecoinCore:0.16.3/|49981|91.232.105.0/24|NL|ripencc|2011-11-09|WORLDSTREAM, NL
+91.239.130.62|9333|/LitecoinCore:0.18.1/|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 91.240.142.228|9333|/LitecoinCore:0.18.1/|59461|91.240.140.0/22|RU|ripencc|2012-06-28|ASBERLAYN, UA
 92.204.40.25|9333|/LitecoinCore:0.18.1/|8972|92.204.40.0/24|DE|ripencc|2007-10-17|GD-EMEA-DC-SXB1, DE
 92.245.6.89|9333|/LitecoinCore:0.18.1/|44631|92.245.0.0/20|SK|ripencc|2008-02-08|CONDORNET, SK
@@ -1234,7 +1230,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.197.38.115|9333|/LitecoinCore:0.17.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.214.236.135|9333|/LitecoinCore:0.18.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.46.80.157|9333|/LitecoinCore:0.18.1/|12874|93.46.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
-93.73.30.218|9333|/LitecoinCore:0.18.1/|25229|93.73.0.0/16|UA|ripencc|2008-04-04|VOLIA-AS, UA
 94.112.19.237|9333|/LitecoinCore:0.17.1/|16019|94.112.0.0/16|CZ|ripencc|2008-07-09|VODAFONE-CZ-AS, CZ
 94.130.179.91|9333|/LitecoinCore:0.17.1/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 94.130.220.87|9333|/LitecoinCore:0.17.1/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
@@ -1301,6 +1296,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.78.79|11081|/Worldcoin Business Center:3.0.0/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.78.81|9333|/LitecoinCore:0.17.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.80.120|20008|/LitecoinCore:0.18.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
+95.83.48.201|9333|/LitecoinCore:0.18.1/|12389|95.83.0.0/18|RU|ripencc|2008-12-15|ROSTELECOM-AS, RU
 96.126.123.143|9333|/LitecoinCore:0.18.1/|63949|96.126.112.0/20|US|arin|2011-05-06|LINODE-AP Linode, LLC, US
 96.22.82.34|9333|/LitecoinCore:0.18.1/|5769|96.22.64.0/18|CA|arin|2007-10-30|VIDEOTRON, CA
 96.249.252.98|9333|/LitecoinCore:0.18.1/|701|96.249.224.0/19|US|arin|2006-12-29|UUNET, US
