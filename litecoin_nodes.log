@@ -490,7 +490,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:7e8:c8de:600:1e69:7aff:fe6f:200f|9333|/LitecoinCore:0.18.1/|6661|2001:7e8::/32|LU|ripencc|2002-06-05|EPT-LU Entreprise des P. et T. Luxembourg, LU
 2001:7e8:cce7:b700:8191:c385:c09c:608a|9333|/LitecoinCore:0.18.1/|6661|2001:7e8::/32|LU|ripencc|2002-06-05|EPT-LU Entreprise des P. et T. Luxembourg, LU
 2001:b011:800e:3732:2517:a74c:1e98:2c0f|9333|/LitecoinCore:0.18.1/|3462|2001:b011:8000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
-2001:b07:5d2b:d187:3583:a807:a44b:a5ce|9333|/LitecoinCore:0.18.1/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
 2001:bc8:1200:0:dac4:97ff:fe2a:3554|20088|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:47a4:1119::1|9532|/LitecoinCore:0.18.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:f40:908:64ef:10ec:c85e:d336:4e2c|9333|/LitecoinCore:0.18.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
@@ -578,6 +577,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.216.74.147|9333|/FutureBit-ApolloCore:0.17.1/|20115|24.216.64.0/20|US|arin|1999-01-28|CHARTER-20115, US
 24.218.66.183|9333|/LitecoinCore:0.18.1/|7922|24.218.0.0/16|US|arin|1999-01-14|COMCAST-7922, US
 24.34.61.18|9333|/LitecoinCore:0.18.1/|7922|24.34.0.0/16|US|arin|2001-09-18|COMCAST-7922, US
+24.6.76.255|9333|/FutureBit-ApolloCore:0.17.1/|7922|24.0.0.0/12|US|arin|2003-10-06|COMCAST-7922, US
 24.6.89.155|9333|/LitecoinCore:0.17.1/|7922|24.0.0.0/12|US|arin|2003-10-06|COMCAST-7922, US
 24.91.67.96|9333|/Satoshi:0.8.6.2/|7922|24.91.0.0/16|US|arin|2000-04-26|COMCAST-7922, US
 2400:2651:661:f200:2ec0:6c37:c3fe:b410|9513|/Satoshi:0.8.7.2/|17676|2400:2000::/20|JP|apnic|2005-07-12|GIGAINFRA Softbank BB Corp., JP
@@ -1093,7 +1093,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 72.135.224.85|9333|/LitecoinCore:0.18.1/|10796|72.135.192.0/18|US|arin|2005-08-02|TWC-10796-MIDWEST, US
 72.141.209.70|9333|/LitecoinCore:0.14.2/|812|72.140.0.0/15|CA|arin|2005-09-20|ROGERS-COMMUNICATIONS, CA
 72.189.43.200|9333|/FutureBit-ApolloCore:0.17.1/|33363|72.188.0.0/15|US|arin|2005-11-21|BHN-33363, US
-72.201.68.177|9333|/LitecoinCore:0.18.1/|22773|72.201.0.0/16|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
 72.225.30.5|9333|/LitecoinCore:0.18.1/|11351|72.225.0.0/18|US|arin|2005-07-21|TWC-11351-NORTHEAST, US
 72.80.140.231|9333|/LitecoinCore:0.18.1/|701|72.80.0.0/16|US|arin|2005-06-24|UUNET, US
 73.107.94.102|9333|/Satoshi:0.8.5.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
@@ -1248,11 +1247,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.218.245.70|9333|/LitecoinCore:0.16.3/|50867|91.218.245.0/24|RU|ripencc|2010-08-24|HOSTKEY-RU-AS, NL
 91.228.146.143|9333|/LitecoinCore:0.17.1/|28907|91.228.146.0/23|UA|ripencc|2011-05-31|MIROHOST Web hosting, datacenter and domain names registration in Ukraine, UA
 91.232.105.180|9333|/LitecoinCore:0.16.3/|49981|91.232.105.0/24|NL|ripencc|2011-11-09|WORLDSTREAM, NL
+91.239.130.62|9333|/LitecoinCore:0.18.1/|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 91.240.142.228|9333|/LitecoinCore:0.18.1/|59461|91.240.140.0/22|RU|ripencc|2012-06-28|ASBERLAYN, UA
 92.204.40.25|9333|/LitecoinCore:0.18.1/|8972|92.204.40.0/24|DE|ripencc|2007-10-17|GD-EMEA-DC-SXB1, DE
 92.245.6.89|9333|/LitecoinCore:0.18.1/|44631|92.245.0.0/20|SK|ripencc|2008-02-08|CONDORNET, SK
 92.32.119.109|9333|/LitecoinCore:0.18.1/|2119|92.32.0.0/14|SE|ripencc|2007-11-28|TELENOR-NEXTEL Telenor Norge AS, NO
-93.102.58.93|9333|/Satoshi:0.8.7.2/|2860|93.102.0.0/18|PT|ripencc|2008-03-10|NOS_COMUNICACOES, PT
 93.104.214.69|9333|/LitecoinCore:0.18.1/|8767|93.104.0.0/16|DE|ripencc|2008-03-18|MNET-AS Germany, DE
 93.179.197.152|9333|/LitecoinCore:0.17.1/|31242|93.179.192.0/18|PL|ripencc|2008-04-14|TKPSA-AS, PL
 93.214.236.135|9333|/LitecoinCore:0.18.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
