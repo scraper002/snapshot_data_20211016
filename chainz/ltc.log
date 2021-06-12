@@ -47,6 +47,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.62.21.32|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 162.62.21.41|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 165.22.82.10|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|165.22.80.0/20|US|arin|2018-10-16|DIGITALOCEAN-ASN, US
+166.181.84.40|/loaf-android:175/|70015|6614|166.181.84.0/24|US|arin|1993-07-09|USCC-ASN, US
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 167.99.225.10|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|167.99.224.0/20|US|arin|2017-11-10|DIGITALOCEAN-ASN, US
 168.232.172.13|/NBitcoin:5.0.49/|70012|263924|168.232.172.0/22|BR|lacnic|2016-05-11|Sonik Servicos de Comunicacao LTDA, BR
@@ -77,7 +78,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.188.183.9|/LitecoinCore:0.18.1/|70015|204997|185.188.183.0/24|CZ|ripencc|2017-02-03|FIRSTBYTE-AS, SC
 185.194.141.51|/DimiCoinCore:0.16.3/|70015|197540|185.194.140.0/22|DE|ripencc|2017-03-15|NETCUP-AS netcup GmbH, DE
 185.206.224.30|/loaf-android:175/|70015|9009|185.206.224.0/24|RO|ripencc|2017-06-06|M247, GB
-185.220.101.20|/BitcoinKit:0.1.0/|70015|208294|185.220.101.0/24|DE|ripencc|2017-09-12|RELAYON, US
 185.232.71.26|/LitecoinCore:0.18.1/|70015|197540|185.232.68.0/22|AT|ripencc|2017-11-16|NETCUP-AS netcup GmbH, DE
 185.34.240.19|/LitecoinCore:0.18.1/|70015|44943|185.34.240.0/24|RU|ripencc|2013-09-11|RAMNET-AS Internet Service Provider _RamNet_, RU
 187.254.151.170|/NBitcoin:5.0.49/|70012|28523|187.254.144.0/20|MX|lacnic|2013-02-22|Cablevision Red, S.A de C.V., MX
@@ -174,7 +174,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.155.154.188|/LitecoinCore:0.18.1/|70015|852|75.155.0.0/16|CA|arin|2006-08-01|TELUS Communications, CA
 76.14.26.177|/BitcoinKit:0.1.0/|70015|11404|76.14.0.0/17|US|arin|2007-05-02|AS-WAVE-1, US
 77.75.36.104|/LitecoinCore:0.17.1/|70015|42926|77.75.36.0/24|TR|ripencc|2007-05-03|RADORE, TR
-78.159.96.195|/LitecoinCore:0.18.1/|70015|28753|78.159.96.0/19|DE|ripencc|2007-09-18|LEASEWEB-DE-FRA-10, DE
 78.16.165.205|/BitcoinKit:0.1.0/|70015|2110|78.16.0.0/14|IE|ripencc|2007-04-04|AS-BTIRE BT Ireland was previously known as Esat Net, EUnet Ireland & IEUnet., IE
 78.63.5.14|/LitecoinCore:0.18.1/|70015|8764|78.63.4.0/22|LT|ripencc|2007-03-21|TELIA-LIETUVA, LT
 79.184.240.25|/NBitcoin:5.0.49/|70012|5617|79.184.0.0/13|PL|ripencc|2007-06-15|TPNET, PL
@@ -190,7 +189,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.179.104.148|/LitecoinCore:0.18.1/|70015|8402|89.178.0.0/15|RU|ripencc|2006-03-22|CORBINA-AS OJSC _Vimpelcom_, RU
 89.212.5.80|/LitecoinCore:0.16.3/|70015|34779|89.212.0.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2 d.o.o., SI
 89.39.106.133|/litecoinj:0.15.2-SNAPSHOT/|70002|49981|89.39.104.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
-91.206.16.214|/WorldcoinFoundation:0.8.7.5/|70002|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 91.239.130.62|/LitecoinCore:0.18.1/|70015|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 91.67.113.105|???|0|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
 92.1.109.83|/LitecoinCore:0.17.1/|70015|13285|92.0.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
