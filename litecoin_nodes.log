@@ -47,7 +47,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 110.140.156.66|9333|/FutureBit-ApolloCore:0.17.1/|1221|110.140.0.0/15|AU|apnic|2009-04-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 111.108.29.123|9513|/Satoshi:0.8.7.2/|2516|111.108.0.0/16|JP|apnic|2009-06-12|KDDI KDDI CORPORATION, JP
 111.90.145.106|9333|/LitecoinCore:0.18.1/|45839|111.90.144.0/21|MY|apnic|2009-06-17|SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY
-112.17.178.52|9333|/LitecoinCore:0.16.1(bitcore)/|56041|112.17.128.0/18|CN|apnic|2008-12-15|CMNET-ZHEJIANG-AP China Mobile communications corporation, CN
 112.202.255.111|9333|/LitecoinCore:0.16.3/|9299|112.202.224.0/19|PH|apnic|2009-02-16|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 112.5.37.131|11081|/WorldcoinFoundation:0.10.4/|9808|112.5.32.0/21|CN|apnic|2008-12-15|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 112.74.105.15|9333|/LitecoinCore:0.16.3/|37963|112.74.0.0/17|CN|apnic|2008-12-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -591,6 +590,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 240f:109:420c:1:f5b6:4d09:86cf:5d0b|9333|/LitecoinCore:0.18.1/|2516|240f:100::/24|JP|apnic|2017-10-27|KDDI KDDI CORPORATION, JP
 2600:1700:3901:28f:250:56ff:fe91:884e|9333|/LitecoinCore:0.18.1/|7018|2600:1700::/28|US|arin|2013-10-24|ATT-INTERNET4, US
 2600:1700:daa:90:21b3:44f3:5308:8777|9333|/LitecoinCore:0.18.1/|7018|2600:1700::/28|US|arin|2013-10-24|ATT-INTERNET4, US
+2600:1f16:c79:1a20:6a20:4665:f23c:b72f|9333|/LitecoinCore:0.18.1/|16509|2600:1f16:c00::/38|US|arin|2014-10-17|AMAZON-02, US
 2600:1f18:6112:a500:529b:87e7:4d86:bdca|10333|/LitecoinCore:0.18.1/|14618|2600:1f18:6000::/35|US|arin|2014-10-17|AMAZON-AES, US
 2600:3c00::f03c:92ff:fe92:2745|9333|/LitecoinCore:0.18.1/|63949|2600:3c00::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
 2600:3c03::f03c:91ff:fee9:7bc4|9333|/LitecoinCore:0.17.1/|63949|2600:3c03::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
@@ -915,6 +915,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.188.104.245|10333|/LitecoinCore:0.16.3/|199860|5.188.104.0/23|RU|ripencc|2012-08-09|SDN-AS, RU
 5.189.139.168|9333|/LitecoinCore:0.18.1/|51167|5.189.128.0/20|DE|ripencc|2012-08-09|CONTABO, DE
 5.189.187.89|9333|/LitecoinCore:0.16.0/|51167|5.189.176.0/20|DE|ripencc|2012-08-09|CONTABO, DE
+5.194.132.19|9333|/LitecoinCore:0.18.1/|5384|5.194.128.0/18|AE|ripencc|2012-08-22|EMIRATES-INTERNET Emirates Internet, AE
 5.196.117.47|9333|/LitecoinCore:0.15.1/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
 5.196.167.44|9333|/LitecoinCore:0.17.1/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
 5.196.91.94|9027|/Satoshi:0.8.6.2/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
@@ -977,6 +978,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.91.123.111|9333|/LitecoinCore:0.16.0/|16276|51.91.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.91.66.27|9333|/LitecoinCore:0.18.1/|16276|51.91.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.91.94.23|9333|/LitecoinCore:0.18.1/|16276|51.91.0.0/16|FR|ripencc|1993-09-01|OVH, FR
+52.15.111.162|9333|/LitecoinCore:0.18.1/|16509|52.15.64.0/18|US|arin|1991-12-19|AMAZON-02, US
 52.193.48.194|49333|/LitecoinCore:0.18.1/|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
 52.197.94.57|9333|/LitecoinCore:0.18.1/|16509|52.196.0.0/14|US|arin|2015-09-02|AMAZON-02, US
 52.2.1.167|9333|/LitecoinCore:0.18.1/|14618|52.2.0.0/15|US|arin|1991-12-19|AMAZON-AES, US
@@ -1069,6 +1071,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 70.106.18.143|9333|/LitecoinCore:0.18.1/|701|70.106.16.0/20|US|arin|2004-09-21|UUNET, US
 70.175.153.65|9333|/LitecoinCore:0.18.1/|22773|70.175.128.0/19|US|arin|2004-07-21|ASN-CXA-ALL-CCI-22773-RDC, US
 70.175.198.121|9333|/LitecoinCore:0.17.1/|22773|70.175.192.0/19|US|arin|2004-07-21|ASN-CXA-ALL-CCI-22773-RDC, US
+70.238.162.163|9333|/FutureBit-ApolloCore:0.17.1/|7018|70.238.0.0/15|US|arin|2005-03-22|ATT-INTERNET4, US
 70.63.170.86|9333|/LitecoinCore:0.18.1/|11426|70.63.128.0/17|US|arin|2004-05-19|TWC-11426-CAROLINAS, US
 70.78.144.253|9333|/Satoshi:0.8.5.1/|6327|70.78.144.0/22|CA|arin|2004-06-18|SHAW, CA
 71.114.80.129|9333|/LitecoinCore:0.18.1/|701|71.114.64.0/19|US|arin|2005-01-18|UUNET, US
@@ -1218,7 +1221,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.163.225.8|9333|/LitecoinCore:0.18.1/|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.212.5.80|9333|/LitecoinCore:0.16.3/|34779|89.212.0.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2 d.o.o., SI
 89.216.21.96|9333|/LitecoinCore:0.16.3/|31042|89.216.0.0/17|RS|ripencc|2006-06-21|SERBIA-BROADBAND-AS Serbia BroadBand-Srpske Kablovske mreze d.o.o., RS
-89.238.77.110|9333|/LitecoinCore:0.17.1/|34240|89.238.64.0/18|DE|ripencc|2006-07-21|MANITU, DE
+89.238.77.110|9333|/LitecoinCore:0.17.1/
 89.33.195.97|9333|/LitecoinCore:0.18.1/|203523|89.33.195.0/24|RO|ripencc|2005-11-29|VIRTONO-NETWORKS, RO
 89.39.104.167|9333|/LitecoinCore:0.17.1/|49981|89.39.104.0/22|NL|ripencc|2005-11-29|WORLDSTREAM, NL
 90.218.41.92|9333|/Satoshi:0.8.6.2/|5607|90.192.0.0/11|GB|ripencc|2007-06-14|BSKYB-BROADBAND-AS, GB
@@ -1234,6 +1237,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.228.146.143|9333|/LitecoinCore:0.17.1/|28907|91.228.146.0/23|UA|ripencc|2011-05-31|MIROHOST Web hosting, datacenter and domain names registration in Ukraine, UA
 91.23.158.194|9333|/LitecoinCore:0.17.1/|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.232.105.180|9333|/LitecoinCore:0.16.3/|49981|91.232.105.0/24|NL|ripencc|2011-11-09|WORLDSTREAM, NL
+91.239.130.62|9333|/LitecoinCore:0.18.1/|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 91.240.142.228|9333|/LitecoinCore:0.18.1/|59461|91.240.140.0/22|RU|ripencc|2012-06-28|ASBERLAYN, UA
 92.204.40.25|9333|/LitecoinCore:0.18.1/|8972|92.204.40.0/24|DE|ripencc|2007-10-17|GD-EMEA-DC-SXB1, DE
 92.245.6.89|9333|/LitecoinCore:0.18.1/|44631|92.245.0.0/20|SK|ripencc|2008-02-08|CONDORNET, SK
