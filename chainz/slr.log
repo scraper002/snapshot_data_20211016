@@ -26,6 +26,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.120.237.55|/Satoshi:2.1.8/|70005|42892|176.120.237.0/24|RU|ripencc|2012-06-25|LOFIS-AS, RU
 178.197.213.2|/Satoshi:2.1.8/|70005|3303|178.196.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom (Switzerland) Ltd, CH
 178.197.249.45|/Satoshi:2.1.8/|70005|3303|178.196.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom (Switzerland) Ltd, CH
+178.25.113.235|/Satoshi:2.1.8/|70005|3209|178.24.0.0/14|DE|ripencc|2010-02-17|VODANET International IP-Backbone of Vodafone, DE
 178.51.141.228|/Satoshi:2.1.8/|70005|47377|178.51.0.0/16|BE|ripencc|2010-07-21|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
 178.51.55.172|/Satoshi:2.1.8/|70005|47377|178.51.0.0/16|BE|ripencc|2010-07-21|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
 181.214.215.22|/Satoshi:2.1.8/|70005|18345|181.214.215.0/24|CL|lacnic|2014-05-29|SERVERS-AUS-CUST Servers Australia Customers, AU
@@ -37,6 +38,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.213.200.241|/Satoshi:2.1.8/|70005|6871|195.213.0.0/16|GB|ripencc|1997-09-25|PLUSNET UK Internet Service Provider, GB
 198.147.22.166|/Satoshi:2.1.8/|70005|46562|198.147.22.0/24|US|arin|2012-10-15|PERFORMIVE, US
 205.169.34.58|/Satoshi:2.1.8/|70005|209|205.168.0.0/14|US|arin|1995-03-17|CENTURYLINK-US-LEGACY-QWEST, US
+212.88.242.47|/Satoshi:2.1.8/|70005|6848|212.88.240.0/20|BE|ripencc|2000-05-22|TELENET-AS, BE
 213.19.26.38|/Satoshi:2.1.8/|70005|28851|213.19.0.0/17|CZ|ripencc|2003-09-26|FORTECH-CZ Litomysl, CZ
 213.214.38.18|/Satoshi:2.1.8/|70005|6848|213.214.32.0/19|BE|ripencc|2003-03-28|TELENET-AS, BE
 216.213.139.253|/Satoshi:2.1.8/|70005|56329|216.213.128.0/18|GB|ripencc|1999-04-06|GIGACLEAR, GB
@@ -80,7 +82,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.103.136.234|/Satoshi:2.1.8/|70005|5089|77.103.0.0/16|GB|ripencc|2006-10-18|NTL, GB
 77.116.8.81|/Satoshi:2.1.8/|70005|25255|77.116.0.0/14|AT|ripencc|2007-01-10|H3G-AUSTRIA-AS ==) TELE2 AUSTRIA (==, AT
 77.191.88.138|/Satoshi:2.1.8/|70005|6805|77.176.0.0/12|DE|ripencc|2006-11-17|TDDE-ASN1, DE
-78.21.0.119|/Satoshi:2.1.8/|70005|6848|78.20.0.0/15|BE|ripencc|2007-05-14|TELENET-AS, BE
 79.100.147.135|/Satoshi:2.1.8/|70005|8866|79.100.144.0/20|BG|ripencc|2007-11-09|BTC-AS BULGARIA, BG
 79.208.76.64|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.213.212.85|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
@@ -104,7 +105,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.135.65.194|/Satoshi:2.1.8/|70005|8881|83.135.64.0/20|DE|ripencc|2004-01-28|VERSATEL, DE
 83.58.32.111|/Satoshi:2.1.8/|70005|3352|83.58.0.0/16|ES|ripencc|2004-10-07|TELEFONICA_DE_ESPANA, ES
 83.79.7.75|/Satoshi:2.1.8/|70005|3303|83.79.0.0/16|CH|ripencc|2003-12-10|SWISSCOM Swisscom (Switzerland) Ltd, CH
-84.107.5.81|/Satoshi:2.1.8/|70005|33915|84.106.0.0/15|NL|ripencc|2004-04-26|TNF-AS, NL
 84.190.27.184|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.195.111.156|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 84.199.9.234|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
@@ -113,7 +113,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.148.226.126|/Satoshi:2.1.8/|70005|5390|85.148.0.0/16|NL|ripencc|2004-10-06|EURONET, NL
 85.148.95.34|/Satoshi:2.1.8/|70005|5390|85.148.0.0/16|NL|ripencc|2004-10-06|EURONET, NL
 85.149.128.237|/Satoshi:2.1.8/|70005|5390|85.149.0.0/16|NL|ripencc|2004-10-06|EURONET, NL
-85.203.44.43|/Satoshi:2.1.8/|70005|43350|85.203.44.0/24|NL|ripencc|2005-01-12|NFORCE, NL
 85.9.20.144|/Satoshi:2.1.8/|70005|5606|85.9.0.0/19|RO|ripencc|2005-02-11|GTS-BACKBONE GTS Telecom, RO
 86.136.228.112|/Satoshi:2.1.8/|70005|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.196.219.42|/Satoshi:2.1.8/|70005|3215|86.196.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
