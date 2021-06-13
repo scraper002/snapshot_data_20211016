@@ -23,6 +23,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.51.141.228|/Satoshi:2.1.8/|70005|47377|178.51.0.0/16|BE|ripencc|2010-07-21|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
 181.214.215.22|/Satoshi:2.1.8/|70005|18345|181.214.215.0/24|CL|lacnic|2014-05-29|SERVERS-AUS-CUST Servers Australia Customers, AU
 184.100.196.142|/Satoshi:2.1.8/|70005|209|184.100.0.0/16|US|arin|2010-04-06|CENTURYLINK-US-LEGACY-QWEST, US
+184.88.4.228|/Satoshi:2.1.8/|70005|33363|184.88.0.0/14|US|arin|2010-03-31|BHN-33363, US
 188.137.85.215|/Satoshi:2.1.8/|70005|13000|188.137.80.0/20|PL|ripencc|2009-05-06|LEON-AS, PL
 189.213.199.35|/Satoshi:2.1.8/|70005|6503|189.213.199.0/24|MX|lacnic|2014-06-12|Axtel, S.A.B. de C.V., MX
 190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
@@ -80,8 +81,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.116.8.81|/Satoshi:2.1.8/|70005|25255|77.116.0.0/14|AT|ripencc|2007-01-10|H3G-AUSTRIA-AS ==) TELE2 AUSTRIA (==, AT
 77.53.82.229|/Satoshi:2.1.8/|70005|45011|77.53.0.0/16|SE|ripencc|2007-01-24|SE-A3 http://www.a3.se/, SE
 79.100.147.135|/Satoshi:2.1.8/|70005|8866|79.100.144.0/20|BG|ripencc|2007-11-09|BTC-AS BULGARIA, BG
+79.195.232.91|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.208.76.64|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-79.213.212.85|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.220.51.184|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.220.59.50|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.225.217.124|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
@@ -93,6 +94,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.121.154.4|/Satoshi:2.1.8/|70005|8447|80.120.0.0/14|AT|ripencc|2001-09-12|A1TELEKOM-AT A1 Telekom Austria AG, AT
 80.131.121.94|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.220.208.18|/Satoshi:2.1.8/|70005|1759|80.220.0.0/14|FI|ripencc|2002-03-27|TSF-IP-CORE Telia Finland Oyj, FI
+81.155.217.164|/Satoshi:2.1.8/|70005|2856|81.128.0.0/11|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
 81.170.217.202|/Satoshi:2.1.8/|70005|8473|81.170.128.0/17|SE|ripencc|2003-05-12|BAHNHOF http://www.bahnhof.net/, SE
 81.246.220.222|/Satoshi:2.1.8/|70005|5432|81.244.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
 81.82.205.198|/Satoshi:2.1.8/|70005|6848|81.82.0.0/15|BE|ripencc|2002-04-29|TELENET-AS, BE
@@ -117,7 +119,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.147.104.173|/Satoshi:2.1.8/|70005|33915|85.147.0.0/17|NL|ripencc|2004-10-06|TNF-AS, NL
 85.148.226.126|/Satoshi:2.1.8/|70005|5390|85.148.0.0/16|NL|ripencc|2004-10-06|EURONET, NL
 85.149.128.237|/Satoshi:2.1.8/|70005|5390|85.149.0.0/16|NL|ripencc|2004-10-06|EURONET, NL
-85.9.20.144|/Satoshi:2.1.8/|70005|5606|85.9.0.0/19|RO|ripencc|2005-02-11|GTS-BACKBONE GTS Telecom, RO
 86.136.228.112|/Satoshi:2.1.8/|70005|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.196.219.42|/Satoshi:2.1.8/|70005|3215|86.196.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 86.206.240.156|/Satoshi:2.1.8/|70005|3215|86.206.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
@@ -130,6 +131,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.122.110.233|/Satoshi:2.1.8/|70005|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
 88.160.226.239|/Satoshi:2.1.8/|70005|12322|88.160.0.0/12|FR|ripencc|2005-10-03|PROXAD, FR
 89.155.127.14|/Satoshi:2.1.8/|70005|2860|89.155.64.0/18|PT|ripencc|2006-02-07|NOS_COMUNICACOES, PT
+90.255.28.255|/Satoshi:2.1.8/|70005|5378|90.252.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
 91.178.91.154|/Satoshi:2.1.8/|70005|5432|91.176.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
 91.180.97.95|/Satoshi:2.1.8/|70005|5432|91.180.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
 92.106.186.190|/Satoshi:2.1.8/|70005|3303|92.106.0.0/16|CH|ripencc|2007-09-28|SWISSCOM Swisscom (Switzerland) Ltd, CH
