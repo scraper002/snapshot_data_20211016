@@ -21,6 +21,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.136.35.51|/NBitcoin:5.0.49/|70012|23700|118.136.32.0/19|ID|apnic|2007-09-14|FASTNET-AS-ID Linknet-Fastnet ASN, ID
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.243.199.229|/loaf-android:175/|70015|4685|118.243.0.0/16|JP|apnic|2007-11-19|ASAHI-NET Asahi Net, JP
 119.137.55.2|/BitcoinKit:0.1.0/|70015|4134|119.128.0.0/12|CN|apnic|2008-02-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 119.3.162.199|/LitecoinCore:0.17.1/|70015|55990|119.3.160.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -44,7 +45,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.202.71.217|/LitecoinCore:0.16.3/|70015|16276|149.202.0.0/16|FR|ripencc|1999-04-26|OVH, FR
 149.210.234.234|/Node:0.8.7.2/|70002|20857|149.210.128.0/17|NL|ripencc|2011-08-17|TRANSIP-AS Amsterdam, the Netherlands, NL
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|157.230.112.0/20|US|arin|2018-08-22|DIGITALOCEAN-ASN, US
-157.245.213.236|/B2CCoinCore:0.16.3/|70015|14061|157.245.208.0/20|US|arin|2019-05-09|DIGITALOCEAN-ASN, US
+157.245.213.236|/B2CCoinCore:0.16.3/|70015||||||
 157.90.242.154|/CounosXCore:0.17.2/|70015|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
 158.69.196.61|/Node:0.8.7.2/|70002|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
@@ -82,10 +83,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.150.36.15|/BitcoinKit:0.1.0/|70015|4764|180.150.36.0/23|AU|apnic|2009-09-01|WIDEBAND-AS-AP Aussie Broadband, AU
 183.14.132.189|/BitcoinKit:0.1.0/|70015|4134|183.0.0.0/10|CN|apnic|2009-10-09|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 183.80.50.131|/NBitcoin:5.0.49/|70012|18403|183.80.50.0/24|VN|apnic|2009-11-08|FPT-AS-AP The Corporation for Financing & Promoting Technology, VN
-185.141.63.163|/LitecoinCore:0.18.1/|70015|44901|185.141.63.0/24|CY|ripencc|2018-02-23|BELCLOUD, BG
 185.174.156.3|/NBitcoin:5.0.49/|70012|203020|185.174.156.0/24|IN|ripencc|2016-10-24|HOSTROYALE, IN
 185.188.183.9|/LitecoinCore:0.18.1/|70015|204997|185.188.183.0/24|CZ|ripencc|2017-02-03|FIRSTBYTE-AS, SC
 185.215.60.52|/BitcoinKit:0.1.0/|70015|31370|185.215.60.0/22|RU|ripencc|2017-07-28|MOSLINE-AS, RU
+185.220.100.243|/LitecoinCore:0.18.1/|70015|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
 185.220.100.246|/BitcoinKit:0.1.0/|70015|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
 185.232.71.26|/LitecoinCore:0.18.1/|70015|197540|185.232.68.0/22|AT|ripencc|2017-11-16|NETCUP-AS netcup GmbH, DE
 185.34.240.19|/LitecoinCore:0.18.1/|70015|44943|185.34.240.0/24|RU|ripencc|2013-09-11|RAMNET-AS Internet Service Provider _RamNet_, RU
@@ -109,6 +110,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.162.8.139|/LitecoinCore:0.18.1/|70015|44622|195.162.8.0/23|RU|ripencc|2008-11-27|MTK-MOSINTER-AS, RU
 195.201.104.49|/LitecoinCore:0.17.1/|70015|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
 195.24.157.182|/litecoinj:0.15-SNAPSHOT/|70002|6702|195.24.128.0/19|UA|ripencc|1996-10-09|APEXNCC-AS Gagarina avenue, building 7, room 61, UA
+197.234.221.167|/BitcoinKit:0.1.0/|70015|37424|197.234.221.0/24|BJ|afrinic|2013-01-10|Spacetel, BJ
 198.147.23.196|/LitecoinCore:0.18.1/|70015|46562|198.147.23.0/24|US|arin|2012-10-15|PERFORMIVE, US
 198.233.65.162|/LitecoinCore:0.18.1/|70015|209|198.233.0.0/16|US|arin|1993-07-26|CENTURYLINK-US-LEGACY-QWEST, US
 198.254.94.5|/LitecoinCore:0.18.1/|70015|26827|198.254.80.0/20|US|arin|2013-02-22|EPBTELECOM, US
@@ -154,7 +156,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.91.77.232|/LitecoinCore:0.17.1/|70015|45102|47.91.64.0/20|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
 51.159.56.252|/LitecoinCore:0.16.3/|70015|12876|51.158.0.0/15|FR|ripencc|1993-09-01|Online SAS, FR
 51.37.10.165|/LitecoinCore:0.18.1/|70015|15502|51.37.8.0/21|IE|ripencc|1993-09-01|VODAFONE-IRELAND-ASN, IE
-51.68.127.44|/FlashcoinCore:0.13.3.2/|70015|16276|51.68.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.89.161.145|/CounosCoinCore:0.15.4/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.89.64.18|/bcoin:v1.0.0-beta.15/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
