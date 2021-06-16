@@ -17,6 +17,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.205.28.248|/NBitcoin:5.0.49/|70012|9299|112.205.0.0/19|PH|apnic|2009-02-16|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 115.171.229.96|/Satoshi:0.8.6.1/|70002|4847|115.171.192.0/18|CN|apnic|2008-08-25|CNIX-AP China Networks Inter-Exchange, CN
 115.196.240.255|/LitecoinCore:0.18.1/|70015|4134|115.192.0.0/11|CN|apnic|2008-09-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+116.202.0.237|/LitecoinCore:0.17.1/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 117.176.242.86|/Satoshi:0.10.2.2/|70003|9808|117.176.0.0/16|CN|apnic|2007-07-17|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
@@ -33,7 +34,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.155.171|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|139.59.128.0/19|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
-140.82.12.63|/MartiancoinCore:0.16.3/|70015|20473|140.82.0.0/20|US|arin|2018-03-15|AS-CHOOPA, US
 142.93.229.149|/litetroll.net:1.0/|70015|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
 146.185.139.235|/ltc_node_scanner:0.0.1/|70015|14061|146.185.128.0/19|US|ripencc|2011-07-13|DIGITALOCEAN-ASN, US
 148.251.75.194|/LitecoinCore:0.18.1/|70015|24940|148.251.0.0/16|DE|ripencc|1993-09-01|HETZNER-AS, DE
@@ -125,7 +125,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.128.36.95|/loaf-android:175/|70015|9009|45.128.36.0/24|GE|ripencc|2019-07-11|M247, GB
 45.130.83.81|/LitecoinCore:0.18.1/|70015|206092|45.130.83.0/24|NL|ripencc|2019-07-17|SECFIREWALLAS, GB
 45.224.205.239|/NBitcoin:5.0.49/|70012|267665|45.224.204.0/23|BR|lacnic|2017-10-17|Acessy Telecomunicacoes, BR
-45.56.69.105|/Block.io:0.1.0/|70002|63949|45.56.64.0/20|US|arin|2015-01-21|LINODE-AP Linode, LLC, US
 46.101.135.79|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|46.101.128.0/17|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
 46.4.121.221|/LitecoinCore:0.18.1/|70015|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 46.93.89.46|/WalletKit:0.1.0/|70015|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
@@ -181,7 +180,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.163.225.8|/LitecoinCore:0.18.1/|70015|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.39.79.78|/loaf-android:175/|70015|8926|89.39.76.0/22|MD|ripencc|2005-11-29|MOLDTELECOM-AS Moldtelecom Autonomous System, MD
 89.72.4.244|/NBitcoin:5.0.49/|70012|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
-89.81.152.12|/NBitcoin:5.0.49/|70012|5410|89.80.0.0/12|FR|ripencc|2006-02-23|BOUYGTEL-ISP, FR
 90.198.231.112|/NBitcoin:5.0.49/|70012|5607|90.192.0.0/11|GB|ripencc|2006-05-31|BSKYB-BROADBAND-AS, GB
 91.193.183.104|/LitecoinCore:0.17.1/|70015|12722|91.193.180.0/22|GB|ripencc|2018-04-18|RECONN, RU
 91.239.130.62|/LitecoinCore:0.18.1/|70015|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
