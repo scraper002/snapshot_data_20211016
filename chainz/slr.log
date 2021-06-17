@@ -2,7 +2,6 @@
 # SolarCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.143.47.152|/Satoshi:2.1.8/|70005|17511|101.140.0.0/14|JP|apnic|2010-12-22|OPTAGE OPTAGE Inc., JP
-103.1.213.140|/Satoshi:2.1.8/|70005|137409|103.1.213.0/24|AU|apnic|2011-04-19|GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU
 103.107.196.228|/Satoshi:2.1.8/|70005|137409|103.107.196.0/24|AU|apnic|2018-01-17|GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU
 103.212.227.188|/Satoshi:2.1.8/|70005|137409|103.212.227.0/24|NZ|apnic|2016-04-01|GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU
 104.229.29.221|/Satoshi:2.1.8/|70005|11351|104.228.0.0/15|US|arin|2014-10-07|TWC-11351-NORTHEAST, US
@@ -41,6 +40,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.222.81.89|/Satoshi:2.1.8/|70005|5607|188.220.0.0/14|GB|ripencc|2009-05-26|BSKYB-BROADBAND-AS, GB
 189.213.199.35|/Satoshi:2.1.8/|70005|6503|189.213.199.0/24|MX|lacnic|2014-06-12|Axtel, S.A.B. de C.V., MX
 190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
+193.121.184.189|/Satoshi:2.1.8/|70005|5432|193.121.0.0/16|BE|ripencc|1996-05-08|PROXIMUS-ISP-AS, BE
 193.25.22.35|/Satoshi:2.1.8/|70005|680|193.25.16.0/20|DE|ripencc|1993-02-11|DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
 193.36.225.118|/Satoshi:2.1.8/|70005|395954|193.36.225.0/24|NL|ripencc|2019-10-09|LEASEWEB-USA-LAX-11, US
 193.9.249.161|/Satoshi:2.1.8/|70005|60781|193.9.249.0/24|RU|ripencc|2011-04-13|LEASEWEB-NL-AMS-01 Netherlands, NL
@@ -90,7 +90,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.1.89.99|/Satoshi:2.1.8/|70005|6805|77.0.0.0/12|DE|ripencc|2006-11-21|TDDE-ASN1, DE
 77.103.136.234|/Satoshi:2.1.8/|70005|5089|77.103.0.0/16|GB|ripencc|2006-10-18|NTL, GB
 77.20.248.248|/Satoshi:2.1.8/|70005|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
-77.53.82.229|/Satoshi:2.1.8/|70005|45011|77.53.0.0/16|SE|ripencc|2007-01-24|SE-A3 http://www.a3.se/, SE
 77.78.48.161|/Satoshi:2.1.8/|70005|34569|77.78.0.0/18|BG|ripencc|2007-02-27|NETWORX-BG Online Direct, BG
 78.158.148.15|/Satoshi:2.1.8/|70005|8544|78.158.148.0/24|CY|ripencc|2007-09-05|NSP-INTL Transit AS for PrimeTel (AS16229), SpiderNet (AS5425) and NetWay (AS30916) traffic, CY
 78.21.0.119|/Satoshi:2.1.8/|70005|6848|78.20.0.0/15|BE|ripencc|2007-05-14|TELENET-AS, BE
@@ -110,6 +109,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.82.205.198|/Satoshi:2.1.8/|70005|6848|81.82.0.0/15|BE|ripencc|2002-04-29|TELENET-AS, BE
 81.82.247.41|/Satoshi:2.1.8/|70005|6848|81.82.0.0/15|BE|ripencc|2002-04-29|TELENET-AS, BE
 81.83.5.50|/Satoshi:2.1.8/|70005|6848|81.82.0.0/15|BE|ripencc|2002-04-29|TELENET-AS, BE
+82.131.116.174|/Satoshi:2.1.8/|70005|2586|82.131.0.0/17|EE|ripencc|2003-07-29|UNINET-AS Sopruse pst 145, EE
 82.168.239.241|/Satoshi:2.1.8/|70005|1136|82.168.224.0/19|NL|ripencc|2003-08-29|KPN KPN National, NL
 82.64.79.4|/Satoshi:2.1.8/|70005|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 83.136.182.159|/Satoshi:2.1.8/|70005|141039|83.136.182.0/24|DE|ripencc|2019-01-08|TEFINCOMHOST-AS-AP Packethub s.a., PA
@@ -125,7 +125,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.136.228.112|/Satoshi:2.1.8/|70005|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.196.219.42|/Satoshi:2.1.8/|70005|3215|86.196.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 86.206.240.156|/Satoshi:2.1.8/|70005|3215|86.206.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
-86.60.178.2|/Satoshi:2.1.8/|70005|39699|86.60.128.0/17|FI|ripencc|2005-09-08|SSPOY-AS, FI
 86.84.135.104|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 86.84.93.20|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 86.93.14.93|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
