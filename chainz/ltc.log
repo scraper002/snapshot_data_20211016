@@ -15,11 +15,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.198.191.172|/LitecoinCore:0.18.1/|70015|30881|109.198.184.0/21|RU|ripencc|2009-12-22|TENSOR-AS Yaroslavl_ branch, RU
 110.175.25.47|/NBitcoin:5.0.49/|70012|7545|110.175.25.0/24|AU|apnic|2009-05-08|TPG-INTERNET-AP TPG Telecom Limited, AU
 112.205.28.248|/NBitcoin:5.0.49/|70012|9299|112.205.0.0/19|PH|apnic|2009-02-16|IPG-AS-AP Philippine Long Distance Telephone Company, PH
-115.171.229.96|/Satoshi:0.8.6.1/|70002|4847|115.171.192.0/18|CN|apnic|2008-08-25|CNIX-AP China Networks Inter-Exchange, CN
 116.202.0.237|/LitecoinCore:0.17.1/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 117.176.242.148|/Satoshi:0.10.2.2/|70003|9808|117.176.0.0/16|CN|apnic|2007-07-17|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+119.137.53.0|/BitcoinKit:0.1.0/|70015|4134|119.128.0.0/12|CN|apnic|2008-02-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 119.3.162.199|/LitecoinCore:0.17.1/|70015|55990|119.3.160.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
 119.56.109.141|/BitcoinKit:0.1.0/|70015|4773|119.56.104.0/21|SG|apnic|2008-01-10|MOBILEONELTD-AS-AP MobileOne Ltd. Mobile/Internet Service Provider Singapore, SG
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -32,6 +32,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.161.164|/LitecoinCore:0.17.1/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 137.175.253.77|/NBitcoin:5.0.49/|70012|5769|137.175.192.0/18|CA|arin|2013-06-27|VIDEOTRON, CA
 138.0.147.63|/NBitcoin:5.0.49/|70012|264566|138.0.147.0/24|BR|lacnic|2015-01-15|INTERNET O SUL COMERCIO E SERVICOS LTDA, BR
+139.184.77.183|???|0|786|139.184.0.0/17|GB|ripencc|1990-03-27|JANET Jisc Services Limited, GB
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
@@ -41,7 +42,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.202.71.217|/LitecoinCore:0.16.3/|70015|16276|149.202.0.0/16|FR|ripencc|1999-04-26|OVH, FR
 149.210.234.234|/Node:0.8.7.2/|70002|20857|149.210.128.0/17|NL|ripencc|2011-08-17|TRANSIP-AS Amsterdam, the Netherlands, NL
 149.233.128.223|/LitecoinCore:0.18.1/|70015|15943|149.233.128.0/17|DE|ripencc|1993-05-05|WTNET-AS wilhelm.tel GmbH, DE
-149.56.132.49|/FlashcoinCore:0.13.3.2/|70015|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|157.230.112.0/20|US|arin|2018-08-22|DIGITALOCEAN-ASN, US
 157.245.213.236|/B2CCoinCore:0.16.3/|70015|14061|157.245.208.0/20|US|arin|2019-05-09|DIGITALOCEAN-ASN, US
 158.69.196.61|/Node:0.8.7.2/|70002|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
@@ -57,6 +57,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 171.25.193.78|/LitecoinCore:0.18.1/|70015|198093|171.25.193.0/24|SE|ripencc|2012-01-13|DFRI-AS Foreningen for digitala fri- och rattigheter, SE
 172.58.189.62|/WalletKit:0.1.0/|70015|21928|172.58.184.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 172.58.21.104|/BitcoinKit:0.1.0/|70015|21928|172.58.16.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
+172.58.3.80|/BitcoinKit:0.1.0/|70015|21928|172.58.0.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 172.81.177.178|/LitecoinCore:0.17.1/|70015|174|172.81.176.0/21|CA|arin|2015-05-14|COGENT-174, US
 172.98.75.214|/NBitcoin:5.0.49/|70012|46562|172.98.75.0/24|US|arin|2015-06-15|PERFORMIVE, US
 173.216.237.47|/LitecoinCore:0.18.1/|70015|19108|173.216.0.0/16|US|arin|2009-09-16|SUDDENLINK-COMMUNICATIONS, US
@@ -118,6 +119,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.227.13.33|/LitecoinCore:0.18.1/|70015|14618|3.224.0.0/12|US|arin|2018-06-25|AMAZON-AES, US
 3.80.88.244|/Dain:0.1.0/|70003|14618|3.80.0.0/12|US|arin|2017-12-20|AMAZON-AES, US
+3.85.124.179|/Dain:0.1.0/|70003|14618|3.80.0.0/12|US|arin|2017-12-20|AMAZON-AES, US
 3.94.148.109|/btcwire:0.5.0/ltcd:0.20.1/|70013|14618|3.80.0.0/12|US|arin|2017-12-20|AMAZON-AES, US
 34.241.39.232|/LitecoinCore:0.18.1/|70015|16509|34.240.0.0/13|US|arin|2016-09-12|AMAZON-02, US
 34.89.205.186|/litecoinj:0.15.2-SNAPSHOT/|70002|15169|34.88.0.0/14|US|arin|2018-09-28|GOOGLE, US
@@ -126,7 +128,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.79.14.109|/loaf-android:175/|70015|12389|37.79.0.0/19|RU|ripencc|2012-01-31|ROSTELECOM-AS, RU
 38.78.200.158|/LitecoinCore:0.18.1/|70015|54329|38.78.200.0/24|US|arin|1991-04-16|SUMO, US
 39.40.17.240|/WalletKit:0.1.0/|70015|17557|39.40.0.0/17|PK|apnic|2011-03-28|PKTELECOM-AS-PK Pakistan Telecommunication Company Limited, PK
-45.128.36.95|/loaf-android:175/|70015|9009|45.128.36.0/24|GE|ripencc|2019-07-11|M247, GB
 45.130.83.207|/LitecoinCore:0.18.1/|70015|206092|45.130.83.0/24|NL|ripencc|2019-07-17|SECFIREWALLAS, GB
 45.130.83.81|/LitecoinCore:0.18.1/|70015|206092|45.130.83.0/24|NL|ripencc|2019-07-17|SECFIREWALLAS, GB
 45.169.240.53|/NBitcoin:5.0.49/|70012|268134|45.169.240.0/22|BR|lacnic|2019-01-11|Topetex Telecom LTDA, BR
