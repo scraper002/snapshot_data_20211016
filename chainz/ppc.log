@@ -37,6 +37,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.116.187|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51167|167.86.116.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 172.119.142.145|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|20001|172.112.0.0/13|US|arin|2015-06-19|TWC-20001-PACWEST, US
 172.93.89.101|/Satoshi:0.20.2/Peercoin:0.10.2/|70015|174|172.93.80.0/20|CA|arin|2015-06-25|COGENT-174, US
+174.114.32.125|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|812|174.114.0.0/16|CA|arin|2009-03-04|ROGERS-COMMUNICATIONS, CA
 174.138.15.177|/Satoshi:0.20.2/Peercoin:0.10.2/|70015|14061|174.138.0.0/20|US|arin|2016-04-12|DIGITALOCEAN-ASN, US
 176.187.72.135|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
 176.37.82.11|/Satoshi:0.20.2/Peercoin:0.10.2/|70015|39608|176.37.0.0/16|UA|ripencc|2011-05-20|LANETUA-AS, UA
@@ -80,7 +81,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 218.109.207.112|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24139|218.109.192.0/19|CN|apnic|2002-12-31|WASUHZ Huashu media&Network Limited, CN
 23.233.55.92|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|5645|23.233.0.0/17|CA|arin|2013-09-24|TEKSAVVY, CA
 23.94.52.55|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|36352|23.94.48.0/21|US|arin|2013-08-16|AS-COLOCROSSING, US
-24.229.236.161|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3737|24.229.0.0/16|US|arin|1997-05-02|AS-PTD, US
 24.251.247.8|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|22773|24.251.0.0/16|US|arin|2003-10-28|ASN-CXA-ALL-CCI-22773-RDC, US
 24.55.250.221|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7992|24.55.192.0/18|CA|arin|2012-09-12|COGECOWAVE, CA
 24.76.93.35|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6327|24.76.92.0/22|CA|arin|2000-12-15|SHAW, CA
@@ -121,6 +121,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.194.98.202|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.40.43.233|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.85.181.183|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
+74.135.197.38|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|10796|74.135.128.0/17|US|arin|2006-04-07|TWC-10796-MIDWEST, US
 74.3.186.34|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|63052|74.3.186.0/24|CA|arin|2009-05-20|AS-CBBC, CA
 74.44.207.151|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7011|74.44.200.0/21|US|arin|2006-01-27|FRONTIER-AND-CITIZENS, US
 75.118.114.96|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12083|75.118.112.0/21|US|arin|2006-11-02|WOW-INTERNET, US
@@ -137,9 +138,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.169.175.185|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
 81.187.16.25|/Satoshi:0.6.3/Peercoin:0.5.0/Peerunity:0.2.2/|60006|20712|81.187.0.0/16|GB|ripencc|2003-02-03|AS20712 Andrews & Arnold Ltd, GB
 81.221.243.202|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1836|81.221.0.0/16|CH|ripencc|2002-11-26|GREEN green.ch AG Autonomous System, CH
+82.207.237.227|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|8881|82.207.237.0/24|DE|ripencc|2003-12-02|VERSATEL, DE
 83.4.131.55|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|5617|83.0.0.0/13|PL|ripencc|2003-12-03|TPNET, PL
 83.85.142.36|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.152.234.252|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.187.142.2|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.241.10.250|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|31549|84.241.0.0/18|IR|ripencc|2004-06-10|RASANA, IR
 86.151.206.96|/Satoshi:0.20.2/Peercoin:0.10.2/|70015|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.42.1.25|/PeercoinJ:0.13.1/Peercoin Wallet:3.2/|60012|5466|86.40.0.0/13|IE|ripencc|2005-03-31|EIRCOM Internet House, IE
