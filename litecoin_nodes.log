@@ -34,11 +34,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.150.52.74|7107|/FlashcoinCore:0.13.3/|33387|107.150.32.0/19|US|arin|2013-12-03|NOCIX, US
 107.190.47.97|9933|/LitecoinCore:0.18.1/|5645|107.190.32.0/20|CA|arin|2014-04-25|TEKSAVVY, CA
 107.191.119.170|1337|/DefcoinCore:1.0.0/|3842|107.191.116.0/22|US|arin|2014-05-08|RAMNODE, US
+108.161.122.147|9333|/LitecoinCore:0.18.1/|5645|108.161.112.0/20|CA|arin|2011-10-25|TEKSAVVY, CA
 108.168.45.137|9333|/LitecoinCore:0.18.1/|40788|108.168.0.0/17|CA|arin|2011-12-29|START-, CA
 108.175.238.236|9333|/LitecoinCore:0.18.1/|5645|108.175.224.0/20|CA|arin|2012-03-02|TEKSAVVY, CA
 108.200.255.200|9333|/LitecoinCore:0.18.1/|7018|108.192.0.0/10|US|arin|2011-01-12|ATT-INTERNET4, US
 108.234.193.108|9333|/LitecoinCore:0.17.1/|7018|108.192.0.0/10|US|arin|2011-01-12|ATT-INTERNET4, US
-108.54.105.21|9333|/LitecoinCore:0.18.1/|701|108.54.0.0/16|US|arin|2009-06-05|UUNET, US
 108.61.183.37|9513|/Satoshi:0.8.7.2/|20473|108.61.180.0/22|US|arin|2010-12-08|AS-CHOOPA, US
 108.61.216.97|9333|/LitecoinCore:0.18.1/|20473|108.61.216.0/22|US|arin|2010-12-08|AS-CHOOPA, US
 109.236.88.130|9333|/LitecoinCore:0.17.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
@@ -363,6 +363,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.130.224.173|9333|/LitecoinCore:0.16.3/|57043|185.130.224.0/24|NL|ripencc|2015-12-11|HOSTKEY-AS, NL
 185.130.44.140|9333|/LitecoinCore:0.17.1/|210083|185.130.44.0/24|BZ|ripencc|2018-10-11|PRIVEX, BZ
 185.138.8.45|9333|/LitecoinCore:0.15.1/|49253|185.138.8.0/24|RU|ripencc|2016-02-09|BRINGO-AS, RU
+185.141.63.163|8335|/LitecoinCore:0.18.1/|44901|185.141.63.0/24|CY|ripencc|2018-02-23|BELCLOUD, BG
 185.142.239.205|9333|/LitecoinCore:0.18.1/|174|185.142.239.0/24|SC|ripencc|2016-03-10|COGENT-174, US
 185.15.92.18|10993|/LitecoinCore:0.17.1/|25486|185.15.92.0/23|DE|ripencc|2013-01-10|LUN-AS Lightup Network Solutions GmbH & Co. KG, DE
 185.151.240.221|9333|/LitecoinCore:0.16.3/|49505|185.151.240.0/23|RU|ripencc|2016-05-13|SELECTEL, RU
@@ -498,6 +499,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:7e8:c8fd:6e00:1e69:7aff:fe6f:200f|9333|/LitecoinCore:0.18.1/|6661|2001:7e8::/32|LU|ripencc|2002-06-05|EPT-LU Entreprise des P. et T. Luxembourg, LU
 2001:7e8:cce7:b700:8191:c385:c09c:608a|9333|/LitecoinCore:0.18.1/|6661|2001:7e8::/32|LU|ripencc|2002-06-05|EPT-LU Entreprise des P. et T. Luxembourg, LU
 2001:b07:5d2b:d187:3583:a807:a44b:a5ce|9333|/LitecoinCore:0.18.1/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
+2001:b07:6467:1987:79e3:2011:eeec:1fde|9333|/LitecoinCore:0.18.1/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
 2001:bc8:47a4:1119::1|9532|/LitecoinCore:0.18.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:f40:908:64ef:a128:c58:af19:cbeb|9333|/LitecoinCore:0.18.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
 2001:fb1:91:41d7:808a:bbaa:206b:cc4|9333|/LitecoinCore:0.18.1/|17552|2001:fb1:91::/48|TH|apnic|2012-03-28|TRUEONLINE-AS-AP True Online, TH
@@ -923,6 +925,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.93.77.195|9333|/LitecoinCore:0.16.3/|37963|47.92.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.94.111.103|9333|/LitecoinCore:0.16.3/|37963|47.94.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.97.125.23|9333|/LitecoinCore:0.16.3/|37963|47.96.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+47.97.9.50|9333|/LitecoinCore:0.17.1/|37963|47.96.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 49.12.63.70|9333|/LitecoinCore:0.18.1/|24940|49.12.0.0/16|DE|ripencc|2010-10-21|HETZNER-AS, DE
 5.100.250.140|9333|/LitecoinCore:0.14.2/|44709|5.100.250.0/24|IL|ripencc|2012-06-26|CLOUDWEBMANAGE-, IL
 5.133.65.82|9333|/LitecoinCore:0.17.1/|15440|5.133.65.0/24|LT|ripencc|2018-11-09|BALTNETA Customers AS, LT
