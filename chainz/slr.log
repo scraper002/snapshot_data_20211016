@@ -31,13 +31,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.183.107.84|/Satoshi:2.1.8/|70005|9009|185.183.107.0/24|RO|ripencc|2016-12-23|M247, GB
 185.38.178.255|/Satoshi:2.1.8/|70005|62161|185.38.178.0/24|HR|ripencc|2013-10-24|PRO-PING, HR
 188.137.85.215|/Satoshi:2.1.8/|70005|13000|188.137.80.0/20|PL|ripencc|2009-05-06|LEON-AS, PL
-188.222.81.89|/Satoshi:2.1.8/|70005|5607|188.220.0.0/14|GB|ripencc|2009-05-26|BSKYB-BROADBAND-AS, GB
 189.213.199.35|/Satoshi:2.1.8/|70005|6503|189.213.199.0/24|MX|lacnic|2014-06-12|Axtel, S.A.B. de C.V., MX
 190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
 193.121.108.34|???|0|5432|193.121.0.0/16|BE|ripencc|1996-05-08|PROXIMUS-ISP-AS, BE
 193.80.184.209|/Satoshi:2.1.8/|70005|1901|193.80.0.0/15|AT|ripencc|1993-09-01|EUNETAT-AS A1 Telekom Austria AG, AT
 193.9.249.161|/Satoshi:2.1.8/|70005|60781|193.9.249.0/24|RU|ripencc|2011-04-13|LEASEWEB-NL-AMS-01 Netherlands, NL
-197.229.1.160|/Satoshi:2.1.8/|70005|37457|197.228.0.0/15|ZA|afrinic|2013-02-12|Telkom-Internet, ZA
 205.169.34.58|/Satoshi:2.1.8/|70005|209|205.168.0.0/14|US|arin|1995-03-17|CENTURYLINK-US-LEGACY-QWEST, US
 213.19.26.38|/Satoshi:2.1.8/|70005|28851|213.19.0.0/17|CZ|ripencc|2003-09-26|FORTECH-CZ Litomysl, CZ
 216.232.200.114|/Satoshi:2.1.8/|70005|852|216.232.0.0/16|CA|arin|2000-01-13|TELUS Communications, CA
@@ -61,6 +59,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.35.163.6|/Satoshi:2.1.8/|70005|5410|62.34.0.0/15|FR|ripencc|2002-10-09|BOUYGTEL-ISP, FR
 63.152.30.152|/Satoshi:2.1.8/|70005|209|63.152.0.0/16|US|arin|2000-07-12|CENTURYLINK-US-LEGACY-QWEST, US
 65.242.59.210|/Satoshi:2.1.8/|70005|701|65.240.0.0/13|US|arin|2002-02-13|UUNET, US
+67.54.210.91|/Satoshi:2.1.8/|70005|7155|67.54.210.0/24|US|arin|2005-07-15|VIASAT-SP-BACKBONE, US
 68.205.97.213|/Satoshi:2.1.8/|70005|33363|68.204.0.0/15|US|arin|2003-01-31|BHN-33363, US
 70.176.43.120|/Satoshi:2.1.8/|70005|22773|70.176.0.0/16|US|arin|2004-07-21|ASN-CXA-ALL-CCI-22773-RDC, US
 72.132.167.178|/Satoshi:2.1.8/|70005|20001|72.132.0.0/16|US|arin|2005-08-02|TWC-20001-PACWEST, US
@@ -79,8 +78,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.214.101.55|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.220.48.54|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.220.51.184|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+79.235.215.207|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.121.154.4|/Satoshi:2.1.8/|70005|8447|80.120.0.0/14|AT|ripencc|2001-09-12|A1TELEKOM-AT A1 Telekom Austria AG, AT
-80.186.165.32|/Satoshi:2.1.8/|70005|719|80.186.0.0/16|FI|ripencc|2002-05-28|ELISA-AS Helsinki, Finland, FI
 80.220.208.18|/Satoshi:2.1.8/|70005|1759|80.220.0.0/14|FI|ripencc|2002-03-27|TSF-IP-CORE Telia Finland Oyj, FI
 81.170.217.202|/Satoshi:2.1.8/|70005|8473|81.170.128.0/17|SE|ripencc|2003-05-12|BAHNHOF http://www.bahnhof.net/, SE
 81.246.220.222|/Satoshi:2.1.8/|70005|5432|81.244.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
@@ -118,7 +117,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.202.10.101|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.202.5.192|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.208.101.31|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-93.211.216.35|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.219.163.164|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.110.135.218|/Satoshi:2.1.8/|70005|47377|94.110.128.0/19|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
 94.30.0.250|/Satoshi:2.1.8/|70005|5413|94.30.0.0/17|GB|ripencc|2008-07-16|AS5413, GB
