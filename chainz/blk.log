@@ -25,6 +25,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.249.22.241|/blackcoin-seeder:2.1.0/|70015|51167|173.249.22.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 178.115.128.101|/Blackcoin More:2.13.2.8/|70013|25255|178.115.128.0/20|AT|ripencc|2010-01-12|H3G-AUSTRIA-AS ==) TELE2 AUSTRIA (==, AT
 178.63.23.210|/Blackcoin More:2.13.2.8/|70013|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
+181.126.229.160|/Blackcoin More:2.13.2.6/|70013|23201|181.126.192.0/18|PY|lacnic|2012-06-20|Telecel S.A., PY
 183.156.127.188|/Blackcoin More:2.13.2.8/|70013|4134|183.128.0.0/11|CN|apnic|2009-11-04|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 183.156.71.208|/Blackcoin More:2.13.2.8/|70013|4134|183.128.0.0/11|CN|apnic|2009-11-04|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 183.225.239.123|/Blackcoin More:2.13.2.7/|70013|9808|183.225.128.0/17|CN|apnic|2009-11-08|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
@@ -58,7 +59,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.186.85.190|/Blackcoin More:2.13.2.3/|70013|5650|47.184.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
 49.198.97.63|/Blackcoin More:2.13.2.8/|70013|4804|49.198.0.0/16|AU|apnic|2010-12-02|MPX-AS Microplex PTY LTD, AU
 49.77.57.30|/Blackcoin More:2.13.2.8/|70013|4134|49.64.0.0/11|CN|apnic|2010-11-15|CHINANET-BACKBONE No.31,Jin-rong Street, CN
-5.102.204.153|/Blackcoin More:2.13.2.6/|70013|47956|5.102.204.0/22|IL|ripencc|2012-06-27|XFONE, IL
 50.220.121.211|/Blackcoin More:2.13.2.8/|70013|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
 51.9.245.42|/Blackcoin More:2.13.2.7/|70013|6871|51.9.0.0/16|GB|ripencc|1993-09-01|PLUSNET UK Internet Service Provider, GB
 54.171.206.156|/Blackcoin More:2.13.2.8/|70013|16509|54.171.0.0/16|US|arin|2014-10-23|AMAZON-02, US
@@ -75,13 +75,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.225.38.107|/Blackcoin More:2.13.2.7/|70013|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.53.78.243|/Blackcoin More:2.13.2.8/|70013|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 74.41.216.50|/Blackcoin More:2.13.2.8/|70013|5650|74.32.0.0/12|US|arin|2006-01-27|FRONTIER-FRTR, US
-76.171.209.195|/Blackcoin More:2.13.2.6/|70013|20001|76.168.0.0/13|US|arin|2006-07-26|TWC-20001-PACWEST, US
 77.116.29.211|/Blackcoin More:2.13.2.8/|70013|25255|77.116.0.0/14|AT|ripencc|2007-01-10|H3G-AUSTRIA-AS ==) TELE2 AUSTRIA (==, AT
 77.12.183.183|/Blackcoin More:2.13.2.8/|70013|6805|77.0.0.0/12|DE|ripencc|2006-11-21|TDDE-ASN1, DE
 77.251.84.75|/Blackcoin More:2.13.2.8/|70013|33915|77.250.0.0/15|NL|ripencc|2007-01-26|TNF-AS, NL
 78.198.211.85|/Blackcoin More:2.13.2.8/|70013|12322|78.192.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
 79.183.173.201|/Blackcoin More:2.13.2.7/|70013|8551|79.183.173.0/24|IL|ripencc|2007-06-14|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
-79.201.57.46|/Blackcoin More:2.13.2.8/|70013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.108.64.53|/Blackcoin More:2.13.2.8/|70013|6830|80.108.0.0/16|AT|ripencc|2001-07-19|LIBERTYGLOBAL Liberty Global (formerly UPC Broadband Holding, aka AORTA), NL
 81.205.29.238|/Satoshi:1.2.4/|60019|1136|81.204.0.0/14|NL|ripencc|2002-10-16|KPN KPN National, NL
 82.169.3.109|/Blackcoin More:2.13.2.6/|70013|1136|82.169.0.0/18|NL|ripencc|2003-08-29|KPN KPN National, NL
@@ -119,4 +117,3 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.221.50.32|/Blackcoin More:2.13.2.7/|70013|12714|95.221.0.0/16|RU|ripencc|2009-03-09|TI-AS Moscow, Russia, RU
 95.90.241.242|/Blackcoin More:2.13.2.8/|70013|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 98.250.175.53|/Blackcoin More:2.13.2.8/|70013|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
-99.68.157.29|/Blackcoin More:2.13.2.8/|70013|7018|99.64.0.0/13|US|arin|2008-02-25|ATT-INTERNET4, US
