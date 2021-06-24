@@ -33,6 +33,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 18.216.227.76|/Satoshi:2.1.8/|70005|16509|18.216.0.0/14|US|arin|2019-10-07|AMAZON-02, US
 181.188.136.64|/Satoshi:2.1.8/|70005|27882|181.188.136.0/24|BO|lacnic|2013-11-05|Telefonica Celular de Bolivia S.A., BO
 181.214.215.202|/Satoshi:2.1.8/|70005|18345|181.214.215.0/24|CL|lacnic|2014-05-29|SERVERS-AUS-CUST Servers Australia Customers, AU
+187.194.104.72|/Satoshi:2.1.8/|70005|8151|187.194.104.0/23|MX|lacnic|2011-06-06|Uninet S.A. de C.V., MX
+188.107.30.76|/Satoshi:2.1.8/|70005|3209|188.96.0.0/12|DE|ripencc|2009-01-20|VODANET International IP-Backbone of Vodafone, DE
 188.137.85.215|/Satoshi:2.1.8/|70005|13000|188.137.80.0/20|PL|ripencc|2009-05-06|LEON-AS, PL
 189.213.199.35|/Satoshi:2.1.8/|70005|6503|189.213.199.0/24|MX|lacnic|2014-06-12|Axtel, S.A.B. de C.V., MX
 190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
@@ -85,6 +87,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.78.48.161|/Satoshi:2.1.8/|70005|34569|77.78.0.0/18|BG|ripencc|2007-02-27|NETWORX-BG Online Direct, BG
 79.195.237.28|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.235.215.207|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+79.253.154.43|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.121.154.4|/Satoshi:2.1.8/|70005|8447|80.120.0.0/14|AT|ripencc|2001-09-12|A1TELEKOM-AT A1 Telekom Austria AG, AT
 80.129.151.32|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.131.116.25|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
@@ -110,12 +113,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.93.14.93|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 87.123.28.39|/Satoshi:2.1.8/|70005|8881|87.123.16.0/20|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.50.50|/Satoshi:2.1.8/|70005|8881|87.123.48.0/20|DE|ripencc|2005-07-27|VERSATEL, DE
+87.123.63.97|/Satoshi:2.1.8/|70005|8881|87.123.48.0/20|DE|ripencc|2005-07-27|VERSATEL, DE
 87.132.155.84|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.171.200.55|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.66.159.179|/Satoshi:2.1.8/|70005|5432|87.64.0.0/14|BE|ripencc|2005-05-19|PROXIMUS-ISP-AS, BE
 87.7.120.229|/Satoshi:2.1.8/|70005|3269|87.6.0.0/15|IT|ripencc|2005-07-13|ASN-IBSNAZ, IT
 88.122.110.233|/Satoshi:2.1.8/|70005|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
-88.97.137.102|/Satoshi:2.1.8/|70005|13037|88.96.0.0/15|GB|ripencc|2005-08-03|ZEN-AS Zen Internet - UK, GB
 89.238.130.76|/Satoshi:2.1.8/|70005|9009|89.238.130.0/24|GB|ripencc|2006-07-28|M247, GB
 89.244.177.178|/Satoshi:2.1.8/|70005|8881|89.244.176.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
 89.244.84.89|/Satoshi:2.1.8/|70005|8881|89.244.80.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
@@ -124,7 +127,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.4.238.66|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.106.186.190|/Satoshi:2.1.8/|70005|3303|92.106.0.0/16|CH|ripencc|2007-09-28|SWISSCOM Swisscom (Switzerland) Ltd, CH
 92.108.14.31|/Satoshi:2.1.8/|70005|33915|92.108.0.0/15|NL|ripencc|2007-10-23|TNF-AS, NL
-92.116.242.238|/Satoshi:2.1.8/|70005|8881|92.116.240.0/20|DE|ripencc|2007-10-25|VERSATEL, DE
 92.157.185.253|/Satoshi:2.1.8/|70005|3215|92.157.128.0/17|FR|ripencc|2007-07-12|France Telecom - Orange, FR
 92.200.108.159|/Satoshi:2.1.8/|70005|20676|92.200.0.0/15|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 92.27.71.55|/Satoshi:2.1.8/|70005|13285|92.26.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
