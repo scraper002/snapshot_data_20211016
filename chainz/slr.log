@@ -16,6 +16,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.58.219.222|/Satoshi:2.1.8/|70005|21928|172.58.216.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 174.52.57.101|/Satoshi:2.1.8/|70005|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
 176.120.237.55|/Satoshi:2.1.8/|70005|42892|176.120.237.0/24|RU|ripencc|2012-06-25|LOFIS-AS, RU
+177.71.29.133|/Satoshi:2.1.8/|70005|262427|177.71.24.0/21|BR|lacnic|2013-09-06|Invista Net Provedor de Acesso Ltda, BR
 178.117.115.177|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
 178.117.252.63|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
 178.118.183.73|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
@@ -41,7 +42,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.88.251.241|/Satoshi:2.1.8/|70005|6848|212.88.240.0/20|BE|ripencc|2000-05-22|TELENET-AS, BE
 212.88.252.244|/Satoshi:2.1.8/|70005|6848|212.88.240.0/20|BE|ripencc|2000-05-22|TELENET-AS, BE
 213.19.26.38|/Satoshi:2.1.8/|70005|28851|213.19.0.0/17|CZ|ripencc|2003-09-26|FORTECH-CZ Litomysl, CZ
-213.239.66.210|/Satoshi:2.1.8/|70005|2116|213.239.64.0/18|NO|ripencc|2001-03-27|ASN-CATCHCOM, NO
 216.232.200.114|/Satoshi:2.1.8/|70005|852|216.232.0.0/16|CA|arin|2000-01-13|TELUS Communications, CA
 217.113.81.228|/Satoshi:2.1.8/|70005|3491|217.113.64.0/19|BE|ripencc|2003-08-19|BTN-ASN, US
 217.178.133.208|/Satoshi:2.1.8/|70005|55391|217.178.128.0/18|JP|apnic|2001-03-02|MF-NATIVE6-E INTERNET MULTIFEED CO., JP
@@ -61,6 +61,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 59.17.52.194|/Satoshi:2.1.8/|70005|4766|59.16.0.0/13|KR|apnic|2004-08-02|KIXS-AS-KR Korea Telecom, KR
 60.234.169.193|/Satoshi:2.1.8/|70005|9790|60.234.0.0/16|NZ|apnic|2004-08-09|VOCUSGROUPNZ VocusGroup, NZ
 62.205.108.71|/Satoshi:2.1.8/|70005|6848|62.205.64.0/18|BE|ripencc|2001-11-01|TELENET-AS, BE
+62.205.67.9|/Satoshi:2.1.8/|70005|6848|62.205.64.0/18|BE|ripencc|2001-11-01|TELENET-AS, BE
 62.205.71.89|/Satoshi:2.1.8/|70005|6848|62.205.64.0/18|BE|ripencc|2001-11-01|TELENET-AS, BE
 62.35.163.6|/Satoshi:2.1.8/|70005|5410|62.34.0.0/15|FR|ripencc|2002-10-09|BOUYGTEL-ISP, FR
 63.152.30.152|/Satoshi:2.1.8/|70005|209|63.152.0.0/16|US|arin|2000-07-12|CENTURYLINK-US-LEGACY-QWEST, US
@@ -88,6 +89,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.121.154.4|/Satoshi:2.1.8/|70005|8447|80.120.0.0/14|AT|ripencc|2001-09-12|A1TELEKOM-AT A1 Telekom Austria AG, AT
 80.129.151.32|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.131.116.25|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
+80.140.57.86|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.147.129.194|/Satoshi:2.1.8/|70005|3320|80.144.0.0/13|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.220.208.18|/Satoshi:2.1.8/|70005|1759|80.220.0.0/14|FI|ripencc|2002-03-27|TSF-IP-CORE Telia Finland Oyj, FI
 80.249.83.129|/Satoshi:2.1.8/|70005|12406|80.249.80.0/20|BY|ripencc|2008-10-15|BN-AS Belarussian data communication service provider., BY
@@ -101,6 +103,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.217.85.76|/Satoshi:2.1.8/|70005|33915|82.217.0.0/17|NL|ripencc|2003-10-27|TNF-AS, NL
 82.64.79.4|/Satoshi:2.1.8/|70005|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.95.149.103|/Satoshi:2.1.8/|70005|3265|82.92.0.0/14|NL|ripencc|2003-11-25|XS4ALL-NL Amsterdam, NL
+83.135.133.118|/Satoshi:2.1.8/|70005|8881|83.135.128.0/20|DE|ripencc|2004-01-28|VERSATEL, DE
 83.79.7.75|/Satoshi:2.1.8/|70005|3303|83.79.0.0/16|CH|ripencc|2003-12-10|SWISSCOM Swisscom (Switzerland) Ltd, CH
 84.195.111.156|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 84.199.9.234|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
@@ -119,7 +122,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.122.110.233|/Satoshi:2.1.8/|70005|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
 88.159.154.37|/Satoshi:2.1.8/|70005|1136|88.159.0.0/16|NL|ripencc|2006-01-27|KPN KPN National, NL
 89.238.130.76|/Satoshi:2.1.8/|70005|9009|89.238.130.0/24|GB|ripencc|2006-07-28|M247, GB
-89.244.177.178|/Satoshi:2.1.8/|70005|8881|89.244.176.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
 89.244.84.89|/Satoshi:2.1.8/|70005|8881|89.244.80.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
 89.37.122.22|/Satoshi:2.1.8/|70005|39737|89.37.120.0/21|RO|ripencc|2005-11-29|PRIME-TELECOM-AS, RO
 91.170.103.34|/Satoshi:2.1.8/|70005|12322|91.160.0.0/12|FR|ripencc|2006-08-25|PROXAD, FR
@@ -135,7 +137,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.199.174.73|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.202.124.76|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.219.163.164|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-93.34.159.217|/Satoshi:2.1.8/|70005|12874|93.34.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
 94.110.135.218|/Satoshi:2.1.8/|70005|47377|94.110.128.0/19|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
 94.226.147.247|/Satoshi:2.1.8/|70005|6848|94.224.0.0/14|BE|ripencc|2008-09-18|TELENET-AS, BE
 95.217.78.80|/Satoshi:2.1.8/|70005|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
