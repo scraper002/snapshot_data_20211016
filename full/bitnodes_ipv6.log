@@ -1,5 +1,5 @@
 # Bitnodes https://bitnodes.io/api/v1/snapshots/
-# Time 1624821894
+# Time 1624822336
 IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Hostname|City|Country Code|Latitude|Longitude|Timezone|ASN|Organization Name
 2001:14bb:a9:b3db:6962:c182:300b:a243|8333|70016|/Satoshi:0.21.0/|1624774584|1033|688986|d1h5926nc4hbdyc9ckp-4.rev.dnainternet.fi|Helsinki|FI|60.2286|24.9185|Europe/Helsinki|AS16086|DNA Oyj
 2001:1608:1b:f9::1|17482|70016|/Satoshi:21.99.0/|1624764756|1033|688986|2001:1608:1b:f9::1|None|DE|51.2993|9.491|Europe/Berlin|AS31400|diva-e Datacenters GmbH
@@ -17,7 +17,7 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2001:19f0:5801:a08:5400:2ff:fe41:b5f2|8333|70015|/Satoshi:0.17.1/|1623615593|1036|688986|2001:19f0:5801:a08:5400:2ff:fe41:b5f2|None|AU|-33.494|143.2104|Australia/Sydney|AS20473|AS-CHOOPA
 2001:19f0:5:20cd:5400:3ff:fe34:267f|8333|70016|/Satoshi:0.21.0/|1623615593|1032|688986|2001:19f0:5:20cd:5400:3ff:fe34:267f|Piscataway|US|40.5511|-74.4606|America/New_York|AS20473|AS-CHOOPA
 2001:19f0:6000:9008:5400:ff:fe1b:164b|8333|70016|/Satoshi:0.21.1(NO2X)/|1624582518|1032|688986|2001:19f0:6000:9008:5400:ff:fe1b:164b|None|US|37.751|-97.822|America/Chicago|AS20473|AS-CHOOPA
-2001:19f0:6001:1c09:fd0c:637b:46f8:baff|8333|70016|/Satoshi:0.21.0/|1624703106|1033|688983|2001:19f0:6001:1c09:fd0c:637b:46f8:baff|None|US|37.751|-97.822|America/Chicago|AS20473|AS-CHOOPA
+2001:19f0:6001:1c09:fd0c:637b:46f8:baff|8333|70016|/Satoshi:0.21.0/|1624703106|1033|688986|2001:19f0:6001:1c09:fd0c:637b:46f8:baff|None|US|37.751|-97.822|America/Chicago|AS20473|AS-CHOOPA
 2001:19f0:6001:306f:ec4:7aff:fe8f:66ec|8333|70015|/Satoshi:0.20.1/|1623711035|1033|688986|2001:19f0:6001:306f:ec4:7aff:fe8f:66ec|None|US|37.751|-97.822|America/Chicago|AS20473|AS-CHOOPA
 2001:19f0:6401:ec0:5400:3ff:fe43:93ce|8333|70015|/Satoshi:0.17.1/|1623615583|1036|688986|2001:19f0:6401:ec0:5400:3ff:fe43:93ce|None|US|37.751|-97.822|America/Chicago|AS20473|AS-CHOOPA
 2001:19f0:6801:6ec:2::1|8333|70016|/Satoshi:0.21.0/|1623615593|1033|688986|2001:19f0:6801:6ec:2::1|None|US|37.751|-97.822|America/Chicago|AS20473|AS-CHOOPA
@@ -76,7 +76,7 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2001:41d0:303:6826::|8333|70015|/Satoshi:0.19.0.1/|1624139630|1033|688986|2001:41d0:303:6826::|None|FR|48.8582|2.3387|Europe/Paris|AS16276|OVH SAS
 2001:41d0:303:68cd::|8333|70015|/Satoshi:0.16.1/|1624460363|1037|688986|2001:41d0:303:68cd::|None|FR|48.8582|2.3387|Europe/Paris|AS16276|OVH SAS
 2001:41d0:303:766f::|8333|70012|/Satoshi:0.12.1(bitcore)/|1623615593|5|688986|2001:41d0:303:766f::|None|FR|48.8582|2.3387|Europe/Paris|AS16276|OVH SAS
-2001:41d0:303:a309::|8333|70015|/Satoshi:0.18.1/|1624821066|1037|688986|2001:41d0:303:a309::|None|FR|48.8582|2.3387|Europe/Paris|AS16276|OVH SAS
+2001:41d0:303:a309::|8333|70015|/Satoshi:0.18.1/|1624822338|1037|688986|2001:41d0:303:a309::|None|FR|48.8582|2.3387|Europe/Paris|AS16276|OVH SAS
 2001:41d0:303:c31b::|8333|70016|/Satoshi:21.99.0/|1623617044|1033|688986|2001:41d0:303:c31b::|None|FR|48.8582|2.3387|Europe/Paris|AS16276|OVH SAS
 2001:41d0:303:c3b7::|8333|70015|/Satoshi:0.18.0/|1624222557|1037|688986|2001:41d0:303:c3b7::|None|FR|48.8582|2.3387|Europe/Paris|AS16276|OVH SAS
 2001:41d0:303:d80a::|8333|70015|/Satoshi:0.19.1/|1624328790|1032|688986|2001:41d0:303:d80a::|None|FR|48.8582|2.3387|Europe/Paris|AS16276|OVH SAS
@@ -218,7 +218,6 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2001:4dd0:3564:1:b977:bd71:4612:8e40|8333|70016|/Satoshi:0.21.1/|1624770829|1033|688986|2001:4dd0:3564:1:b977:bd71:4612:8e40|Frechen|DE|50.9164|6.8071|Europe/Berlin|AS8422|NetCologne Gesellschaft fur Telekommunikation mbH
 2001:4dd0:af0e:3564::69:90|8333|70016|/Satoshi:0.21.1/|1624454189|1033|688986|2001:4dd0:af0e:3564::69:90|None|DE|51.2993|9.491|Europe/Berlin|AS8422|NetCologne Gesellschaft fur Telekommunikation mbH
 2001:4dd2:46c5:0:8be:db06:9910:dda2|8333|70016|/Satoshi:0.21.0/|1624799813|1033|688986|2001:4dd2:46c5:0:8be:db06:9910:dda2|Cologne|DE|50.9697|7.005|Europe/Berlin|AS8422|NetCologne Gesellschaft fur Telekommunikation mbH
-2001:558:600a:d8:a557:84e9:8864:9f67|8333|70015|/Satoshi:0.20.1/|1624454962|1033|688986|2001:558:600a:d8:a557:84e9:8864:9f67|Kirkland|US|47.6784|-122.1857|America/Los_Angeles|AS7922|COMCAST-7922
 2001:558:600c:15:d1aa:11cd:b54c:d825|8333|70016|/Satoshi:0.21.1/|1624361654|1033|688986|2001:558:600c:15:d1aa:11cd:b54c:d825|Greenback|US|35.6564|-84.1678|America/New_York|AS7922|COMCAST-7922
 2001:638:a000:4140::ffff:191|8333|70016|/Satoshi:0.21.0/|1623615593|1033|688986|jeru.informatik.uni-erlangen.de|Erlangen|DE|49.5985|10.997|Europe/Berlin|AS680|Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
 2001:678:7dc:8::2|8333|70016|/Satoshi:21.99.0/|1623615583|1033|688986|host-8.6.eff.ro|None|RO|45.9968|24.997|Europe/Bucharest|AS39149|Rin Trans Activ Srl
@@ -361,7 +360,7 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2406:3003:2002:471c:d4ae:6f99:1d81:8b04|8333|70016|/Satoshi:0.21.0/|1624497040|1033|688986|2406:3003:2002:471c:d4ae:6f99:1d81:8b04|Bukit Batok New Town|SG|1.3563|103.7542|Asia/Singapore|AS55430|Starhub Ltd
 2408:8207:30a3:a90:280:64ff:fee2:9288|8333|70015|/Satoshi:0.18.1(Omni:0.9.0)/|1624725626|1037|688986|2408:8207:30a3:a90:280:64ff:fee2:9288|Beijing|CN|39.9285|116.385|Asia/Shanghai|AS4808|China Unicom Beijing Province Network
 2408:8210:4807:54f0:211:32ff:fee8:11da|8333|70016|/Satoshi:0.21.1/|1624737513|1033|688986|2408:8210:4807:54f0:211:32ff:fee8:11da|Tianjin|CN|39.1488|117.1762|Asia/Shanghai|AS4837|CHINA UNICOM China169 Backbone
-2408:823c:6410:b08:c547:a02e:6461:d59b|8333|70015|/Satoshi:0.16.2/|1624737503|1037|688985|2408:823c:6410:b08:c547:a02e:6461:d59b|None|CN|34.7732|113.722|Asia/Shanghai|AS4837|CHINA UNICOM China169 Backbone
+2408:823c:6410:b08:c547:a02e:6461:d59b|8333|70015|/Satoshi:0.16.2/|1624737503|1037|688986|2408:823c:6410:b08:c547:a02e:6461:d59b|None|CN|34.7732|113.722|Asia/Shanghai|AS4837|CHINA UNICOM China169 Backbone
 2408:8248:7001:7731::83c|8333|70015|/Satoshi:0.19.1/|1624785736|1033|688986|2408:8248:7001:7731::83c|None|CN|34.7732|113.722|Asia/Shanghai|AS4837|CHINA UNICOM China169 Backbone
 2408:832e:cb:53a0:f0ad:14da:f5e6:6977|8333|70015|/Satoshi:0.20.1/|1624821061|1032|688986|2408:832e:cb:53a0:f0ad:14da:f5e6:6977|None|CN|34.7732|113.722|Asia/Shanghai|AS4837|CHINA UNICOM China169 Backbone
 2409:10:ca20:1df0:224:e8ff:fe1f:60d9|8333|70016|/Satoshi:0.21.0/|1623615593|1033|688986|2409:10:ca20:1df0:224:e8ff:fe1f:60d9|Musashino|JP|35.7146|139.5742|Asia/Tokyo|AS55391|INTERNET MULTIFEED CO.
@@ -383,7 +382,7 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2600:1f18:41a0:d000:cba6:77c8:4429:7ea|8333|70016|/Satoshi:0.21.0/|1623615599|1032|688986|2600:1f18:41a0:d000:cba6:77c8:4429:7ea|Ashburn|US|39.0481|-77.4728|America/New_York|AS14618|AMAZON-AES
 2600:1f18:64d9:1603:4436:871e:2bfe:7403|8333|70016|/Satoshi:0.21.1/|1623675006|1033|688986|2600:1f18:64d9:1603:4436:871e:2bfe:7403|Ashburn|US|39.0481|-77.4728|America/New_York|AS14618|AMAZON-AES
 2600:3c00::f03c:92ff:feb7:62ac|8333|70016|/Satoshi:0.21.1/|1624454966|1032|688969|2600:3c00::f03c:92ff:feb7:62ac|Richardson|US|32.9473|-96.7028|America/Chicago|AS63949|Linode, LLC
-2600:3c01::f03c:91ff:fed8:db38|8333|70015|/Satoshi:0.18.0/|1624454602|1036|688984|2600:3c01::f03c:91ff:fed8:db38|Fremont|US|37.5625|-122.0004|America/Los_Angeles|AS63949|Linode, LLC
+2600:3c01::f03c:91ff:fed8:db38|8333|70015|/Satoshi:0.18.0/|1624454602|1036|688986|2600:3c01::f03c:91ff:fed8:db38|Fremont|US|37.5625|-122.0004|America/Los_Angeles|AS63949|Linode, LLC
 2600:3c02::f03c:92ff:fe31:ed80|8333|70016|/Satoshi:21.99.0/|1624741713|1032|688986|2600:3c02::f03c:92ff:fe31:ed80|Atlanta|US|33.7485|-84.3871|America/New_York|AS63949|Linode, LLC
 2600:3c03::f03c:91ff:fe51:1970|8333|70016|/Satoshi:0.21.1/|1624202821|1033|688979|2600:3c03::f03c:91ff:fe51:1970|Cedar Knolls|US|40.8229|-74.4592|America/New_York|AS63949|Linode, LLC
 2600:3c04::f03c:92ff:fe7a:6a29|8333|70015|/Satoshi:0.20.1(@devinbileck)/|1623615593|1037|688985|2600:3c04::f03c:92ff:fe7a:6a29|Toronto|CA|43.6644|-79.4195|America/Toronto|AS63949|Linode, LLC
@@ -447,7 +446,6 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2603:3023:a4a:800::93a6|8333|70015|/Satoshi:0.20.1/|1624455364|1033|688986|2603:3023:a4a:800::93a6|Tacoma|US|47.2067|-122.4414|America/Los_Angeles|AS7922|COMCAST-7922
 2603:3024:1a6f:6000::b80d|8333|70016|/Satoshi:0.21.1/|1624800164|1032|688986|2603:3024:1a6f:6000::b80d|Santa Cruz|US|37.0313|-122.1198|America/Los_Angeles|AS7922|COMCAST-7922
 2603:3024:90a:3800:74d8:d35e:1c33:9993|8333|70015|/Satoshi:0.20.0/|1624318581|1032|0|2603:3024:90a:3800:74d8:d35e:1c33:9993|Hayward|US|37.6313|-122.0975|America/Los_Angeles|AS7922|COMCAST-7922
-2603:6000:d74b:7746:6d58:ee19:138a:2763|8333|70015|/Satoshi:0.17.0/|1624774222|1037|688986|2603-6000-d74b-7746-6d58-ee19-138a-2763.res6.spectrum.com|Oak Creek|US|42.8895|-87.9074|America/Chicago|AS10796|TWC-10796-MIDWEST
 2603:6011:1c02:5264:5be4:8f01:b36d:6549|8333|70016|/Satoshi:21.99.0/|1624466707|1033|688985|2603-6011-1c02-5264-5be4-8f01-b36d-6549.res6.spectrum.com|Louisville|US|38.22|-85.6942|America/Kentucky/Louisville|AS10796|TWC-10796-MIDWEST
 2603:6011:af41:7214::5|8333|70016|/Satoshi:0.21.1/|1623624688|1101|688986|2603-6011-af41-7214-0000-0000-0000-0005.res6.spectrum.com|Mentor|US|41.6868|-81.3399|America/New_York|AS10796|TWC-10796-MIDWEST
 2603:6081:1800:6600:16dd:a9ff:feee:b2f3|8333|70016|/Satoshi:0.21.0/|1624520021|1033|688986|2603-6081-1800-6600-16dd-a9ff-feee-b2f3.res6.spectrum.com|Raleigh|US|35.8846|-78.6385|America/New_York|AS11426|TWC-11426-CAROLINAS
@@ -547,7 +545,7 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2804:14c:bbad:403b:e4a0:6632:7a89:33b5|8333|70016|/Satoshi:0.21.0/|1624776211|1033|688986|2804:14c:bbad:403b:e4a0:6632:7a89:33b5|Goiânia|BR|-16.6391|-49.2622|America/Sao_Paulo|AS28573|CLARO S.A.
 2804:14d:4c85:91c4:c462:553f:52b3:f007|8333|70016|/Satoshi:0.21.0/|1624819329|1033|677469|2804:14d:4c85:91c4:c462:553f:52b3:f007|Porto Alegre|BR|-30.1169|-51.2658|America/Sao_Paulo|AS28573|CLARO S.A.
 2804:14d:5482:8dfd:74ee:b23a:39e4:7c8a|8333|70016|/Satoshi:0.21.0/|1624806520|1032|688986|2804:14d:5482:8dfd:74ee:b23a:39e4:7c8a|Recife|BR|-8.0091|-34.9498|America/Recife|AS28573|CLARO S.A.
-2804:14d:5cb9:92c6::1000|8333|70016|/Satoshi:0.21.1/|1624821450|1033|636321|2804:14d:5cb9:92c6::1000|Rio de Janeiro|BR|-22.9485|-43.3436|America/Sao_Paulo|AS28573|CLARO S.A.
+2804:14d:5cb9:92c6::1000|8333|70016|/Satoshi:0.21.1/|1624821450|1033|636350|2804:14d:5cb9:92c6::1000|Rio de Janeiro|BR|-22.9485|-43.3436|America/Sao_Paulo|AS28573|CLARO S.A.
 2804:14d:5ce0:85ee::1000|8333|70015|/Satoshi:0.20.1/Knots:20200815/|1624792294|1036|688986|2804:14d:5ce0:85ee::1000|Rio de Janeiro|BR|-22.9485|-43.3436|America/Sao_Paulo|AS28573|CLARO S.A.
 2804:2a44:9011:ce00:3549:f801:fe5:aee2|8333|70016|/Satoshi:0.21.1(bc1q7v44r5sqsh9q4t46wjd0ggvun83k8ztc4fl4nq)/|1624768251|1033|688983|2804:2a44:9011:ce00:3549:f801:fe5:aee2|None|BR|-22.8305|-43.2192|America/Sao_Paulo|AS264064|BOHN E WELTER LTDA
 2804:4640:2001:da:4548:e9da:c558:a362|8333|70015|/Satoshi:0.18.0/|1624631788|1037|688986|2804:4640:2001:da:4548:e9da:c558:a362|None|BR|-22.8305|-43.2192|America/Sao_Paulo|AS266978|FOUR NETWORK SERVICOS DE INFORMATICA LTDA - ME
@@ -561,8 +559,6 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2a00:1028:83a4:4502:99c0:9702:2772:17e|8333|70015|/Satoshi:0.18.1/|1623647169|1037|688979|dynamic-2a00-1028-83a4-4502-99c0-9702-2772-017e.ipv6.broadband.iol.cz|Brno|CZ|49.1995|16.6296|Europe/Prague|AS5610|O2 Czech Republic, a.s.
 2a00:12e0:101:99:20c:29ff:fe29:d03f|8333|70016|/Satoshi:0.21.1/|1623615593|1033|688986|bitcoin.dermichi.com|None|AT|48.2|16.3667|Europe/Vienna|AS6798|Net4You Internet GmbH
 2a00:1328:e101:c00::163|8333|70016|/Satoshi:0.21.1/|1624456130|1033|688986|2a00:1328:e101:c00::163|None|DE|51.2993|9.491|Europe/Berlin|AS31078|Alexej Senderkin
-2a00:1370:811d:b75d:93:6103:cd6d:441d|8333|70015|/Satoshi:0.20.1/|1624817554|1033|688986|2a00:1370:811d:b75d:93:6103:cd6d:441d|Moscow|RU|55.7483|37.6171|Europe/Moscow|AS25513|PJSC Moscow city telephone network
-2a00:1370:8131:c3bf:28ab:654:3ee:53f7|8333|70016|/Satoshi:0.21.0/|1624820635|1032|688986|2a00:1370:8131:c3bf:28ab:654:3ee:53f7|Moscow|RU|55.7483|37.6171|Europe/Moscow|AS25513|PJSC Moscow city telephone network
 2a00:1398:4:2a03:215:5dff:fed6:e61|8333|70015|/KIT-DSN:0.17.0/|1623615593|1036|688969|2a00:1398:4:2a03:215:5dff:fed6:e61|None|DE|51.2993|9.491|Europe/Berlin|AS34878|Karlsruhe Institute of Technology
 2a00:13a0:3015:1:85:14:79:26|8333|70016|/Satoshi:0.21.1/|1624454966|1033|688986|2a00:13a0:3015:1:85:14:79:26|None|PL|52.2394|21.0362|Europe/Warsaw|AS31242|3S S.A.
 2a00:1768:2001:27::ef6a|8333|70016|/Satoshi:0.21.1/|1624454204|1033|688986|2a00:1768:2001:27::ef6a|None|NL|52.3824|4.8995|Europe/Amsterdam|AS43350|NForce Entertainment B.V.
@@ -593,7 +589,7 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2a00:ee2:4d00:611::1111|8333|70016|/Satoshi:0.21.1/|1624820637|1033|688986|voyager.bstnet.org|Leskovec pri Krskem|SI|45.9369|15.4662|Europe/Ljubljana|AS5603|Telekom Slovenije, d.d.
 2a00:f440:0:3001::162|8333|70016|/Satoshi:0.21.1/|1624040847|1033|688986|unspecified.mtw.ru|None|RU|55.7386|37.6068|Europe/Moscow|AS48347|JSC Mediasoft ekspert
 2a00:f820:433::36|8333|70015|/Satoshi:0.18.1(Omni:0.8.1)/|1623615583|1037|688986|2a00:f820:433::36|None|DE|51.2993|9.491|Europe/Berlin|AS34549|meerfarbig GmbH & Co. KG
-2a00:f940:1:1:2::375|8333|70015|/Satoshi:0.20.1/|1623615593|1033|81841|134-0-115-57.xen.vps.regruhosting.ru|None|RU|55.7386|37.6068|Europe/Moscow|AS197695|Domain names registrar REG.RU, Ltd
+2a00:f940:1:1:2::375|8333|70015|/Satoshi:0.20.1/|1623615593|1033|81843|134-0-115-57.xen.vps.regruhosting.ru|None|RU|55.7386|37.6068|Europe/Moscow|AS197695|Domain names registrar REG.RU, Ltd
 2a00:f940:2:1:2::1d37|8333|70015|/Satoshi:0.20.1/|1623615593|1033|81840|89-108-64-73.xen.vps.regruhosting.ru|None|RU|55.7386|37.6068|Europe/Moscow|AS197695|Domain names registrar REG.RU, Ltd
 2a00:fd40:1:626:fc09:5d5c:16a6:aab0|8333|70016|/Satoshi:0.21.1/|1624455363|1033|688986|2a00:fd40:1:626:fc09:5d5c:16a6:aab0|None|NL|52.3824|4.8995|Europe/Amsterdam|AS58272|LeaderTelecom B.V.
 2a01:190:6c:1::4|8333|70016|/Satoshi:0.21.0/|1623615593|1033|688986|2a01:190:6c:1::4|None|AT|48.2|16.3667|Europe/Vienna|AS1764|Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH
@@ -608,12 +604,12 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2a01:260:4085::e|8333|70016|/Satoshi:0.21.0/|1624820617|1033|688986|2a01-260-4085--e.link6.t-2.net|None|SI|46.0024|15.0036|Europe/Ljubljana|AS34779|T-2, d.o.o.
 2a01:261:0:9::9283|8333|70015|/Satoshi:0.20.1/|1624376550|1033|688986|2a01:261:0:9::9283|Ljubljana|SI|46.0503|14.5046|Europe/Ljubljana|AS34779|T-2, d.o.o.
 2a01:2a8:8507:4201:186a:9ae1:f2b0:54ec|8333|70016|/Satoshi:0.21.0/|1624568302|1033|688966|2a01:2a8:8507:4201:186a:9ae1:f2b0:54ec|Sachseln|CH|46.8707|8.2305|Europe/Zurich|AS1836|green.ch AG
-2a01:36d:5240:430e:394d:1620:6198:4456|9333|70016|/Satoshi:0.21.0/|1624543097|1033|513115|2a01-036d-5240-430e-394d-1620-6198-4456.pool6.digikabel.hu|Pilisvorosvar|HU|47.6125|18.9145|Europe/Budapest|AS20845|DIGI Tavkozlesi es Szolgaltato Kft.
+2a01:36d:5240:430e:394d:1620:6198:4456|9333|70016|/Satoshi:0.21.0/|1624543097|1033|513369|2a01-036d-5240-430e-394d-1620-6198-4456.pool6.digikabel.hu|Pilisvorosvar|HU|47.6125|18.9145|Europe/Budapest|AS20845|DIGI Tavkozlesi es Szolgaltato Kft.
 2a01:430:17:1::ffff:1153|8333|70016|/Satoshi:0.21.1/|1623615583|1033|688986|b.taborsky.cz|None|CZ|50.0853|14.411|Europe/Prague|AS24971|Master Internet s.r.o.
 2a01:488:2000:9801::d|8333|70015|/Satoshi:0.20.1/|1623618524|1033|688986|wds700121.servereyes.de|None|DE|51.2993|9.491|Europe/Berlin|AS20773|Host Europe GmbH
 2a01:490:16:301::2|8333|70016|/Satoshi:0.21.0/|1624499277|1033|688986|8an.javor.6.praha12.net|None|CZ|50.0853|14.411|Europe/Prague|AS8251|FreeTel, s.r.o.
 2a01:4f8:10a:239c::2|9002|70015|/Satoshi:0.17.1/|1623616366|1037|688986|2a01:4f8:10a:239c::2|Speyer|DE|49.3226|8.4281|Europe/Berlin|AS24940|Hetzner Online GmbH
-2a01:4f8:10a:2da3::2|8333|70015|/Satoshi:0.20.0/|1623617944|1033|688985|2a01:4f8:10a:2da3::2|Speyer|DE|49.3226|8.4281|Europe/Berlin|AS24940|Hetzner Online GmbH
+2a01:4f8:10a:2da3::2|8333|70015|/Satoshi:0.20.0/|1623617944|1033|688986|2a01:4f8:10a:2da3::2|Speyer|DE|49.3226|8.4281|Europe/Berlin|AS24940|Hetzner Online GmbH
 2a01:4f8:10a:2e4c::2|8333|70015|/Satoshi:0.17.0.1/|1623617354|1037|688986|2a01:4f8:10a:2e4c::2|Speyer|DE|49.3226|8.4281|Europe/Berlin|AS24940|Hetzner Online GmbH
 2a01:4f8:10a:318e::2|8333|70015|/Satoshi:0.20.1/|1623615583|1033|688986|2a01:4f8:10a:318e::2|Speyer|DE|49.3226|8.4281|Europe/Berlin|AS24940|Hetzner Online GmbH
 2a01:4f8:10a:3c13::666|8333|70016|/Satoshi:0.21.1/|1623615583|1033|688986|2a01:4f8:10a:3c13::666|Speyer|DE|49.3226|8.4281|Europe/Berlin|AS24940|Hetzner Online GmbH
@@ -768,7 +764,7 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2a01:4f8:173:278d::2|8333|70016|/Satoshi:0.21.0/|1623615583|1033|688986|mspx6101.ph-connect.me|Speyer|DE|49.3226|8.4281|Europe/Berlin|AS24940|Hetzner Online GmbH
 2a01:4f8:173:54::2|8333|70015|/Satoshi:0.17.1/|1623615593|1037|688986|2a01:4f8:173:54::2|Speyer|DE|49.3226|8.4281|Europe/Berlin|AS24940|Hetzner Online GmbH
 2a01:4f8:190:240f::2|8333|70015|/Satoshi:0.20.1/|1623615583|1032|688986|2a01:4f8:190:240f::2|Speyer|DE|49.3226|8.4281|Europe/Berlin|AS24940|Hetzner Online GmbH
-2a01:4f8:190:24ef::2|8333|70015|/Satoshi:0.16.3/|1623626819|1036|688985|2a01:4f8:190:24ef::2|Speyer|DE|49.3226|8.4281|Europe/Berlin|AS24940|Hetzner Online GmbH
+2a01:4f8:190:24ef::2|8333|70015|/Satoshi:0.16.3/|1623626819|1036|688986|2a01:4f8:190:24ef::2|Speyer|DE|49.3226|8.4281|Europe/Berlin|AS24940|Hetzner Online GmbH
 2a01:4f8:190:42e6::2|8333|70015|/Satoshi:0.18.1/|1623615593|1036|688986|2a01:4f8:190:42e6::2|Speyer|DE|49.3226|8.4281|Europe/Berlin|AS24940|Hetzner Online GmbH
 2a01:4f8:190:430c::2|8333|70015|/Satoshi:0.15.0.1/|1624454189|13|688986|2a01:4f8:190:430c::2|Speyer|DE|49.3226|8.4281|Europe/Berlin|AS24940|Hetzner Online GmbH
 2a01:4f8:190:43b1::2|8333|70015|/Satoshi:0.15.0.1/|1623615593|13|688986|2a01:4f8:190:43b1::2|Speyer|DE|49.3226|8.4281|Europe/Berlin|AS24940|Hetzner Online GmbH
@@ -1049,12 +1045,11 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2a01:6380:fffe:73:8c1f:e1a3:4a31:67f4|8333|70015|/Satoshi:0.19.0.1/|1624777079|1033|688986|2a01:6380:fffe:73:8c1f:e1a3:4a31:67f4|None|FR|48.8582|2.3387|Europe/Paris|AS25540|Alphalink SASU
 2a01:7a0:2:137c::3|8333|70015|/Satoshi:0.18.1/|1624454194|1037|688986|2a01:7a0:2:137c::3|Frankfurt am Main|DE|50.1188|8.6843|Europe/Berlin|AS29066|Host Europe GmbH
 2a01:7a0:2:1511:ae1f:6bff:fe20:4c74|8333|70015|/Satoshi:0.17.1/|1623615593|1037|688986|2a01:7a0:2:1511:ae1f:6bff:fe20:4c74|Frankfurt am Main|DE|50.1188|8.6843|Europe/Berlin|AS29066|Host Europe GmbH
-2a01:7a0:2:16d9:f9ee:5975:ec80:b169|8333|70015|/Satoshi:0.20.0/|1624454194|1033|688985|2a01:7a0:2:16d9:f9ee:5975:ec80:b169|Frankfurt am Main|DE|50.1188|8.6843|Europe/Berlin|AS29066|Host Europe GmbH
+2a01:7a0:2:16d9:f9ee:5975:ec80:b169|8333|70015|/Satoshi:0.20.0/|1624454194|1033|688986|2a01:7a0:2:16d9:f9ee:5975:ec80:b169|Frankfurt am Main|DE|50.1188|8.6843|Europe/Berlin|AS29066|Host Europe GmbH
 2a01:7a7:2:131b:20c:29ff:fe9a:3922|8333|70015|/Satoshi:0.15.1/|1623615593|13|688986|2a01:7a7:2:131b:20c:29ff:fe9a:3922|Strasbourg|FR|48.5855|7.7418|Europe/Paris|AS29066|Host Europe GmbH
 2a01:7a7:2:1467:ec4:7aff:fee2:5690|8333|70016|/Satoshi:0.21.0/|1624457773|1033|688986|2a01:7a7:2:1467:ec4:7aff:fee2:5690|Strasbourg|FR|48.5855|7.7418|Europe/Paris|AS29066|Host Europe GmbH
 2a01:7a7:2:2df0:20c:29ff:fe5a:a5c6|8333|70016|/Satoshi:0.21.0/|1623616704|1033|688986|2a01:7a7:2:2df0:20c:29ff:fe5a:a5c6|Strasbourg|FR|48.5855|7.7418|Europe/Paris|AS29066|Host Europe GmbH
 2a01:7a7:2:317f:3eec:efff:fe22:fd78|20008|70016|/Satoshi:0.21.1/|1623615593|1033|688986|2a01:7a7:2:317f:3eec:efff:fe22:fd78|Strasbourg|FR|48.5855|7.7418|Europe/Paris|AS29066|Host Europe GmbH
-2a01:7c8:aaac:89:5054:ff:feb7:f5cb|8333|70016|/Satoshi:0.21.0/|1624821858|1033|688986|2a01:7c8:aaac:89:5054:ff:feb7:f5cb|None|NL|52.3824|4.8995|Europe/Amsterdam|AS20857|Transip B.V.
 2a01:7c8:aab5:3e6:5054:ff:fed7:4e54|8333|70016|/Satoshi:0.21.1/|1623615593|1032|688986|seven.deadlysins.nl|None|NL|52.3824|4.8995|Europe/Amsterdam|AS20857|Transip B.V.
 2a01:7c8:aac2:180:5054:ff:fe56:8d10|8333|70015|/Satoshi:0.20.0/|1623615593|1033|688986|2a01:7c8:aac2:180:5054:ff:fe56:8d10|None|NL|52.3824|4.8995|Europe/Amsterdam|AS20857|Transip B.V.
 2a01:7c8:d001:1c1:5054:ff:feee:3e1a|8333|70016|/Satoshi:0.21.1/|1624514997|1033|688986|2a01:7c8:d001:1c1:5054:ff:feee:3e1a|None|NL|52.3824|4.8995|Europe/Amsterdam|AS20857|Transip B.V.
@@ -1063,7 +1058,7 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2a01:7c8:d002:318:5054:ff:febe:cbb1|8333|70016|/Satoshi:0.21.0/|1624729678|1033|688986|2a01:7c8:d002:318:5054:ff:febe:cbb1|None|NL|52.3824|4.8995|Europe/Amsterdam|AS20857|Transip B.V.
 2a01:7c8:d005:240:5054:ff:fe0a:2f76|8333|70012|/Satoshi:0.12.1(bitcore)/|1624495933|5|688986|2a01:7c8:d005:240:5054:ff:fe0a:2f76|None|NL|52.3824|4.8995|Europe/Amsterdam|AS20857|Transip B.V.
 2a01:7c8:fffa:50e:ddfe:c924:ca0a:cbab|8333|70015|/Satoshi:0.20.1/|1624575179|1037|688986|2a01:7c8:fffa:50e:ddfe:c924:ca0a:cbab|None|NL|52.3824|4.8995|Europe/Amsterdam|AS20857|Transip B.V.
-2a01:7e00::f03c:91ff:fe62:c6cb|8333|70015|/Satoshi:0.18.0/|1623615583|1037|688985|2a01:7e00::f03c:91ff:fe62:c6cb|London|GB|51.5164|-0.093|Europe/London|AS63949|Linode, LLC
+2a01:7e00::f03c:91ff:fe62:c6cb|8333|70015|/Satoshi:0.18.0/|1623615583|1037|688986|2a01:7e00::f03c:91ff:fe62:c6cb|London|GB|51.5164|-0.093|Europe/London|AS63949|Linode, LLC
 2a01:7e01::f03c:92ff:fe78:405f|8333|70015|/Satoshi:0.20.1/|1624749369|1033|688985|2a01:7e01::f03c:92ff:fe78:405f|Frankfurt am Main|DE|50.1188|8.6843|Europe/Berlin|AS63949|Linode, LLC
 2a01:8740:1:ffc5::8c6a|8333|70016|/Satoshi:0.21.1/|1624454201|1033|688986|2a01:8740:1:ffc5::8c6a|None|BG|42.696|23.332|Europe/Sofia|AS203380|DA International Group Ltd.
 2a01:c23:91b8:7200:76d4:35ff:fee6:7b5d|8333|70016|/Satoshi:0.21.1/|1624816186|1033|688986|dynamic-2a01-0c23-91b8-7200-76d4-35ff-fee6-7b5d.c23.pool.telefonica.de|Hamburg|DE|53.5817|9.9887|Europe/Berlin|AS6805|Telefonica Germany
@@ -1098,17 +1093,14 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2a01:e34:ec72:5620:cc52:7b64:ffe2:3704|8333|70015|/Satoshi:0.20.1/|1624787664|1033|688986|2a01:e34:ec72:5620:cc52:7b64:ffe2:3704|Paris|FR|48.8323|2.4075|Europe/Paris|AS12322|Free SAS
 2a01:e34:ecbf:70b0:1e1b:dff:fe0b:236d|8333|70015|/Satoshi:0.19.0.1/|1624499289|1033|688986|2a01:e34:ecbf:70b0:1e1b:dff:fe0b:236d|Paris|FR|48.8323|2.4075|Europe/Paris|AS12322|Free SAS
 2a01:e34:edc6:f470:cd9:33fc:1e63:411c|8333|70015|/Satoshi:0.19.0.1/|1624812768|1033|688986|2a01:e34:edc6:f470:cd9:33fc:1e63:411c|Coublevie|FR|45.3535|5.619|Europe/Paris|AS12322|Free SAS
-2a01:e34:efd1:c0f0:1008:e0bc:98e6:bc3f|8333|70016|/Satoshi:0.21.1/|1624780351|1032|688982|2a01:e34:efd1:c0f0:1008:e0bc:98e6:bc3f|Conflans-Sainte-Honorine|FR|48.9999|2.092|Europe/Paris|AS12322|Free SAS
+2a01:e34:efd1:c0f0:1008:e0bc:98e6:bc3f|8333|70016|/Satoshi:0.21.1/|1624780351|1032|688986|2a01:e34:efd1:c0f0:1008:e0bc:98e6:bc3f|Conflans-Sainte-Honorine|FR|48.9999|2.092|Europe/Paris|AS12322|Free SAS
 2a01:e35:39f5:41d0:d996:1924:99f5:556b|8333|70016|/Satoshi:0.21.1/|1624760630|1032|688986|2a01:e35:39f5:41d0:d996:1924:99f5:556b|Nice|FR|43.7045|7.2597|Europe/Paris|AS12322|Free SAS
 2a02:1205:34c2:3060:7adf:3af3:68c8:b3c7|8333|70015|/Satoshi:0.20.0/|1624557217|1037|688986|dynamic.wline.6rd.res.cust.swisscom.ch|La Tour-de-Peilz|CH|46.4504|6.8542|Europe/Zurich|AS3303|Bluewin
 2a02:1205:34d9:ae90:11:32ff:fe2e:8ab0|8333|70016|/Satoshi:0.21.0/|1624485721|1033|688986|dynamic.wline.6rd.res.cust.swisscom.ch|Sion|CH|46.2282|7.3573|Europe/Zurich|AS3303|Bluewin
-2a02:1205:34f9:d2e0:1daa:ebf0:5029:2aef|8333|70015|/Satoshi:0.20.1/|1624790071|1033|688986|dynamic.wline.6rd.res.cust.swisscom.ch|Stafa|CH|47.2375|8.7196|Europe/Zurich|AS3303|Bluewin
-2a02:1205:501b:a710:1403:3b68:dedc:d280|8333|70016|/Satoshi:0.21.1/|1624820610|1032|688986|dynamic.wline.6rd.res.cust.swisscom.ch|Kreuzlingen|CH|47.6523|9.1814|Europe/Zurich|AS3303|Bluewin
 2a02:1205:503a:8b70:3079:809f:1c2:7ffd|8333|70015|/Satoshi:0.20.0/|1624455368|1033|688986|dynamic.wline.6rd.res.cust.swisscom.ch|Oftringen|CH|47.3158|7.9305|Europe/Zurich|AS3303|Bluewin
 2a02:1205:5069:14a0:3640:b5ff:feac:a02c|8333|70016|/Satoshi:0.21.0/|1624454602|1033|688986|dynamic.wline.6rd.res.cust.swisscom.ch|Oberdorf|CH|47.3968|7.7533|Europe/Zurich|AS3303|Bluewin
 2a02:1205:5076:6960:1580:bc4f:166e:1ba6|8333|70015|/Satoshi:0.20.0/|1624455756|1033|688986|dynamic.wline.6rd.res.cust.swisscom.ch|Ruswil|CH|47.0765|8.123|Europe/Zurich|AS3303|Bluewin
 2a02:1205:c68a:d1c0:3341:942d:8c5a:c0bf|8333|70015|/Satoshi:0.20.1/|1624591175|1033|688986|dynamic.wline.6rd.res.cust.swisscom.ch|Adliswil|CH|47.3101|8.5266|Europe/Zurich|AS3303|Bluewin
-2a02:1205:c6a3:c5a0:5199:e95b:f84:6a2a|8333|70016|/Satoshi:0.21.1/|1624818009|1033|688986|dynamic.wline.6rd.res.cust.swisscom.ch|Gumligen|CH|46.9372|7.5023|Europe/Zurich|AS3303|Bluewin
 2a02:1206:4565:7760:880f:34eb:8402:3ff2|8333|70015|/Satoshi:0.20.1/|1624807689|1033|688986|dynamic.wline.6rd.res.cust.swisscom.ch|Matzingen|CH|47.5217|8.9388|Europe/Zurich|AS3303|Bluewin
 2a02:120b:2c2d:1660:3ea4:af46:6ca8:622c|8333|70016|/Satoshi:0.21.0/|1624454602|1033|688986|dynamic.wline.6rd.res.cust.swisscom.ch|Rottenschwil|CH|47.3122|8.3559|Europe/Zurich|AS3303|Bluewin
 2a02:120b:2c79:5e0:1cb5:b98b:d3cd:46a6|8333|70015|/Satoshi:0.19.0.1/|1624779935|1033|688986|dynamic.wline.6rd.res.cust.swisscom.ch|St. Gallen|CH|47.4234|9.3696|Europe/Zurich|AS3303|Bluewin
@@ -1216,7 +1208,7 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2a03:4000:6:162d::1|8333|70015|/Satoshi:0.20.0/|1624455368|1032|688986|nobody.yourvserver.net|None|DE|51.2993|9.491|Europe/Berlin|AS197540|netcup GmbH
 2a03:4000:6:416c::43|8333|70016|/Satoshi:0.21.1/|1624470116|1033|688986|bcxchg.insc.de|None|DE|51.2993|9.491|Europe/Berlin|AS197540|netcup GmbH
 2a03:4000:f:670::2|8333|70016|/Satoshi:0.21.1/|1624655871|1032|688986|2a03:4000:f:670::2|None|DE|51.2993|9.491|Europe/Berlin|AS197540|netcup GmbH
-2a03:6000:6f64:604::207|8333|70016|/Satoshi:0.21.0/|1624820646|1032|688986|s1.dalliard.ch|None|NL|52.3824|4.8995|Europe/Amsterdam|AS3265|Xs4all Internet BV
+2a03:6000:6f64:604::207|8333|70016|/Satoshi:0.21.0/|1624822302|1032|688986|s1.dalliard.ch|None|NL|52.3824|4.8995|Europe/Amsterdam|AS3265|Xs4all Internet BV
 2a03:6000:870:0:46:23:87:218|8333|70016|/Satoshi:0.21.1/|1623615583|1033|688986|nozomi.sievie.com|None|NL|52.3824|4.8995|Europe/Amsterdam|AS3265|Xs4all Internet BV
 2a03:7380:3014:4030:d3e:5835:834a:e47d|8333|70016|/Satoshi:0.21.1/|1623616017|1033|688986|2a03:7380:3014:4030:d3e:5835:834a:e47d|Dnipro|UA|48.4735|35.046|Europe/Kiev|AS13188|Content Delivery Network Ltd
 2a03:9da0:f6:1::2|8333|70015|/Satoshi:0.18.0/|1624790815|1037|688986|2a03:9da0:f6:1::2|None|GB|51.4964|-0.1224|Europe/London|AS42831|UK Dedicated Servers Limited
@@ -1241,7 +1233,6 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2a05:f480:1800:10b:5400:2ff:fef1:f73|8333|70015|/Satoshi:0.17.1/|1624092602|1036|688986|2a05:f480:1800:10b:5400:2ff:fef1:f73|None|US|37.751|-97.822|America/Chicago|AS20473|AS-CHOOPA
 2a05:f480:1800:697:5400:2ff:feb6:c36d|8333|70015|/Satoshi:0.20.1/|1623915681|1037|688986|2a05:f480:1800:697:5400:2ff:feb6:c36d|None|US|37.751|-97.822|America/Chicago|AS20473|AS-CHOOPA
 2a05:fc84:16:1002::118|8333|70016|/Satoshi:0.21.0/|1623615593|1032|688986|2a05:fc84:16:1002::118|None|CH|47.1449|8.1551|Europe/Zurich|AS57118|CommunityRack.org Verein
-2a06:6782:1101:12::14ea|8333|70016|/Satoshi:0.21.1/|1624669131|1033|688986|2a06:6782:1101:12::14ea|None|KZ|48.0|68.0|Asia/Almaty|AS56568|X-communication Llp
 2a07:5741:0:608::1|8333|70016|/Satoshi:0.21.0/|1623615593|1032|688986|2a07:5741:0:608::1|Sofia|BG|42.6951|23.325|Europe/Sofia|AS44901|Belcloud LTD
 2a07:5741:0:7cd::1|8333|70016|/Satoshi:0.21.0/|1624702418|1032|688986|2a07:5741:0:7cd::1|Sofia|BG|42.6951|23.325|Europe/Sofia|AS44901|Belcloud LTD
 2a07:abc4::1:946|8333|70016|/Satoshi:0.21.1/|1624459255|1033|688986|2a07:abc4::1:946|None|FR|48.8582|2.3387|Europe/Paris|AS62000|Datawire SAS
@@ -1257,4 +1248,4 @@ IP Address|Port|Protocol Version|User Agent|Connected Since|Services|Height|Host
 2a10:3781:2f::1|8333|70016|/Satoshi:0.21.1/|1623620316|1101|688986|2a10:3781:2f::1|Bilthoven|NL|52.1178|5.1872|Europe/Amsterdam|AS206238|Freedom Internet BV
 2a10:3781:328:1:e1d:50cc:c868:ca94|8333|70016|/Satoshi:0.21.1/|1624428147|1033|0|2a10:3781:328:1:e1d:50cc:c868:ca94|Bilthoven|NL|52.1178|5.1872|Europe/Amsterdam|AS206238|Freedom Internet BV
 2a10:3781:84b:1:b123:6306:943a:f09b|8333|70016|/Satoshi:0.21.1/|1624729686|1033|688986|2a10:3781:84b:1:b123:6306:943a:f09b|Amsterdam|NL|52.3744|4.9388|Europe/Amsterdam|AS206238|Freedom Internet BV
-2a10:3781:854:2:20c:29ff:fe0c:52de|8333|70016|/Satoshi:0.21.1/|1624808978|1101|363227|2a10:3781:854:2:20c:29ff:fe0c:52de|Amsterdam|NL|52.3744|4.9388|Europe/Amsterdam|AS206238|Freedom Internet BV
+2a10:3781:854:2:20c:29ff:fe0c:52de|8333|70016|/Satoshi:0.21.1/|1624808978|1101|364289|2a10:3781:854:2:20c:29ff:fe0c:52de|Amsterdam|NL|52.3744|4.9388|Europe/Amsterdam|AS206238|Freedom Internet BV
