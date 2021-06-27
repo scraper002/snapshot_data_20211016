@@ -1,7 +1,6 @@
 # https://chainz.cryptoid.info/ and whois results
 # Litecoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-100.26.89.222|/LitecoinCore:0.17.1/|70015|14618|100.24.0.0/13|US|arin|2018-01-10|AMAZON-AES, US
 101.224.227.105|/Satoshi:0.13.2/|70015|4812|101.224.0.0/13|CN|apnic|2011-01-03|CHINANET-SH-AP China Telecom Group, CN
 103.231.191.7|/LitecoinCore:0.16.0/|70015|17831|103.231.191.0/24|SG|apnic|2014-05-16|CENTERHOP-SG 8 Burn Road# 15-13, Trivex, SG
 104.136.217.212|/NBitcoin:5.0.49/|70012|33363|104.136.192.0/18|US|arin|2014-06-04|BHN-33363, US
@@ -17,6 +16,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.3.162.199|/LitecoinCore:0.17.1/|70015|55990|119.3.160.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
+120.158.202.214|/LitecoinCore:0.18.1/|70015|1221|120.158.0.0/16|AU|apnic|2009-04-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 123.194.184.71|/LitecoinCore:0.18.1/|70015|9924|123.194.160.0/19|TW|apnic|2006-12-22|TFN-TW Taiwan Fixed Network, Telco and Network Service Provider., TW
 128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
@@ -24,7 +24,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.114.38.206|/LitecoinCore:0.17.1/|70015|16509|13.112.0.0/14|US|arin|2016-08-09|AMAZON-02, US
 130.37.198.127|/LitecoinCore:0.18.1/|70015|1103|130.37.0.0/16|NL|ripencc|1988-05-02|SURFNET-NL SURFnet, The Netherlands, NL
 131.153.129.156|/LitecoinCore:0.18.1/|70015|19437|131.153.129.0/24|US|arin|2015-05-08|SS-ASH, US
-131.221.68.173|/NBitcoin:5.0.49/|70012|28331|131.221.68.0/22|BR|lacnic|2014-10-09|Paintweb Internet Ltda, BR
 132.255.153.246|/NBitcoin:5.0.49/|70012|264508|132.255.152.0/23|BR|lacnic|2014-12-12|INET TELECOM E INFORMATICA LTDA, BR
 134.175.52.189|/btc-seeder:0.0001/|70013|45090|134.175.48.0/20|CN|apnic|1989-06-28|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 134.209.224.82|/LitecoinCore:0.13.2/|70015|14061|134.209.224.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
@@ -41,6 +40,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 147.135.97.55|/LitecoinCore:0.17.1/|70015|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
 149.202.71.217|/LitecoinCore:0.16.3/|70015|16276|149.202.0.0/16|FR|ripencc|1999-04-26|OVH, FR
 149.210.234.234|/Node:0.8.7.2/|70002|20857|149.210.128.0/17|NL|ripencc|2011-08-17|TRANSIP-AS Amsterdam, the Netherlands, NL
+149.224.158.182|/LitecoinCore:0.18.1/|70015|15943|149.224.128.0/17|DE|ripencc|1993-09-01|WTNET-AS wilhelm.tel GmbH, DE
 152.249.137.234|/NBitcoin:5.0.49/|70012|27699|152.249.0.0/16|BR|lacnic|2014-04-24|TELEFONICA BRASIL S.A, BR
 154.21.212.230|/NBitcoin:5.0.49/|70012|174|154.21.0.0/16|US|arin|1992-02-05|COGENT-174, US
 155.4.15.180|/LitecoinCore:0.14.2/|70015|8473|155.4.0.0/16|NO|ripencc|1991-10-30|BAHNHOF www.bahnhof.net, SE
@@ -109,6 +109,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.94.245.227|/LitecoinCore:0.18.1/|70015|8053|190.94.224.0/19|VE|lacnic|2011-06-27|IFX Networks Venezuela C.A., VE
 191.17.159.92|/LitecoinCore:0.17.1/|70015|27699|191.17.0.0/16|BR|lacnic|2014-01-30|TELEFONICA BRASIL S.A, BR
 191.31.231.185|???|0|18881|191.31.0.0/16|BR|lacnic|2014-01-30|TELEFONICA BRASIL S.A, BR
+191.37.48.115|/NBitcoin:5.0.49/|70012|263347|191.37.48.0/24|BR|lacnic|2014-03-14|CEDNET PROVEDOR INTERNET, BR
 193.106.60.145|/CounosXCore:0.17.2/|70015|50281|193.106.60.0/22|UA|ripencc|2009-12-10|ISP6-6-AS, UA
 193.126.191.227|/NBitcoin:5.0.49/|70012|2860|193.126.128.0/17|PT|ripencc|1995-06-09|NOS_COMUNICACOES, PT
 194.163.135.46|/LitecoinCore:0.18.1/|70015|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
@@ -222,6 +223,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.250.12.195|/LitecoinCore:0.18.1/|70015|3226|87.250.0.0/19|RU|ripencc|2005-09-02|MARK-ITT-AS, RU
 88.114.27.7|/LitecoinCore:0.18.1/|70015|719|88.112.0.0/14|FI|ripencc|2006-07-20|ELISA-AS Helsinki, Finland, FI
 88.155.94.81|/WalletKit:0.1.0/|70015|34058|88.155.80.0/20|UA|ripencc|2008-04-15|LIFECELL-AS, UA
+88.214.197.220|/LitecoinCore:0.17.1/|70015|46636|88.214.192.0/20|GB|ripencc|2006-01-18|NATCOWEB, US
 89.107.226.83|/LitecoinCore:0.16.3/|70015|43260|89.107.226.0/24|TR|ripencc|2007-07-04|AS43260, TR
 89.163.225.8|/LitecoinCore:0.18.1/|70015|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.205.129.235|/NBitcoin:5.0.49/|70012|31615|89.205.128.0/17|NL|ripencc|2006-05-08|TMO-NL-AS, NL
