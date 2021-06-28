@@ -21,6 +21,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 111.194.45.115|/LitecoinCore:0.18.1/|70208|4808|111.194.0.0/18|CN|apnic|2009-07-01|CHINA169-BJ China Unicom Beijing Province Network, CN
 111.194.47.201|/LitecoinCore:0.18.1/|70015|4808|111.194.0.0/18|CN|apnic|2009-07-01|CHINA169-BJ China Unicom Beijing Province Network, CN
 111.194.47.201|/LitecoinCore:0.18.1/|70208|4808|111.194.0.0/18|CN|apnic|2009-07-01|CHINA169-BJ China Unicom Beijing Province Network, CN
+111.194.49.123|/LitecoinCore:0.18.1/|70208|4808|111.194.0.0/18|CN|apnic|2009-07-01|CHINA169-BJ China Unicom Beijing Province Network, CN
 111.194.51.106|/LitecoinCore:0.18.1/|70015|4808|111.194.0.0/18|CN|apnic|2009-07-01|CHINA169-BJ China Unicom Beijing Province Network, CN
 111.194.51.106|/LitecoinCore:0.18.1/|70208|4808|111.194.0.0/18|CN|apnic|2009-07-01|CHINA169-BJ China Unicom Beijing Province Network, CN
 116.203.56.98|/LitecoinCore:0.16.3/|70015|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
@@ -123,8 +124,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 186.207.45.253|/NBitcoin:5.0.49/|70012|28573|186.207.0.0/18|BR|lacnic|2010-05-04|CLARO S.A., BR
 186.216.151.11|/DigitaleuroCore:0.16.3/|70015|7048|186.216.148.0/22|BR|lacnic|2012-05-10|Linha Livre Internet Ltda, BR
 186.219.123.228|/NBitcoin:5.0.49/|70012|61890|186.219.120.0/22|BR|lacnic|2013-07-11|Adaptlink Servicos de Comunicacao Multimidia Ltda., BR
-186.22.61.110|/LitecoinCore:0.18.1/|70015|27747|186.22.48.0/20|AR|lacnic|2010-08-05|Telecentro S.A., AR
-186.22.61.110|/LitecoinCore:0.18.1/|70208|27747|186.22.48.0/20|AR|lacnic|2010-08-05|Telecentro S.A., AR
 186.224.217.244|/BitcoinKit:0.1.0/|70015|262838|186.224.216.0/23|BR|lacnic|2012-04-03|STARNET TELECOMUNICACOES LTDA, BR
 186.244.89.231|/NBitcoin:5.0.49/|70012|7738|186.244.64.0/18|BR|lacnic|2010-09-22|Telemar Norte Leste S.A., BR
 187.111.10.59|/NBitcoin:5.0.49/|70012|262709|187.111.8.0/22|BR|lacnic|2010-01-11|FLEX SEG - INTERNET BANDA LARGA LTDA, BR
@@ -189,7 +188,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.140.255.188|/EuliumCore:0.16.3/|70015|16509|3.136.0.0/13|US|arin|2018-06-25|AMAZON-02, US
-3.80.88.244|/Dain:0.1.0/|70003|14618|3.80.0.0/12|US|arin|2017-12-20|AMAZON-AES, US
 3.88.252.216|/btcwire:0.5.0/ltcd:0.20.1/|70013|14618|3.80.0.0/12|US|arin|2017-12-20|AMAZON-AES, US
 34.69.138.243|/LitecoinCore:0.18.1/|70015|15169|34.68.0.0/14|US|arin|2018-09-28|GOOGLE, US
 34.69.138.243|/LitecoinCore:0.18.1/|70208|15169|34.68.0.0/14|US|arin|2018-09-28|GOOGLE, US
@@ -206,6 +204,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.160.88.44|/NBitcoin:5.0.49/|70012|262481|45.160.88.0/24|BR|lacnic|2018-08-08|NEOREDE TELECOMUNICACAO EIRELI - EPP, BR
 45.169.242.53|/NBitcoin:5.0.49/|70012|268134|45.169.242.0/23|BR|lacnic|2019-01-11|Topetex Telecom LTDA, BR
 45.177.186.239|/NBitcoin:5.0.49/|70012|268993|45.177.186.0/24|BR|lacnic|2019-05-29|HOLZ E PINHEIRO PROVEDOR DE INTERNET LTD, BR
+46.101.95.209|/LitecoinCore:0.18.1/|70015|14061|46.101.80.0/20|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
+46.101.95.209|/LitecoinCore:0.18.1/|70208|14061|46.101.80.0/20|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
 46.166.46.134|/loaf-android:175/|70015|25454|46.166.44.0/22|MD|ripencc|2010-12-14|ASN-OMD-FNO Orange Moldova Fixed Network Autonomous System, MD
 46.4.121.221|/LitecoinCore:0.18.1/|70015|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
 46.4.121.221|/LitecoinCore:0.18.1/|70208|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
