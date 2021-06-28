@@ -24,7 +24,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.76.150.2|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|135477|103.76.150.0/24|ID|apnic|2016-10-04|JAVADIGITAL-AS-ID PT. Java Digital Nusantara, ID
 103.84.7.151|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|132641|103.84.7.0/24|ID|apnic|2017-01-20|NETCITI-AS-ID PT Netciti Persada, ID
 103.89.76.76|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|45701|103.89.76.0/24|ID|apnic|2017-03-30|MILLENINDO-AS-ID Internet Madju Abad Millenindo, PT, ID
-105.112.124.12|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|36873|105.112.120.0/21|NG|afrinic|2013-09-20|VNL1-AS, NG
+105.112.124.12|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|36873|105.112.112.0/20|NG|afrinic|2013-09-20|VNL1-AS, NG
 106.207.64.14|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|45609|106.207.64.0/22|IN|apnic|2011-03-17|BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service, IN
 107.152.42.126|/GoldcoinCore:0.14.6/|70015|11878|107.152.42.0/24|US|arin|2013-12-03|TZULO, US
 109.105.40.15|/GoldcoinCore:0.14.7/|70015|12570|109.105.32.0/19|CZ|ripencc|2009-09-14|ITSELF Network and internet service provider., CZ
@@ -51,6 +51,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.215.243.213|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|24203|112.215.243.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
 112.215.243.241|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|112.215.243.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
 113.210.50.136|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|9534|113.210.48.0/21|MY|apnic|2008-12-03|MAXIS-AS1-AP Binariang Berhad, MY
+114.10.5.248|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|4761|114.10.4.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.10.5.42|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.10.4.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.10.8.167|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|4761|114.10.8.0/24|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.10.9.85|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.10.9.0/24|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
@@ -135,7 +136,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 124.122.16.242|/GoldcoinCore:0.14.7/|70015|17552|124.122.0.0/18|TH|apnic|2007-05-01|TRUEONLINE-AS-AP True Online, TH
 124.158.150.18|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|17995|124.158.150.0/24|ID|apnic|2006-04-12|SOLUSINET-AS-ID PT iForte Global Internet, ID
 124.158.189.140|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|55685|124.158.189.0/24|ID|apnic|2006-04-12|JLM-AS-ID PT Jala Lintas Media, ID
-125.160.231.197|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|125.160.224.0/20|ID|apnic|2005-09-02|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 125.162.1.51|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|125.162.0.0/21|ID|apnic|2005-09-02|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 125.162.152.131|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|125.162.152.0/21|ID|apnic|2005-09-02|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 125.162.211.197|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|125.162.208.0/21|ID|apnic|2005-09-02|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
@@ -161,7 +161,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 140.213.151.190|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|140.213.151.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 140.213.151.60|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|24203|140.213.151.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 140.213.16.24|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|140.213.16.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
-140.213.16.91|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|24203|140.213.16.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 140.213.160.27|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|24203|140.213.160.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 140.213.167.41|???|0|24203|140.213.167.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 140.213.168.38|???|0|24203|140.213.168.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
@@ -170,6 +169,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 140.213.24.42|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|24203|140.213.24.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 140.213.57.21|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|24203|140.213.57.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 140.213.57.38|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|24203|140.213.57.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
+140.213.67.217|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000|24203|140.213.67.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 141.226.236.91|/GoldcoinCore:0.14.7/|70015|199270|141.226.236.0/23|IL|ripencc|1990-08-05|HILAT_NETWORKS, IL
 141.95.21.189|/GoldcoinCore:0.14.7/|70015|16276|141.95.0.0/17|FR|ripencc|1993-02-18|OVH, FR
 142.113.236.17|/GoldcoinCore:0.14.7/|70015|577|142.113.0.0/16|CA|arin|1993-04-05|BACOM, CA
@@ -334,6 +334,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.119.157.65|/GoldcoinCore:0.14.7/|70015|51167|75.119.128.0/19|DE|ripencc|2006-05-12|CONTABO, DE
 75.142.125.83|/GoldcoinCore:0.14.7/|70015|20115|75.142.96.0/19|US|arin|2006-07-17|CHARTER-20115, US
 75.143.169.81|/GoldcoinCore:0.14.7/|70015|20115|75.143.160.0/19|US|arin|2006-07-17|CHARTER-20115, US
+75.54.96.65|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7018|75.48.0.0/12|US|arin|2006-02-28|ATT-INTERNET4, US
 77.252.61.69|/Satoshi:0.7.5/|60020|12741|77.252.0.0/14|PL|ripencc|2007-02-01|AS-NETIA Warszawa 02-822, PL
 79.113.51.107|/GoldcoinCore:0.14.5/|70015|8708|79.112.0.0/14|RO|ripencc|2007-05-29|RCS-RDS 73-75 Dr. Staicovici, RO
 80.65.23.139|/GoldcoinCore:0.14.4/|70015|31257|80.65.16.0/21|RU|ripencc|2004-03-18|ORIONNET-KRK, RU
