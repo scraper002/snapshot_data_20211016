@@ -14,6 +14,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 111.194.49.123|/LitecoinCore:0.18.1/|70015|4808|111.194.0.0/18|CN|apnic|2009-07-01|CHINA169-BJ China Unicom Beijing Province Network, CN
 111.194.49.123|/LitecoinCore:0.18.1/|70208|4808|111.194.0.0/18|CN|apnic|2009-07-01|CHINA169-BJ China Unicom Beijing Province Network, CN
 112.253.1.94|/Satoshi:0.8.5.1/|70002|4837|112.224.0.0/11|CN|apnic|2009-02-11|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+115.64.213.163|/LitecoinCore:0.15.1/|70015|7545|115.64.212.0/23|AU|apnic|2008-07-11|TPG-INTERNET-AP TPG Telecom Limited, AU
 116.203.56.98|/LitecoinCore:0.16.3/|70015|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
@@ -108,7 +109,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.232.71.26|/LitecoinCore:0.18.1/|70208|197540|185.232.68.0/22|AT|ripencc|2017-11-16|NETCUP-AS netcup GmbH, DE
 186.219.123.228|/NBitcoin:5.0.49/|70012|61890|186.219.123.0/24|BR|lacnic|2013-07-11|Adaptlink Servicos de Comunicacao Multimidia Ltda., BR
 186.232.168.236|/NBitcoin:5.0.49/|70012|53194|186.232.168.0/24|BR|lacnic|2011-05-10|VIA NOVA TELECOMUNICACOES LTDA, BR
-187.111.10.59|/NBitcoin:5.0.49/|70012|262709|187.111.10.0/24|BR|lacnic|2010-01-11|FLEX SEG - INTERNET BANDA LARGA LTDA, BR
 187.122.4.253|/NBitcoin:5.0.49/|70012|28573|187.122.0.0/17|BR|lacnic|2010-03-01|CLARO S.A., BR
 187.41.222.51|/LitecoinCore:0.18.1/|70015|7738|187.41.192.0/18|BR|lacnic|2009-01-15|Telemar Norte Leste S.A., BR
 187.41.222.51|/LitecoinCore:0.18.1/|70208|7738|187.41.192.0/18|BR|lacnic|2009-01-15|Telemar Norte Leste S.A., BR
@@ -216,6 +216,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.89.64.18|/bcoin:v1.0.0-beta.15/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
 52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.196.0.0/14|US|arin|2015-09-02|AMAZON-02, US
+52.76.234.230|/LitecoinCore:0.16.0/|70015|16509|52.76.128.0/17|US|arin|1991-12-19|AMAZON-02, US
 54.38.18.241|/CounosXCore:0.17.2/|70015|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.93.173.178|/NBitcoin:5.0.49/|70012|16509|54.93.128.0/17|US|arin|2014-06-20|AMAZON-02, US
 59.110.63.71|/Satoshi:0.13.0/|70014|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -228,8 +229,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 64.227.105.219|/LitecoinCore:0.18.1/|70208|14061|64.227.96.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
 64.58.34.100|/LitecoinCore:0.14.2/|70015|1403|64.58.32.0/20|CA|arin|2018-08-30|EBOX, CA
 65.21.32.190|/LitecoinCore:0.16.3/|70015|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE
-66.248.205.14|/LitecoinCore:0.18.1/|70015|57043|66.248.205.0/24|NL|ripencc|2012-12-03|HOSTKEY-AS, NL
-66.248.205.14|/LitecoinCore:0.18.1/|70208|57043|66.248.205.0/24|NL|ripencc|2012-12-03|HOSTKEY-AS, NL
 66.41.120.74|/LitecoinCore:0.14.2/|70015|7922|66.41.0.0/16|US|arin|2000-11-07|COMCAST-7922, US
 68.109.222.51|/LitecoinCore:0.18.1/|70015|22773|68.109.208.0/20|US|arin|2002-02-04|ASN-CXA-ALL-CCI-22773-RDC, US
 68.109.222.51|/LitecoinCore:0.18.1/|70208|22773|68.109.208.0/20|US|arin|2002-02-04|ASN-CXA-ALL-CCI-22773-RDC, US
