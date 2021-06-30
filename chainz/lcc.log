@@ -31,6 +31,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 137.25.3.209|/LitecoinCashCore:0.16.1.3/|70015|20115|137.25.0.0/16|US|arin|2017-06-20|CHARTER-20115, US
 142.202.79.50|/LitecoinCashCore:0.16.1.3/|70015|46292|142.202.79.0/24|US|arin|2019-12-30|MOJAVEWIFI-COM-CA-1, US
 144.91.77.184|/LitecoinCashCore:0.16.1.3/|70015|51167|144.91.76.0/23|DE|ripencc|1990-11-20|CONTABO, DE
+145.40.32.198|/LitecoinCashCore:0.15.0.1/|70015|49808|145.40.32.0/19|AT|ripencc|1993-09-01|POWERSPEED-AS, AT
 147.135.97.183|/LitecoinCashCore:0.16.1.2/|70015|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
 148.255.139.62|/LitecoinCashCore:0.16.2/|70015|6400|148.255.0.0/16|DO|lacnic|2014-04-14|Compania Dominicana de Telefonos S. A., DO
 148.255.88.140|/LitecoinCashCore:0.16.2/|70015|6400|148.255.0.0/16|DO|lacnic|2014-04-14|Compania Dominicana de Telefonos S. A., DO
@@ -46,7 +47,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 165.227.63.228|/LitecoinCashCore:0.16.2.1/|70015|14061|165.227.48.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 166.177.185.31|/LitecoinCashCore:0.16.1.3/|70015|20057|166.177.184.0/22|US|arin|1993-07-09|ATT-MOBILITY-LLC-AS20057, US
 168.119.15.105|/LitecoinCashCore:0.16.1.3/|70015|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
-168.119.15.106|/LitecoinCashCore:0.16.1.3/|70015|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 168.119.15.122|/LitecoinCashCore:0.16.1.3/|70015|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 172.58.200.62|/LitecoinCashCore:0.16.2/|70015|21928|172.58.200.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 173.183.236.223|/LitecoinCashCore:0.16.2/|70015|852|173.183.128.0/17|CA|arin|2009-06-09|TELUS Communications, CA
@@ -106,7 +106,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.24.175.221|/LitecoinCashCore:0.15.0.1/|70015|3209|37.24.128.0/17|DE|ripencc|2011-12-22|VODANET International IP-Backbone of Vodafone, DE
 39.171.22.69|/LitecoinCashCore:0.16.2/|70015|56041|39.171.0.0/19|CN|apnic|2011-04-01|CMNET-ZHEJIANG-AP China Mobile communications corporation, CN
 42.200.79.169|/LitecoinCashCore:0.16.1.2/|70015|4760|42.200.64.0/19|HK|apnic|2011-03-22|HKTIMS-AP HKT Limited, HK
-45.227.78.181|/LitecoinCashCore:0.16.1.3/|70015|267055|45.227.78.0/24|BR|lacnic|2017-12-07|N.C Sat Mais Veloz Ltda, BR
+45.227.78.181|/LitecoinCashCore:0.16.1.3/|70015|267055|45.227.78.0/23|BR|lacnic|2017-12-07|N.C Sat Mais Veloz Ltda, BR
 45.76.135.93|/LitecoinCashCore:0.16.1.1/|70015|20473|45.76.128.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.76.142.166|/LitecoinCashCore:0.16.1.1/|70015|20473|45.76.128.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.77.209.181|/LitecoinCashCore:0.16.1.3/|70015|20473|45.77.208.0/21|US|arin|2015-04-24|AS-CHOOPA, US
@@ -181,6 +181,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.114.99.68|/LitecoinCashCore:0.16.1.3/|70015|8708|79.112.0.0/14|RO|ripencc|2007-05-29|RCS-RDS 73-75 Dr. Staicovici, RO
 79.125.227.254|/LitecoinCashCore:0.16.1.3/|70015|6821|79.125.227.0/24|MK|ripencc|2007-08-31|MT-AS-OWN bul. Orce Nikolov bb, MK
 79.125.227.93|/LitecoinCashCore:0.16.1.3/|70015|6821|79.125.227.0/24|MK|ripencc|2007-08-31|MT-AS-OWN bul. Orce Nikolov bb, MK
+79.234.51.50|/LitecoinCashCore:0.16.2/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.234.58.58|/LitecoinCashCore:0.16.2/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 8.9.43.131|/LitecoinCashCore:0.16.1.3/|70015|62728|8.9.40.0/21|US|arin|1992-12-01|VGPE-ASN1, US
 80.211.114.59|/LitecoinCashCore:0.16.1.3/|70015|31034|80.211.0.0/17|IT|ripencc|2001-12-12|ARUBA-ASN, IT
