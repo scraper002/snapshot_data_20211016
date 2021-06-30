@@ -18,7 +18,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.3.162.199|/LitecoinCore:0.17.1/|70015|55990|119.3.160.0/19|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
-120.158.9.104|/BitcoinKit:0.1.0/|70015|1221|120.158.0.0/16|AU|apnic|2009-04-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 123.160.134.59|/LitecoinCore:0.18.1/|70015|4134|123.160.0.0/14|CN|apnic|2007-02-28|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
@@ -77,8 +76,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 177.21.227.93|/NBitcoin:5.0.49/|70012|11835|177.21.224.0/21|BR|lacnic|2011-01-06|NOVA FIBRA TELECOM S.A., BR
 177.220.179.158|/NBitcoin:5.0.49/|70012|14868|177.220.176.0/20|BR|lacnic|2013-09-20|COPEL Telecomunicacoes S.A., BR
 177.223.234.193|/NBitcoin:5.0.49/|70012|52559|177.223.234.0/23|BR|lacnic|2013-02-14|NOVATEC TELECOM LTDA, BR
-177.34.33.61|/NBitcoin:5.0.49/|70012|28573|177.34.32.0/20|BR|lacnic|2011-01-14|CLARO S.A., BR
-177.53.224.249|/NBitcoin:5.0.49/|70012|53138|177.53.224.0/24|BR|lacnic|2011-05-30|Conectlan Internet, BR
+177.34.33.61|/NBitcoin:5.0.49/|70012|28573|177.34.32.0/22|BR|lacnic|2011-01-14|CLARO S.A., BR
+177.53.224.249|/NBitcoin:5.0.49/|70012|53138|177.53.224.0/22|BR|lacnic|2011-05-30|Conectlan Internet, BR
 177.64.230.20|/NBitcoin:5.0.49/|70012|28573|177.64.224.0/19|BR|lacnic|2011-06-03|CLARO S.A., BR
 178.22.51.250|/LitecoinCore:0.14.2/|70015|44943|178.22.48.0/21|RU|ripencc|2010-03-31|RAMNET-AS Internet Service Provider RamNet, RU
 179.191.203.145|/NBitcoin:5.0.49/|70012|28210|179.191.192.0/19|BR|lacnic|2013-03-05|SUMICITY TELECOMUNICACOES S.A., BR
@@ -95,7 +94,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.232.71.26|/LitecoinCore:0.18.1/|70015|197540|185.232.68.0/22|AT|ripencc|2017-11-16|NETCUP-AS netcup GmbH, DE
 185.57.72.31|/LitecoinCore:0.18.1/|70015|29555|185.57.72.0/24|KZ|ripencc|2014-05-12|Tele2 Kazakhstan, KZ
 186.188.104.175|/LitecoinCore:0.18.1/|70015|21826|186.188.104.0/23|VE|lacnic|2010-10-21|Corporacion Telemic C.A., VE
-186.225.225.38|/NBitcoin:5.0.49/|70012|53175|186.225.224.0/23|BR|lacnic|2010-08-04|Unetvale Servicos e Equipamentos LTDA, BR
+186.225.225.38|/NBitcoin:5.0.49/|70012|53175|186.225.224.0/22|BR|lacnic|2010-08-04|Unetvale Servicos e Equipamentos LTDA, BR
 186.232.168.236|/NBitcoin:5.0.49/|70012|53194|186.232.168.0/24|BR|lacnic|2011-05-10|VIA NOVA TELECOMUNICACOES LTDA, BR
 187.2.232.4|/NBitcoin:5.0.49/|70012|28573|187.2.224.0/20|BR|lacnic|2008-08-08|CLARO S.A., BR
 187.254.104.179|/NBitcoin:5.0.49/|70012|16960|187.254.104.0/21|MX|lacnic|2013-02-22|Cablevision Red, S.A de C.V., MX
@@ -225,6 +224,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.121.177.222|/LitecoinCore:0.17.1/|70015|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 91.193.178.239|/loaf-android:175/|70015|16345|91.193.176.0/22|RU|ripencc|2007-04-24|BEE-AS Russia, RU
 91.193.183.104|/LitecoinCore:0.17.1/|70015|12722|91.193.180.0/22|GB|ripencc|2018-04-18|RECONN, RU
+91.233.43.224|/LitecoinCore:0.17.1/|70015|57587|91.233.43.0/24|RU|ripencc|2011-12-02|ASINTEGSETISVYAZI, RU
 91.239.130.62|/LitecoinCore:0.18.1/|70015|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 92.38.138.120|/LitecoinCore:0.16.0/|70015|199524|92.38.138.0/24|LU|ripencc|2008-02-08|GCORE, LU
 92.60.40.212|/WalletKit:0.1.0/|70015|3214|92.60.40.0/24|DE|ripencc|2018-08-23|XTOM xTom, DE
