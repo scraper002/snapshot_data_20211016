@@ -20,6 +20,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.229.99.77|/SidneyReilly:0.7.8/|60018|16509|13.228.0.0/15|US|arin|2019-10-01|AMAZON-02, US
 13.230.19.97|/KlausFuchs:2.2.2.1/|60018|16509|13.230.0.0/15|US|arin|2019-10-01|AMAZON-02, US
 134.215.168.13|/KlausFuchs:2.2.2.2/|60018|4181|134.215.168.0/21|US|arin|1989-07-25|TDS-AS, US
+137.59.253.57|/KlausFuchs:2.2.2.2/|60018|46562|137.59.252.0/23|JP|apnic|2016-02-10|PERFORMIVE, US
 137.59.253.58|/KlausFuchs:2.2.2.2/|60018|46562|137.59.252.0/23|JP|apnic|2016-02-10|PERFORMIVE, US
 149.167.146.42|/SidneyReilly:0.7.8/|60018|135887|149.167.146.0/24|AU|apnic|1991-05-07|TELSTRA-BELONG-AP Belong Telstra Corporation, AU
 152.97.205.250|/KlausFuchs:2.2.2.2/|60018|21766|152.97.204.0/22|US|arin|2020-05-19|BEN-LOMAND-TEL, US
@@ -75,7 +76,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 39.100.65.111|/KlausFuchs:2.2.2.2/|60018|37963|39.100.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 45.133.180.26|/KlausFuchs:2.2.2.2/|60018|9009|45.133.180.0/24|RO|ripencc|2019-07-25|M247, GB
 45.133.182.252|/KlausFuchs:2.2.2.2/|60018|9009|45.133.182.0/24|RO|ripencc|2019-07-25|M247, GB
-45.14.71.10|/KlausFuchs:2.2.2.2/|60018|4785|45.14.71.0/24|DE|ripencc|2019-05-08|XTOM-AS-JP xTom, JP
 45.43.14.94|/KlausFuchs:2.2.2.2/|60018|397423|45.43.14.0/24|US|arin|2015-03-26|TIER-NET, US
 45.67.96.120|/KlausFuchs:2.2.2.2/|60018|45671|45.67.96.0/24|NL|ripencc|2019-02-18|AS45671-NET-AU Wholesale Services Provider, AU
 45.81.149.1|/KlausFuchs:2.2.2.2/|60018|62579|45.81.149.0/24|CA|ripencc|2019-05-20|VIRTUALSHIELD, US
@@ -119,6 +119,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.102.16.196|/KlausFuchs:2.2.2.2/|60018|9009|82.102.16.0/24|GB|ripencc|2003-12-29|M247, GB
 82.171.62.134|/KlausFuchs:2.2.2.2/|60018|1136|82.171.0.0/18|NL|ripencc|2003-08-29|KPN KPN National, NL
 82.56.134.218|/KlausFuchs:2.2.2.2/|60018|3269|82.56.0.0/16|IT|ripencc|2003-08-07|ASN-IBSNAZ, IT
+82.73.36.26|/KlausFuchs:2.2.2.2/|60018|33915|82.72.0.0/15|NL|ripencc|2003-07-04|TNF-AS, NL
 83.247.116.245|/KlausFuchs:2.2.2.2/|60018|12414|83.247.0.0/17|NL|ripencc|2004-05-18|NL-SOLCON SOLCON, NL
 83.82.114.48|/KlausFuchs:2.2.2.2/|60018|33915|83.80.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.11.96.26|/SidneyReilly:0.7.8/|60018|29259|84.11.0.0/16|DE|ripencc|2004-07-15|DE-IABG-TELEPORT, DE
@@ -133,6 +134,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.31.81.132|/KlausFuchs:2.2.2.2/|60018|5089|86.24.0.0/13|GB|ripencc|2005-03-29|NTL, GB
 87.0.15.130|/KlausFuchs:2.2.2.2/|60018|3269|87.0.0.0/16|IT|ripencc|2005-07-13|ASN-IBSNAZ, IT
 87.123.201.163|/KlausFuchs:2.2.2.2/|60018|8881|87.123.201.0/24|DE|ripencc|2005-07-27|VERSATEL, DE
+87.167.65.137|/KlausFuchs:2.2.2.1/|60018|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.178.225.230|/KlausFuchs:2.2.2.2/|60018|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 89.44.75.150|/SidneyReilly:0.7.8/|60018|3329|89.44.72.0/22|GR|ripencc|2005-11-29|HOL-GR Athens, Greece, GR
 90.198.229.186|/KlausFuchs:2.2.2.2/|60018|5607|90.192.0.0/11|GB|ripencc|2006-05-31|BSKYB-BROADBAND-AS, GB
@@ -146,5 +148,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.168.164.215|/KlausFuchs:2.2.2.2/|60018|60781|95.168.160.0/20|NL|ripencc|2009-01-06|LEASEWEB-NL-AMS-01 Netherlands, NL
 95.217.78.169|/KlausFuchs:2.2.2.2/|60018|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.90.225.126|/KlausFuchs:2.2.2.2/|60018|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
+95.90.236.219|/KlausFuchs:2.2.2.2/|60018|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 95.91.208.158|/KlausFuchs:2.2.2.2/|60018|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 99.46.149.180|/KlausFuchs:2.2.2.2/|60018|7018|99.32.0.0/12|US|arin|2008-02-25|ATT-INTERNET4, US
