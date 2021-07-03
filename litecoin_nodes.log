@@ -41,6 +41,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.70.186.58|9333|/LitecoinCore:0.18.1/|44391|109.70.186.0/24|RU|ripencc|2009-11-09|ESD-AS, RU
 111.108.29.123|9513|/Satoshi:0.8.7.2/|2516|111.108.0.0/16|JP|apnic|2009-06-12|KDDI KDDI CORPORATION, JP
 111.90.145.106|9333|/LitecoinCore:0.18.1/|45839|111.90.144.0/21|MY|apnic|2009-06-17|SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY
+112.17.178.52|9333|/LitecoinCore:0.16.1(bitcore)/|56041|112.17.128.0/18|CN|apnic|2008-12-15|CMNET-ZHEJIANG-AP China Mobile communications corporation, CN
 112.5.37.131|11081|/WorldcoinFoundation:0.10.4/|9808|112.5.32.0/21|CN|apnic|2008-12-15|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 112.5.37.248|60012|/LitecoinCore:0.18.1/|9808|112.5.32.0/21|CN|apnic|2008-12-15|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 112.54.13.221|9333|/LitecoinCore:0.17.1/|56044|112.54.0.0/20|CN|apnic|2008-12-15|CMNET-AS-LIAONING China Mobile communications corporation, CN
@@ -723,6 +724,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:2988::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:fd8::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3a:1060::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:3a:2913::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:5809::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:19ec::4204|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:1dee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -812,6 +814,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.246.202.14|9333|/LitecoinCore:0.18.1/|15169|35.244.0.0/14|US|arin|2017-09-29|GOOGLE, US
 37.1.204.231|8333|/LitecoinCore:0.17.1/|58061|37.1.200.0/21|GB|ripencc|2011-12-13|SCALAXY-AS, NL
 37.1.207.4|9333|/LitecoinCore:0.18.1/|58061|37.1.200.0/21|GB|ripencc|2011-12-13|SCALAXY-AS, NL
+37.112.64.77|9432|/Satoshi:0.8.6.5/|49048|37.112.64.0/22|RU|ripencc|2012-02-09|TVER-AS, RU
 37.187.128.6|9333|/LitecoinCore:0.18.1/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
 37.187.22.76|9333|/LitecoinCore:0.14.2/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
 37.187.29.104|9333|/LitecoinCore:0.18.1/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
@@ -1160,6 +1163,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.215.92.141|9333|/FutureBit-ApolloCore:0.17.1/|41164|84.215.0.0/17|NO|ripencc|2005-07-07|GET-NO GET Norway, NO
 84.38.184.139|9333|/LitecoinCore:0.16.3/|49505|84.38.184.0/24|RU|ripencc|2010-07-06|SELECTEL, RU
 84.38.189.208|9333|/LitecoinCore:0.16.3/|49505|84.38.188.0/23|RU|ripencc|2010-07-06|SELECTEL, RU
+84.84.83.229|9334|/LitecoinCore:0.18.1/|1136|84.80.0.0/13|NL|ripencc|2004-03-17|KPN KPN National, NL
 85.10.203.112|9333|/LitecoinCore:0.18.1/|24940|85.10.192.0/18|DE|ripencc|2005-02-23|HETZNER-AS, DE
 85.13.237.24|9333|/LitecoinCore:0.16.0/|31708|85.13.192.0/18|GB|ripencc|2005-04-05|COREIX-UK-AS London, Great Britain, GB
 85.15.179.171|9333|/LitecoinCore:0.18.1/|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
@@ -1279,7 +1283,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.197.41|9333|/LitecoinCore:0.18.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.33.109|9333|/LitecoinCore:0.18.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.35.32|9333|/LitecoinCore:0.18.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.36.126|9333|/LitecoinCore:0.16.3/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.38.60|9333|/LitecoinCore:0.16.0/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.41.149|9333|/LitecoinCore:0.18.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.44.33|9333|/LitecoinCore:0.18.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
