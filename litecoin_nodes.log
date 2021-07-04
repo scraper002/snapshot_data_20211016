@@ -3,6 +3,7 @@
 IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.100.174.138|9333|/LitecoinCore:0.18.1/|56300|101.100.174.0/24|SG|apnic|2010-12-22|MYREPUBLIC-SG MyRepublic Ltd., SG
 101.108.4.170|9333|/LitecoinCore:0.18.1/|23969|101.108.4.0/22|TH|apnic|2010-12-13|TOT-NET TOT Public Company Limited, TH
+101.186.144.120|9333|/FutureBit-ApolloCore:0.17.1/|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 103.107.199.54|9333|/LitecoinCore:0.16.3/|137409|103.107.198.0/23|AU|apnic|2018-01-17|GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU
 103.12.211.237|9333|/Satoshi:0.8.7.4/|132335|103.12.211.0/24|IN|apnic|2012-07-19|NETWORK-LEAPSWITCH-IN LeapSwitch Networks Pvt Ltd, IN
 103.147.12.229|11081|/WorldcoinFoundation:0.10.4/|38186|103.147.12.0/24|CN|apnic|2019-12-23|FTG-AS-AP Forewin Telecom Group Limited, ISP at, HK
@@ -78,7 +79,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 123.129.224.30|9333|/LitecoinCore:0.17.1/|4837|123.128.0.0/13|CN|apnic|2007-02-15|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 124.148.55.18|9333|/LitecoinCore:0.18.1/|7545|124.148.32.0/19|AU|apnic|2006-03-02|TPG-INTERNET-AP TPG Telecom Limited, AU
 124.239.166.218|9333|/LitecoinCore:0.18.1/|4134|124.236.0.0/14|CN|apnic|2006-07-25|CHINANET-BACKBONE No.31,Jin-rong Street, CN
-125.230.24.40|9333|/Satoshi:0.8.6.2/|3462|125.230.0.0/16|TW|apnic|2005-10-18|HINET Data Communication Business Group, TW
 128.12.200.81|9333|/LitecoinCore:0.18.1/|32|128.12.0.0/16|US|arin|1983-02-24|STANFORD, US
 128.199.69.208|9333|/LitecoinCore:0.18.1/|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 13.114.38.206|9333|/LitecoinCore:0.17.1/|16509|13.112.0.0/14|US|arin|2016-08-09|AMAZON-02, US
@@ -284,6 +284,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.104.178.96|33666|/CypherfunkCore:0.15.2/|63949|172.104.160.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
 172.105.246.198|9333|/LitecoinCore:0.18.1/|63949|172.105.244.0/22|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
 172.106.112.62|9333|/LitecoinCore:0.18.1/|40676|172.106.112.0/24|US|arin|2015-06-22|AS40676, US
+172.111.144.30|9333|/LitecoinCore:0.18.1/|3223|172.111.144.0/24|US|arin|2015-07-01|VOXILITY, GB
 173.172.140.196|9333|/FutureBit-ApolloCore:0.17.1/|11427|173.172.0.0/14|US|arin|2009-04-14|TWC-11427-TEXAS, US
 173.199.71.160|9333|/LitecoinCore:0.17.1/|20473|173.199.70.0/23|US|arin|2010-09-29|AS-CHOOPA, US
 173.209.40.49|9333|/LitecoinCore:0.18.1/|36666|173.209.32.0/19|CA|arin|2009-09-21|GTCOMM, CA
@@ -479,8 +480,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:678:cc8::1:10:88|20010|/LitecoinCore:0.18.1/|41427|2001:678:cc8::/48|SI|ripencc|2020-03-19|MARC-NET_AS, SI
 2001:67c:2b0:db32:0:1:b009:5635|9333|/LitecoinCore:0.14.2/|29432|2001:67c:2b0::/48|FI|ripencc|2010-08-10|TREX-AS, FI
 2001:7e8:c858:7f00:1e69:7aff:fe6f:200f|9333|/LitecoinCore:0.18.1/|6661|2001:7e8::/32|LU|ripencc|2002-06-05|EPT-LU Entreprise des P. et T. Luxembourg, LU
+2001:b011:300e:3d5:6d4:c4ff:fe53:23fd|9333|/LitecoinCore:0.18.1/|3462|2001:b011:3000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:4009:1adc:c400:5e6b:d126:e7f1|9333|/LitecoinCore:0.17.1/|3462|2001:b011:4000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
-2001:b011:9825:2ea0:a807:f8c0:1cbe:77b8|9333|/Satoshi:0.8.6.2/|3462|2001:b011:9800::/38|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b07:5d2b:d187:d4cc:c721:b6e4:b1ae|9333|/LitecoinCore:0.18.1/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
 2001:b07:6451:61cc:aaa1:59ff:fe05:4c0b|9333|/LitecoinCore:0.18.1/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
 2001:bc8:47a4:1119::1|9532|/LitecoinCore:0.18.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
@@ -599,6 +600,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2602:ffb6:4:b75d:f816:3eff:fed3:cce5|9333|/LitecoinCore:0.17.1/|174|2602:ffb6::/36|CA|arin|2014-06-16|COGENT-174, US
 2603:3004:70a:bb00::12e2|9333|/LitecoinCore:0.15.1/|7922|2603:3000::/24|US|arin|2015-05-13|COMCAST-7922, US
 2603:3013:500:e000:c894:1bff:fe32:a62f|9333|/LitecoinCore:0.18.1/|7922|2603:3000::/24|US|arin|2015-05-13|COMCAST-7922, US
+2603:6010:5647:dc79::a1b|9333|/LitecoinCore:0.18.1/|10796|2603:6010::/28|US|arin|2016-12-02|TWC-10796-MIDWEST, US
 2603:8001:5000:2b3a:5054:ff:fe1b:2913|9333|/LitecoinCore:0.17.1/|20001|2603:8000::/28|US|arin|2017-03-20|TWC-20001-PACWEST, US
 2604:2dc0:100:12be::|9333|/LitecoinCore:0.18.1/|16276|2604:2dc0::/32|US|arin|2017-04-03|OVH, FR
 2604:2dc0:100:2c56::|9333|/LitecoinCore:0.18.1/|16276|2604:2dc0::/32|US|arin|2017-04-03|OVH, FR
@@ -738,6 +740,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:8e01:d949:6c76::199|9333|/LitecoinCore:0.18.1/|48803|2a01:8e00::/29|SE|ripencc|2011-02-01|MEDIATEKNIK, SE
 2a01:e0a:1f2:8550:357f:898d:94f5:365a|9333|/LitecoinCore:0.18.1/|12322|2a01:e0a::/39|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:33b:bb10:25ce:259c:5325:a1f1|9333|/LitecoinCore:0.18.1/|12322|2a01:e0a::/38|FR|ripencc|2008-01-21|PROXAD, FR
+2a01:e0a:3f6:4b30:3437:1409:4041:cdc0|9333|/LitecoinCore:0.18.1/|12322|2a01:e0a::/38|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:a0a:c520:8926:9845:edec:d705|9333|/LitecoinCore:0.18.1/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:1206:4547:56b0:e8c3:70bc:bd46:adc2|9333|/LitecoinCore:0.18.1/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom Switzerland Ltd, CH
 2a02:168:420b:a::28|9333|/LitecoinCore:0.18.1/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
@@ -940,6 +943,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.72.48.9|9333|/LitecoinCore:0.18.1/|6327|50.72.48.0/22|CA|arin|2010-10-28|SHAW, CA
 50.98.219.206|9333|/LitecoinCore:0.18.1/|852|50.98.0.0/16|CA|arin|2011-03-31|TELUS Communications, CA
 51.15.186.6|8333|/LitecoinCore:0.17.1/|12876|51.15.0.0/16|FR|ripencc|1993-09-01|Online SAS, FR
+51.15.21.149|9333|/LitecoinCore:0.17.1/|12876|51.15.0.0/17|FR|ripencc|1993-09-01|Online SAS, FR
 51.161.128.146|9333|/LitecoinCore:0.16.3/|16276|51.161.128.0/17|CA|arin|2019-09-03|OVH, FR
 51.161.196.120|9400|/LitecoinCore:0.16.3/|16276|51.161.128.0/17|CA|arin|2019-09-03|OVH, FR
 51.161.196.150|9333|/LitecoinCore:0.16.3/|16276|51.161.128.0/17|CA|arin|2019-09-03|OVH, FR
