@@ -14,7 +14,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 119.45.242.241|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|45090|119.45.240.0/20|CN|apnic|2008-01-03|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 120.158.9.65|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1221|120.158.0.0/16|AU|apnic|2009-04-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 120.17.35.187|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|133612|120.17.0.0/18|AU|apnic|2008-03-07|VODAFONE-AS-AP Vodafone Australia Pty Ltd, AU
-121.208.214.22|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1221|121.208.0.0/12|AU|apnic|2006-06-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 122.51.249.99|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|45090|122.51.192.0/18|CN|apnic|2006-07-19|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 125.168.40.74|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|9443|125.168.0.0/16|AU|apnic|2005-09-08|VOCUS-RETAIL-AU Vocus Retail, AU
 125.25.155.208|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|23969|125.25.152.0/21|TH|apnic|2005-08-08|TOT-NET TOT Public Company Limited, TH
@@ -41,6 +40,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.9.63.112|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 177.54.147.19|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|262287|177.54.147.0/24|BR|lacnic|2012-07-04|Maxihost LTDA, BR
 178.114.229.113|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|8437|178.114.0.0/16|AT|ripencc|2010-01-12|UTA-AS, AT
+178.121.44.214|/PeercoinJ:0.13.1/Peercoin Wallet:3.2/|60012|6697|178.121.40.0/21|BY|ripencc|2009-12-10|BELPAK-AS BELPAK, BY
 178.212.171.80|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|197233|178.212.168.0/21|PL|ripencc|2010-08-20|VENTUS-AS, PL
 178.33.239.210|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|178.32.0.0/15|FR|ripencc|2010-01-19|OVH, FR
 178.84.63.238|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|33915|178.84.0.0/16|NL|ripencc|2009-12-19|TNF-AS, NL
@@ -112,7 +112,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.64.216.165|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16202|77.64.128.0/17|DE|ripencc|2006-01-16|TELECOLUMBUS-AS, DE
 78.132.143.220|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|13056|78.132.128.0/17|RU|ripencc|2007-06-05|RT-TMB-AS Tambov branch, RU
 78.73.64.39|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3301|78.64.0.0/12|SE|ripencc|2007-03-09|TELIANET-SWEDEN Telia Company, SE
-79.135.192.31|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|44078|79.135.192.0/19|UA|ripencc|2007-11-14|ICN-AS, UA
+79.135.192.31|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|44078|79.135.192.0/19|UA|ripencc|2007-11-14|ICN-AS, UA
 79.137.67.138|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
 79.22.2.38|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|3269|79.22.0.0/15|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
 80.135.62.64|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
@@ -158,7 +158,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.39.81|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.251.43.141|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|3269|95.250.0.0/15|IT|ripencc|2009-01-15|ASN-IBSNAZ, IT
 95.27.44.10|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|8402|95.26.0.0/15|RU|ripencc|2008-10-10|CORBINA-AS OJSC Vimpelcom, RU
-95.27.50.214|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3216|95.27.48.0/21|RU|ripencc|2008-10-10|SOVAM-AS, RU
 95.65.35.43|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|31252|95.65.0.0/17|MD|ripencc|2008-10-28|STARNET-AS, MD
 95.91.209.8|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 96.2.179.196|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|11232|96.2.0.0/16|US|arin|2007-01-08|MIDCO-NET, US
