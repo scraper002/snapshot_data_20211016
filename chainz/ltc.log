@@ -18,6 +18,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.99.111.7|/BitcoinKit:0.1.0/|70015|17451|118.99.111.0/24|ID|apnic|2009-10-27|BIZNET-AS-AP BIZNET NETWORKS, ID
 119.123.131.238|/LitecoinCore:0.18.1/|70015|4134|119.120.0.0/13|CN|apnic|2008-02-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+119.123.68.248|/LitecoinCore:0.16.2/|70015|4134|119.120.0.0/13|CN|apnic|2008-02-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 123.112.246.17|/LitecoinCore:0.18.1/|70015|4808|123.112.192.0/18|CN|apnic|2007-01-29|CHINA169-BJ China Unicom Beijing Province Network, CN
 123.149.237.118|/LitecoinCore:0.18.1/|70015|4134|123.149.0.0/16|CN|apnic|2007-02-28|CHINANET-BACKBONE No.31,Jin-rong Street, CN
@@ -79,7 +80,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.232.71.26|/LitecoinCore:0.18.1/|70015|197540|185.232.68.0/22|AT|ripencc|2017-11-16|NETCUP-AS netcup GmbH, DE
 185.244.212.26|/WalletKit:0.1.0/|70015|9009|185.244.212.0/24|RO|ripencc|2018-02-05|M247, GB
 185.25.120.91|/LitecoinCore:0.18.1/|70015|60806|185.25.120.0/24|PL|ripencc|2013-05-03|ZICOMNEXT, PL
-187.254.147.50|/NBitcoin:5.0.49/|70012|28523|187.254.144.0/20|MX|lacnic|2013-02-22|Cablevision Red, S.A de C.V., MX
 188.124.46.112|/LitecoinCore:0.16.3/|70015|49505|188.124.46.0/23|RU|ripencc|2009-06-19|SELECTEL, RU
 188.131.162.86|/btc-seeder:0.0001/|70013|45090|188.131.160.0/20|CN|apnic|2009-04-14|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 188.166.168.167|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|188.166.168.0/21|US|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
@@ -99,7 +99,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.98.71.147|/LitecoinCore:0.18.1/|70015|7922|24.98.0.0/15|US|arin|2001-09-24|COMCAST-7922, US
 3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
-3.140.255.188|/EuliumCore:0.16.3/|70015|16509|3.136.0.0/13|US|arin|2018-06-25|AMAZON-02, US
 3.80.88.244|/Dain:0.1.0/|70003|14618|3.80.0.0/12|US|arin|2017-12-20|AMAZON-AES, US
 34.90.250.163|/LitecoinCore:0.18.1/|70015|15169|34.88.0.0/14|US|arin|2018-09-28|GOOGLE, US
 35.227.117.11|/LitecoinCore:0.18.1/|70015|15169|35.224.0.0/14|US|arin|2017-09-29|GOOGLE, US
@@ -178,7 +177,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.12.243.13|/BitcoinKit:0.1.0/|70015|13285|92.12.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
 93.220.65.247|/WalletKit:0.1.0/|70015|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.130.239.23|/LitecoinCore:0.18.1/|70015|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-95.217.162.57|/CounosXCore:0.17.2/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.91.236.111|/LitecoinCore:0.17.1/|70015|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 98.143.238.115|/BitcoinKit:0.1.0/|70015|11796|98.143.224.0/20|US|arin|2009-05-07|AIRSTREAMCOMM-NET, US
 99.199.60.167|/loaf-android:175/|70015|852|99.199.0.0/17|CA|arin|2008-08-01|TELUS Communications, CA
