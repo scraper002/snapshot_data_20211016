@@ -14,6 +14,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.52.102.112|/Satoshi:0.17.1/|70015|701|108.52.0.0/16|US|arin|2009-06-05|UUNET, US
 108.75.169.179|/Satoshi:0.17.1/|70015|7018|108.64.0.0/11|US|arin|2009-10-29|ATT-INTERNET4, US
 109.242.138.6|/Satoshi:0.17.1/|70015|25472|109.242.128.0/17|GR|ripencc|2009-11-02|WIND-AS, GR
+110.138.84.121|/Satoshi:0.17.1/|70015|7713|110.138.80.0/20|ID|apnic|2009-04-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 112.38.53.154|/Satoshi:0.17.1/|70015|24444|112.38.32.0/19|CN|apnic|2008-12-15|CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited, CN
 115.224.135.109|/Satoshi:0.17.1/|70015|4134|115.224.0.0/12|CN|apnic|2008-09-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 115.64.6.4|/Satoshi:0.17.1/|70015|7545|115.64.6.0/23|AU|apnic|2008-07-11|TPG-INTERNET-AP TPG Telecom Limited, AU
@@ -52,6 +53,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.51.66.82|/Satoshi:0.17.1/|70015|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
 178.85.187.62|/Satoshi:0.17.1/|70015|33915|178.85.0.0/16|NL|ripencc|2009-12-19|TNF-AS, NL
 184.153.108.241|/Satoshi:0.17.1/|70015|12271|184.153.0.0/17|US|arin|2010-06-15|TWC-12271-NYC, US
+184.89.162.89|/Satoshi:0.17.1/|70015|33363|184.88.0.0/14|US|arin|2010-03-31|BHN-33363, US
 185.142.38.128|/Satoshi:0.17.1/|70015|48253|185.142.38.0/24|LB|ripencc|2016-03-07|FIBERTECH Fiber-Tech S.A.R.L, LB
 185.143.147.230|/Satoshi:0.17.1/|70015|56835|185.143.146.0/23|UA|ripencc|2016-03-15|ASITEK, UA
 186.141.197.166|/Satoshi:0.17.1/|70015|11315|186.141.197.0/24|AR|lacnic|2009-09-07|Telefonica Moviles Argentina S.A. Movistar Argentina, AR
@@ -82,7 +84,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.160.69.186|/Satoshi:0.11.1/|70015|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.31.103.43|/Satoshi:0.17.1/|70015|16185|217.31.96.0/20|NO|ripencc|2000-10-27|RINGNETT-NORWAY RingNett AS Autonomous System, NO
 218.214.223.73|/Satoshi:0.17.1/|70015|9443|218.214.0.0/16|AU|apnic|2003-06-19|VOCUS-RETAIL-AU Vocus Retail, AU
-219.98.135.32|/Satoshi:0.17.1/|70015|2527|219.98.0.0/16|JP|apnic|2002-03-07|SO-NET Sony Network Communications Inc., JP
 23.28.126.225|/Satoshi:0.17.1/|70015|12083|23.28.124.0/22|US|arin|2012-02-21|WOW-INTERNET, US
 24.2.106.192|/Satoshi:0.17.1/|70015|7922|24.0.0.0/12|US|arin|2003-10-06|COMCAST-7922, US
 24.34.22.177|/Satoshi:0.17.1/|70015|7922|24.34.0.0/16|US|arin|2001-09-18|COMCAST-7922, US
@@ -171,7 +172,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.1.41.154|/Satoshi:0.17.1/|70015|5391|78.1.0.0/16|HR|ripencc|2007-02-20|T-HT Croatian Telecom Inc., HR
 78.32.157.222|/Satoshi:0.17.1/|70015|8468|78.32.0.0/15|GB|ripencc|2007-03-01|ENTANET ENTANET International Limited, GB
 79.66.89.0|/Satoshi:0.17.1/|70015|9105|79.66.0.0/15|GB|ripencc|2007-06-19|TISCALI-UK TalkTalk Communications Limited, GB
-81.83.237.35|/Satoshi:0.17.1/|70015|6848|81.82.0.0/15|BE|ripencc|2002-04-29|TELENET-AS, BE
 82.12.63.101|/Satoshi:0.17.1/|70015|5089|82.12.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.164.86.131|/Satoshi:0.17.1/|70015|2119|82.164.0.0/16|NO|ripencc|2003-07-28|TELENOR-NEXTEL Telenor Norge AS, NO
 82.64.141.120|/Satoshi:0.17.1/|70015|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
@@ -179,6 +179,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.64.195.3|/Satoshi:0.17.1/|70015|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 83.99.245.20|/Satoshi:0.17.1/|70015|24651|83.99.128.0/17|LV|ripencc|2004-01-27|LVBALTICOM-AS, LV
 84.203.62.184|/Satoshi:0.17.1/|70015|31122|84.203.0.0/16|IE|ripencc|2004-05-24|DIGIWEB-AS, IE
+84.65.223.249|/Satoshi:0.17.1/|70015|5378|84.64.0.0/13|GB|ripencc|2004-03-15|Vodafone, GB
 86.1.102.49|/Satoshi:0.17.1/|70015|5089|86.1.0.0/16|GB|ripencc|2005-03-29|NTL, GB
 86.210.173.43|/Satoshi:0.17.1/|70015|3215|86.210.128.0/17|FR|ripencc|2005-03-02|France Telecom - Orange, FR
 86.26.202.252|/Satoshi:0.17.1/|70015|5089|86.24.0.0/13|GB|ripencc|2005-03-29|NTL, GB
