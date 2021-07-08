@@ -74,6 +74,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 200.233.226.75|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16735|200.233.192.0/18|BR|lacnic|2004-01-23|ALGAR TELECOM SA, BR
 203.198.146.232|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4760|203.198.144.0/20|HK|apnic|2000-07-12|HKTIMS-AP HKT Limited, HK
 206.198.248.236|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|14291|206.198.248.0/21|US|arin|2017-08-18|ANTIETAM, US
+209.58.188.196|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|133752|209.58.188.0/24|SG|apnic|1999-04-29|LEASEWEB-APAC-HKG-10 Leaseweb Asia Pacific pte. ltd., HK
 211.26.153.3|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|9443|211.26.0.0/16|AU|apnic|2002-08-20|VOCUS-RETAIL-AU Vocus Retail, AU
 212.85.236.29|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|198144|212.85.236.0/23|ES|ripencc|2000-05-19|RONDA, ES
 216.188.233.105|/Satoshi:0.20.2/Peercoin:0.10.2/|70015|7459|216.188.232.0/23|US|arin|2002-04-30|GRANDECOM-AS1, US
@@ -82,7 +83,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 23.119.121.151|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7018|23.112.0.0/12|US|arin|2013-08-09|ATT-INTERNET4, US
 24.229.236.161|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3737|24.229.0.0/16|US|arin|1997-05-02|AS-PTD, US
 24.76.93.35|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6327|24.76.92.0/22|CA|arin|2000-12-15|SHAW, CA
-37.173.50.200|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 37.247.22.53|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|33885|37.247.0.0/19|SE|ripencc|2012-04-17|OWNIT Katarinavagen 15, SE
 37.4.255.36|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|3209|37.4.0.0/15|DE|ripencc|2011-12-09|VODANET International IP-Backbone of Vodafone, DE
 37.5.251.55|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3209|37.4.0.0/15|DE|ripencc|2011-12-09|VODANET International IP-Backbone of Vodafone, DE
@@ -120,6 +120,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 8.44.156.18|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|393552|8.44.156.0/23|US|arin|1992-12-01|COL-LPC, US
 80.131.87.117|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 81.221.243.202|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1836|81.221.0.0/16|CH|ripencc|2002-11-26|GREEN green.ch AG Autonomous System, CH
+81.92.200.86|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|9009|81.92.200.0/22|GB|ripencc|2002-08-01|M247, GB
 82.174.154.197|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|50266|82.174.0.0/16|NL|ripencc|2003-09-29|TMOBILE-THUIS, NL
 82.25.185.13|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|5089|82.24.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.64.30.214|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
@@ -136,7 +137,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.166.210.68|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|12322|88.160.0.0/12|FR|ripencc|2005-10-03|PROXAD, FR
 89.1.208.230|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 89.217.96.25|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|6730|89.217.0.0/16|CH|ripencc|2006-06-26|SUNRISE, CH
-89.56.233.180|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|207790|89.56.0.0/16|DE|ripencc|2005-11-23|SWNNMS, DE
 91.125.255.22|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|6871|91.125.0.0/16|GB|ripencc|2006-10-09|PLUSNET UK Internet Service Provider, GB
 91.196.220.132|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|62240|91.196.220.0/24|DE|ripencc|2018-06-26|CLOUVIDER Clouvider - Global ASN, GB
 92.201.87.128|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|20676|92.200.0.0/15|DE|ripencc|2007-10-17|PLUSNET *****************, DE
