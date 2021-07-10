@@ -544,6 +544,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 216.16.16.126|9333|/LitecoinCore:0.18.1/|20412|216.16.16.0/24|US|arin|1998-07-02|CLARITY-TELECOM, US
 216.188.233.105|9333|/LitecoinCore:0.18.1/|7459|216.188.232.0/23|US|arin|2002-04-30|GRANDECOM-AS1, US
 216.218.213.188|7107|/FlashcoinCore:0.13.3.2/|6939|216.218.128.0/17|US|arin|1999-08-30|HURRICANE, US
+216.27.10.151|9027|/Satoshi:0.8.6.2/|7349|216.27.0.0/19|US|arin|1998-07-15|AS-TIERP-7349, US
 216.8.173.75|9333|/LitecoinCore:0.18.1/|7057|216.8.160.0/19|CA|arin|2001-01-04|MANAGEDNETWORK, CA
 217.115.116.200|9333|/LitecoinCore:0.15.1/|30900|217.115.112.0/20|IE|ripencc|2003-12-24|WEBWORLD-AS ta Web World Ireland, IE
 217.160.42.177|9333|/LitecoinCore:0.18.1/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
@@ -618,7 +619,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:f1c0:1800:11::1|1337|/DefcoinCore:1.0.0/|8560|2607:f1c0::/32|US|arin|2007-10-18|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2607:f2c0:100:200:1::2e8|9333|/LitecoinCore:0.18.1/|5645|2607:f2c0::/32|CA|arin|2008-01-17|TEKSAVVY, CA
 2800:bf0:164:10fb:107b:8451:836a:19f0|9333|/LitecoinCore:0.18.1/|52257|2800:bf0:164::/48|EC|lacnic|2011-12-07|Telconet S.A, EC
-2802:8010:4103:dc00:153:82c5:90ea:7541|9333|/LitecoinCore:0.18.1/|22927|2802:8010::/32|AR|lacnic|2016-06-13|Telefonica de Argentina, AR
 2804:219c:203:fd00:3078:1b96:ec54:5611|37371|/B2CCoinCore:0.16.3/|264564|2804:219c::/32|BR|lacnic|2015-01-14|VIVA SERVICOS DE COMUNICACAO LTDA - ME, BR
 2804:d45:e093:3b00:45ab:c490:e7e2:539a|9333|/LitecoinCore:0.18.1/|7738|2804:d40::/28|BR|lacnic|2013-03-04|Telemar Norte Leste S.A., BR
 2a00:1370:816d:fd5e:4181:e535:93a3:1d3a|9333|/LitecoinCore:0.18.1/|25513|2a00:1370::/32|RU|ripencc|2010-07-15|ASN-MGTS-USPD, RU
@@ -963,6 +963,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.81.73.181|7333|/LitecoinCore:0.17.1/|16276|51.81.0.0/17|US|arin|2019-03-11|OVH, FR
 51.81.93.86|9333|/LitecoinCore:0.18.1/|16276|51.81.0.0/17|US|arin|2019-03-11|OVH, FR
 51.81.96.134|9333|/LitecoinCore:0.17.1/|16276|51.81.0.0/17|US|arin|2019-03-11|OVH, FR
+51.89.161.144|11963|/CounosCoinCore:0.15.4/|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.89.161.147|10841|/CounosXCore:0.17.2/|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.89.161.149|10841|/CounosXCore:0.17.2/|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.89.40.32|9333|/LitecoinCore:0.17.1/|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -1011,8 +1012,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 59.110.22.131|9333|/LitecoinCore:0.16.3/|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 59.110.30.9|9333|/LitecoinCore:0.16.3/|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 59.167.93.6|9333|/LitecoinCore:0.17.1/|4739|59.167.0.0/17|AU|apnic|2004-11-24|INTERNODE-AS Internode Pty Ltd, AU
-59.93.7.80|9333|/LitecoinCore:0.18.1/|9829|59.93.0.0/20|IN|apnic|2004-09-06|BSNL-NIB National Internet Backbone, IN
 60.205.112.102|9333|/LitecoinCore:0.14.2/|37963|60.205.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+61.3.169.178|9333|/LitecoinCore:0.18.1/|9829|61.3.160.0/20|IN|apnic|2001-12-27|BSNL-NIB National Internet Backbone, IN
 62.109.18.23|9333|/LitecoinCore:0.17.1/|29182|62.109.16.0/21|RU|ripencc|2008-09-26|THEFIRST-AS, RU
 62.152.58.16|9679|/LitecoinCore:0.14.2/|3175|62.152.58.0/24|RU|ripencc|2008-02-25|CITYTELECOM-MSK, RU
 62.171.138.227|9333|/LitecoinCore:0.17.1/|51167|62.171.138.0/23|DE|ripencc|2000-08-18|CONTABO, DE
