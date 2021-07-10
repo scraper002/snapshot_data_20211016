@@ -21,7 +21,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 148.59.149.52|/oktoshi:6.9.0.3/|60023|396477|148.59.149.0/24|CA|arin|2017-08-01|DNSNETWORKS, CA
 161.81.94.158|/oktoshi:6.9.0.5/|60023|137872|161.81.88.0/21|HK|apnic|1992-06-22|PEOPLESPHONE-HK China Mobile Hong Kong Company Limited, HK
 162.252.240.130|/oktoshi:6.9.0/|60023|31798|162.252.240.0/24|CA|arin|2014-02-06|DATACITY, CA
-162.252.240.242|/oktoshi:6.9.0.5/|60023||||||
+162.252.240.242|/oktoshi:6.9.0.5/|60023|31798|162.252.240.0/24|CA|arin|2014-02-06|DATACITY, CA
 175.101.67.35|/oktoshi:6.9.0.5/|60023|17754|175.101.67.0/24|IN|apnic|2009-12-21|EXCELL-AS Excellmedia, IN
 178.83.130.73|/oktoshi:6.9.0/|60023|6830|178.83.0.0/16|CH|ripencc|2009-12-14|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 178.90.170.76|/oktoshi:6.9.0.5/|60023|9198|178.90.168.0/22|KZ|ripencc|2009-11-26|KAZTELECOM-AS, KZ
@@ -78,6 +78,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.12.8.120|/oktoshi:6.9.0.5/|60023|6805|77.0.0.0/12|DE|ripencc|2006-11-21|TDDE-ASN1, DE
 77.179.143.160|/oktoshi:6.9.0.5/|60023|6805|77.176.0.0/12|DE|ripencc|2006-11-17|TDDE-ASN1, DE
 77.180.230.58|/oktoshi:6.9.0.5/|60023|6805|77.176.0.0/12|DE|ripencc|2006-11-17|TDDE-ASN1, DE
+77.189.152.156|/oktoshi:6.9.0.5/|60023|6805|77.176.0.0/12|DE|ripencc|2006-11-17|TDDE-ASN1, DE
 77.20.250.77|/oktoshi:6.9.0.5/|60023|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
 77.21.248.137|/oktoshi:6.9.0.5/|60023|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
 78.159.157.93|/oktoshi:6.9.0.5/|60023|25211|78.159.157.0/24|BG|ripencc|2007-09-18|TELECOMASET-AS, BG
@@ -99,7 +100,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.85.208.220|/oktoshi:6.9.0.5/|60023|1136|84.80.0.0/13|NL|ripencc|2004-03-17|KPN KPN National, NL
 85.246.48.25|/oktoshi:5.0.0.3/|60022|3243|85.240.0.0/13|PT|ripencc|2004-01-03|MEO-RESIDENCIAL, PT
 85.249.40.117|/oktoshi:6.9.0.5/|60023|8402|85.249.32.0/19|RU|ripencc|2005-01-24|CORBINA-AS OJSC Vimpelcom, RU
-86.162.29.142|/oktoshi:6.9.0.5/|60023|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
+86.162.29.142|???|0|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.22.8.37|/oktoshi:6.9.0.5/|60023|5089|86.22.0.0/15|GB|ripencc|2005-03-29|NTL, GB
 88.212.55.252|/oktoshi:6.9.0.5/|60023|42841|88.212.48.0/20|SK|ripencc|2005-12-08|ANTIK, SK
 88.30.17.138|/oktoshi:6.9.0.5/|60023|3352|88.30.0.0/16|ES|ripencc|2005-07-13|TELEFONICA_DE_ESPANA, ES
