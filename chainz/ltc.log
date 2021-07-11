@@ -56,7 +56,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 168.119.34.230|/LitecoinCore:0.17.1/|70015|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 168.194.163.143|/NBitcoin:5.0.49/|70012|14868|168.194.162.0/23|BR|lacnic|2016-08-18|COPEL Telecomunicacoes S.A., BR
-168.197.58.98|/NBitcoin:5.0.49/|70012|264025|168.197.56.0/22|BR|lacnic|2016-10-10|Arroba Banda Larga, BR
 168.228.213.32|/NBitcoin:5.0.49/|70012|264930|168.228.213.0/24|BR|lacnic|2016-04-15|Conecta Internet, BR
 170.106.36.158|/btc-seeder:0.0001/|70013|132203|170.106.36.0/22|SG|apnic|1994-03-25|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 170.238.50.10|/NBitcoin:5.0.49/|70012|266344|170.238.50.0/24|BR|lacnic|2016-11-04|INFOLOG TI, BR
@@ -86,6 +85,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 179.125.190.161|/NBitcoin:5.0.49/|70012|28649|179.125.176.0/20|BR|lacnic|2013-09-18|Desktop Sigmanet Comunicacao Multimidia SA, BR
 179.127.134.77|/NBitcoin:5.0.49/|70012|28146|179.127.134.0/24|BR|lacnic|2013-10-03|MHNET TELECOM, BR
 179.127.70.190|/NBitcoin:5.0.49/|70012|28287|179.127.70.0/24|BR|lacnic|2013-10-02|FIT Telecom Eireli, BR
+179.186.131.148|/LitecoinCore:0.18.1/|70015|18881|179.184.0.0/14|BR|lacnic|2013-01-30|TELEFONICA BRASIL S.A, BR
 179.250.113.180|/NBitcoin:5.0.49/|70012|26615|179.250.112.0/20|BR|lacnic|2012-12-20|TIM SA, BR
 179.35.114.246|/NBitcoin:5.0.49/|70012|26615|179.35.64.0/18|BR|lacnic|2014-03-17|TIM SA, BR
 179.38.144.0|/LitecoinCore:0.18.1/|70015|22927|179.38.128.0/17|AR|lacnic|2013-06-20|Telefonica de Argentina, AR
@@ -129,7 +129,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 201.17.106.14|/NBitcoin:5.0.49/|70012|28573|201.17.0.0/17|BR|lacnic|2004-07-26|CLARO S.A., BR
 201.89.9.74|/NBitcoin:5.0.49/|70012|8167|201.89.0.0/18|BR|lacnic|2006-05-19|Brasil Telecom SA - Filial Distrito Federal, BR
 202.73.14.205|/LitecoinCore:0.17.1/|70015|55720|202.73.14.0/24|MY|apnic|2004-12-03|GIGABIT-MY Gigabit Hosting Sdn Bhd, MY
-203.220.52.84|/NBitcoin:5.0.49/|70012|7545|203.220.52.0/23|AU|apnic|2001-02-20|TPG-INTERNET-AP TPG Telecom Limited, AU
 204.15.86.241|/LitecoinCore:0.14.2/|70015|29933|204.15.84.0/22|US|arin|2005-08-17|OFF-CAMPUS-TELECOMMUNICATIONS, US
 211.27.151.114|/Satoshi:0.8.5.1/|70002|9443|211.27.0.0/16|AU|apnic|2003-09-30|VOCUS-RETAIL-AU Vocus Retail, AU
 213.47.0.133|/BitcoinKit:0.1.0/|70015|6830|213.47.0.0/18|AT|ripencc|1999-12-30|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
@@ -140,7 +139,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.0.102.83|/MindexcoinCore:0.18.1/|70015|16509|3.0.0.0/15|US|arin|2017-12-20|AMAZON-02, US
 3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
-3.126.230.58|/LitecoinCore:0.18.1/|70015|16509|3.124.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.140.255.188|/EuliumCore:0.16.3/|70015|16509|3.136.0.0/13|US|arin|2018-06-25|AMAZON-02, US
 34.150.39.53|/BitcoinKit:0.1.0/|70015|15169|34.150.0.0/16|US|arin|2021-01-08|GOOGLE, US
 34.201.114.34|/LitecoinCore:0.13.2/|70015|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
@@ -214,6 +212,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.130.71.31|/LitecoinCore:0.18.1/|70015|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 94.243.71.233|/loaf-android:175/|70015|25454|94.243.68.0/22|MD|ripencc|2008-10-22|ASN-OMD-FNO Orange Moldova Fixed Network Autonomous System, MD
 95.126.188.235|/loaf-android:175/|70015|3352|95.126.0.0/16|ES|ripencc|2009-12-03|TELEFONICA_DE_ESPANA, ES
+95.158.53.248|/Satoshi:0.8.6.2/|70004|35362|95.158.0.0/18|UA|ripencc|2009-04-02|BEST Best ISP, UA
 95.211.189.3|/LitecoinCore:0.17.1/|70015|60781|95.211.0.0/16|NL|ripencc|2009-02-05|LEASEWEB-NL-AMS-01 Netherlands, NL
 95.216.122.133|/CounosXCore:0.17.1/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.87.226.56|/LitecoinCore:0.18.1/|70015|43561|95.87.192.0/18|BG|ripencc|2009-02-12|NET1-AS, BG
