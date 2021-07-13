@@ -11,7 +11,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.105.40.15|/LitecoinCore:0.18.1/|70208|12570|109.105.32.0/19|CZ|ripencc|2009-09-14|ITSELF Network and internet service provider., CZ
 109.79.14.227|/LitecoinCore:0.18.1/|70015|15502|109.79.0.0/20|IE|ripencc|2009-08-27|VODAFONE-IRELAND-ASN, IE
 109.79.14.227|/LitecoinCore:0.18.1/|70208|15502|109.79.0.0/20|IE|ripencc|2009-08-27|VODAFONE-IRELAND-ASN, IE
-113.210.62.22|/LitecoinCore:0.16.3/|70015|9534|113.210.56.0/21|MY|apnic|2008-12-03|MAXIS-AS1-AP Binariang Berhad, MY
 115.171.229.115|/Satoshi:0.8.6.1/|70002|4847|115.171.192.0/18|CN|apnic|2008-08-25|CNIX-AP China Networks Inter-Exchange, CN
 115.72.3.248|/LitecoinCore:0.18.1/|70015|7552|115.72.0.0/21|VN|apnic|2008-07-17|VIETEL-AS-AP Viettel Group, VN
 115.72.3.248|/LitecoinCore:0.18.1/|70208|7552|115.72.0.0/21|VN|apnic|2008-07-17|VIETEL-AS-AP Viettel Group, VN
@@ -72,6 +71,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 177.200.110.16|/NBitcoin:5.0.49/|70012|28306|177.200.110.0/24|BR|lacnic|2012-09-24|Voluy Telecom Eireli, BR
 177.34.172.146|/NBitcoin:5.0.49/|70012|28573|177.34.160.0/20|BR|lacnic|2011-01-14|CLARO S.A., BR
 177.66.213.50|/NBitcoin:5.0.49/|70012|262504|177.66.212.0/23|BR|lacnic|2011-06-20|Nova Rede de Telecomunicacoes Ltda, BR
+177.81.212.224|/NBitcoin:5.0.49/|70012|28573|177.81.192.0/19|BR|lacnic|2011-08-30|CLARO S.A., BR
 177.95.117.81|/NBitcoin:5.0.49/|70012|27699|177.94.0.0/15|BR|lacnic|2014-05-27|TELEFONICA BRASIL S.A, BR
 178.121.19.98|/LitecoinCore:0.18.1/|70015|6697|178.121.16.0/21|BY|ripencc|2009-12-10|BELPAK-AS BELPAK, BY
 178.121.19.98|/LitecoinCore:0.18.1/|70208|6697|178.121.16.0/21|BY|ripencc|2009-12-10|BELPAK-AS BELPAK, BY
@@ -119,6 +119,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 192.40.57.235|/LitecoinCore:0.18.1/|70015|46562|192.40.57.0/24|US|arin|2012-11-29|PERFORMIVE, US
 192.40.57.235|/LitecoinCore:0.18.1/|70208|46562|192.40.57.0/24|US|arin|2012-11-29|PERFORMIVE, US
 195.201.220.231|/btcwire:0.5.0/ltcd:0.20.1/|70013|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
+195.62.38.17|/LitecoinCore:0.18.1/|70015|24811|195.62.38.0/23|RU|ripencc|2011-03-25|KES-AS, RU
+195.62.38.17|/LitecoinCore:0.18.1/|70208|24811|195.62.38.0/23|RU|ripencc|2011-03-25|KES-AS, RU
 196.240.57.116|/BitcoinKit:0.1.0/|70015|58065|196.240.57.0/24|SC|afrinic|2008-11-11|PACKETEXCHANGE, SE
 197.210.55.48|/loaf-android:175/|70015|29465|197.210.55.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 200.138.231.178|/NBitcoin:5.0.49/|70012|8167|200.138.192.0/18|BR|lacnic|2003-02-25|Brasil Telecom SA - Filial Distrito Federal, BR
@@ -204,6 +206,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.80.96.112|/BitcoinKit:0.1.0/|70015|13036|78.80.0.0/17|CZ|ripencc|2007-03-22|TMOBILE-, CZ
 79.115.35.68|/LitecoinCore:0.18.1/|70015|8708|79.112.0.0/14|RO|ripencc|2007-05-29|RCS-RDS 73-75 Dr. Staicovici, RO
 79.115.35.68|/LitecoinCore:0.18.1/|70208|8708|79.112.0.0/14|RO|ripencc|2007-05-29|RCS-RDS 73-75 Dr. Staicovici, RO
+79.231.130.217|/LitecoinCore:0.18.1/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+79.231.130.217|/LitecoinCore:0.18.1/|70208|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.1.132.59|/LitecoinCore:0.14.2/|70015|5089|80.1.128.0/17|GB|ripencc|2001-04-25|NTL, GB
 80.47.152.173|/LitecoinCore:0.18.1/|70015|9105|80.46.0.0/15|GB|ripencc|2001-11-23|TISCALI-UK TalkTalk Communications Limited, GB
 80.47.152.173|/LitecoinCore:0.18.1/|70208|9105|80.46.0.0/15|GB|ripencc|2001-11-23|TISCALI-UK TalkTalk Communications Limited, GB
