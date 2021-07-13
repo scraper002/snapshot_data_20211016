@@ -1865,7 +1865,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 177.43.223.91|8333|/Satoshi:0.16.0/|18881|177.43.192.0/19|BR|lacnic|2011-03-02|TELEFONICA BRASIL S.A, BR
 177.52.173.62|8333|/Satoshi:0.20.1/|263319|177.52.173.0/24|BR|lacnic|2014-03-06|JCR COMERCIO E SERVICOS DE TELECOMUNICACOES LTDA, BR
 177.68.60.203|8333|/Satoshi:0.21.1/|27699|177.68.0.0/17|BR|lacnic|2011-06-03|TELEFONICA BRASIL S.A, BR
-177.84.43.2|8333|/Satoshi:0.21.0/|52708|177.84.42.0/23|BR|lacnic|2012-12-28|Linenet Suprimentos para Informatica LTDA-ME, BR
+177.84.43.2|8333|/Satoshi:0.21.0/|52708|177.84.40.0/22|BR|lacnic|2012-12-28|Linenet Suprimentos para Informatica LTDA-ME, BR
 178.0.238.170|8333|/Satoshi:0.17.0.1/|3209|178.0.0.0/12|DE|ripencc|2010-01-12|VODANET International IP-Backbone of Vodafone, DE
 178.11.238.230|8333|/Satoshi:0.21.0/|3209|178.0.0.0/12|DE|ripencc|2010-01-12|VODANET International IP-Backbone of Vodafone, DE
 178.116.190.252|8333|/Satoshi:0.20.0/|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
@@ -4466,7 +4466,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a03:b0c0:3:f0::9:1000|8333|/Satoshi:0.19.1/|14061|2a03:b0c0:3::/48|US|ripencc|2012-12-28|DIGITALOCEAN-ASN, US
 2a03:c980:db:18f::|8333|/Satoshi:0.20.1/|210079|2a03:c980:db::/48|RU|ripencc|2011-10-28|EUROBYTE Eurobyte LLC, Moscow, Russia, RU
 2a03:c980:db:222::|8333|/Satoshi:0.21.0/|210079|2a03:c980:db::/48|RU|ripencc|2011-10-28|EUROBYTE Eurobyte LLC, Moscow, Russia, RU
-2a03:cfc0:8000:7::5fd6:359a|8333|/Satoshi:0.21.1/|NA|NA|PL|ripencc|2013-01-17|NA
+2a03:cfc0:8000:7::5fd6:359a|8333|/Satoshi:0.21.1/|201814|2a03:cfc0::/32|PL|ripencc|2013-01-17|PL-SKYTECH-AS, PL
 2a03:e2c0:1ce::2|8333|/Satoshi:0.21.1/|205125|2a03:e2c0::/32|SC|ripencc|2013-01-24|NETWORK-MGMT-ASN, SC
 2a04:2180:0:2::5a|8333|/Satoshi:0.21.0/|61272|2a04:2180::/32|LT|ripencc|2013-04-03|IST-AS, LT
 2a04:2180:1:7::7|8333|/Satoshi:0.20.1(UASF-SegWit-BIP148)/|61272|2a04:2180::/32|LT|ripencc|2013-04-03|IST-AS, LT
@@ -4658,8 +4658,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.151.96.115|8333|/Satoshi:0.21.1/|33915|31.151.0.0/17|NL|ripencc|2011-02-17|TNF-AS, NL
 31.16.16.187|8333|/Satoshi:0.21.1/|3209|31.16.0.0/14|DE|ripencc|2011-03-24|VODANET International IP-Backbone of Vodafone, DE
 31.16.52.37|8333|/Satoshi:0.21.1/|3209|31.16.0.0/14|DE|ripencc|2011-03-24|VODANET International IP-Backbone of Vodafone, DE
-31.164.120.15|8333|/Satoshi:0.21.0/|6730|31.164.0.0/15|CH|ripencc|2011-02-23|SUNRISE, CH
-31.164.229.141|8333|/Satoshi:0.21.1/|6730|31.164.0.0/15|CH|ripencc|2011-02-23|SUNRISE, CH
+31.164.120.15|8333|/Satoshi:0.21.0/|6730|31.164.0.0/16|CH|ripencc|2011-02-23|SUNRISE, CH
+31.164.229.141|8333|/Satoshi:0.21.1/|6730|31.164.0.0/16|CH|ripencc|2011-02-23|SUNRISE, CH
 31.17.218.67|8333|/Satoshi:0.21.1/|3209|31.16.0.0/14|DE|ripencc|2011-03-24|VODANET International IP-Backbone of Vodafone, DE
 31.171.251.35|8333|/Satoshi:0.17.2/|50837|31.171.251.0/24|CH|ripencc|2011-04-04|CLOUDSIGMA-AS, CH
 31.179.204.142|8333|/Satoshi:0.20.1/|201046|31.179.204.0/24|PL|ripencc|2011-03-22|TRAFCOM_NET, PL
