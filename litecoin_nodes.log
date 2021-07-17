@@ -596,6 +596,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2601:645:501:ea91:e9fd:c957:8fb4:c34a|9333|/LitecoinCore:0.17.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2602:ff22:777::2715:8ec1|9333|/LitecoinCore:0.18.1/|63297|2602:ff22::/36|CA|arin|2016-10-27|PACIFIC-SERVERS, CA
 2602:ffb6:4:b75d:f816:3eff:fed3:cce5|9333|/LitecoinCore:0.17.1/|174|2602:ffb6::/36|CA|arin|2014-06-16|COGENT-174, US
+2603:300b:623:3000::ff7b|9333|/LitecoinCore:0.18.1/|7922|2603:3000::/24|US|arin|2015-05-13|COMCAST-7922, US
 2603:3013:500:e000:c894:1bff:fe32:a62f|9333|/LitecoinCore:0.18.1/|7922|2603:3000::/24|US|arin|2015-05-13|COMCAST-7922, US
 2603:8001:5000:2b3a:5054:ff:fe1b:2913|9333|/LitecoinCore:0.17.1/|20001|2603:8000::/28|US|arin|2017-03-20|TWC-20001-PACWEST, US
 2604:2dc0:100:12be::|9333|/LitecoinCore:0.18.1/|16276|2604:2dc0::/32|US|arin|2017-04-03|OVH, FR
@@ -621,6 +622,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2800:810:487:870e:a00:27ff:fe7a:cb6a|9333|/LitecoinCore:0.18.1/|27747|2800:810::/32|AR|lacnic|2014-06-13|Telecentro S.A., AR
 2802:8010:410c:6c00:153:82c5:90ea:7541|9333|/LitecoinCore:0.18.1/|22927|2802:8010::/32|AR|lacnic|2016-06-13|Telefonica de Argentina, AR
 2804:14c:bbad:43b1:993d:5b8b:3e55:7db9|9333|/LitecoinCore:0.18.1/|28573|2804:14c:bbad::/48|BR|lacnic|2012-02-10|CLARO S.A., BR
+2804:14d:1683:8362::1002|37371|/B2CCoinCore:0.16.3/|28573|2804:14d:1683::/48|BR|lacnic|2012-02-10|CLARO S.A., BR
 2804:14d:5c9e:93cc::1000|37371|/B2CCoinCore:0.16.3/|28573|2804:14d:5c9e::/48|BR|lacnic|2012-02-10|CLARO S.A., BR
 2804:45e4:8017:ea00:cca7:4ecc:f306:7b10|37371|/B2CCoinCore:0.16.3/|262567|2804:45e4:8000::/40|BR|lacnic|2017-10-27|TELECOM FOZ, BR
 2a00:1fa0:2d2:ad97:9e:bbc0:874f:586b|9333|/LitecoinCore:0.18.1/|8359|2a00:1fa0::/33|RU|ripencc|2010-04-22|MTS, RU
@@ -1099,7 +1101,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.154.127.9|9333|/LitecoinCore:0.18.1/|852|75.154.64.0/18|CA|arin|2006-08-01|TELUS Communications, CA
 75.185.50.17|9333|/LitecoinCore:0.18.1/|10796|75.185.0.0/16|US|arin|2006-08-16|TWC-10796-MIDWEST, US
 75.40.189.179|9333|/LitecoinCore:0.17.1/|7018|75.40.0.0/14|US|arin|2006-02-28|ATT-INTERNET4, US
-75.66.135.168|9333|/LitecoinCore:0.14.2/|7922|75.64.0.0/13|US|arin|2006-07-07|COMCAST-7922, US
 75.82.185.108|9333|/LitecoinCore:0.18.1/|20001|75.82.0.0/15|US|arin|2006-07-19|TWC-20001-PACWEST, US
 76.103.7.22|9333|/LitecoinCore:0.17.1(opreturn.net)/|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
 76.11.111.90|9333|/Satoshi:0.8.5.1/|11260|76.11.96.0/19|CA|arin|2007-02-23|EASTLINK-HSI, CA
@@ -1130,6 +1131,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.137.57.54|9027|/Satoshi:0.8.6.2/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
 79.137.69.175|9333|/LitecoinCore:0.14.2/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
 79.175.125.210|9333|/LitecoinCore:0.16.3/|9125|79.175.64.0/18|RS|ripencc|2007-11-12|ORIONTELEKOM-AS, RS
+79.195.73.206|9333|/LitecoinCore:0.17.1/|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.199.40.153|9333|/LitecoinCore:0.17.1/|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.98.159.7|12333|/LitecoinCore:0.17.1/|44065|79.98.152.0/21|CZ|ripencc|2007-11-06|NETAIR-AS, CZ
 8.131.54.186|9333|/LitecoinCore:0.18.1(LTC1)/|37963|8.131.0.0/16|SG|apnic|1992-12-01|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -1224,7 +1226,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.89.143.222|9333|/LitecoinCore:0.18.1/|15557|92.88.0.0/13|FR|ripencc|2007-10-17|LDCOMNET, FR
 93.104.214.69|9333|/LitecoinCore:0.18.1/|8767|93.104.0.0/16|DE|ripencc|2008-03-18|MNET-AS Germany, DE
 93.179.197.152|9333|/LitecoinCore:0.17.1/|31242|93.179.192.0/18|PL|ripencc|2008-04-14|TKPSA-AS, PL
-93.197.32.98|9333|/LitecoinCore:0.17.1/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.43.231.1|9333|/LitecoinCore:0.18.1/|12874|93.43.0.0/16|IT|ripencc|2008-02-25|FASTWEB, IT
 93.46.80.157|9333|/LitecoinCore:0.18.1/|12874|93.46.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
 93.73.30.218|9333|/LitecoinCore:0.18.1/|25229|93.73.0.0/16|UA|ripencc|2008-04-04|VOLIA-AS, UA
