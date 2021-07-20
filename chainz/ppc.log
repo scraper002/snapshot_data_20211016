@@ -26,6 +26,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 143.244.49.19|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|60068|143.244.48.0/22|GB|ripencc|1990-10-26|CDN77 ^_^, GB
 144.91.77.184|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51167|144.91.76.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 145.109.50.23|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1124|145.109.0.0/17|NL|ripencc|1993-09-01|UVA-NL Universiteit van Amsterdam, EU
+145.109.53.104|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1124|145.109.0.0/17|NL|ripencc|1993-09-01|UVA-NL Universiteit van Amsterdam, EU
 149.56.155.28|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 151.18.12.108|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1267|151.18.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 151.18.47.224|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1267|151.18.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
@@ -51,7 +52,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.220.101.8|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|208294|185.220.101.0/24|DE|ripencc|2017-09-12|RELAYON, US
 185.244.193.79|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|197540|185.244.192.0/22|DE|ripencc|2018-02-02|NETCUP-AS netcup GmbH, DE
 185.247.70.141|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|9009|185.247.70.0/24|RO|ripencc|2018-02-28|M247, GB
-186.90.19.158|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|8048|186.90.0.0/19|VE|lacnic|2009-11-18|CANTV Servicios, Venezuela, VE
 188.146.164.212|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12912|188.146.0.0/15|PL|ripencc|2009-04-01|TM, PL
 188.162.166.32|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|31163|188.162.166.0/24|RU|ripencc|2009-05-20|MF-KAVKAZ-AS, RU
 188.166.12.97|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|14061|188.166.0.0/18|US|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
@@ -81,10 +81,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.247.22.53|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|33885|37.247.0.0/19|SE|ripencc|2012-04-17|OWNIT Katarinavagen 15, SE
 37.5.251.55|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3209|37.4.0.0/15|DE|ripencc|2011-12-09|VODANET International IP-Backbone of Vodafone, DE
 45.130.83.119|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|206092|45.130.83.0/24|NL|ripencc|2019-07-17|SECFIREWALLAS, GB
-46.114.36.162|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|6805|46.114.0.0/15|DE|ripencc|2010-05-11|TDDE-ASN1, DE
 46.127.160.4|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6830|46.127.0.0/16|CH|ripencc|2010-06-01|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 46.166.139.111|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|43350|46.166.136.0/21|NL|ripencc|2010-12-16|NFORCE, NL
-46.172.12.55|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|197023|46.172.12.0/22|RU|ripencc|2011-02-04|ASCOMTELTV MTS Belgorod branch, RU
 47.187.2.182|/Satoshi:0.20.2/Peercoin:0.10.2/|70015|5650|47.184.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.205.160.212|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|5650|47.205.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.206.88.18|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|5650|47.206.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
@@ -133,6 +131,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.150.165.7|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|42673|91.150.160.0/19|PL|ripencc|2007-01-12|SKYWARE-AS, PL
 91.196.220.31|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|62240|91.196.220.0/24|DE|ripencc|2018-06-26|CLOUVIDER Clouvider - Global ASN, GB
 91.245.130.143|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|47914|91.245.128.0/19|RU|ripencc|2012-08-20|CREATIVEDIRECTMARKETINGSOLUTIONS, RU
+91.58.143.222|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.64.52.30|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
 93.46.126.34|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12874|93.46.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
 93.46.89.186|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12874|93.46.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
