@@ -9,6 +9,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 106.217.18.96|/loaf-android:175/|70015|45609|106.217.0.0/19|IN|apnic|2011-03-17|BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service, IN
 106.73.128.98|/BitcoinKit:0.1.0/|70015|2516|106.72.0.0/15|JP|apnic|2011-04-05|KDDI KDDI CORPORATION, JP
 107.170.17.56|/litecoin-seeder:0.01/|70002|14061|107.170.0.0/17|US|arin|2013-12-30|DIGITALOCEAN-ASN, US
+108.167.81.38|/NBitcoin:5.0.49/|70012|10796|108.167.80.0/20|US|arin|2011-12-08|TWC-10796-MIDWEST, US
 110.175.176.78|/NBitcoin:5.0.49/|70012|7545|110.175.176.0/22|AU|apnic|2009-05-08|TPG-INTERNET-AP TPG Telecom Limited, AU
 112.197.31.140|/loaf-android:175/|70015|45543|112.197.31.0/24|VN|apnic|2009-02-12|SCTV-AS-VN SaiGon Tourist cable Televition Company, VN
 112.200.196.159|/NBitcoin:5.0.49/|70012|9299|112.200.192.0/19|PH|apnic|2009-02-16|IPG-AS-AP Philippine Long Distance Telephone Company, PH
@@ -42,12 +43,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 157.90.183.145|/LitecoinCore:0.18.1/|70015|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
 158.69.196.61|/Node:0.8.7.2/|70002|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
+161.35.53.66|/B2CCoinCore:0.16.3/|70015|14061|161.35.48.0/20|US|arin|2019-07-30|DIGITALOCEAN-ASN, US
 162.62.21.32|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 162.62.21.41|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 164.68.102.219|/LitecoinCore:0.17.1/|70015|51167|164.68.102.0/23|DE|ripencc|1992-12-17|CONTABO, DE
 165.227.227.143|/LitecoinCore:0.18.1/|70015|14061|165.227.224.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 170.106.36.158|/btc-seeder:0.0001/|70013|132203|170.106.36.0/22|SG|apnic|1994-03-25|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
+170.247.36.87|/B2CCoinCore:0.16.3/|70015|264524|170.247.36.0/24|BR|lacnic|2017-02-07|Cunha e Zanato telecom LTDA ME, BR
 170.78.82.132|/NBitcoin:5.0.49/|70012|263073|170.78.82.0/24|BR|lacnic|2016-10-05|DTEL TELECOM, BR
 171.25.193.20|/BitcoinKit:0.1.0/|70015|198093|171.25.193.0/24|SE|ripencc|2012-01-13|DFRI-AS Foreningen for digitala fri- och rattigheter, SE
 172.81.181.237|/LitecoinCore:0.17.1/|70015|174|172.81.176.0/21|CA|arin|2015-05-14|COGENT-174, US
@@ -98,7 +101,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.163.76.248|/loaf-android:175/|70015|15895|188.163.0.0/17|UA|ripencc|2009-05-22|KSNET-AS, UA
 188.2.39.122|/LitecoinCore:0.18.1/|70015|31042|188.2.0.0/17|RS|ripencc|2009-02-12|SERBIA-BROADBAND-AS Serbia BroadBand-Srpske Kablovske mreze d.o.o., RS
 188.214.132.191|/LitecoinCore:0.18.1/|70015|16125|188.214.128.0/21|LT|ripencc|2009-05-08|CHERRYSERVERS1-AS, LT
-189.4.77.164|/NBitcoin:5.0.49/|70012|28573|189.4.64.0/18|BR|lacnic|2006-09-06|CLARO S.A., BR
 189.4.79.127|/NBitcoin:5.0.49/|70012|28573|189.4.64.0/18|BR|lacnic|2006-09-06|CLARO S.A., BR
 189.48.32.148|/NBitcoin:5.0.49/|70012|7738|189.48.0.0/18|BR|lacnic|2007-06-22|Telemar Norte Leste S.A., BR
 189.51.216.247|/NBitcoin:5.0.49/|70012|28580|189.51.216.0/22|BR|lacnic|2007-10-04|CILNET Comunicacao e Informatica LTDA., BR
@@ -132,7 +134,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.175.214.127|/LitecoinCore:0.18.1/|70015|14618|35.168.0.0/13|US|arin|2016-08-09|AMAZON-AES, US
 35.226.227.244|/LitecoinCore:0.17.1/|70015|15169|35.224.0.0/14|US|arin|2017-09-29|GOOGLE, US
 37.201.198.182|/WalletKit:0.1.0/|70015|3209|37.201.128.0/17|DE|ripencc|2012-03-22|VODANET International IP-Backbone of Vodafone, DE
-41.190.2.177|/loaf-android:175/|70015|37076|41.190.2.0/24|NG|afrinic|2008-05-23|EMTS-NIGERIA-AS, NG
 45.171.199.14|/NBitcoin:5.0.49/|70012|268730|45.171.196.0/22|BR|lacnic|2019-02-22|M. Alves Paulino Telecom Me, BR
 45.232.38.119|/NBitcoin:5.0.49/|70012|267242|45.232.38.0/23|BR|lacnic|2018-03-01|AMAZONIA TELECOMUNICACOES LTDA, BR
 45.56.69.105|/Block.io:0.1.0/|70002|63949|45.56.64.0/20|US|arin|2015-01-21|LINODE-AP Linode, LLC, US
@@ -181,6 +182,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.119.208.77|/BitcoinKit:0.1.0/|70015|25255|77.116.0.0/14|AT|ripencc|2007-01-10|H3G-AUSTRIA-AS TELE2 AUSTRIA , AT
 80.102.131.52|/NBitcoin:5.0.49/|70012|12479|80.102.128.0/22|ES|ripencc|2001-07-17|UNI2-AS, ES
 80.187.66.13|/WalletKit:0.1.0/|70015|3320|80.187.0.0/16|DE|ripencc|2002-05-28|DTAG Internet service provider operations, DE
+80.187.87.17|/BitcoinKit:0.1.0/|70015|3320|80.187.0.0/16|DE|ripencc|2002-05-28|DTAG Internet service provider operations, DE
 80.192.24.123|/LitecoinCore:0.17.1/|70015|5089|80.192.0.0/15|GB|ripencc|2001-09-26|NTL, GB
 84.112.86.176|/BitcoinKit:0.1.0/|70015|6830|84.112.0.0/15|AT|ripencc|2004-04-07|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 85.14.18.20|/NBitcoin:5.0.49/|70012|51486|85.14.18.0/24|BG|ripencc|2005-04-06|GRAO-AS, BG
