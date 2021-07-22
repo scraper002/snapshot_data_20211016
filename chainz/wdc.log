@@ -19,7 +19,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 128.199.91.96|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 134.175.52.189|/btcseeder:0.0001/|70013|45090|134.175.48.0/20|CN|apnic|1989-06-28|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 135.181.112.124|/LitecoinCore:0.17.1/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
-138.68.59.62|/WorldcoinFoundation:0.8.6.2/|75000|14061|138.68.48.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
+138.68.59.62|/WorldcoinFoundation:0.8.6.2/|75000||||||
 139.59.7.181|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 141.95.21.189|/Worldcoin Global:0.10.4.1/|70003|16276|141.95.0.0/17|FR|ripencc|1993-02-18|OVH, FR
 142.93.229.149|/litetroll.net:1.0/|70015|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
@@ -45,7 +45,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 223.104.66.111|???|0|56040|223.104.64.0/20|CN|apnic|2010-07-01|CMNET-GUANGDONG-AP China Mobile communications corporation, CN
 223.72.65.134|/WorldcoinFoundation:0.10.4/|75000|56048|223.72.0.0/16|CN|apnic|2010-07-01|CMNET-BEIJING-AP China Mobile Communicaitons Corporation, CN
 223.72.67.170|/WorldcoinFoundation:0.10.4/|75000|56048|223.72.0.0/16|CN|apnic|2010-07-01|CMNET-BEIJING-AP China Mobile Communicaitons Corporation, CN
-27.64.28.174|/Worldcoin Global:0.10.4.1/|70003|7552|27.64.24.0/21|VN|apnic|2010-04-27|VIETEL-AS-AP Viettel Group, VN
 34.233.95.55|/bitcore:8.25.12/|70002|14618|34.224.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 35.74.16.58|/Worldcoin Global:0.10.4.1/|70003|16509|35.72.0.0/13|US|arin|2019-04-15|AMAZON-02, US
 36.153.85.48|/WorldcoinFoundation:0.10.4/|75000|56046|36.153.84.0/23|CN|apnic|2011-01-24|CMNET-JIANGSU-AP China Mobile communications corporation, CN
@@ -60,7 +59,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.115.164.244|/Worldcoin Global:0.10.4.1/|70003|37963|47.115.128.0/17|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.115.85.19|/WorldcoinFoundation:0.8.7.5/|70002|37963|47.115.0.0/17|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.115.88.207|/WorldcoinFoundation:0.8.7.5/|70002|37963|47.115.0.0/17|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-47.243.194.130|/WorldcoinFoundation:0.10.4/|75000|45102|47.243.0.0/16|US|arin|2016-04-15|CNNIC-ALIBABA-US-NET-AP Alibaba US Technology Co., Ltd., CN
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba US Technology Co., Ltd., CN
 47.90.245.73|/LitecoinCore:0.17.1/|70015|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba US Technology Co., Ltd., CN
 47.90.4.203|/Satoshi:0.13.0/|70014|45102|47.90.0.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba US Technology Co., Ltd., CN
@@ -69,6 +67,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.189.201.125|/WorldcoinFoundation:0.8.7.5/|70002|199524|5.189.201.0/24|LU|ripencc|2012-08-09|GCORE, LU
 52.193.94.100|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
 52.196.40.143|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|16509|52.196.0.0/14|US|arin|2015-09-02|AMAZON-02, US
+54.161.240.184|/Dain:0.1.0/|70003|14618|54.160.0.0/14|US|arin|2014-10-23|AMAZON-AES, US
 54.188.153.168|/WorldcoinFoundation:0.8.6.2/|75000|16509|54.188.0.0/15|US|arin|2014-10-23|AMAZON-02, US
 59.110.63.71|/Satoshi:0.13.0/|70014|37963|59.110.0.0/17|CN|apnic|2006-09-19|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 65.94.230.9|/Feathercoin:0.9.6.2/|70006|577|65.94.0.0/16|CA|arin|2001-01-02|BACOM, CA
