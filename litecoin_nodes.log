@@ -71,7 +71,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.163.74.161|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.23.30.242|9333|/LitecoinCore:0.18.1/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-119.45.176.244|9333|/LitecoinCore:0.18.1/|45090|119.45.176.0/20|CN|apnic|2008-01-03|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 120.77.249.96|9333|/LitecoinCore:0.18.1/|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.78.127.243|9333|/LitecoinCore:0.16.3/|37963|120.78.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 122.116.42.140|9333|/LitecoinCore:0.17.1/|3462|122.116.0.0/16|TW|apnic|2006-07-31|HINET Data Communication Business Group, TW
@@ -487,6 +486,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:41d0:8:bc5c::1|9333|/LitecoinCore:0.17.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:41d0:8:cdd7::|9333|/LitecoinCore:0.17.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:41d0:a:164c::1|9333|/LitecoinCore:0.14.2/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
+2001:41d0:a:58d1::11d8:8515|9333|/LitecoinCore:0.18.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:41d0:a:7a5e::|9027|/Satoshi:0.8.6.2/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:41d0:c:b81::|9333|/LitecoinCore:0.15.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:4610:a:4d::987|9333|/LitecoinCore:0.18.1/|2119|2001:4600::/24|NO|ripencc|2004-10-06|TELENOR-NEXTEL Telenor Norge AS, NO
@@ -605,6 +605,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2600:3c04::f03c:92ff:feb8:d02|9333|/LitecoinCore:0.18.1/|63949|2600:3c04::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
 2600:8801:2e8d:bb11:0:242:ac11:2|9333|/LitecoinCore:0.18.1/|22773|2600:8801::/33|US|arin|2014-07-16|ASN-CXA-ALL-CCI-22773-RDC, US
 2601:18d:4600:43f1:20e7:b3ff:fecf:a99|9333|/LitecoinCore:0.18.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
+2601:200:4481:bfb1:42:cff:fe18:6c08|9333|/FutureBit-ApolloCore:0.17.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2601:246:4d7f:9e28:f321:36ca:7a71:c687|9333|/LitecoinCore:0.18.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2601:645:501:ea91:3d05:8b28:6ff6:c9f|9333|/LitecoinCore:0.17.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2601:ca:8100:ef50::80dd|9333|/LitecoinCore:0.18.1/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
@@ -1107,6 +1108,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.224.211.96|9333|/LitecoinCore:0.18.1/|7922|71.224.0.0/12|US|arin|2005-04-15|COMCAST-7922, US
 71.57.69.177|9333|/LitecoinCore:0.18.1/|7922|71.56.0.0/13|US|arin|2005-04-29|COMCAST-7922, US
 72.128.65.132|9333|/Satoshi:0.8.6.2/|10796|72.128.64.0/18|US|arin|2005-08-02|TWC-10796-MIDWEST, US
+72.135.224.85|9333|/LitecoinCore:0.18.1/|10796|72.135.192.0/18|US|arin|2005-08-02|TWC-10796-MIDWEST, US
 72.189.43.200|9333|/FutureBit-ApolloCore:0.17.1/|33363|72.188.0.0/15|US|arin|2005-11-21|BHN-33363, US
 72.201.68.177|9333|/LitecoinCore:0.18.1/|22773|72.201.0.0/16|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
 72.222.136.246|9333|/LitecoinCore:0.18.1/|22773|72.222.128.0/17|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
@@ -1184,7 +1186,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.221.106.148|9333|/LitecoinCore:0.13.2(bitcore)/|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.221.106.180|7107|/FlashcoinCore:0.13.3.2/|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.221.131.172|9333|/LitecoinCore:0.18.1/|50613|82.221.128.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
-82.30.202.206|9333|/LitecoinCore:0.14.2/|5089|82.28.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.42.174.27|9333|/LitecoinCore:0.18.1/|5089|82.42.0.0/16|GB|ripencc|2003-01-31|NTL, GB
 82.64.185.60|11081|/WorldcoinFoundation:0.8.7.5/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.65.134.3|9333|/LitecoinCore:0.18.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
