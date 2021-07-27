@@ -41,6 +41,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.65.78.233|9333|/LitecoinCore:0.17.1/|8551|109.65.78.0/24|IL|ripencc|2009-08-10|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
 109.70.186.58|9333|/LitecoinCore:0.18.1/|44391|109.70.186.0/24|RU|ripencc|2009-11-09|ESD-AS, RU
 111.108.29.123|9513|/Satoshi:0.8.7.2/|2516|111.108.0.0/16|JP|apnic|2009-06-12|KDDI KDDI CORPORATION, JP
+111.90.145.106|9333|/LitecoinCore:0.18.1/|45839|111.90.144.0/21|MY|apnic|2009-06-17|SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY
 112.5.37.248|60012|/LitecoinCore:0.18.1/|9808|112.5.32.0/21|CN|apnic|2008-12-15|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 112.5.37.99|60012|/LitecoinCore:0.18.1/|9808|112.5.32.0/21|CN|apnic|2008-12-15|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 112.54.13.221|9333|/LitecoinCore:0.17.1/|56044|112.54.0.0/20|CN|apnic|2008-12-15|CMNET-AS-LIAONING China Mobile communications corporation, CN
@@ -376,6 +377,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.66.143.190|8443|/LitecoinCore:0.18.1/|200514|185.66.143.0/24|BZ|ripencc|2014-08-07|KNOWNSRV, NL
 185.66.88.88|9333|/LitecoinCore:0.18.1/|30860|185.66.88.0/23|UA|ripencc|2018-02-20|YURTEH-AS, UA
 185.82.20.204|9333|/LitecoinCore:0.18.1/|201206|185.82.20.0/24|DE|ripencc|2014-12-22|LINEVAST, DE
+186.14.178.28|9333|/LitecoinCore:0.18.1/|21826|186.14.176.0/20|VE|lacnic|2008-09-10|Corporacion Telemic C.A., VE
 188.124.36.95|9333|/LitecoinCore:0.17.1/|49505|188.124.36.0/23|RU|ripencc|2009-06-19|SELECTEL, RU
 188.127.176.224|9333|/LitecoinCore:0.18.1(Mars node LXHWHQw99PBh58jHhB9Pc11iUqZxDHBLxH)/|15704|188.127.160.0/19|ES|ripencc|2009-07-30|AS15704, ES
 188.130.223.32|9333|/LitecoinCore:0.18.1/|58181|188.130.223.0/24|CZ|ripencc|2009-03-31|RAPIDGATOR-AS, CY
@@ -543,7 +545,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 216.108.227.39|9333|/LitecoinCore:0.17.1/|26277|216.108.227.0/24|US|arin|2008-04-11|PREMIANET, US
 216.108.236.43|9333|/LitecoinCore:0.18.1/|26277|216.108.236.0/24|US|arin|2008-04-11|PREMIANET, US
 216.16.16.126|9333|/LitecoinCore:0.18.1/|20412|216.16.16.0/24|US|arin|1998-07-02|CLARITY-TELECOM, US
-216.165.147.119|9333|/FutureBit-ApolloCore:0.17.1/|4181|216.165.144.0/21|US|arin|1999-08-11|TDS-AS, US
 216.188.233.105|9333|/LitecoinCore:0.18.1/|7459|216.188.232.0/23|US|arin|2002-04-30|GRANDECOM-AS1, US
 216.218.213.188|7107|/FlashcoinCore:0.13.3.2/|6939|216.218.128.0/17|US|arin|1999-08-30|HURRICANE, US
 216.8.173.75|9333|/LitecoinCore:0.18.1/|7057|216.8.160.0/19|CA|arin|2001-01-04|MANAGEDNETWORK, CA
@@ -625,6 +626,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:f1c0:1800:11::1|1337|/DefcoinCore:1.0.0/|8560|2607:f1c0::/32|US|arin|2007-10-18|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2607:f2c0:100:200:1::2e8|9333|/LitecoinCore:0.18.1/|5645|2607:f2c0::/32|CA|arin|2008-01-17|TEKSAVVY, CA
 2800:810:487:870e:a00:27ff:fe7a:cb6a|9333|/LitecoinCore:0.18.1/|27747|2800:810::/32|AR|lacnic|2014-06-13|Telecentro S.A., AR
+2802:8010:4107:5600:153:82c5:90ea:7541|9333|/LitecoinCore:0.18.1/|22927|2802:8010::/32|AR|lacnic|2016-06-13|Telefonica de Argentina, AR
 2804:14d:2480:885d:41a7:cecd:328e:c9dd|37371|/B2CCoinCore:0.16.3/|28573|2804:14d:2480::/48|BR|lacnic|2012-02-10|CLARO S.A., BR
 2804:219c:21e:b600:d5d6:41f1:7851:dd2|37371|/B2CCoinCore:0.16.3/|264564|2804:219c::/32|BR|lacnic|2015-01-14|VIVA SERVICOS DE COMUNICACAO LTDA - ME, BR
 2804:2984:643:3c00:34e0:b701:d3f5:967b|37371|/B2CCoinCore:0.16.3/|28258|2804:2984::/32|BR|lacnic|2015-09-16|Vero Internet, BR
@@ -746,7 +748,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:7c8:d005:240:5054:ff:fe0a:2f76|9333|/LitecoinCore:0.13.2(bitcore)/|20857|2a01:7c8:d000::/36|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:7e01::f03c:92ff:fe11:8cb3|9333|/LitecoinCore:0.18.1/|63949|2a01:7e01::/32|US|ripencc|2011-02-01|LINODE-AP Linode, LLC, US
 2a01:d0:0:1c::253|9333|/LitecoinCore:0.18.1/|29632|2a01:d0::/32|GI|ripencc|2006-05-05|NASSIST-AS, GI
-2a01:e0a:1f2:8550:39a7:8d5f:558d:7eb5|9333|/LitecoinCore:0.18.1/|12322|2a01:e0a::/39|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:a0a:c520:8926:9845:edec:d705|9333|/LitecoinCore:0.18.1/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e34:ef5c:b2f0:919a:6bd4:67a8:9661|9333|/LitecoinCore:0.18.1/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:120b:2c68:6880:cd9a:11c3:ebb2:2cb4|9333|/LitecoinCore:0.18.1/|3303|2a02:1208::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom Switzerland Ltd, CH
