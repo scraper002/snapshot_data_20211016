@@ -439,6 +439,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 20.67.163.179|30002|/LitecoinCore:0.18.1/|8075|20.64.0.0/10|US|arin|2017-10-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
 20.67.163.201|30002|/LitecoinCore:0.18.1/|8075|20.64.0.0/10|US|arin|2017-10-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
 2001:0:c38c:c38c:3c30:729e:43d7:dcf0|9333|/LitecoinCore:0.16.3/|6939|2001::/32||other||HURRICANE, US
+2001:1284:f034:7141:4478:d314:f201:b518|37371|/B2CCoinCore:0.16.3/|14868|2001:1284::/32|BR|lacnic|2007-12-19|COPEL Telecomunicacoes S.A., BR
 2001:14bb:c4:a63:45ec:8578:f3ad:f6cf|9333|/LitecoinCore:0.14.2/|16086|2001:14b8::/29|FI|ripencc|2003-07-07|DNA, FI
 2001:19f0:5001:77d:5400:3ff:fe77:c634|9333|/LitecoinCore:0.18.1/|20473|2001:19f0:5000::/38|US|arin|2004-11-08|AS-CHOOPA, US
 2001:4060:4419:1::57|9333|/LitecoinCore:0.16.3/|6772|2001:4060::/32|CH|ripencc|2004-07-06|IMPNET-AS, CH
@@ -501,7 +502,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:bc8:47ac:4e::1|8333|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:6010:207:c4d6:4ef9:2faa:e13f|9333|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:f40:908:64ef:d953:b2be:3ed6:1164|9333|/LitecoinCore:0.18.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U126 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
-2001:fb1:93:5419:8817:6c1:300a:ec06|9333|/LitecoinCore:0.18.1/|17552|2001:fb1:93::/48|TH|apnic|2012-03-28|TRUEONLINE-AS-AP True Online, TH
 2002:4d78:7455::4d78:7455|9333|/LitecoinCore:0.17.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:5d49:1eda::5d49:1eda|9333|/LitecoinCore:0.18.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
 2002:88f3:2a9c::88f3:2a9c|9333|/LitecoinCore:0.18.1/|1103|2002::/16||other||SURFNET-NL SURFnet, The Netherlands, NL
@@ -630,6 +630,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:f2c0:100:200:1::2e8|9333|/LitecoinCore:0.18.1/|5645|2607:f2c0::/32|CA|arin|2008-01-17|TEKSAVVY, CA
 2800:810:487:870e:a00:27ff:fe7a:cb6a|9333|/LitecoinCore:0.18.1/|27747|2800:810::/32|AR|lacnic|2014-06-13|Telecentro S.A., AR
 2804:14d:2480:885d::1001|37371|/B2CCoinCore:0.16.3/|28573|2804:14d:2480::/48|BR|lacnic|2012-02-10|CLARO S.A., BR
+2804:2984:643:3c00:49e8:b80e:747b:a828|37371|/B2CCoinCore:0.16.3/|28258|2804:2984::/32|BR|lacnic|2015-09-16|Vero Internet, BR
+2804:45e4:8017:ea00:8e8:3f24:149a:5fe8|37371|/B2CCoinCore:0.16.3/|262567|2804:45e4:8000::/40|BR|lacnic|2017-10-27|TELECOM FOZ, BR
+2a00:1370:812d:12c9:b0d6:1f45:7ce8:95c5|9333|/LitecoinCore:0.17.1/|25513|2a00:1370::/32|RU|ripencc|2010-07-15|ASN-MGTS-USPD, RU
 2a00:1370:812d:e09a:7c45:8049:f4c2:e548|9333|/LitecoinCore:0.18.1/|25513|2a00:1370::/32|RU|ripencc|2010-07-15|ASN-MGTS-USPD, RU
 2a00:1370:816d:1e00:4181:e535:93a3:1d3a|9333|/LitecoinCore:0.18.1/|25513|2a00:1370::/32|RU|ripencc|2010-07-15|ASN-MGTS-USPD, RU
 2a00:ab00:203:9:ff34::7746|48333|/LitecoinCore:0.18.1/|49505|2a00:ab00::/32|RU|ripencc|2011-02-16|SELECTEL, RU
@@ -796,6 +799,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.172.182.51|9333|/LitecoinCore:0.18.1/|31242|31.172.176.0/20|PL|ripencc|2012-01-23|TKPSA-AS, PL
 31.210.173.136|9333|/LitecoinCore:0.18.1/|207728|31.210.173.0/24|BG|ripencc|2011-05-04|EUROHOSTER, BG
 31.25.241.224|10333|/LitecoinCore:0.16.3/|39741|31.25.241.0/24|RU|ripencc|2011-03-10|DCE-AS, RU
+31.42.184.85|9333|/LitecoinCore:0.18.1/|30860|31.42.184.0/23|UA|ripencc|2011-02-23|YURTEH-AS, UA
 32.214.183.114|9333|/LitecoinCore:0.17.1/|46690|32.208.0.0/12|US|arin|1990-05-30|SNET-FCC, US
 34.105.193.105|9333|/LitecoinCore:0.18.1/|15169|34.104.0.0/14|US|arin|2018-09-28|GOOGLE, US
 34.192.122.245|9333|/LitecoinCore:0.16.3(bitcore)/|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
@@ -1229,6 +1233,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.206.16.214|9333|/LitecoinCore:0.18.1/|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 91.228.146.143|9333|/LitecoinCore:0.17.1/|28907|91.228.146.0/23|UA|ripencc|2011-05-31|MIROHOST Web hosting, datacenter and domain names registration in Ukraine, UA
 91.232.105.180|9333|/LitecoinCore:0.16.3/|49981|91.232.105.0/24|NL|ripencc|2011-11-09|WORLDSTREAM, NL
+91.239.130.62|9333|/LitecoinCore:0.18.1/|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 91.240.142.228|9333|/LitecoinCore:0.18.1/|59461|91.240.140.0/22|RU|ripencc|2012-06-28|ASBERLAYN, UA
 92.105.196.103|9333|/LitecoinCore:0.17.1/|3303|92.105.0.0/16|CH|ripencc|2007-09-28|SWISSCOM Swisscom Switzerland Ltd, CH
 92.204.40.25|9333|/LitecoinCore:0.18.1/|8972|92.204.40.0/24|DE|ripencc|2007-10-17|GD-EMEA-DC-SXB1, DE
