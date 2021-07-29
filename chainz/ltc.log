@@ -21,6 +21,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.195.70.55|/loaf:2.1/|70015|50544|109.195.64.0/20|RU|ripencc|2009-10-27|KRSK-AS, RU
 112.21.77.25|/Satoshi:0.8.5.1/|70002|56046|112.21.64.0/19|CN|apnic|2008-12-15|CMNET-JIANGSU-AP China Mobile communications corporation, CN
 114.10.7.120|/loaf-android:175/|70015|4761|114.10.6.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
+116.202.84.176|/MindexcoinCore:0.16.3/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.235.8.1|/BitcoinKit:0.1.0/|70015|4766|118.234.0.0/15|KR|apnic|2007-11-05|KIXS-AS-KR Korea Telecom, KR
@@ -45,6 +46,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.28.177.50|/WalletKit:0.1.0/|70015|9009|139.28.177.0/24|RO|ripencc|2019-01-03|M247, GB
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
+139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 141.226.182.150|/LitecoinCore:0.16.3/|70015|47956|141.226.176.0/21|IL|ripencc|1990-08-05|XFONE, IL
 142.93.229.149|/litetroll.net:1.0/|70015|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
 143.208.237.115|/NBitcoin:5.0.49/|70012|262865|143.208.236.0/23|BR|lacnic|2015-11-05|Ired Internet, BR
@@ -57,11 +59,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.56.132.49|/FlashcoinCore:0.13.3.2/|70015|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 151.80.20.129|/LitecoinCore:0.15.1/|70015|16276|151.80.0.0/16|IT|ripencc|1991-05-13|OVH, FR
 154.28.188.149|/WalletKit:0.1.0/|70015|174|154.24.0.0/13|US|arin|1992-02-05|COGENT-174, US
+157.41.165.33|/loaf-android:175/|70015|55836|157.41.0.0/16|IN|apnic|1992-01-29|RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
 157.90.183.145|/LitecoinCore:0.18.1/|70015|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
 157.90.183.145|/LitecoinCore:0.18.1/|70208|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
 157.97.24.62|/LitecoinCore:0.18.1/|70015|43571|157.97.0.0/19|IS|ripencc|1995-07-13|NOVAIS-AS, IS
 157.97.24.62|/LitecoinCore:0.18.1/|70208|43571|157.97.0.0/19|IS|ripencc|1995-07-13|NOVAIS-AS, IS
 158.69.196.61|/Node:0.8.7.2/|70002|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
+158.69.35.227|/BitcoinKit:0.1.0/|70015|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.69.93.98|/LitecoinCore:0.17.1/|70015|24940|159.69.0.0/16|DE|ripencc|1992-03-13|HETZNER-AS, DE
 159.89.101.113|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|159.89.96.0/20|US|arin|2017-07-07|DIGITALOCEAN-ASN, US
@@ -129,6 +133,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.217.12.66|/LitecoinCore:0.18.1/|70015|3549|190.217.12.0/24|AR|lacnic|2011-04-08|LVLT-3549, US
 190.217.12.66|/LitecoinCore:0.18.1/|70208|3549|190.217.12.0/24|AR|lacnic|2011-04-08|LVLT-3549, US
 191.181.172.189|/B2CCoinCore:0.16.3/|70015|28573|191.181.160.0/19|BR|lacnic|2013-11-14|CLARO S.A., BR
+193.110.95.34|/BitcoinKit:0.1.0/|70015|13030|193.110.95.0/24|CH|ripencc|2001-12-27|INIT7, CH
 193.148.16.211|/BitcoinKit:0.1.0/|70015|9009|193.148.16.0/24|RO|ripencc|2018-07-18|M247, GB
 193.58.196.212|/LitecoinCore:0.18.1/|70015|5578|193.58.196.0/23|SK|ripencc|1997-01-21|AS-BENESTRA Bratislava, Slovak Republic, SK
 193.58.196.212|/LitecoinCore:0.18.1/|70208|5578|193.58.196.0/23|SK|ripencc|1997-01-21|AS-BENESTRA Bratislava, Slovak Republic, SK
@@ -180,7 +185,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.239.149.203|/NBitcoin:5.0.49/|70012|268372|45.239.149.0/24|BR|lacnic|2018-07-23|Wisesite Comunicacao e Tecnologia, BR
 45.70.173.248|/NBitcoin:5.0.49/|70012|267584|45.70.172.0/22|BR|lacnic|2017-09-12|J.A.B. Net Provedor de Servicos de Internet Eireli, BR
 46.211.10.248|/bitcore:1.1.0/|70003|15895|46.211.0.0/16|UA|ripencc|2010-12-17|KSNET-AS, UA
-47.134.25.48|/BitcoinKit:0.1.0/|70015|20115|47.134.0.0/17|US|arin|2017-11-27|CHARTER-20115, US
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba US Technology Co., Ltd., CN
 47.90.245.73|/LitecoinCore:0.17.1/|70015|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba US Technology Co., Ltd., CN
 47.90.4.203|/Satoshi:0.13.0/|70014|45102|47.90.0.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba US Technology Co., Ltd., CN
@@ -191,7 +195,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.195.174.144|/LitecoinCore:0.18.1/|70015|16276|51.195.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.195.174.144|/LitecoinCore:0.18.1/|70208|16276|51.195.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.79.241.214|/LitecoinCore:0.16.3/|70015|16276|51.79.128.0/17|CA|arin|2019-01-10|OVH, FR
-51.81.106.105|/LitecoinCore:0.16.3/|70015|16276|51.81.0.0/17|US|arin|2019-03-11|OVH, FR
 51.89.161.145|/CounosCoinCore:0.15.4/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
 52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.196.0.0/14|US|arin|2015-09-02|AMAZON-02, US
