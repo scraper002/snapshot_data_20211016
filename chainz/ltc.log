@@ -144,6 +144,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.90.62.228|/loaf:2.1/|70015|48239|212.90.32.0/19|UA|ripencc|2010-11-09|ITTV-AS Kiev, Ukraine, UA
 213.119.100.9|/loaf-android:175/|70015|6848|213.118.0.0/15|BE|ripencc|2000-09-07|TELENET-AS, BE
 213.151.219.90|/litecoinj:0.15.2-SNAPSHOT/|70002|15962|213.151.192.0/18|SK|ripencc|2000-05-11|OSK-DNI Slovakia, SK
+213.228.71.203|/LitecoinCore:0.18.1/|70015|12389|213.228.70.0/23|RU|ripencc|2001-06-01|ROSTELECOM-AS, RU
 213.32.6.132|/DigitaleuroCore:0.16.3/|70015|16276|213.32.0.0/17|FR|ripencc|1999-06-28|OVH, FR
 217.122.39.253|/bitcore:1.1.0-exodus2/|70003|33915|217.122.0.0/15|NL|ripencc|2000-12-19|TNF-AS, NL
 217.160.27.128|/litecoinj:0.15.2-SNAPSHOT/|70002|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
@@ -189,7 +190,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.68.127.44|/FlashcoinCore:0.13.3.2/|70015|16276|51.68.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.75.68.116|/FlashcoinCore:0.13.3.2/|70015|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.79.241.214|/LitecoinCore:0.16.3/|70015|16276|51.79.128.0/17|CA|arin|2019-01-10|OVH, FR
-51.89.161.144|???|0|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.89.64.18|/bcoin:v1.0.0-beta.15/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 52.155.117.200|/LitecoinCore:0.17.1/|70015|8075|52.152.0.0/13|US|arin|2015-11-24|MICROSOFT-CORP-MSN-AS-BLOCK, US
 52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
@@ -221,12 +221,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.69.127.242|/loaf-android:175/|70015|3301|78.64.0.0/12|SE|ripencc|2007-03-09|TELIANET-SWEDEN Telia Company, SE
 79.115.163.112|/NBitcoin:5.0.49/|70012|8708|79.112.0.0/14|RO|ripencc|2007-05-29|RCS-RDS 73-75 Dr. Staicovici, RO
 79.18.191.170|/BitcoinKit:0.1.0/|70015|3269|79.18.0.0/15|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
+79.42.198.130|/BitcoinKit:0.1.0/|70015|3269|79.42.0.0/15|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
 80.108.82.95|Custom 1.0|70015|8412|80.108.0.0/16|AT|ripencc|2001-07-19|TMA Magenta Telekom, AT
 80.112.110.104|/LitecoinCore:0.16.3/|70015|33915|80.112.64.0/18|NL|ripencc|2001-07-25|TNF-AS, NL
 80.187.116.72|/BitcoinKit:0.1.0/|70015|3320|80.187.0.0/16|DE|ripencc|2002-05-28|DTAG Internet service provider operations, DE
 81.185.161.138|/WalletKit:0.1.0/|70015|15557|81.185.160.0/20|FR|ripencc|2002-12-30|LDCOMNET, FR
 82.77.218.107|/BitcoinKit:0.1.0/|70015|8708|82.76.0.0/14|RO|ripencc|2003-07-14|RCS-RDS 73-75 Dr. Staicovici, RO
-83.97.23.28|/NBitcoin:5.0.49/|70012|9009|83.97.23.0/24|RO|ripencc|2018-06-19|M247, GB
 84.39.112.87|/LitecoinCore:0.18.1/|70015|9009|84.39.112.0/24|GB|ripencc|2012-08-31|M247, GB
 85.14.18.20|/NBitcoin:5.0.49/|70012|51486|85.14.18.0/24|BG|ripencc|2005-04-06|GRAO-AS, BG
 85.191.200.51|/LitecoinCore:0.18.1/|70015|43557|85.191.128.0/17|DK|ripencc|2005-01-05|ASEMNET, DK
@@ -247,7 +247,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.184.110.47|/BitcoinKit:0.1.0/|70015|3215|92.184.108.0/22|FR|ripencc|2007-07-12|France Telecom - Orange, FR
 92.250.102.31|/BitcoinKit:0.1.0/|70015|42863|92.250.0.0/17|PT|ripencc|2007-11-20|MEO-MOVEL, PT
 94.130.71.31|/LitecoinCore:0.18.1/|70015|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.153.11.24|/BitcoinKit:0.1.0/|70015|15895|94.153.0.0/16|UA|ripencc|2008-07-31|KSNET-AS, UA
 94.199.178.17|/LitecoinCore:0.18.1/|70015|62292|94.199.178.0/24|HU|ripencc|2008-11-17|EZIT-AS, HU
 94.24.83.191|/loaf-android:175/|70015|57218|94.24.80.0/21|IR|ripencc|2008-06-02|RIGHTEL, IR
 95.130.160.69|/NBitcoin:5.0.49/|70012|12611|95.130.160.0/21|DE|ripencc|2009-03-12|RKOM R-KOM Regensburger Telekommunikations GmbH & Co. KG, DE
