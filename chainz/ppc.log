@@ -14,6 +14,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 113.246.186.11|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|4134|113.240.0.0/13|CN|apnic|2008-12-16|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 116.7.245.182|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4134|116.4.0.0/14|CN|apnic|2007-03-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 119.3.138.218|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|55990|119.3.128.0/20|CN|apnic|2007-11-26|HWCSNET Huawei Cloud Service data center, CN
+120.158.11.202|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1221|120.158.0.0/16|AU|apnic|2009-04-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 120.159.103.62|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|135887|120.159.102.0/23|AU|apnic|2009-04-20|TELSTRA-BELONG-AP Belong Telstra Corporation, AU
 121.208.223.176|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1221|121.208.0.0/12|AU|apnic|2006-06-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 125.176.245.74|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|17858|125.176.0.0/14|KR|apnic|2005-09-12|POWERVIS-AS-KR LG POWERCOMM, KR
@@ -31,7 +32,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 163.172.194.148|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|12876|163.172.0.0/16|GB|ripencc|1992-02-14|Online SAS, FR
 167.71.138.50|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|14061|167.71.128.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 173.212.202.33|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
-174.138.15.177|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|14061|174.138.0.0/20|US|arin|2016-04-12|DIGITALOCEAN-ASN, US
 174.93.231.165|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|577|174.93.0.0/16|CA|arin|2009-02-27|BACOM, CA
 174.97.228.129|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|10796|174.96.0.0/15|US|arin|2009-02-26|TWC-10796-MIDWEST, US
 176.15.124.57|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|8402|176.15.112.0/20|RU|ripencc|2011-05-18|CORBINA-AS OJSC Vimpelcom, RU
@@ -83,6 +83,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.113.0.182|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|20001|50.113.0.0/18|US|arin|2011-05-20|TWC-20001-PACWEST, US
 50.220.121.211|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
 51.77.67.209|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|51.77.0.0/16|FR|ripencc|1993-09-01|OVH, FR
+51.91.107.13|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|51.91.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 54.187.0.23|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16509|54.186.0.0/15|US|arin|2014-10-23|AMAZON-02, US
 62.171.186.34|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51167|62.171.186.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.190.193|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51167|62.171.190.0/23|DE|ripencc|2000-08-18|CONTABO, DE
@@ -102,7 +103,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.58.104.203|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6830|77.58.0.0/15|CH|ripencc|2006-10-19|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 78.26.142.87|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|34187|78.26.128.0/18|UA|ripencc|2007-08-29|RENOME-AS, UA
 78.46.234.212|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
-79.198.146.71|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.108.64.53|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|8412|80.108.0.0/16|AT|ripencc|2001-07-19|TMA Magenta Telekom, AT
 80.109.190.206|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6830|80.109.0.0/16|AT|ripencc|2001-07-19|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 80.215.228.32|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|5410|80.215.0.0/16|FR|ripencc|2002-02-01|BOUYGTEL-ISP, FR
