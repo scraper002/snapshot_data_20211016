@@ -9,6 +9,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.170.17.56|/litecoin-seeder:0.01/|70002|14061|107.170.0.0/17|US|arin|2013-12-30|DIGITALOCEAN-ASN, US
 112.104.10.233|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|4780|112.104.0.0/19|TW|apnic|2009-01-13|SEEDNET Digital United Inc., TW
 116.202.84.176|/MindexcoinCore:0.16.3/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
+116.206.28.26|/loaf-android:175/|70015|45727|116.206.28.0/24|ID|apnic|2017-02-03|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
@@ -22,7 +23,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 142.162.45.169|/LitecoinCore:0.18.1/|70015|855|142.162.40.0/21|CA|arin|1992-08-26|CANET-ASN-4, CA
 142.93.229.149|/litetroll.net:1.0/|70015|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
-143.208.178.4|/NBitcoin:5.0.49/|70012|265117|143.208.178.0/24|BR|lacnic|2015-10-30|Complexa Tecnologia da Informacao, BR
 144.76.222.140|/Node:0.8.7.2/|70002|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
 146.185.139.235|/ltc_node_scanner:0.0.1/|70015|14061|146.185.128.0/19|US|ripencc|2011-07-13|DIGITALOCEAN-ASN, US
 148.251.191.226|/DefcoinCore:1.0.0/|70015|24940|148.251.0.0/16|DE|ripencc|1993-09-01|HETZNER-AS, DE
@@ -48,6 +48,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.250.162.80|/NBitcoin:5.0.49/|70012|265207|167.250.162.0/23|BR|lacnic|2015-12-17|PLUS PROVEDOR DE INTERNET LTDA - ME, BR
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 167.86.101.64|/LitecoinCore:0.18.1/|70015|51167|167.86.100.0/23|DE|ripencc|1993-05-14|CONTABO, DE
+168.0.234.109|/NBitcoin:5.0.49/|70012|265261|168.0.234.0/24|BR|lacnic|2016-01-11|Tely Banda Larga, BR
 168.227.89.66|/NBitcoin:5.0.49/|70012|264556|168.227.89.0/24|BR|lacnic|2016-03-16|L. Garcia Comunicacoes ME, BR
 168.253.199.74|/DigitaleuroCore:0.16.3/|70015|37276|168.253.199.0/24|ZA|afrinic|2015-03-05|VOFFICE, ZA
 170.245.103.235|/NBitcoin:5.0.49/|70012|28331|170.245.100.0/22|BR|lacnic|2017-01-19|Paintweb Internet Ltda, BR
@@ -129,14 +130,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 201.62.85.84|/NBitcoin:5.0.49/|70012|28634|201.62.80.0/20|BR|lacnic|2007-04-20|Life Tecnologia Ltda., BR
 201.66.155.157|/NBitcoin:5.0.49/|70012|8167|201.66.128.0/18|BR|lacnic|2006-01-30|Brasil Telecom SA - Filial Distrito Federal, BR
 207.155.193.224|/LitecoinCore:0.17.1/|70015|31984|207.155.193.0/24|US|arin|1996-06-27|ASAVIE-TECHNOLOGIES-INC, US
+212.112.123.197|/BitcoinKit:0.1.0/|70015|12764|212.112.123.0/24|KG|ripencc|1999-10-29|AKNET-AS, KG
 213.48.11.122|/BitcoinKit:0.1.0/|70015|5089|213.48.0.0/18|GB|ripencc|1999-07-19|NTL, GB
-213.87.137.27|/loaf-android:175/|70015|8359|213.87.128.0/19|RU|ripencc|2000-04-10|MTS, RU
 23.92.25.116|/Node:0.8.7.2/|70002|63949|23.92.25.0/24|US|arin|2013-08-13|LINODE-AP Linode, LLC, US
 27.32.220.211|/BitcoinKit:0.1.0/|70015|7545|27.32.220.0/24|AU|apnic|2010-03-18|TPG-INTERNET-AP TPG Telecom Limited, AU
 3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.140.255.188|/EuliumCore:0.16.3/|70015|16509|3.136.0.0/13|US|arin|2018-06-25|AMAZON-02, US
-3.80.7.134|/BitcoinKit:0.1.0/|70015|14618|3.80.0.0/12|US|arin|2017-12-20|AMAZON-AES, US
 34.228.43.2|/btcwire:0.5.0/ltcd:0.20.1/|70013|14618|34.224.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 34.233.95.55|/bitcore:8.25.12/|70011|14618|34.224.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 34.86.33.1|/LitecoinCore:0.18.1/|70015|15169|34.84.0.0/14|US|arin|2018-09-28|GOOGLE, US
