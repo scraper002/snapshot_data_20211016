@@ -14,6 +14,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.104.10.233|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|4780|112.104.0.0/19|TW|apnic|2009-01-13|SEEDNET Digital United Inc., TW
 112.204.126.108|/NBitcoin:5.0.49/|70012|9299|112.204.96.0/19|PH|apnic|2009-02-16|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 113.23.17.185|/NBitcoin:5.0.49/|70012|18403|113.23.17.0/24|VN|apnic|2008-10-10|FPT-AS-AP The Corporation for Financing & Promoting Technology, VN
+116.111.122.53|/NBitcoin:5.0.49/|70012|7552|116.111.120.0/21|VN|apnic|2007-05-18|VIETEL-AS-AP Viettel Group, VN
 116.202.84.176|/MindexcoinCore:0.16.3/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
@@ -38,6 +39,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.76.222.140|/Node:0.8.7.2/|70002|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
 145.14.243.90|/LitecoinCore:0.17.1/|70015|197227|145.14.240.0/21|PL|ripencc|1993-09-01|PSM_WINOGRADY, PL
 146.185.139.235|/ltc_node_scanner:0.0.1/|70015|14061|146.185.128.0/19|US|ripencc|2011-07-13|DIGITALOCEAN-ASN, US
+148.59.127.10|/WalletKit:0.1.0/|70015|62579|148.59.127.0/24|US|arin|2018-03-06|VIRTUALSHIELD, US
 149.210.234.234|/Node:0.8.7.2/|70002|20857|149.210.128.0/17|NL|ripencc|2011-08-17|TRANSIP-AS Amsterdam, the Netherlands, NL
 152.206.185.69|/loaf-android:175/|70015|27725|152.206.184.0/22|CU|lacnic|2014-06-04|Empresa de Telecomunicaciones de Cuba, S.A., CU
 152.89.62.243|/LitecoinCore:0.18.1/|70015|30860|152.89.62.0/24|UA|ripencc|2019-01-24|YURTEH-AS, UA
@@ -54,6 +56,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.62.21.41|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 165.227.227.143|/LitecoinCore:0.18.1/|70015|14061|165.227.224.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 167.86.101.64|/LitecoinCore:0.18.1/|70015|51167|167.86.100.0/23|DE|ripencc|1993-05-14|CONTABO, DE
+167.99.225.10|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|167.99.224.0/20|US|arin|2017-11-10|DIGITALOCEAN-ASN, US
 168.0.234.109|/NBitcoin:5.0.49/|70012|265261|168.0.234.0/24|BR|lacnic|2016-01-11|Tely Banda Larga, BR
 170.247.36.84|/B2CCoinCore:0.16.3/|70015|264524|170.247.36.0/24|BR|lacnic|2017-02-07|Cunha e Zanato telecom LTDA ME, BR
 170.84.224.154|/NBitcoin:5.0.49/|70012|52974|170.84.224.0/24|BR|lacnic|2016-06-13|Henet Telecomunicacoes Ltda, BR
@@ -71,6 +74,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.121.34.244|/LitecoinCore:0.18.1/|70015|6697|178.121.32.0/21|BY|ripencc|2009-12-10|BELPAK-AS BELPAK, BY
 178.162.201.179|/LitecoinCore:0.18.1/|70015|28753|178.162.192.0/18|DE|ripencc|2010-02-05|LEASEWEB-DE-FRA-10, DE
 178.176.166.206|/BitcoinKit:0.1.0/|70015|31133|178.176.160.0/20|RU|ripencc|2010-01-22|MF-MGSM-AS PJSC MegaFon, RU
+178.20.100.130|/LitecoinCore:0.17.1/|70015|45012|178.20.100.0/22|DE|ripencc|2010-02-22|CLOUDPIT, DE
 178.63.123.92|/CounosCashCore:0.15.1/|70015|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
 178.67.196.110|/LitecoinCore:0.18.1/|70015|12389|178.67.196.0/22|RU|ripencc|2010-01-05|ROSTELECOM-AS, RU
 178.79.69.143|/litecoinj:0.15.2-SNAPSHOT/|70002|3212|178.79.64.0/18|SI|ripencc|2010-05-07|TELEMACH Broadband Access & Carrier Services, SI
@@ -131,7 +135,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.33.208.242|/LitecoinCore:0.18.1/|70015|34984|195.33.208.0/22|TR|ripencc|1998-03-18|TELLCOM-AS, TR
 197.210.54.137|/loaf-android:175/|70015|29465|197.210.54.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.218.69.224|/LitecoinCore:0.18.1/|70015|37342|197.218.69.0/24|MZ|afrinic|2011-05-31|MOVITEL, MZ
-197.218.74.39|/LitecoinCore:0.18.1/|70015|37342|197.218.74.0/24|MZ|afrinic|2011-05-31|MOVITEL, MZ
 197.218.78.193|???|0|37342|197.218.78.0/24|MZ|afrinic|2011-05-31|MOVITEL, MZ
 198.98.50.242|/BitcoinKit:0.1.0/|70015|53667|198.98.48.0/20|US|arin|2012-07-05|PONYNET, US
 199.195.250.77|/BitcoinKit:0.1.0/|70015|53667|199.195.248.0/21|US|arin|2012-06-06|PONYNET, US
@@ -143,6 +146,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.6.40.127|/BitcoinKit:0.1.0/|70015|852|207.6.0.0/16|CA|arin|1995-12-21|TELUS Communications, CA
 209.58.147.244|/BitcoinKit:0.1.0/|70015|394380|209.58.144.0/20|US|arin|1999-04-29|LEASEWEB-USA-DAL, US
 212.24.146.14|/litecoinj:0.15.2-SNAPSHOT/|70002|29208|212.24.128.0/19|CZ|ripencc|1998-04-15|DIALTELECOM-AS Dial Telecom a.s., CZ
+212.95.5.31|/BitcoinKit:0.1.0/|70015|8412|212.95.4.0/23|AT|ripencc|1998-11-06|TMA Magenta Telekom, AT
 213.230.72.53|/loaf-android:175/|70015|8193|213.230.72.0/23|UZ|ripencc|2008-01-31|BRM-AS, UZ
 213.32.6.132|/DigitaleuroCore:0.16.3/|70015|16276|213.32.0.0/17|FR|ripencc|1999-06-28|OVH, FR
 213.48.11.122|/BitcoinKit:0.1.0/|70015|5089|213.48.0.0/18|GB|ripencc|1999-07-19|NTL, GB
@@ -210,6 +214,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.243.107.220|/loaf-android:175/|70015|3243|85.240.0.0/13|PT|ripencc|2004-01-03|MEO-RESIDENCIAL, PT
 86.26.34.59|/loaf-android:175/|70015|5089|86.24.0.0/13|GB|ripencc|2005-03-29|NTL, GB
 87.117.106.239|/NBitcoin:5.0.49/|70012|57910|87.117.106.0/24|ES|ripencc|2005-09-26|SCIP-AS Soluciones Corporativas IP SCIP, ES
+87.184.61.241|/LitecoinCore:0.17.1/|70015|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 88.108.58.211|/BitcoinKit:0.1.0/|70015|9105|88.108.0.0/15|GB|ripencc|2005-08-05|TISCALI-UK TalkTalk Communications Limited, GB
 88.212.168.101|/LitecoinCore:0.18.1/|70015|56329|88.212.168.0/21|GB|ripencc|2005-12-15|GIGACLEAR, GB
 89.163.243.241|/LitecoinCore:0.18.1/|70015|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
@@ -232,3 +237,4 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.84.180.148|/BitcoinKit:0.1.0/|70015|42610|95.84.128.0/18|RU|ripencc|2008-12-18|NCNET-AS, RU
 95.91.241.22|/WalletKit:0.1.0/|70015|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 99.252.224.222|/LitecoinCore:0.17.1/|70015|812|99.252.0.0/16|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
+99.98.217.243|/LitecoinCore:0.18.1/|70015|7018|99.96.0.0/13|US|arin|2008-02-25|ATT-INTERNET4, US
