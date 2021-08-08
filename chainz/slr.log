@@ -27,6 +27,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.117.252.63|/Satoshi:2.1.8/|70005|6848|178.116.0.0/14|BE|ripencc|2010-01-22|TELENET-AS, BE
 178.162.194.83|/Satoshi:2.1.8/|70005|28753|178.162.192.0/18|DE|ripencc|2010-02-05|LEASEWEB-DE-FRA-10, DE
 178.193.78.59|/Satoshi:2.1.8/|70005|3303|178.192.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom Switzerland Ltd, CH
+178.40.85.209|/Satoshi:2.1.8/|70005|6855|178.40.0.0/15|SK|ripencc|2010-02-02|SK-TELEKOM Slovak Telekom T-Mobile CZ, SK
 178.54.63.95|/Satoshi:2.1.8/|70005|29107|178.54.0.0/17|UA|ripencc|2010-05-17|SYNAPSE-AS, UA
 181.214.215.251|/Satoshi:2.1.8/|70005|18345|181.214.215.0/24|CL|lacnic|2014-05-29|SERVERS-AUS-CUST Servers Australia Customers, AU
 184.100.200.154|/Satoshi:2.1.8/|70005|209|184.100.0.0/16|US|arin|2010-04-06|CENTURYLINK-US-LEGACY-QWEST, US
@@ -46,6 +47,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.201.116.92|/Satoshi:2.1.8/|70005|3209|37.201.0.0/17|DE|ripencc|2012-03-22|VODANET International IP-Backbone of Vodafone, DE
 45.146.57.237|/Satoshi:2.1.8/|70005|25596|45.146.56.0/22|NL|ripencc|2019-08-27|CAMBRIUM-AS, NL
 45.158.172.249|/Satoshi:2.1.8/|70005|20810|45.158.172.0/22|DE|ripencc|2019-09-30|NETCOM-KASSEL Netcom Kassel, DE
+46.223.160.16|/Satoshi:2.1.8/|70005|3209|46.223.128.0/17|DE|ripencc|2011-01-26|VODANET International IP-Backbone of Vodafone, DE
 46.69.239.80|/Satoshi:2.1.8/|70005|12576|46.69.0.0/16|GB|ripencc|2010-07-05|EE Ltd, GB
 47.13.255.252|/Satoshi:2.1.8/|70005|20115|47.13.128.0/17|US|arin|2017-11-27|CHARTER-20115, US
 47.156.90.123|/Satoshi:2.1.8/|70005|5650|47.156.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
@@ -64,7 +66,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.205.97.213|/Satoshi:2.1.8/|70005|33363|68.204.0.0/15|US|arin|2003-01-31|BHN-33363, US
 69.119.193.9|/Satoshi:2.1.8/|70005|6128|69.116.0.0/14|US|arin|2004-01-15|CABLE-NET-1, US
 72.185.96.243|/Satoshi:2.1.8/|70005|33363|72.184.0.0/14|US|arin|2005-11-21|BHN-33363, US
-73.251.46.67|/Satoshi:2.1.8/|70005|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 75.82.185.108|/Satoshi:2.1.8/|70005|20001|75.82.0.0/15|US|arin|2006-07-19|TWC-20001-PACWEST, US
 76.100.112.51|/Satoshi:2.1.8/|70005|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
 76.176.73.20|/Satoshi:2.1.8/|70005|20001|76.176.0.0/16|US|arin|2006-07-26|TWC-20001-PACWEST, US
@@ -93,7 +94,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.118.76.149|/Satoshi:2.1.8/|70005|3209|84.118.0.0/16|NL|ripencc|2004-04-07|VODANET International IP-Backbone of Vodafone, DE
 84.119.162.12|/Satoshi:2.1.8/|70005|3209|84.119.0.0/16|NL|ripencc|2004-04-07|VODANET International IP-Backbone of Vodafone, DE
 84.162.240.112|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.186.152.65|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.195.111.156|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 85.146.244.251|/Satoshi:2.1.8/|70005|33915|85.146.192.0/18|NL|ripencc|2004-10-06|TNF-AS, NL
 86.244.109.126|/Satoshi:2.1.8/|70005|3215|86.244.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
@@ -104,10 +104,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.122.110.233|/Satoshi:2.1.8/|70005|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
 88.97.137.102|/Satoshi:2.1.8/|70005|13037|88.96.0.0/15|GB|ripencc|2005-08-03|ZEN-AS Zen Internet - UK, GB
 89.102.149.132|/Satoshi:2.1.8/|70005|16019|89.102.0.0/16|CZ|ripencc|2006-02-24|VODAFONE-CZ-AS, CZ
+91.180.97.95|/Satoshi:2.1.8/|70005|5432|91.180.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
 91.42.51.34|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.108.14.31|/Satoshi:2.1.8/|70005|33915|92.108.0.0/15|NL|ripencc|2007-10-23|TNF-AS, NL
 92.200.70.29|/Satoshi:2.1.8/|70005|20676|92.200.0.0/15|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 92.27.71.55|/Satoshi:2.1.8/|70005|13285|92.26.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
+93.200.93.143|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.201.191.10|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.201.191.60|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.232.3.26|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
