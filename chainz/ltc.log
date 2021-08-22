@@ -25,11 +25,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.74.86.230|/LitecoinCore:0.16.3/|70015|37963|112.74.0.0/17|CN|apnic|2008-12-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 115.73.221.175|/LitecoinCore:0.18.1/|70015|7552|115.73.216.0/21|VN|apnic|2008-07-17|VIETEL-AS-AP Viettel Group, VN
 115.73.221.175|/LitecoinCore:0.18.1/|70208|7552|115.73.216.0/21|VN|apnic|2008-07-17|VIETEL-AS-AP Viettel Group, VN
-116.202.84.176|/MindexcoinCore:0.16.3/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.100.224.106|/LitecoinCore:0.18.1/|70015|4788|118.100.192.0/18|MY|apnic|2007-08-30|TMNET-AS-AP TM Net, Internet Service Provider, MY
 118.100.224.106|/LitecoinCore:0.18.1/|70208|4788|118.100.192.0/18|MY|apnic|2007-08-30|TMNET-AS-AP TM Net, Internet Service Provider, MY
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+120.188.67.157|/BitcoinKit:0.1.0/|70015|4761|120.188.66.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 126.79.93.1|/NBitcoin:5.0.49/|70012|17676|126.79.0.0/16|JP|apnic|2005-02-08|GIGAINFRA Softbank BB Corp., JP
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
@@ -47,8 +47,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 146.185.139.235|/ltc_node_scanner:0.0.1/|70015|14061|146.185.128.0/19|US|ripencc|2011-07-13|DIGITALOCEAN-ASN, US
 146.66.143.45|/DigitaleuroCore:0.16.3/|70015|199930|146.66.136.0/21|ES|ripencc|2011-07-12|WIFIBALEARES-AS CSabaters 13, ES
 148.59.127.10|/WalletKit:0.1.0/|70015|62579|148.59.127.0/24|US|arin|2018-03-06|VIRTUALSHIELD, US
-149.224.222.105|/LitecoinCore:0.18.1/|70015|15943|149.224.128.0/17|DE|ripencc|1993-09-01|WTNET-AS wilhelm.tel GmbH, DE
-149.224.222.105|/LitecoinCore:0.18.1/|70208|15943|149.224.128.0/17|DE|ripencc|1993-09-01|WTNET-AS wilhelm.tel GmbH, DE
 149.56.132.49|/FlashcoinCore:0.13.3.2/|70015|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 153.207.137.237|/LitecoinCore:0.16.0/|70015|4713|153.192.0.0/11|JP|apnic|2011-02-28|OCN NTT Communications Corporation, JP
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|157.230.112.0/20|US|arin|2018-08-22|DIGITALOCEAN-ASN, US
@@ -200,6 +198,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.187.114.165|/BitcoinKit:0.1.0/|70015|3320|80.187.0.0/16|DE|ripencc|2002-05-28|DTAG Internet service provider operations, DE
 82.44.192.184|/BitcoinKit:0.1.0/|70015|5089|82.44.0.0/16|GB|ripencc|2003-01-31|NTL, GB
 83.137.6.179|/BitcoinKit:0.1.0/|70015|31404|83.137.6.0/24|GB|ripencc|2004-04-27|LYCATEL-AS, GB
+83.149.44.212|/BitcoinKit:0.1.0/|70015|31208|83.149.44.0/23|RU|ripencc|2004-03-09|MF-CENTER-AS, RU
 83.202.213.173|/BitcoinKit:0.1.0/|70015|3215|83.202.0.0/16|FR|ripencc|2003-12-12|France Telecom - Orange, FR
 83.39.92.160|/litecoinj:0.15.2-SNAPSHOT/|70002|3352|83.39.0.0/16|ES|ripencc|2003-12-02|TELEFONICA_DE_ESPANA, ES
 85.14.18.20|/NBitcoin:5.0.49/|70012|51486|85.14.18.0/24|BG|ripencc|2005-04-06|GRAO-AS, BG
@@ -212,6 +211,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.204.130.150|/BitcoinKit:0.1.0/|70015|6805|89.204.128.0/19|DE|ripencc|2006-05-04|TDDE-ASN1, DE
 89.212.171.169|/BitcoinKit:0.1.0/|70015|34779|89.212.128.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2 d.o.o., SI
 89.24.47.32|/litecoinj:0.15.2-SNAPSHOT/|70002|13036|89.24.0.0/17|CZ|ripencc|2006-05-11|TMOBILE-, CZ
+89.72.4.244|/NBitcoin:5.0.49/|70012|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 91.193.181.3|/LitecoinCore:0.16.3/|70015|12722|91.193.180.0/22|GB|ripencc|2018-04-18|RECONN, RU
 92.184.117.186|/BitcoinKit:0.1.0/|70015|3215|92.184.116.0/22|FR|ripencc|2007-07-12|France Telecom - Orange, FR
 93.193.199.46|/LitecoinCore:0.17.1/|70015|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
@@ -219,6 +219,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.19.23.217|/LitecoinCore:0.18.1/|70208|35807|94.19.0.0/16|RU|ripencc|2008-07-03|SKYNET-SPB-AS, RU
 95.153.128.150|/LitecoinCore:0.18.1/|70015|29497|95.153.128.0/23|RU|ripencc|2009-02-23|KUBANGSM, RU
 95.153.128.150|/LitecoinCore:0.18.1/|70208|29497|95.153.128.0/23|RU|ripencc|2009-02-23|KUBANGSM, RU
+95.211.95.26|/LitecoinCore:0.18.1/|70015|60781|95.211.0.0/16|NL|ripencc|2009-02-05|LEASEWEB-NL-AMS-01 Netherlands, NL
+95.211.95.26|/LitecoinCore:0.18.1/|70208|60781|95.211.0.0/16|NL|ripencc|2009-02-05|LEASEWEB-NL-AMS-01 Netherlands, NL
 95.216.122.133|/CounosXCore:0.17.1/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.197.41|/LitecoinCore:0.18.1/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.197.41|/LitecoinCore:0.18.1/|70208|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
