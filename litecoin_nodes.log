@@ -61,7 +61,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.72.169|9333|/LitecoinCore:0.18.1/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.179|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
-118.163.74.161|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.45.176.244|9333|/LitecoinCore:0.18.1/|45090|119.45.176.0/20|CN|apnic|2008-01-03|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 120.77.249.96|9333|/LitecoinCore:0.18.1/|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -579,6 +578,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2603:3013:500:e000::b0df|9027|/Satoshi:0.8.6.2/|7922|2603:3000::/24|US|arin|2015-05-13|COMCAST-7922, US
 2603:8001:5000:2b3a:5054:ff:fe1b:2913|9333|/LitecoinCore:0.17.1/|20001|2603:8000::/28|US|arin|2017-03-20|TWC-20001-PACWEST, US
 2604:180:f3::517|9333|/LitecoinCore:0.18.1/|3842|2604:180:f3::/48|US|arin|2012-08-07|RAMNODE, US
+2604:2d80:d70e:cd00::6|9333|/LitecoinCore:0.18.1/|30036|2604:2d80:d700::/41|US|arin|2012-10-29|MEDIACOM-ENTERPRISE-BUSINESS, US
 2604:2dc0:100:12be::|9333|/LitecoinCore:0.18.1/|16276|2604:2dc0::/32|US|arin|2017-04-03|OVH, FR
 2604:2dc0:100:2c56::|9333|/LitecoinCore:0.18.1/|16276|2604:2dc0::/32|US|arin|2017-04-03|OVH, FR
 2604:2dc0:200:3f0::|9333|/LitecoinCore:0.16.3/|16276|2604:2dc0::/32|US|arin|2017-04-03|OVH, FR
@@ -595,6 +595,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:5300:61:60::|9333|/LitecoinCore:0.17.1/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
 2607:5600:5ab:11c::|9333|/LitecoinCore:0.17.1/|31863|2607:5600::/32|US|arin|2011-03-01|DACEN-2, US
 2607:5600:5ab:1337:420:4:2:0|9333|/LitecoinCore:0.17.1/|31863|2607:5600::/32|US|arin|2011-03-01|DACEN-2, US
+2607:5600:5ab::|9333|/LitecoinCore:0.17.1/|31863|2607:5600::/32|US|arin|2011-03-01|DACEN-2, US
 2607:5600:5ab:c001:ca15:300:b1c:1337|9333|/LitecoinCore:0.17.1/|31863|2607:5600::/32|US|arin|2011-03-01|DACEN-2, US
 2607:f1c0:1800:11::1|1337|/DefcoinCore:1.0.0/|8560|2607:f1c0::/32|US|arin|2007-10-18|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2607:f2c0:100:200:1::2e8|9333|/LitecoinCore:0.18.1/|5645|2607:f2c0::/32|CA|arin|2008-01-17|TEKSAVVY, CA
@@ -713,6 +714,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:2988::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:fd8::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3a:1060::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:3a:2913::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:5809::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:19ec::4204|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:1dee::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -907,6 +909,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.188.119.37|9333|/LitecoinCore:0.18.1/|49505|5.188.118.0/23|RU|ripencc|2012-08-09|SELECTEL, RU
 5.189.139.168|9333|/LitecoinCore:0.18.1/|51167|5.189.128.0/20|DE|ripencc|2012-08-09|CONTABO, DE
 5.189.187.89|9333|/LitecoinCore:0.16.0/|51167|5.189.176.0/20|DE|ripencc|2012-08-09|CONTABO, DE
+5.194.138.83|9333|/LitecoinCore:0.18.1/|5384|5.194.128.0/18|AE|ripencc|2012-08-22|EMIRATES-INTERNET Emirates Internet, AE
 5.196.157.116|9333|/Satoshi:0.10.4/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
 5.196.167.44|9333|/LitecoinCore:0.17.1/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
 5.196.91.94|9027|/Satoshi:0.8.6.2/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
@@ -929,6 +932,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.115.47.66|9333|/LitecoinCore:0.18.1/|18450|50.115.46.0/23|US|arin|2011-09-08|WEBNX, US
 50.116.19.40|10332|/DefcoinCore:1.0.0/|63949|50.116.16.0/20|US|arin|2011-08-30|LINODE-AP Linode, LLC, US
 50.245.85.77|9027|/Satoshi:0.8.6.2/|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
+50.80.186.116|9333|/LitecoinCore:0.18.1/|30036|50.80.176.0/20|US|arin|2010-11-03|MEDIACOM-ENTERPRISE-BUSINESS, US
 50.98.118.244|9333|/LitecoinCore:0.18.1/|852|50.98.0.0/16|CA|arin|2011-03-31|TELUS Communications, CA
 51.15.186.6|8333|/LitecoinCore:0.17.1/|12876|51.15.0.0/16|FR|ripencc|1993-09-01|Online SAS, FR
 51.161.117.66|9999|/LitecoinCore:0.16.3/|16276|51.161.0.0/17|CA|arin|2019-09-03|OVH, FR
