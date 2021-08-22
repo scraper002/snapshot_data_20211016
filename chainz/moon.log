@@ -15,6 +15,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 105.112.123.77|/loaf-android:17.3.3/|70015|36873|105.112.122.0/23|NG|afrinic|2013-09-20|VNL1-AS, NG
 105.112.70.51|/loaf-android:17.3.3/|70015|36873|105.112.70.0/24|NG|afrinic|2013-09-20|VNL1-AS, NG
 105.66.3.16|/MooncoinCore:0.17.1/|70017|36884|105.66.3.0/24|MA|afrinic|2014-01-27|MAROCCONNECT, MA
+106.38.92.46|/Mooncoin:0.13.9/|70016|4847|106.38.0.0/16|CN|apnic|2011-03-18|CNIX-AP China Networks Inter-Exchange, CN
 107.150.94.109|/Mooncoin:0.13.9/|70016|58065|107.150.94.0/24|US|ripencc|2013-12-09|PACKETEXCHANGE, SE
 107.3.191.36|/loaf-android:17.3.3/|70015|7922|107.0.0.0/14|US|arin|2010-06-29|COMCAST-7922, US
 108.185.236.93|/MooncoinCore:0.17.1/|70017|20001|108.184.0.0/15|US|arin|2013-01-24|TWC-20001-PACWEST, US
@@ -37,7 +38,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 110.54.243.72|/loaf-android:17.3.3/|70015|132199|110.54.243.0/24|PH|apnic|2009-03-25|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 112.198.15.139|/loaf-android:17.3.3/|70015|4775|112.198.0.0/16|PH|apnic|2009-02-12|GLOBE-TELECOM-AS Globe Telecoms, PH
 112.198.165.50|/loaf-android:17.3.3/|70015|132199|112.198.160.0/21|PH|apnic|2009-02-12|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
-112.198.204.216|/loaf-android:17.3.3/|70015|132199|112.198.204.0/22|PH|apnic|2009-02-12|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 112.198.229.45|/loaf-android:17.3.3/|70015|132199|112.198.229.0/24|PH|apnic|2009-02-12|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 112.198.95.113|/loaf-android:17.3.3/|70015|4775|112.198.95.0/24|PH|apnic|2009-02-12|GLOBE-TELECOM-AS Globe Telecoms, PH
 112.198.95.123|/loaf-android:17.3.3/|70015|4775|112.198.95.0/24|PH|apnic|2009-02-12|GLOBE-TELECOM-AS Globe Telecoms, PH
@@ -70,7 +70,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 120.29.108.192|/loaf-android:17.3.3/|70015|17639|120.29.108.0/22|PH|apnic|2011-01-31|CONVERGE-AS Converge ICT Solutions Inc., PH
 120.29.110.174|/loaf-android:17.3.3/|70015|17639|120.29.108.0/22|PH|apnic|2011-01-31|CONVERGE-AS Converge ICT Solutions Inc., PH
 120.29.111.103|/loaf-android:17.3.3/|70015|17639|120.29.108.0/22|PH|apnic|2011-01-31|CONVERGE-AS Converge ICT Solutions Inc., PH
-120.29.97.42|/loaf-android:17.3.3/|70015|17639|120.29.96.0/22|PH|apnic|2011-01-31|CONVERGE-AS Converge ICT Solutions Inc., PH
 120.78.65.86|/MooncoinCore:0.17.1/|70017|37963|120.78.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 122.3.113.248|/loaf-android:17.3.3/|70015|9299|122.3.96.0/19|PH|apnic|2006-09-28|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 122.3.68.214|/loaf-android:17.3.3/|70015|9299|122.3.64.0/19|PH|apnic|2006-09-28|IPG-AS-AP Philippine Long Distance Telephone Company, PH
@@ -117,6 +116,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 152.32.107.219|/loaf-android:17.3.3/|70015|17639|152.32.107.0/24|PH|apnic|1992-01-10|CONVERGE-AS Converge ICT Solutions Inc., PH
 152.32.107.6|/loaf-android:17.3.3/|70015|17639|152.32.107.0/24|PH|apnic|1992-01-10|CONVERGE-AS Converge ICT Solutions Inc., PH
 154.122.46.43|/loaf-android:17.3.3/|70015|12455|154.122.0.0/17|KE|afrinic|2014-04-10|JAMBONET, KE
+157.38.18.225|/loaf-android:17.3.3/|70015|55836|157.38.0.0/17|IN|apnic|1992-01-29|RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
 157.42.105.153|/loaf-android:17.3.3/|70015|55836|157.42.0.0/17|IN|apnic|1992-01-29|RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
 157.42.113.211|/loaf-android:17.3.3/|70015|55836|157.42.0.0/17|IN|apnic|1992-01-29|RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
 157.90.181.171|/Mooncoin:0.13.9/|70016|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
@@ -215,6 +215,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.38.18.241|/MooncoinCore:0.17.1/|70017|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 58.69.105.130|/loaf-android:17.3.3/|70015|9299|58.69.96.0/19|PH|apnic|2005-04-01|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 58.69.250.31|/loaf-android:17.3.3/|70015|9299|58.69.224.0/19|PH|apnic|2005-04-01|IPG-AS-AP Philippine Long Distance Telephone Company, PH
+62.250.213.187|/MooncoinCore:0.17.1/|70017|50266|62.250.128.0/17|NL|ripencc|2000-11-07|TMOBILE-THUIS, NL
 63.175.156.137|/MooncoinCore:0.17.1/|70017|14813|63.175.156.0/23|US|arin|1999-12-03|BB-COLUMBUS, BB
 64.20.63.133|/MooncoinCore:0.17.1/|70017|19318|64.20.32.0/19|US|arin|2005-04-07|IS-AS-1, US
 66.133.11.26|/loaf-android:17.3.3/|70015|60725|66.133.11.0/24|US|arin|2001-07-11|O3B-AS SES Networks - Internet Service Provider operating GEO and MEO satellite constellation, NL
