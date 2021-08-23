@@ -11,12 +11,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 102.89.2.213|/loaf-android:17.3.3/|70015|29465|102.89.2.0/24|NG|afrinic|2018-09-04|VCG-AS, NG
 103.105.35.95|/loaf-android:17.3.3/|70015|45727|103.105.35.0/24|ID|apnic|2017-12-04|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 103.149.37.151|/loaf-android:17.3.3/|70015|136929|103.149.37.0/24|PH|apnic|2020-03-05|MERIDIAN1-AS-AP Meridian Cable TV, INC, PH
-103.208.70.84|/loaf-android:17.3.3/|70015|134674|103.208.70.0/24|IN|apnic|2016-02-02|TATASKYBROADBAND-AS-AP TATA SKY BROADBAND PRIVATE LIMITED, IN
 103.208.71.6|/loaf-android:17.3.3/|70015|134674|103.208.71.0/24|IN|apnic|2016-02-02|TATASKYBROADBAND-AS-AP TATA SKY BROADBAND PRIVATE LIMITED, IN
 103.211.18.69|/loaf-android:17.3.3/|70015|133982|103.211.18.0/24|IN|apnic|2016-03-08|EXCITEL-AS-IN Excitel Broadband Private Limited, IN
 103.87.92.247|/loaf-android:17.3.3/|70015|55947|103.87.92.0/24|IN|apnic|2017-03-07|BBNL-IN Bangalore Broadband Network Pvt Ltd, IN
 105.103.236.83|/loaf-android:17.3.3/|70015|36947|105.103.0.0/16|DZ|afrinic|2013-11-18|ALGTEL-AS, DZ
-105.112.153.103|/loaf-android:17.3.3/|70015|36873|105.112.153.0/24|NG|afrinic|2013-09-20|VNL1-AS, NG
 105.112.210.148|/loaf-android:17.3.3/|70015|36873|105.112.208.0/20|NG|afrinic|2013-09-20|VNL1-AS, NG
 106.196.37.230|/loaf-android:17.3.3/|70015|45609|106.196.32.0/20|IN|apnic|2011-03-17|BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service, IN
 106.208.147.95|/loaf-android:17.3.3/|70015|45609|106.208.144.0/22|IN|apnic|2011-03-17|BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service, IN
@@ -123,7 +121,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 152.32.111.104|/loaf-android:17.3.3/|70015|17639|152.32.110.0/23|PH|apnic|1992-01-10|CONVERGE-AS Converge ICT Solutions Inc., PH
 152.32.111.106|/loaf-android:17.3.3/|70015|17639|152.32.110.0/23|PH|apnic|1992-01-10|CONVERGE-AS Converge ICT Solutions Inc., PH
 154.117.119.155|/loaf-android:17.3.3/|70015|37714|154.117.116.0/22|NG|afrinic|2015-03-05|BITFLUX, NG
-154.117.219.17|/loaf-android:17.3.3/|70015|327799|154.117.192.0/18|BI|afrinic|2015-04-23|VIETTEL-BURUNDI, BI
+154.117.219.17|/loaf-android:17.3.3/|70015|327799|154.117.219.0/24|BI|afrinic|2015-04-23|VIETTEL-BURUNDI, BI
 154.160.10.84|/loaf-android:17.3.3/|70015|30986|154.160.10.0/24|GH|afrinic|2017-03-30|SCANCOM, GH
 154.160.21.83|/loaf-android:17.3.3/|70015|30986|154.160.21.0/24|GH|afrinic|2017-03-30|SCANCOM, GH
 154.160.4.220|/loaf-android:17.3.3/|70015|30986|154.160.4.0/24|GH|afrinic|2017-03-30|SCANCOM, GH
@@ -133,6 +131,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 157.38.11.122|/loaf-android:17.3.3/|70015|55836|157.38.0.0/17|IN|apnic|1992-01-29|RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
 157.45.202.43|/loaf-android:17.3.3/|70015|55836|157.32.0.0/12|IN|apnic|1992-01-29|RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
 157.45.9.211|/loaf-android:17.3.3/|70015|55836|157.45.0.0/17|IN|apnic|1992-01-29|RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
+157.48.212.115|/loaf-android:17.3.3/|70015|55836|157.48.0.0/16|IN|apnic|1992-01-29|RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
 157.90.181.171|/Mooncoin:0.13.9/|70016|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
 158.248.39.243|/MooncoinCore:0.17.1/|70017|29695|158.248.0.0/16|NO|ripencc|1993-09-01|ALTIBOX_AS Norway, NO
 159.196.0.92|/MooncoinCore:0.17.1/|70017|4764|159.196.0.0/22|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
@@ -183,6 +182,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.163.73.85|/MooncoinCore:0.17.1/|70017|15895|188.163.0.0/17|UA|ripencc|2009-05-22|KSNET-AS, UA
 192.222.229.98|/MooncoinCore:0.17.1/|70017|1403|192.222.224.0/19|CA|arin|2012-12-20|EBOX, CA
 193.187.102.238|/loaf-android:17.3.3/|70015|210003|193.187.102.0/24|AL|ripencc|2018-10-26|SKYELBASAN, AL
+193.81.170.88|/MooncoinCore:0.17.1/|70017|1901|193.80.0.0/15|AT|ripencc|1993-09-01|EUNETAT-AS A1 Telekom Austria AG, AT
 194.163.157.149|/Mooncoin:0.13.9/|70016|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
 197.210.226.216|/loaf-android:17.3.3/|70015|29465|197.210.226.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.226.234|/loaf-android:17.3.3/|70015|29465|197.210.226.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
@@ -263,11 +263,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 49.149.72.206|/loaf-android:17.3.3/|70015|9299|49.149.64.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.150.46.227|/loaf-android:17.3.3/|70015|9299|49.150.32.0/20|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.150.65.72|/loaf-android:17.3.3/|70015|9299|49.150.64.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
-49.34.145.83|/loaf-android:17.3.3/|70015|55836|49.34.0.0/16|IN|apnic|2010-10-27|RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
 49.35.157.42|/loaf-android:17.3.3/|70015|55836|49.35.0.0/16|IN|apnic|2010-10-27|RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
 49.36.86.23|/loaf-android:17.3.3/|70015|55836|49.36.0.0/17|IN|apnic|2010-10-27|RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
 5.157.51.66|/loaf-android:17.3.3/|70015|58065|5.157.51.0/24|US|ripencc|2012-07-24|PACKETEXCHANGE, SE
-5.173.33.198|/loaf-android:17.3.3/|70015|39603|5.173.0.0/17|PL|ripencc|2012-07-30|P4NET P4 UMTS operator in Poland, PL
 5.173.72.166|/loaf-android:17.3.3/|70015|39603|5.173.0.0/17|PL|ripencc|2012-07-30|P4NET P4 UMTS operator in Poland, PL
 5.45.105.66|/MooncoinCore:0.17.1/|70017|197540|5.45.96.0/20|DE|ripencc|2012-05-24|NETCUP-AS netcup GmbH, DE
 5.47.158.190|/loaf-android:17.3.3/|70015|20978|5.47.128.0/19|TR|ripencc|2012-05-23|TT_MOBIL Istanbul, TR
