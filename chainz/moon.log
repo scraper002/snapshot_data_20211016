@@ -33,7 +33,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 110.54.157.252|/loaf-android:17.3.3/|70015|4775|110.54.157.0/24|PH|apnic|2009-03-25|GLOBE-TELECOM-AS Globe Telecoms, PH
 110.54.162.73|/loaf-android:17.3.3/|70015|132199|110.54.162.0/24|PH|apnic|2009-03-25|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 110.54.181.192|/loaf-android:17.3.3/|70015|4775|110.54.181.0/24|PH|apnic|2009-03-25|GLOBE-TELECOM-AS Globe Telecoms, PH
-110.54.185.169|/loaf-android:17.3.3/|70015|4775|110.54.185.0/24|PH|apnic|2009-03-25|GLOBE-TELECOM-AS Globe Telecoms, PH
 110.54.189.222|/loaf-android:17.3.3/|70015|4775|110.54.189.0/24|PH|apnic|2009-03-25|GLOBE-TELECOM-AS Globe Telecoms, PH
 110.54.194.233|/loaf-android:17.3.3/|70015|132199|110.54.194.0/24|PH|apnic|2009-03-25|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 110.54.206.26|/loaf-android:17.3.3/|70015|4775|110.54.206.0/24|PH|apnic|2009-03-25|GLOBE-TELECOM-AS Globe Telecoms, PH
@@ -112,6 +111,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.248.55.181|/MooncoinCore:0.17.1/|70017|20473|149.248.48.0/20|US|arin|2018-07-03|AS-CHOOPA, US
 149.28.136.26|/Mooncoin:0.13.9/|70016|20473|149.28.128.0/19|US|arin|2018-05-04|AS-CHOOPA, US
 149.28.82.11|/MooncoinCore:0.17.1/|70017|20473|149.28.64.0/19|US|arin|2018-05-04|AS-CHOOPA, US
+149.62.203.146|/loaf-android:17.3.3/|70015|29244|149.62.192.0/18|BG|ripencc|2011-07-25|TELENORBG-AS, BG
 151.47.98.47|/loaf-android:17.3.3/|70015|1267|151.47.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 152.32.100.44|/loaf-android:17.3.3/|70015|17639|152.32.100.0/24|PH|apnic|1992-01-10|CONVERGE-AS Converge ICT Solutions Inc., PH
 152.32.104.161|/loaf-android:17.3.3/|70015|17639|152.32.104.0/24|PH|apnic|1992-01-10|CONVERGE-AS Converge ICT Solutions Inc., PH
@@ -179,6 +179,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.163.157.149|/Mooncoin:0.13.9/|70016|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
 196.121.31.49|/loaf-android:17.3.3/|70015|36925|196.121.0.0/16|MA|afrinic|2016-01-21|ASMedi, MA
 197.210.226.234|/loaf-android:17.3.3/|70015|29465|197.210.226.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
+197.210.47.15|/loaf-android:17.3.3/|70015|29465|197.210.47.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.52.108|/loaf-android:17.3.3/|70015|29465|197.210.52.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.52.244|/loaf-android:17.3.3/|70015|29465|197.210.52.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.53.122|/loaf-android:17.3.3/|70015|29465|197.210.53.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
@@ -241,7 +242,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.219.214.158|/MooncoinCore:0.17.1/|70017|31148|46.219.214.0/24|UA|ripencc|2011-01-19|FREENET_LLC, UA
 46.23.35.70|/Mooncoin:0.13.9.1/|70016|24651|46.23.32.0/20|LV|ripencc|2010-12-02|LVBALTICOM-AS, LV
 47.29.63.21|/loaf-android:17.3.3/|70015|55836|47.29.0.0/17|IN|apnic|1989-01-06|RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
-49.144.173.49|/loaf-android:17.3.3/|70015|9299|49.144.160.0/20|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
+49.144.77.20|/loaf-android:17.3.3/|70015|9299|49.144.64.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.145.113.200|/loaf-android:17.3.3/|70015|9299|49.145.112.0/20|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.145.167.105|/loaf-android:17.3.3/|70015|9299|49.145.160.0/20|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.145.36.146|/loaf-android:17.3.3/|70015|9299|49.145.32.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
@@ -301,6 +302,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.43.208.170|/MooncoinCore:0.17.1/|70017|21230|84.43.208.0/21|BG|ripencc|2004-09-15|MNET-, BG
 85.10.202.27|/loaf-android:17.3.3/|70015|24940|85.10.192.0/18|DE|ripencc|2005-02-23|HETZNER-AS, DE
 85.15.179.171|/Mooncoin:0.13.9/|70016|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
+85.155.99.192|/loaf-android:17.3.3/|70015|6739|85.155.0.0/16|ES|ripencc|2004-11-05|ONO-AS Cableuropa - ONO, ES
 85.99.176.105|/loaf-android:17.3.3/|70015|9121|85.99.176.0/21|TR|ripencc|2004-09-20|TTNET, TR
 86.100.49.209|/Mooncoin:0.18.1/|70016|39007|86.100.0.0/17|LT|ripencc|2005-05-23|BALTICUM-TV-AS, LT
 87.211.154.182|/MooncoinCore:0.17.1/|70017|13127|87.211.0.0/16|NL|ripencc|2005-06-02|T-MOBILE AS for the Trans-European T-Mobile IP Transport backbone, NL
