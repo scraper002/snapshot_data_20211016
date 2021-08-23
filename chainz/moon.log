@@ -99,6 +99,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.90.72|/MooncoinCore:0.17.1/|70017|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.23.228.90|/MooncoinCore:0.17.1/|70017|5645|135.23.0.0/16|CA|arin|2013-05-09|TEKSAVVY, CA
 136.158.0.151|/loaf-android:17.3.3/|70015|17639|136.158.0.0/22|PH|apnic|2004-04-14|CONVERGE-AS Converge ICT Solutions Inc., PH
+136.158.0.56|/loaf-android:17.3.3/|70015|17639|136.158.0.0/22|PH|apnic|2004-04-14|CONVERGE-AS Converge ICT Solutions Inc., PH
 136.158.101.141|/loaf-android:17.3.3/|70015|17639|136.158.100.0/22|PH|apnic|2004-04-14|CONVERGE-AS Converge ICT Solutions Inc., PH
 136.158.17.194|/loaf-android:17.3.3/|70015|17639|136.158.16.0/22|PH|apnic|2004-04-14|CONVERGE-AS Converge ICT Solutions Inc., PH
 136.158.30.207|/loaf-android:17.3.3/|70015|17639|136.158.28.0/22|PH|apnic|2004-04-14|CONVERGE-AS Converge ICT Solutions Inc., PH
@@ -146,10 +147,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.58.229.136|/loaf-android:17.3.3/|70015|21928|172.58.224.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 175.158.36.58|/loaf-android:17.3.3/|70015|135478|175.158.36.0/24|ID|apnic|2010-01-19|ASN-CBNBROADBAND PT. Cyberindo Aditama, ID
 175.176.21.228|/loaf-android:17.3.3/|70015|10139|175.176.21.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
-175.176.3.51|/loaf-android:17.3.3/|70015|10139|175.176.3.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
 175.176.33.139|/loaf-android:17.3.3/|70015|10139|175.176.33.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
 175.176.5.63|/loaf-android:17.3.3/|70015|10139|175.176.5.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
 175.176.7.167|/loaf-android:17.3.3/|70015|10139|175.176.7.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
+175.176.76.140|/loaf-android:17.3.3/|70015|10139|175.176.76.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
 175.176.77.208|/loaf-android:17.3.3/|70015|10139|175.176.77.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
 175.205.16.100|/loaf-android:17.3.3/|70015|4766|175.200.0.0/13|KR|apnic|2010-01-27|KIXS-AS-KR Korea Telecom, KR
 176.114.249.250|/MooncoinCore:0.17.1/|70017|202618|176.114.240.0/20|CZ|ripencc|2012-04-18|RYCHLYDRAT, CZ
@@ -162,7 +163,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.43.75.142|/loaf-android:17.3.3/|70015|5617|178.42.0.0/15|PL|ripencc|2010-02-09|TPNET, PL
 18.162.43.121|/loaf-android:17.3.3/|70015|16509|18.162.0.0/16|US|arin|2019-10-07|AMAZON-02, US
 18.218.28.213|/Mooncoin:0.13.9/|70016|16509|18.216.0.0/14|US|arin|2019-10-07|AMAZON-02, US
-180.190.103.115|/loaf-android:17.3.3/|70015|132199|180.190.100.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 180.190.169.171|/loaf-android:17.3.3/|70015|132199|180.190.168.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 180.244.129.209|/loaf-android:17.3.3/|70015|7713|180.244.128.0/20|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 180.249.47.60|/loaf-android:17.3.3/|70015|7713|180.249.46.0/23|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
@@ -192,6 +192,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 197.210.71.85|/loaf-android:17.3.3/|70015|29465|197.210.71.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.76.236|/loaf-android:17.3.3/|70015|29465|197.210.76.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.76.237|/loaf-android:17.3.3/|70015|29465|197.210.76.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
+197.210.77.102|/loaf-android:17.3.3/|70015|29465|197.210.77.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.77.104|/loaf-android:17.3.3/|70015|29465|197.210.77.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.77.126|/loaf-android:17.3.3/|70015|29465|197.210.77.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.77.87|/loaf-android:17.3.3/|70015|29465|197.210.77.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
@@ -240,6 +241,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 36.91.52.11|/loaf-android:17.3.3/|70015|7713|36.91.0.0/16|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 37.153.123.78|/loaf-android:17.3.3/|70015|26464|37.153.122.0/23|US|ripencc|2012-03-13|JOYENT-INC-, US
 37.225.17.204|/loaf-android:17.3.3/|70015|5617|37.225.0.0/16|PL|ripencc|2012-04-10|TPNET, PL
+37.252.93.111|/loaf-android:17.3.3/|70015|44395|37.252.64.0/19|AM|ripencc|2012-04-19|ORG-UL31-RIPE, AM
 41.254.53.70|/loaf-android:17.3.3/|70015|21003|41.254.53.0/24|LY|afrinic|2007-06-12|GPTC-AS, LY
 41.79.219.51|/loaf-android:17.3.3/|70015|37424|41.79.219.0/24|BJ|afrinic|2012-02-23|Spacetel, BJ
 42.105.165.112|/loaf-android:17.3.3/|70015|38266|42.105.164.0/22|IN|apnic|2011-02-10|VODAFONE-IN Vodafone India Ltd., IN
@@ -251,8 +253,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.29.63.21|/loaf-android:17.3.3/|70015|55836|47.29.0.0/17|IN|apnic|1989-01-06|RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
 49.144.77.20|/loaf-android:17.3.3/|70015|9299|49.144.64.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.145.113.200|/loaf-android:17.3.3/|70015|9299|49.145.112.0/20|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
-49.145.167.105|/loaf-android:17.3.3/|70015|9299|49.145.160.0/20|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
-49.145.36.146|/loaf-android:17.3.3/|70015|9299|49.145.32.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
+49.145.43.177|/loaf-android:17.3.3/|70015|9299|49.145.32.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.149.72.206|/loaf-android:17.3.3/|70015|9299|49.149.64.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.150.46.227|/loaf-android:17.3.3/|70015|9299|49.150.32.0/20|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.150.65.72|/loaf-android:17.3.3/|70015|9299|49.150.64.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
