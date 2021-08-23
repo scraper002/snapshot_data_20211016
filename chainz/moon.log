@@ -29,6 +29,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 110.54.145.168|/loaf-android:17.3.3/|70015|132199|110.54.145.0/24|PH|apnic|2009-03-25|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 110.54.152.201|/loaf-android:17.3.3/|70015|4775|110.54.152.0/24|PH|apnic|2009-03-25|GLOBE-TELECOM-AS Globe Telecoms, PH
 110.54.157.252|/loaf-android:17.3.3/|70015|4775|110.54.157.0/24|PH|apnic|2009-03-25|GLOBE-TELECOM-AS Globe Telecoms, PH
+110.54.162.73|/loaf-android:17.3.3/|70015|132199|110.54.162.0/24|PH|apnic|2009-03-25|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 110.54.181.192|/loaf-android:17.3.3/|70015|4775|110.54.181.0/24|PH|apnic|2009-03-25|GLOBE-TELECOM-AS Globe Telecoms, PH
 110.54.185.169|/loaf-android:17.3.3/|70015|4775|110.54.185.0/24|PH|apnic|2009-03-25|GLOBE-TELECOM-AS Globe Telecoms, PH
 110.54.189.222|/loaf-android:17.3.3/|70015|4775|110.54.189.0/24|PH|apnic|2009-03-25|GLOBE-TELECOM-AS Globe Telecoms, PH
@@ -38,7 +39,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.198.95.113|/loaf-android:17.3.3/|70015|4775|112.198.95.0/24|PH|apnic|2009-02-12|GLOBE-TELECOM-AS Globe Telecoms, PH
 112.201.40.118|/loaf-android:17.3.3/|70015|9299|112.201.32.0/19|PH|apnic|2009-02-16|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 112.201.50.17|/loaf-android:17.3.3/|70015|9299|112.201.32.0/19|PH|apnic|2009-02-16|IPG-AS-AP Philippine Long Distance Telephone Company, PH
-112.201.96.237|/loaf-android:17.3.3/|70015|9299|112.201.96.0/19|PH|apnic|2009-02-16|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 112.202.67.69|/loaf-android:17.3.3/|70015|9299|112.202.64.0/19|PH|apnic|2009-02-16|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 112.205.8.35|/loaf-android:17.3.3/|70015|9299|112.205.0.0/19|PH|apnic|2009-02-16|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 112.206.102.95|/loaf-android:17.3.3/|70015|9299|112.206.96.0/20|PH|apnic|2009-02-16|IPG-AS-AP Philippine Long Distance Telephone Company, PH
@@ -139,7 +139,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.58.229.136|/loaf-android:17.3.3/|70015|21928|172.58.224.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 175.176.18.8|/loaf-android:17.3.3/|70015|10139|175.176.18.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
 175.176.21.228|/loaf-android:17.3.3/|70015|10139|175.176.21.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
-175.176.3.205|/loaf-android:17.3.3/|70015|10139|175.176.3.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
 175.176.3.51|/loaf-android:17.3.3/|70015|10139|175.176.3.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
 175.176.33.139|/loaf-android:17.3.3/|70015|10139|175.176.33.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
 175.176.41.163|/loaf-android:17.3.3/|70015|10139|175.176.41.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
@@ -189,6 +188,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 197.210.76.237|/loaf-android:17.3.3/|70015|29465|197.210.76.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.77.126|/loaf-android:17.3.3/|70015|29465|197.210.77.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.77.87|/loaf-android:17.3.3/|70015|29465|197.210.77.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
+197.210.79.39|/loaf-android:17.3.3/|70015|29465|197.210.79.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.8.84|/loaf-android:17.3.3/|70015|29465|197.210.8.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.211.58.69|/loaf-android:17.3.3/|70015|37148|197.211.58.0/24|NG|afrinic|2012-12-21|globacom-as, NG
 197.239.4.151|/loaf-android:17.3.3/|70015|37075|197.239.4.0/24|UG|afrinic|2012-11-06|ZAINUGAS, UG
@@ -232,13 +232,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.219.214.158|/MooncoinCore:0.17.1/|70017|31148|46.219.214.0/24|UA|ripencc|2011-01-19|FREENET_LLC, UA
 46.23.35.70|/Mooncoin:0.13.9.1/|70016|24651|46.23.32.0/20|LV|ripencc|2010-12-02|LVBALTICOM-AS, LV
 47.29.63.21|/loaf-android:17.3.3/|70015|55836|47.29.0.0/17|IN|apnic|1989-01-06|RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
-49.144.111.19|/loaf-android:17.3.3/|70015|9299|49.144.96.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.144.173.49|/loaf-android:17.3.3/|70015|9299|49.144.160.0/20|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.145.113.200|/loaf-android:17.3.3/|70015|9299|49.145.112.0/20|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.145.167.105|/loaf-android:17.3.3/|70015|9299|49.145.160.0/20|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.145.36.146|/loaf-android:17.3.3/|70015|9299|49.145.32.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.145.40.238|/loaf-android:17.3.3/|70015|9299|49.145.32.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
-49.145.43.25|/loaf-android:17.3.3/|70015|9299|49.145.32.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.148.159.76|/loaf-android:17.3.3/|70015|9299|49.148.128.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.149.53.50|/loaf-android:17.3.3/|70015|9299|49.149.32.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.149.72.206|/loaf-android:17.3.3/|70015|9299|49.149.64.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
@@ -279,6 +277,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.46.18.218|/MooncoinCore:0.17.1/|70017|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 78.69.175.244|/loaf-android:17.3.3/|70015|3301|78.64.0.0/12|SE|ripencc|2007-03-09|TELIANET-SWEDEN Telia Company, SE
 79.112.112.169|/loaf-android:17.3.3/|70015|8708|79.112.0.0/14|RO|ripencc|2007-05-29|RCS-RDS 73-75 Dr. Staicovici, RO
+79.116.67.44|/loaf-android:17.3.3/|70015|57269|79.116.0.0/16|RO|ripencc|2007-05-29|DIGISPAINTELECOM, ES
 79.116.69.44|/loaf-android:17.3.3/|70015|57269|79.116.0.0/16|RO|ripencc|2007-05-29|DIGISPAINTELECOM, ES
 79.22.206.28|/loaf-android:17.3.3/|70015|3269|79.22.0.0/15|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
 80.148.37.101|/Mooncoin:0.13.9/|70016|3320|80.144.0.0/13|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
