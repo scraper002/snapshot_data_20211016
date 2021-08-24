@@ -42,8 +42,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.172.12.250|/eMark:1.6.1.2/|60012|197023|46.172.12.0/22|RU|ripencc|2011-02-04|ASCOMTELTV MTS Belgorod branch, RU
 46.232.249.107|/eMark:1.6.1/|60012|197540|46.232.248.0/22|DE|ripencc|2018-06-15|NETCUP-AS netcup GmbH, DE
 47.156.120.31|/eMark:1.6.1.2/|60012|5650|47.156.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
+5.159.24.63|/eMark:1.5.1/|60011|9136|5.159.24.0/21|DE|ripencc|2012-07-27|WOBCOM, DE
 5.159.27.110|/eMark:1.5.1/|60011|9136|5.159.24.0/21|DE|ripencc|2012-07-27|WOBCOM, DE
-5.159.29.225|/eMark:1.5.1/|60011|9136|5.159.24.0/21|DE|ripencc|2012-07-27|WOBCOM, DE
 5.9.141.86|/eMark:1.5.0/|60011|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 50.66.92.99|/eMark:1.6.1.2/|60012|6327|50.66.92.0/22|CA|arin|2010-10-28|SHAW, CA
 51.6.97.11|/eMark:1.5.0/|60011|6871|51.6.0.0/15|GB|ripencc|1993-09-01|PLUSNET UK Internet Service Provider, GB
@@ -59,7 +59,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.35.253.203|/eMark:1.6.1.2/|60012|8422|78.34.0.0/15|DE|ripencc|2007-03-08|NETCOLOGNE, DE
 79.203.99.198|/eMark:1.5.0/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.208.77.11|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-79.211.174.173|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.226.201.253|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.120.115.122|/eMark:1.5.1/|60011|8447|80.120.0.0/14|AT|ripencc|2001-09-12|A1TELEKOM-AT A1 Telekom Austria AG, AT
 80.143.198.176|/eMark:1.5.1/|60011|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
@@ -76,6 +75,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.19.25.38|/eMark:1.6.1/|60012|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
 87.128.105.199|/eMark:1.5.1/|60011|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.129.53.98|/eMark:1.5.1/|60011|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
+87.141.123.231|/eMark:1.5.1/|60011|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.2.112.139|/eMark:1.6.1.2/|60012|3269|87.2.0.0/16|IT|ripencc|2005-07-13|ASN-IBSNAZ, IT
 87.211.227.205|/eMark:1.5.1/|60011|13127|87.211.0.0/16|NL|ripencc|2005-06-02|T-MOBILE AS for the Trans-European T-Mobile IP Transport backbone, NL
 88.126.202.24|/eMark:1.6.1.2/|60012|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
@@ -85,9 +85,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.14.187.141|/eMark:1.5.1/|60011|6805|89.14.0.0/16|DE|ripencc|2006-07-19|TDDE-ASN1, DE
 89.163.143.10|/eMark:1.6.1.2/|60012|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 91.20.214.207|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
-91.22.50.14|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.41.130.227|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
-92.196.194.70|/eMark:1.6.1.2/|60012|20676|92.192.0.0/13|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 92.200.72.213|/eMark:1.6.1.2/|60012|20676|92.200.0.0/15|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 93.197.228.218|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.226.112.252|/eMark:1.5.1/|60011|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
