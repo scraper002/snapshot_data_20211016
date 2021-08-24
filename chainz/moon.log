@@ -26,10 +26,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.198.97.63|/loaf-android:17.3.3/|70015|4775|112.198.97.0/24|PH|apnic|2009-02-12|GLOBE-TELECOM-AS Globe Telecoms, PH
 113.210.108.60|/MooncoinCore:0.17.1/|70017|9534|113.210.104.0/21|MY|apnic|2008-12-03|MAXIS-AS1-AP Binariang Berhad, MY
 115.164.83.215|/loaf-android:17.3.3/|70015|4818|115.164.0.0/16|MY|apnic|2008-08-22|DIGIIX-AP DiGi Telecommunications Sdn. Bhd., MY
+116.58.205.22|/loaf-android:17.3.3/|70015|45245|116.58.205.0/24|BD|apnic|2009-01-15|BANGLALINK-AS Banglalink Digital Communications Ltd, BD
 117.203.113.174|/loaf-android:17.3.3/|70015|9829|117.203.112.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
 117.220.56.68|/loaf-android:17.3.3/|70015|9829|117.220.56.0/21|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
 119.160.58.134|/loaf-android:17.3.3/|70015|45669|119.160.58.0/24|PK|apnic|2008-02-19|MOBILINK-AS-PK PMCL LDI IP TRANSIT, PK
 119.71.94.225|/loaf-android:17.3.3/|70015|17858|119.68.0.0/14|KR|apnic|2008-01-15|POWERVIS-AS-KR LG POWERCOMM, KR
+120.28.234.78|/loaf-android:17.3.3/|70015|132199|120.28.224.0/20|PH|apnic|2008-03-13|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 120.29.110.174|/loaf-android:17.3.3/|70015|17639|120.29.108.0/22|PH|apnic|2011-01-31|CONVERGE-AS Converge ICT Solutions Inc., PH
 120.29.86.86|/loaf-android:17.3.3/|70015|17639|120.29.86.0/24|PH|apnic|2011-01-31|CONVERGE-AS Converge ICT Solutions Inc., PH
 120.78.65.86|/MooncoinCore:0.17.1/|70017|37963|120.78.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -49,7 +51,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.90.72|/MooncoinCore:0.17.1/|70017|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.23.228.90|/MooncoinCore:0.17.1/|70017|5645|135.23.0.0/16|CA|arin|2013-05-09|TEKSAVVY, CA
 136.158.0.56|/loaf-android:17.3.3/|70015|17639|136.158.0.0/22|PH|apnic|2004-04-14|CONVERGE-AS Converge ICT Solutions Inc., PH
-136.158.33.239|/loaf-android:17.3.3/|70015|17639|136.158.32.0/22|PH|apnic|2004-04-14|CONVERGE-AS Converge ICT Solutions Inc., PH
 136.158.7.245|/loaf-android:17.3.3/|70015|17639|136.158.7.0/24|PH|apnic|2004-04-14|CONVERGE-AS Converge ICT Solutions Inc., PH
 138.75.143.175|/Mooncoin:0.13.9/|70016|4773|138.75.128.0/18|SG|apnic|1990-03-02|MOBILEONELTD-AS-AP MobileOne Ltd. MobileInternet Service Provider Singapore, SG
 14.249.162.216|/MooncoinCore:0.17.1/|70017|45899|14.249.160.0/20|VN|apnic|2010-08-16|VNPT-AS-VN VNPT Corp, VN
@@ -136,7 +137,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 223.72.56.182|/MooncoinCore:0.17.1/|70017|56048|223.72.0.0/16|CN|apnic|2010-07-01|CMNET-BEIJING-AP China Mobile Communicaitons Corporation, CN
 24.16.96.15|/MooncoinCore:0.17.1/|70017|7922|24.16.0.0/13|US|arin|2003-10-06|COMCAST-7922, US
 24.245.99.77|/Mooncoin:0.13.9/|70016|11776|24.245.96.0/22|US|arin|2008-01-04|ATLANTICBB-JOHNSTOWN, US
-27.255.215.76|/loaf-android:17.3.3/|70015|17917|27.255.212.0/22|IN|apnic|2010-06-17|QTLTELECOM-AS-AP Quadrant Televentures Limited, IN
 27.3.10.145|/MooncoinCore:0.17.1/|70017|45543|27.3.0.0/20|VN|apnic|2010-03-11|SCTV-AS-VN SaiGon Tourist cable Televition Company, VN
 3.97.140.225|/MooncoinCore:0.17.1/|70017|16509|3.96.0.0/15|US|arin|2017-12-20|AMAZON-02, US
 31.142.166.57|/loaf-android:17.3.3/|70015|16135|31.142.128.0/17|TR|ripencc|2011-03-04|TURKCELL-AS Turkcell A.S., TR
@@ -162,7 +162,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 49.150.65.72|/loaf-android:17.3.3/|70015|9299|49.150.64.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 5.45.105.66|/MooncoinCore:0.17.1/|70017|197540|5.45.96.0/20|DE|ripencc|2012-05-24|NETCUP-AS netcup GmbH, DE
 50.220.121.211|/MooncoinCore:0.17.1/|70017|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
-51.15.198.200|/loaf-android:17.3.3/|70015|12876|51.15.0.0/16|FR|ripencc|1993-09-01|Online SAS, FR
 51.38.57.53|/MooncoinCore:0.17.1/|70017|16276|51.38.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 54.38.18.241|/MooncoinCore:0.17.1/|70017|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 62.103.220.155|/MooncoinCore:0.17.1/|70017|6799|62.103.0.0/16|GR|ripencc|2000-11-09|OTENET-GR Athens - Greece, GR
