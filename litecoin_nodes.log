@@ -62,7 +62,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.72.169|9333|/LitecoinCore:0.18.1/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.179|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
-118.163.74.161|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 119.45.176.244|9333|/LitecoinCore:0.18.1/|45090|119.45.176.0/20|CN|apnic|2008-01-03|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 120.77.249.96|9333|/LitecoinCore:0.18.1/|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -598,7 +597,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 27.33.16.188|9333|/LitecoinCore:0.18.1/|7545|27.33.16.0/24|AU|apnic|2010-03-18|TPG-INTERNET-AP TPG Telecom Limited, AU
 2800:810:487:870e:a00:27ff:fe7a:cb6a|9333|/LitecoinCore:0.18.1/|27747|2800:810::/32|AR|lacnic|2014-06-13|Telecentro S.A., AR
 2804:1330:3e3:c500:f056:3f1e:a06c:55e9|37371|/B2CCoinCore:0.16.3/|263520|2804:1330::/32|BR|lacnic|2014-01-10|VOA TELECOMUNICACOES EIRELI - EPP, BR
-2804:14c:5785:80de:9d87:42f8:aae:190e|9333|/LitecoinCore:0.18.1/|28573|2804:14c:5785::/48|BR|lacnic|2012-02-10|CLARO S.A., BR
 2804:14c:65a7:809a:6c9d:f56a:cd85:d729|37371|/B2CCoinCore:0.16.3/|28573|2804:14c:65a7::/48|BR|lacnic|2012-02-10|CLARO S.A., BR
 2804:14c:bbad:4013::1000|9333|/LitecoinCore:0.18.1/|28573|2804:14c:bbad::/48|BR|lacnic|2012-02-10|CLARO S.A., BR
 2804:14d:1683:8362:a814:44ad:a596:e2bb|37371|/B2CCoinCore:0.16.3/|28573|2804:14d:1683::/48|BR|lacnic|2012-02-10|CLARO S.A., BR
@@ -710,10 +708,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:1bde::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2449::2|13853|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2988::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:fd8::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3a:1060::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:3a:2913::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:1f86::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:5809::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:19ec::4204|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -986,6 +982,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 52.77.241.207|9333|/LitecoinCore:0.17.1/|16509|52.77.0.0/16|US|arin|1991-12-19|AMAZON-02, US
 52.77.254.217|22745|/MindexcoinCore:0.18.1/|16509|52.77.0.0/16|US|arin|1991-12-19|AMAZON-02, US
 52.9.94.150|9333|/LitecoinCore:0.16.0/|16509|52.9.0.0/16|US|arin|1991-12-19|AMAZON-02, US
+54.151.82.59|9333|/LitecoinCore:0.18.1/|16509|54.151.0.0/17|US|arin|2014-10-23|AMAZON-02, US
 54.157.91.178|9333|/LitecoinCore:0.16.3/|14618|54.156.0.0/14|US|arin|2014-10-23|AMAZON-AES, US
 54.168.108.102|9333|/LitecoinCore:0.17.1/|16509|54.168.0.0/16|US|arin|2014-10-23|AMAZON-02, US
 54.169.209.7|9333|/LitecoinCore:0.18.1/|16509|54.169.128.0/17|US|arin|2014-10-23|AMAZON-02, US
