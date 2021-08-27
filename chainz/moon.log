@@ -11,6 +11,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.105.40.15|/MooncoinCore:0.17.1/|70017|12570|109.105.32.0/19|CZ|ripencc|2009-09-14|ITSELF Network and internet service provider., CZ
 109.212.109.22|/MooncoinCore:0.17.1/|70017|3215|109.212.0.0/16|FR|ripencc|2009-10-07|France Telecom - Orange, FR
 110.54.193.2|/loaf-android:17.3.3/|70015|132199|110.54.193.0/24|PH|apnic|2009-03-25|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
+110.54.229.12|/loaf-android:17.3.3/|70015|4775|110.54.229.0/24|PH|apnic|2009-03-25|GLOBE-TELECOM-AS Globe Telecoms, PH
 115.164.61.79|/loaf-android:17.3.3/|70015|4818|115.164.0.0/16|MY|apnic|2008-08-22|DIGIIX-AP DiGi Telecommunications Sdn. Bhd., MY
 122.59.3.47|/MooncoinCore:0.17.1/|70017|4771|122.59.0.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
 125.168.102.65|/Mooncoin:0.13.9/|70016|9443|125.168.0.0/16|AU|apnic|2005-09-08|VOCUS-RETAIL-AU Vocus Retail, AU
@@ -31,7 +32,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 166.137.98.116|/MooncoinCore:0.17.1/|70017|20057|166.137.96.0/22|US|arin|1993-07-09|ATT-MOBILITY-LLC-AS20057, US
 167.86.85.58|/Mooncoin:0.13.9/|70016|51167|167.86.84.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 170.254.194.188|/MooncoinCore:0.17.1/|70017|265111|170.254.194.0/23|BR|lacnic|2016-07-22|BR Automacao e Consultoria Ltda, BR
-170.82.50.59|/Mooncoin:0.13.9/|70016|266438|170.82.48.0/22|BR|lacnic|2016-12-20|GNS FIBRA, BR
 171.250.162.95|/loaf-android:17.3.3/|70015|7552|171.250.162.0/24|VN|apnic|2011-03-04|VIETEL-AS-AP Viettel Group, VN
 174.86.164.139|/MooncoinCore:0.17.1/|70017|20115|174.86.0.0/16|US|arin|2009-02-23|CHARTER-20115, US
 175.176.74.113|/loaf-android:17.3.3/|70015|10139|175.176.74.0/24|PH|apnic|2010-01-19|SMARTBRO-PH-AP Smart Broadband, Inc., PH
@@ -40,12 +40,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 18.218.28.213|/Mooncoin:0.13.9/|70016|16509|18.216.0.0/14|US|arin|2019-10-07|AMAZON-02, US
 180.190.169.171|/loaf-android:17.3.3/|70015|132199|180.190.168.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 185.82.203.241|/MooncoinCore:0.17.1/|70017|60117|185.82.203.0/24|AE|ripencc|2014-12-31|HS, AE
-188.163.73.85|/MooncoinCore:0.17.1/|70017|15895|188.163.0.0/17|UA|ripencc|2009-05-22|KSNET-AS, UA
 188.172.220.72|/MooncoinCore:0.17.1/|70017|42473|188.172.220.0/24|AT|ripencc|2009-08-03|AS-ANEXIA ANEXIA Internetdienstleistungs GmbH, AT
 188.241.177.119|/MooncoinCore:0.17.1/|70017|9009|188.241.177.0/24|RO|ripencc|2009-06-23|M247, GB
 192.222.229.98|/MooncoinCore:0.17.1/|70017|1403|192.222.224.0/19|CA|arin|2012-12-20|EBOX, CA
 194.163.157.149|/Mooncoin:0.13.9/|70016|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
 197.210.70.141|/loaf-android:17.3.3/|70015|29465|197.210.70.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
+202.122.227.46|/Mooncoin:0.13.9/|70016|9622|202.122.224.0/20|JP|apnic|2003-11-06|KCT Kurashiki Cable TV, JP
 202.179.73.114|/loaf-android:17.3.3/|70015|138296|202.179.73.0/24|IN|apnic|2007-02-28|STARNET7-AS Juweriyah Networks Private Limited, IN
 209.182.239.169|/MooncoinCore:0.17.1/|70017|29802|209.182.239.0/24|US|arin|2017-04-25|HVC-AS, US
 212.102.50.87|/Mooncoin:0.13.9/|70016|60068|212.102.50.0/23|GB|ripencc|1999-06-10|CDN77 ^_^, GB
@@ -99,4 +99,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.200.102.88|/MooncoinCore:0.17.1/|70017|20676|92.200.0.0/15|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 94.23.2.215|/Mooncoin:0.13.9/|70016|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
 94.61.125.136|/MooncoinCore:0.17.1/|70017|12353|94.60.0.0/14|PT|ripencc|2008-06-23|VODAFONE-PT Vodafone Portugal, PT
+94.61.74.110|/MooncoinCore:0.17.1/|70017|12353|94.60.0.0/14|PT|ripencc|2008-06-23|VODAFONE-PT Vodafone Portugal, PT
 99.155.224.126|/Mooncoin:0.13.9/|70016|7018|99.152.0.0/14|US|arin|2007-08-29|ATT-INTERNET4, US
