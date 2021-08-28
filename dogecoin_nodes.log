@@ -76,6 +76,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 124.11.169.110|22556|/Shibetoshi:1.14.3/|9924|124.11.128.0/17|TW|apnic|2005-11-18|TFN-TW Taiwan Fixed Network, Telco and Network Service Provider., TW
 124.169.246.164|22556|/Shibetoshi:1.14.4/|7545|124.169.224.0/19|AU|apnic|2007-06-27|TPG-INTERNET-AP TPG Telecom Limited, AU
 124.183.101.117|22556|/Shibetoshi:1.14.3/|1221|124.176.0.0/12|AU|apnic|2006-05-12|ASN-TELSTRA Telstra Corporation Ltd, AU
+125.111.147.173|22556|/Shibetoshi:1.14.3/|4134|125.104.0.0/13|CN|apnic|2005-08-26|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 128.30.30.25|22556|/Shibetoshi:1.14.4/|3|128.30.0.0/15|US|arin|1983-05-27|MIT-GATEWAYS, US
 128.52.143.185|22556|/Shibetoshi:1.14.4/|3|128.52.0.0/16|US|arin|1984-05-31|MIT-GATEWAYS, US
 13.212.178.188|22556|/Shibetoshi:1.14.3/|16509|13.212.0.0/15|US|arin|2019-10-01|AMAZON-02, US
@@ -212,6 +213,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 168.119.74.186|22556|/Shibetoshi:1.14.3/|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 170.103.26.180|22556|/Shibetoshi:1.14.3/|12083|170.103.0.0/18|US|arin|2020-11-24|WOW-INTERNET, US
 171.97.235.24|22556|/Shibetoshi:1.14.2/|17552|171.97.192.0/18|TH|apnic|2011-03-07|TRUEONLINE-AS-AP True Online, TH
+172.1.224.179|22556|/Shibetoshi:1.14.3/|7018|172.0.0.0/12|US|arin|2012-08-20|ATT-INTERNET4, US
 172.101.150.139|22556|/Shibetoshi:1.14.4/|11351|172.100.0.0/15|US|arin|2015-06-15|TWC-11351-NORTHEAST, US
 172.101.62.144|22556|/Shibetoshi:1.14.2/|11351|172.100.0.0/15|US|arin|2015-06-15|TWC-11351-NORTHEAST, US
 172.103.24.134|22556|/Shibetoshi:1.14.4/|11232|172.103.0.0/19|US|arin|2015-06-22|MIDCO-NET, US
@@ -246,6 +248,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.27.167.58|22556|/Shibetoshi:1.14.4/|30036|173.27.164.0/22|US|arin|2008-05-19|MEDIACOM-ENTERPRISE-BUSINESS, US
 173.54.10.179|22556|/Shibetoshi:1.14.2/|701|173.54.0.0/16|US|arin|2008-10-09|UUNET, US
 173.56.224.247|22556|/Shibetoshi:1.14.4/|701|173.56.0.0/16|US|arin|2008-10-09|UUNET, US
+173.62.195.29|22556|/Shibetoshi:1.14.3/|701|173.62.128.0/17|US|arin|2008-10-09|UUNET, US
 173.68.147.213|22556|/Shibetoshi:1.14.3/|701|173.68.0.0/16|US|arin|2008-08-11|UUNET, US
 173.70.158.124|22556|/Shibetoshi:1.14.3/|701|173.70.0.0/16|US|arin|2008-08-11|UUNET, US
 173.8.193.67|22556|/Shibetoshi:1.14.3/|7922|173.8.0.0/13|US|arin|2008-05-05|COMCAST-7922, US
@@ -265,7 +268,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.23.22.222|22556|/Shibetoshi:1.14.3/|3292|176.20.0.0/14|DK|ripencc|2011-05-19|TDC TDC AS, DK
 176.249.27.144|22556|/Shibetoshi:1.14.3/|5607|176.248.0.0/13|GB|ripencc|2011-12-05|BSKYB-BROADBAND-AS, GB
 176.9.45.188|22556|/Shibetoshi:1.14.2/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
-176.9.48.253|22556|/Shibetoshi:1.14.2/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.53.70|22556|/Shibetoshi:1.14.3/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 176.9.63.112|22556|/Shibetoshi:1.14.3/|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 177.149.153.108|22556|/Shibetoshi:1.14.2/|26615|177.149.128.0/19|BR|lacnic|2012-03-21|TIM SA, BR
@@ -391,7 +393,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:b011:300e:38fc:c516:f9e8:f118:2fab|22556|/Shibetoshi:1.14.3/|3462|2001:b011:3000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:4007:17ac:8a2:5fdc:5877:5c57|22556|/Shibetoshi:1.14.3/|3462|2001:b011:4000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:4009:185b:75bc:326b:fdb9:6ed9|22556|/Shibetoshi:1.14.3/|3462|2001:b011:4000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
-2001:b011:6:3e67:2505:8214:9f9c:d53e|22556|/Shibetoshi:1.14.3/|3462|2001:b011::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:7000:4c2a:c8b0:5de9:41d2:9b70|22556|/Shibetoshi:1.14.3/|3462|2001:b011:7000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:700c:94b:78f3:a963:c07f:803e|22556|/Shibetoshi:1.14.3/|3462|2001:b011:7000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:7c01:166c:889e:fd05:f34b:ab20|22556|/Shibetoshi:1.14.4/|3462|2001:b011:7c00::/38|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
@@ -460,6 +461,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.115.116.200|22556|/Shibetoshi:1.10.0/|30900|217.115.112.0/20|IE|ripencc|2003-12-24|WEBWORLD-AS ta Web World Ireland, IE
 217.160.247.222|22556|/Shibetoshi:1.14.3/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.23.1.4|22555|/Shibetoshi:1.14.3/|49981|217.23.0.0/20|NL|ripencc|2009-02-04|WORLDSTREAM, NL
+217.65.8.75|22556|/Shibetoshi:1.14.2/|3175|217.65.8.0/24|RU|ripencc|2005-10-03|CITYTELECOM-MSK, RU
 218.146.51.43|22556|/Shibetoshi:1.14.3(www.ali-bit.com)/|4766|218.144.0.0/13|KR|apnic|2001-09-24|KIXS-AS-KR Korea Telecom, KR
 218.200.3.26|22556|/Shibetoshi:1.14.3/|9808|218.200.3.0/24|CN|apnic|2001-11-06|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 218.250.190.69|22556|/Shibetoshi:1.14.2/|4760|218.250.160.0/19|HK|apnic|2004-07-20|HKTIMS-AP HKT Limited, HK
@@ -523,7 +525,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2600:3c00::f03c:92ff:fe0b:284d|22556|/Shibetoshi:1.14.4/|63949|2600:3c00::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
 2600:3c01::f03c:92ff:fe0b:baf2|22556|/Shibetoshi:1.14.4/|63949|2600:3c01::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
 2600:3c03::f03c:91ff:fe59:a731|22445|/Pandoshi:3.0.7.2/|63949|2600:3c03::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
-2600:6c50:4000:27cd:256f:a5ee:cd76:89ad|22556|/Shibetoshi:1.14.3/|20115|2600:6c50::/32|US|arin|2012-04-16|CHARTER-20115, US
 2600:6c55:4a00:1c:c11c:9f20:5ecf:4486|22556|/Shibetoshi:1.14.2/|20115|2600:6c55::/32|US|arin|2012-04-16|CHARTER-20115, US
 2601:200:4103:be90::b3ab|22556|/Shibetoshi:1.14.3/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
 2601:280:5b7f:a470::ef63|22556|/Shibetoshi:1.14.0/|7922|2601::/20|US|arin|2011-06-03|COMCAST-7922, US
@@ -616,6 +617,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:2e81::2|22556|/Shibetoshi:1.14.4/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:fd8::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3a:1060::2|22556|/Shibetoshi:1.14.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:3a:169d::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3a:2913::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:1f86::2|22556|/Shibetoshi:1.14.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:4fe9::2|22556|/Shibetoshi:1.14.3(DLu6ZaDeWTz8AvGF15bhwwmpbtj7ELjAQc)/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -686,8 +688,10 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.48.117.214|22556|/Shibetoshi:1.14.3/|60781|37.48.64.0/18|NL|ripencc|2012-01-24|LEASEWEB-NL-AMS-01 Netherlands, NL
 37.48.87.181|22556|/Shibetoshi:1.14.3/|60781|37.48.64.0/18|NL|ripencc|2012-01-24|LEASEWEB-NL-AMS-01 Netherlands, NL
 37.59.42.54|22556|/Shibetoshi:1.14.3/|16276|37.59.0.0/16|FR|ripencc|2012-01-16|OVH, FR
+38.147.35.88|22556|/Shibetoshi:1.14.3/|40285|38.147.35.0/24|US|arin|1991-04-16|NORTHLAND-CABLE, US
 38.65.119.26|22556|/Shibetoshi:1.14.2/|55140|38.65.119.0/24|US|arin|1991-04-16|SHO-ME-TECHNOLOGIES, US
 38.91.61.50|22556|/Shibetoshi:1.14.3/|398371|38.91.61.0/24|US|arin|1991-04-16|ORANGE-COUNTY-BROADBAND-AUTHORITY, US
+39.106.194.12|22556|/Shibetoshi:1.14.2/|37963|39.106.0.0/15|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 39.97.160.158|30002|/Shibetoshi:1.14.2/|37963|39.96.0.0/14|CN|apnic|2011-04-05|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 40.71.41.208|22556|/Shibetoshi:1.14.3/|8075|40.68.0.0/14|US|arin|2015-02-23|MICROSOFT-CORP-MSN-AS-BLOCK, US
 43.225.60.30|22556|/Shibetoshi:1.14.4/|135352|43.225.60.0/24|AU|apnic|2014-12-02|TSGNLCO-AS-AP The Signal Co. Wireless, AU
@@ -715,7 +719,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.28.107.182|22556|/Shibetoshi:1.14.0/|197019|46.28.104.0/21|CZ|ripencc|2010-07-22|WEDOS, CZ
 46.38.239.24|22556|/Shibetoshi:1.14.3/|197540|46.38.224.0/20|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
 46.4.121.221|22556|/Shibetoshi:1.14.3/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
-46.45.104.23|22556|/Shibetoshi:1.14.3/|51484|46.45.64.0/18|PL|ripencc|2010-09-07|BLOKOWE, PL
 47.103.73.227|22556|/Shibetoshi:1.14.2/|37963|47.102.0.0/15|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.105.112.160|22335|/Shibetoshi:1.5.0/|37963|47.105.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.107.179.171|22335|/Shibetoshi:1.5.0/|37963|47.107.0.0/16|CN|apnic|1989-01-06|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -743,7 +746,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.14.106.125|22556|/Shibetoshi:1.14.3/|8708|5.12.0.0/14|RO|ripencc|2012-04-27|RCS-RDS 73-75 Dr. Staicovici, RO
 5.189.143.247|22556|/Shibetoshi:1.14.3/|51167|5.189.128.0/20|DE|ripencc|2012-08-09|CONTABO, DE
 5.39.95.186|22556|/Shibetoshi:1.14.3/|16276|5.39.0.0/17|FR|ripencc|2012-05-15|OVH, FR
-5.9.10.66|22556|/Shibetoshi:1.14.0/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.109.174|22556|/Shibetoshi:1.14.4/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.144.181|22556|/Shibetoshi:1.14.4/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.155.168|22556|/Shibetoshi:1.14.3/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
@@ -903,6 +905,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.154.116.61|22556|/Shibetoshi:1.14.4/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.163.133.124|22556|/Shibetoshi:1.14.3/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.168.22.226|22556|/Shibetoshi:1.14.4(DMuchWowzuqKHXiLiKfK7gYSuwt6iNNrNU)/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
+73.182.118.62|22556|/Shibetoshi:1.14.4/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.183.106.172|22556|/Shibetoshi:1.14.3/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.19.188.171|22556|/Shibetoshi:1.14.3/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.199.47.204|22556|/Shibetoshi:1.14.2/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
@@ -1001,6 +1004,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.0.96.166|22556|/Shibetoshi:1.14.3/|5089|86.0.0.0/16|GB|ripencc|2005-03-29|NTL, GB
 86.100.49.209|22556|/Shibetoshi:1.14.2/|39007|86.100.0.0/17|LT|ripencc|2005-05-23|BALTICUM-TV-AS, LT
 86.154.12.60|22556|/Shibetoshi:1.14.3/|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
+86.154.136.122|22556|/Shibetoshi:1.14.3/|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.16.123.147|22556|/Shibetoshi:1.14.3/|5089|86.16.0.0/14|GB|ripencc|2005-03-29|NTL, GB
 86.182.251.164|22556|/Shibetoshi:1.14.3/|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.4.38.34|22556|/Shibetoshi:1.14.3/|5089|86.4.0.0/16|GB|ripencc|2005-03-29|NTL, GB
@@ -1025,6 +1029,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.40.0.46|22556|/Shibetoshi:1.14.3/|62282|89.40.0.0/20|LT|ripencc|2005-11-29|RACKRAY UAB Rakrejus, LT
 90.146.201.153|22556|/Shibetoshi:1.14.4/|12605|90.146.128.0/17|AT|ripencc|2006-11-23|LIWEST-AT Linz, Austria, AT
 90.249.245.221|22556|/Shibetoshi:1.14.3/|5378|90.248.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
+90.27.196.132|22556|/Shibetoshi:1.14.3/|3215|90.27.128.0/17|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 90.50.60.94|22556|/Shibetoshi:1.5.1/|3215|90.50.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 90.83.166.234|22556|/Shibetoshi:1.14.3/|3215|90.83.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.122.105.234|22556|/Shibetoshi:1.14.2/|12389|91.122.0.0/17|RU|ripencc|2006-09-22|ROSTELECOM-AS, RU
