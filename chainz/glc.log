@@ -17,10 +17,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.152.42.126|/GoldcoinCore:0.14.6/|70015|11878|107.152.42.0/24|US|arin|2013-12-03|TZULO, US
 110.136.229.134|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|110.136.224.0/21|ID|apnic|2009-04-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 110.137.100.172|/goldwallet:1.0.9/|70000|7713|110.137.100.0/22|ID|apnic|2009-04-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
+110.137.100.28|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|110.137.100.0/22|ID|apnic|2009-04-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 112.215.154.69|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|24203|112.215.154.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
 112.215.219.117|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|112.215.219.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
 112.215.219.94|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|24203|112.215.219.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
-112.215.240.169|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|112.215.240.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
 112.215.242.66|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|112.215.242.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
 112.215.243.196|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|112.215.243.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
 112.215.243.87|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|24203|112.215.243.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
@@ -52,7 +52,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.5.210.69|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.210.0/24|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.5.215.119|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|4761|114.5.215.0/24|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.5.219.67|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.219.0/24|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
-114.5.240.0|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|4761|114.5.240.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 115.84.237.105|/GoldcoinCore:0.14.8/|70015|9658|115.84.224.0/19|PH|apnic|2008-07-28|ETPI-IDS-AS-AP Eastern Telecoms Phils., Inc., PH
 115.84.237.111|/GoldcoinCore:0.14.8/|70015|9658|115.84.224.0/19|PH|apnic|2008-07-28|ETPI-IDS-AS-AP Eastern Telecoms Phils., Inc., PH
 116.14.47.144|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|9506|116.14.0.0/17|SG|apnic|2007-03-27|SINGTEL-FIBRE Singtel Fibre Broadband, SG
@@ -153,6 +152,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.3.7.207|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.3.0.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 185.158.178.9|/GoldcoinCore:0.14.5/|70015|202635|185.158.176.0/22|EE|ripencc|2016-07-06|SERVERFARM, EE
 185.52.0.211|/GoldcoinCore:0.14.8/|70015|198203|185.52.0.0/22|US|ripencc|2014-03-27|ASN-ROUTELABEL, NL
+187.246.227.210|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|13999|187.246.224.0/21|MX|lacnic|2012-03-16|Mega Cable, S.A. de C.V., MX
 188.25.96.62|/GoldcoinCore:0.14.5/|70015|8708|188.24.0.0/15|RO|ripencc|2009-02-11|RCS-RDS 73-75 Dr. Staicovici, RO
 190.96.1.19|/GoldcoinCore:0.14.8/|70015|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
 192.222.229.98|/GoldcoinCore:0.14.8/|70015|1403|192.222.224.0/19|CA|arin|2012-12-20|EBOX, CA
@@ -174,7 +174,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.25.241.224|/GoldcoinCore:0.14.8/|70015|39741|31.25.241.0/24|RU|ripencc|2011-03-10|DCE-AS, RU
 36.65.135.114|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|36.65.128.0/20|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 36.73.193.241|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|36.73.192.0/20|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
-36.73.35.1|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|36.73.32.0/22|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 36.74.182.83|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|36.74.176.0/20|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 36.74.233.64|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|36.74.224.0/20|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 36.75.65.253|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|36.75.64.0/22|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
