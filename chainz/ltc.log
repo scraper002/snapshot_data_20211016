@@ -45,6 +45,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.65.98.250|/btcwire:0.5.0/btc-crawl-go:1.0.0/|70015|14061|159.65.96.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 161.35.53.66|/B2CCoinCore:0.16.3/|70015|14061|161.35.48.0/20|US|arin|2019-07-30|DIGITALOCEAN-ASN, US
+162.212.140.140|/LitecoinCore:0.18.1/|70015|14749|162.212.136.0/21|US|arin|2013-05-21|RUSSEPB, US
 162.62.21.32|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 162.62.21.41|/LitecoinCore:0.17.1/|70015|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 165.227.144.131|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|165.227.144.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
@@ -142,7 +143,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.21.43.142|/LitecoinCore:0.16.3/|70015|7922|24.16.0.0/13|US|arin|2003-10-06|COMCAST-7922, US
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.140.255.188|/EuliumCore:0.16.3/|70015|16509|3.136.0.0/13|US|arin|2018-06-25|AMAZON-02, US
-31.18.22.208|/BitcoinKit:0.1.0/|70015|3209|31.16.0.0/14|DE|ripencc|2011-03-24|VODANET International IP-Backbone of Vodafone, DE
 34.233.95.55|/bitcore:8.25.12/|70011|14618|34.224.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 35.162.126.176|/LitecoinCore:0.17.1/|70015|16509|35.160.0.0/13|US|arin|2016-08-09|AMAZON-02, US
 35.188.143.174|/LitecoinCore:0.18.1/|70015|15169|35.188.128.0/19|US|arin|2016-10-11|GOOGLE, US
@@ -191,6 +191,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.20.79.251|/NBitcoin:5.0.49/|70012|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
 79.208.223.64|/WalletKit:0.1.0/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.225.191.237|/NBitcoin:5.0.49/|70012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+80.108.92.218|/LitecoinCore:0.18.1/|70015|8412|80.108.0.0/16|AT|ripencc|2001-07-19|TMA Magenta Telekom, AT
 83.248.17.31|/BitcoinKit:0.1.0/|70015|39651|83.248.0.0/13|SE|ripencc|2004-03-04|TELE2-FIXED-SWEDEN, SE
 83.251.76.14|/LitecoinCore:0.18.1/|70015|39651|83.248.0.0/13|SE|ripencc|2004-03-04|TELE2-FIXED-SWEDEN, SE
 85.230.81.35|/LitecoinCore:0.18.1/|70015|2119|85.224.0.0/13|SE|ripencc|2004-12-17|TELENOR-NEXTEL Telenor Norge AS, NO
@@ -201,7 +202,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.130.49.157|/WalletKit:0.1.0/|70015|8881|88.130.49.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 88.214.57.143|/LitecoinCore:0.17.1/|70015|30823|88.214.57.0/24|DE|ripencc|2018-11-20|COMBAHTON combahton GmbH, DE
 88.80.187.187|/litecoin-seeder:0.01/|70002|63949|88.80.184.0/21|US|ripencc|2005-11-30|LINODE-AP Linode, LLC, US
-89.45.224.248|/BitcoinKit:0.1.0/|70015|9009|89.45.224.0/24|RO|ripencc|2005-11-29|M247, GB
 89.72.4.244|/NBitcoin:5.0.49/|70012|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 91.141.233.213|/LitecoinCore:0.18.1/|70015|31615|91.141.128.0/17|NL|ripencc|2007-11-06|TMO-NL-AS, NL
 91.193.181.3|/LitecoinCore:0.16.3/|70015|12722|91.193.180.0/22|GB|ripencc|2018-04-18|RECONN, RU
