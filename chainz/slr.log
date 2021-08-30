@@ -6,7 +6,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 105.184.246.33|/Satoshi:2.1.8/|70005|37457|105.184.0.0/16|ZA|afrinic|2013-11-18|Telkom-Internet, ZA
 109.129.229.166|/Satoshi:2.1.8/|70005|5432|109.128.0.0/14|BE|ripencc|2009-07-27|PROXIMUS-ISP-AS, BE
 109.134.141.220|/Satoshi:2.1.8/|70005|5432|109.132.0.0/14|BE|ripencc|2009-07-27|PROXIMUS-ISP-AS, BE
-109.207.192.65|/Satoshi:2.1.8/|70005|43139|109.207.192.0/20|UA|ripencc|2010-03-08|MAXIMUMA-AS, UA
 116.109.70.104|/Satoshi:2.1.8/|70005|7552|116.109.64.0/21|VN|apnic|2007-05-18|VIETEL-AS-AP Viettel Group, VN
 118.209.119.213|/Satoshi:2.1.8/|70005|7545|118.209.96.0/19|AU|apnic|2008-10-13|TPG-INTERNET-AP TPG Telecom Limited, AU
 120.159.208.57|/Satoshi:2.1.8/|70005|135887|120.159.208.0/23|AU|apnic|2009-04-20|TELSTRA-BELONG-AP Belong Telstra Corporation, AU
@@ -55,6 +54,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.178.27.145|/Satoshi:2.1.8/|70005|55391|217.178.0.0/18|JP|apnic|2001-03-02|MF-NATIVE6-E INTERNET MULTIFEED CO., JP
 24.132.36.190|/Satoshi:2.1.8/|70005|33915|24.132.0.0/17|NL|ripencc|1997-10-13|TNF-AS, NL
 24.144.188.124|/Satoshi:2.1.8/|70005|27364|24.144.160.0/19|US|arin|2003-11-11|ACS-INTERNET, US
+31.150.118.147|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
 37.120.199.237|/Satoshi:2.1.8/|70005|9009|37.120.199.0/24|RO|ripencc|2012-02-13|M247, GB
 45.146.57.237|/Satoshi:2.1.8/|70005|25596|45.146.56.0/22|NL|ripencc|2019-08-27|CAMBRIUM-AS, NL
 45.158.172.249|/Satoshi:2.1.8/|70005|20810|45.158.172.0/22|DE|ripencc|2019-09-30|NETCOM-KASSEL Netcom Kassel, DE
@@ -76,7 +76,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.251.46.67|/Satoshi:2.1.8/|70005|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 74.96.119.113|/Satoshi:2.1.8/|70005|701|74.96.0.0/16|US|arin|2009-01-26|UUNET, US
 75.104.50.142|/Satoshi:2.1.8/|70005|7155|75.104.50.0/24|US|arin|2006-07-20|VIASAT-SP-BACKBONE, US
-75.71.5.12|/Satoshi:2.1.8/|70005|7922|75.64.0.0/13|US|arin|2006-07-07|COMCAST-7922, US
 76.100.112.51|/Satoshi:2.1.8/|70005|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
 77.20.248.248|/Satoshi:2.1.8/|70005|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
 77.53.82.229|/Satoshi:2.1.8/|70005|45011|77.53.0.0/16|SE|ripencc|2007-01-24|SE-A3 www.a3.se, SE
@@ -87,7 +86,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.132.235.175|/Satoshi:2.1.8/|70005|9031|79.132.224.0/20|BE|ripencc|2008-10-01|EDPNET, BE
 79.132.248.17|/Satoshi:2.1.8/|70005|9031|79.132.248.0/22|BE|ripencc|2008-10-01|EDPNET, BE
 79.143.35.54|/Satoshi:2.1.8/|70005|24945|79.143.32.0/20|UA|ripencc|2007-11-20|ASN-VNTP, UA
-79.195.229.103|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.121.154.4|/Satoshi:2.1.8/|70005|8447|80.120.0.0/14|AT|ripencc|2001-09-12|A1TELEKOM-AT A1 Telekom Austria AG, AT
 80.131.122.244|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.147.129.194|/Satoshi:2.1.8/|70005|3320|80.144.0.0/13|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
@@ -125,7 +123,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.106.184.165|/Satoshi:2.1.8/|70005|198930|91.106.128.0/18|DE|ripencc|2012-06-21|DE-VSM-ASN Peering, DE
 91.180.97.95|/Satoshi:2.1.8/|70005|5432|91.180.0.0/14|BE|ripencc|2006-09-04|PROXIMUS-ISP-AS, BE
 91.63.175.248|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
-91.7.99.235|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.116.243.102|/Satoshi:2.1.8/|70005|8881|92.116.240.0/20|DE|ripencc|2007-10-25|VERSATEL, DE
 92.27.71.55|/Satoshi:2.1.8/|70005|13285|92.26.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
 93.200.91.118|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
