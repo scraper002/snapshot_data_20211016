@@ -95,6 +95,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 136.144.241.205|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/|20857|136.144.192.0/18|NL|ripencc|1989-08-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 136.243.250.139|8433|/Bitcoin Cash Node:23.0.0(EB32.0)/|24940|136.243.0.0/16|DE|ripencc|2004-04-14|HETZNER-AS, DE
 136.243.60.74|8335|/Bitcoin Cash Node:23.0.0(EB32.0)/|24940|136.243.0.0/16|DE|ripencc|2004-04-14|HETZNER-AS, DE
+137.117.209.128|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/|8075|137.117.0.0/16|US|arin|2011-08-02|MICROSOFT-CORP-MSN-AS-BLOCK, US
 138.197.147.27|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/|14061|138.197.144.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
 138.197.148.170|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/|14061|138.197.144.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
 138.197.149.75|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/|14061|138.197.144.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
@@ -858,7 +859,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.178.76.73|8800|/Bitcoin Cash Node:23.1.0(EB32.0)/|16276|51.178.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.178.76.85|8800|/Bitcoin Cash Node:23.1.0(EB32.0)/|16276|51.178.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.195.151.202|8333|/Bitcoin Cash Node:22.2.0(EB32.0)/|16276|51.195.0.0/16|FR|ripencc|1993-09-01|OVH, FR
-51.195.234.88|8335|/Bitcoin Cash Node:23.1.0(EB32.0)/|16276|51.195.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.195.7.112|8333|/bchd:0.18.1(EB32.0)/|16276|51.195.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.210.114.183|8800|/Bitcoin Cash Node:23.1.0(EB32.0)/|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.210.208.201|8800|/Bitcoin Cash Node:23.1.0(EB32.0)/|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -905,7 +905,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 61.124.206.124|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/|2510|61.124.0.0/16|JP|apnic|2000-09-29|INFOWEB FUJITSU LIMITED, JP
 61.18.151.78|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/|9908|61.18.144.0/20|HK|apnic|2000-12-13|HKCABLE2-HK-AP HK Cable TV Ltd, HK
 62.112.8.137|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/|49981|62.112.8.0/22|NL|ripencc|1997-05-02|WORLDSTREAM, NL
-62.171.183.244|8333|/Bitcoin ABC:0.23.4(EB32.0)/|51167|62.171.182.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.210.110.181|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/|12876|62.210.0.0/16|FR|ripencc|2000-10-26|Online SAS, FR
 62.210.124.230|8333|/Bitcoin Cash Node:23.1.0(EB32.0)/|12876|62.210.0.0/16|FR|ripencc|2000-10-26|Online SAS, FR
 62.83.10.150|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/|12430|62.83.0.0/16|ES|ripencc|2000-02-11|VODAFONE_ES, ES
@@ -972,6 +971,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.40.154.102|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/|3352|83.40.0.0/16|ES|ripencc|2003-12-02|TELEFONICA_DE_ESPANA, ES
 84.112.60.16|8222|/Bitcoin Cash Node:23.1.0(EB32.0)/|8412|84.112.0.0/15|AT|ripencc|2004-04-07|TMA Magenta Telekom, AT
 86.137.138.31|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
+87.65.120.65|8336|/Bitcoin Cash Node:23.0.0(EB32.0)/|5432|87.64.0.0/14|BE|ripencc|2005-05-19|PROXIMUS-ISP-AS, BE
 87.78.138.50|8333|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/|8422|87.78.0.0/15|DE|ripencc|2005-05-31|NETCOLOGNE, DE
 88.198.38.185|28333|/Bitcoin Cash Node:23.0.0(EB32.0)/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.198.39.205|28333|/Bitcoin Cash Node:23.0.0(EB32.0)/|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
@@ -990,8 +990,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.239.130.62|8334|/Bitcoin Cash Node:23.0.0(EB32.0)/|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 91.47.24.8|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 93.118.46.141|8333|/Bitcoin Cash Node:23.1.0(EB32.0; NilacTheGrims_Bitcoin_Cash)/|12302|93.118.46.0/23|RO|ripencc|2007-12-21|VODAFONE_RO Charles de Gaulle nr.15, RO
-93.231.213.107|8333|/bchd:0.18.1(EB32.0)/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-93.90.207.43|8331|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/|8560|93.90.192.0/20|GB|ripencc|2008-04-23|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 94.130.35.227|8333|/Bitcoin Cash Node:22.1.0(EB32.0)/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 94.130.58.17|8333|/bcash:2.0.0-dev/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 94.130.9.100|8333|/Bitcoin ABC:0.23.6(EB32.0)/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
