@@ -3,7 +3,6 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 100.4.56.113|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|701|100.4.0.0/17|US|arin|2010-12-28|UUNET, US
 101.108.38.1|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|23969|101.108.32.0/20|TH|apnic|2010-12-13|TOT-NET TOT Public Company Limited, TH
-101.161.78.140|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 102.129.145.60|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|174|102.129.145.0/24|ZA|afrinic|2018-09-28|COGENT-174, US
 103.243.173.214|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|59210|103.243.173.0/24|SG|apnic|2013-10-15|PHOENIXNAP-AS-SG1 PhoenixNAP, SG
 104.158.61.21|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|54198|104.158.48.0/20|CA|arin|2014-07-17|VIANET, CA
@@ -16,6 +15,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.7.245.182|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4134|116.4.0.0/14|CN|apnic|2007-03-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 122.51.249.99|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|45090|122.51.192.0/18|CN|apnic|2006-07-19|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 125.168.26.11|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|9443|125.168.0.0/16|AU|apnic|2005-09-08|VOCUS-RETAIL-AU Vocus Retail, AU
+125.26.149.88|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|23969|125.26.144.0/20|TH|apnic|2006-10-26|TOT-NET TOT Public Company Limited, TH
 128.199.40.35|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|14061|128.199.32.0/19|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 134.101.35.47|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|12693|134.101.32.0/19|DE|ripencc|1989-05-22|EDISCOM Am Kanal 4a, 14467 Potsdam, DE
 134.249.97.170|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|15895|134.249.0.0/16|UA|ripencc|2011-11-07|KSNET-AS, UA
@@ -76,12 +76,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 36.85.130.237|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7713|36.85.128.0/21|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 37.170.253.121|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 37.247.22.53|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|33885|37.247.0.0/19|SE|ripencc|2012-04-17|OWNIT Katarinavagen 15, SE
-37.5.251.55|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3209|37.4.0.0/15|DE|ripencc|2011-12-09|VODANET International IP-Backbone of Vodafone, DE
 45.130.83.219|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|206092|45.130.83.0/24|NL|ripencc|2019-07-17|SECFIREWALLAS, GB
 45.133.4.80|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|137409|45.133.4.0/24|NL|ripencc|2019-07-24|GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU
 45.95.147.215|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|49870|45.95.147.0/24|NL|ripencc|2019-07-10|AS49870-BV, NL
 46.114.6.2|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6805|46.114.0.0/15|DE|ripencc|2010-05-11|TDDE-ASN1, DE
-5.44.168.76|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|34757|5.44.168.0/23|RU|ripencc|2012-05-24|SIBSET-NSK-AS, RU
 51.210.208.201|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.210.32.161|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.77.67.209|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|51.77.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -127,5 +125,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.8.24.240|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 94.212.42.87|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|33915|94.212.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
 95.116.50.187|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|6805|95.112.0.0/13|DE|ripencc|2008-11-26|TDDE-ASN1, DE
+95.27.44.10|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|8402|95.26.0.0/15|RU|ripencc|2008-10-10|CORBINA-AS OJSC Vimpelcom, RU
 98.111.167.120|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|701|98.111.128.0/18|US|arin|2008-04-02|UUNET, US
 98.157.0.165|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|11426|98.157.0.0/21|US|arin|2007-12-18|TWC-11426-CAROLINAS, US
