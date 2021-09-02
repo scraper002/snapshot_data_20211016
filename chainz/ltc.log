@@ -66,7 +66,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 179.125.55.154|/NBitcoin:5.0.49/|70012|263631|179.125.52.0/22|BR|lacnic|2013-09-27|Via Link Telecomunicacoes, BR
 179.255.221.169|/LitecoinCore:0.18.1/|70015|8167|179.255.192.0/18|BR|lacnic|2013-01-23|Brasil Telecom SA - Filial Distrito Federal, BR
 179.93.215.181|/NBitcoin:5.0.49/|70012|26599|179.92.0.0/15|BR|lacnic|2013-09-02|TELEFONICA BRASIL S.A, BR
-180.246.87.134|/loaf-android:175/|70015|7713|180.246.84.0/22|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 181.213.246.25|/NBitcoin:5.0.49/|70012|28573|181.213.240.0/20|BR|lacnic|2014-06-02|CLARO S.A., BR
 184.63.33.211|/BitcoinKit:0.1.0/|70015|7155|184.63.33.0/24|US|arin|2009-12-18|VIASAT-SP-BACKBONE, US
 185.107.47.171|/LitecoinCore:0.17.1/|70015|43350|185.107.44.0/22|NL|ripencc|2015-07-03|NFORCE, NL
@@ -105,6 +104,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 197.210.52.208|/loaf-android:175/|70015|29465|197.210.52.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 198.50.212.232|/B2CCoinCore:0.16.3/|70015|16276|198.50.128.0/17|CA|arin|2013-03-07|OVH, FR
 20.44.156.145|/LitecoinCore:0.18.1/|70015|8075|20.40.0.0/13|US|arin|2017-10-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
+201.17.122.122|/NBitcoin:5.0.49/|70012|28573|201.17.0.0/17|BR|lacnic|2004-07-26|CLARO S.A., BR
 207.180.193.54|/LitecoinCore:0.18.1/|70015|51167|207.180.192.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.255.193.47|/LitecoinCore:0.18.1/|70015|11776|207.255.193.0/24|US|arin|2004-06-14|ATLANTICBB-JOHNSTOWN, US
 209.222.160.227|/LitecoinCore:0.14.2/|70015|22995|209.222.160.0/20|CA|arin|2008-03-19|BARR-XPLR-ASN, CA
@@ -114,7 +114,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.32.6.132|/DigitaleuroCore:0.16.3/|70015|16276|213.32.0.0/17|FR|ripencc|1999-06-28|OVH, FR
 217.144.174.7|/LitecoinCore:0.18.1/|70015|12737|217.144.172.0/22|RU|ripencc|2006-02-08|RIGHTSIDE16, RU
 217.160.27.128|/litecoinj:0.15.2-SNAPSHOT/|70002|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-217.61.193.150|/BitcoinKit:0.1.0/|70015|60522|217.61.193.0/24|DE|ripencc|2000-11-01|KOMMITT-AS Kaiserswerther Str. 85, DE
 223.182.216.198|/loaf-android:175/|70015|45609|223.182.216.0/22|IN|apnic|2010-09-14|BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service, IN
 223.206.214.9|/LitecoinCore:0.18.1/|70015|45629|223.206.0.0/16|TH|apnic|2010-07-12|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
 23.92.25.116|/Node:0.8.7.2/|70002|63949|23.92.25.0/24|US|arin|2013-08-13|LINODE-AP Linode, LLC, US
@@ -187,6 +186,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.2.79.165|/BitcoinKit:0.1.0/|70015|20712|81.2.64.0/18|GB|ripencc|2002-04-03|AS20712 Andrews & Arnold Ltd, GB
 82.113.121.32|/WalletKit:0.1.0/|70015|6805|82.113.96.0/19|DE|ripencc|2003-12-12|TDDE-ASN1, DE
 82.221.106.180|/FlashcoinCore:0.13.3.2/|70015|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
+83.137.2.203|/BitcoinKit:0.1.0/|70015|31404|83.137.2.0/24|GB|ripencc|2004-04-27|LYCATEL-AS, GB
 84.112.4.153|/BitcoinKit:0.1.0/|70015|8412|84.112.0.0/15|AT|ripencc|2004-04-07|TMA Magenta Telekom, AT
 85.140.22.179|/LitecoinCore:0.18.1/|70015|8359|85.140.16.0/21|RU|ripencc|2004-12-13|MTS, RU
 85.24.188.146|/WalletKit:0.1.0/|70015|8473|85.24.128.0/17|SE|ripencc|2005-02-24|BAHNHOF www.bahnhof.net, SE
@@ -200,7 +200,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.208.125.251|/LitecoinCore:0.18.1/|70015|12695|89.208.124.0/22|RU|ripencc|2006-04-18|DINET-AS, RU
 89.72.4.244|/NBitcoin:5.0.49/|70012|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 91.133.249.64|/loaf-android:175/|70015|197207|91.133.192.0/18|IR|ripencc|2006-10-30|MCCI-AS, IR
-91.142.81.82|/LitecoinCore:0.18.1/|70015|41722|91.142.81.0/24|RU|ripencc|2006-10-13|MIRAN-AS Miran DC, RU
 91.193.181.3|/LitecoinCore:0.16.3/|70015|12722|91.193.180.0/22|GB|ripencc|2018-04-18|RECONN, RU
 91.239.130.62|/LitecoinCore:0.18.1/|70015|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 91.65.15.10|/BitcoinKit:0.1.0/|70015|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
