@@ -3,7 +3,6 @@
 IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.0.215.75|9333|/LitecoinCore:0.18.1/|23969|1.0.215.0/24|TH|apnic|2011-04-08|TOT-NET TOT Public Company Limited, TH
 1.83.202.200|9333|/LitecoinCore:0.18.1/|4134|1.80.0.0/13|CN|apnic|2010-08-05|CHINANET-BACKBONE No.31,Jin-rong Street, CN
-101.115.13.225|9333|/LitecoinCore:0.18.1/|133612|101.115.0.0/19|AU|apnic|2010-12-14|VODAFONE-AS-AP Vodafone Australia Pty Ltd, AU
 103.107.199.54|9333|/LitecoinCore:0.16.3/|137409|103.107.198.0/23|AU|apnic|2018-01-17|GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU
 103.147.12.229|11081|/WorldcoinFoundation:0.10.4/|38186|103.147.12.0/24|CN|apnic|2019-12-23|FTG-AS-AP Forewin Telecom Group Limited, ISP at, HK
 103.231.191.7|9333|/LitecoinCore:0.16.0/|17831|103.231.191.0/24|SG|apnic|2014-05-16|CENTERHOP-SG 8 Burn Road# 15-13, Trivex, SG
@@ -735,6 +734,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:8740:1:dd::ecb5|9333|/LitecoinCore:0.18.1/|203380|2a01:8740:1::/48|BG|ripencc|2012-07-11|DAINTERNATIONALGROUP, GB
 2a01:d0:0:1c::253|9333|/LitecoinCore:0.18.1/|29632|2a01:d0::/32|GI|ripencc|2006-05-05|NASSIST-AS, GI
 2a01:e0a:1b9:f760:942b:e510:4db8:3d85|9333|/LitecoinCore:0.16.3/|12322|2a01:e0a::/39|FR|ripencc|2008-01-21|PROXAD, FR
+2a01:e0a:4dc:ad90:75aa:2bab:bec6:f23f|9333|/LitecoinCore:0.14.2/|12322|2a01:e0a:400::/39|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:a0a:c520:8926:9845:edec:d705|9333|/LitecoinCore:0.18.1/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:ee:fb30:5306:a6b7:1774:710f|9333|/LitecoinCore:0.18.1/|12322|2a01:e0a::/39|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:120b:2c68:6880:2c13:5136:2c27:8fa3|9333|/LitecoinCore:0.18.1/|3303|2a02:1208::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom Switzerland Ltd, CH
@@ -1144,7 +1144,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.28.186.158|9333|/LitecoinCore:0.18.1/|5089|82.28.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.42.174.27|9333|/LitecoinCore:0.18.1/|5089|82.42.0.0/16|GB|ripencc|2003-01-31|NTL, GB
 82.6.56.202|9333|/LitecoinCore:0.18.1/|5089|82.4.0.0/14|GB|ripencc|2003-02-28|NTL, GB
-82.64.185.60|11081|/WorldcoinFoundation:0.8.7.5/
+82.64.185.60|11081|/WorldcoinFoundation:0.8.7.5/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.65.134.3|9333|/LitecoinCore:0.18.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.65.181.253|9333|/LitecoinCore:0.18.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.75.15.130|9333|/LitecoinCore:0.18.1/|33915|82.74.0.0/15|NL|ripencc|2003-07-04|TNF-AS, NL
@@ -1155,6 +1155,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.241.77.129|9333|/LitecoinCore:0.18.1/|15600|84.241.64.0/18|CH|ripencc|2004-06-15|FINECOM Quickline AG, CH
 84.38.189.208|9333|/LitecoinCore:0.16.3/|49505|84.38.188.0/23|RU|ripencc|2010-07-06|SELECTEL, RU
 85.10.203.112|9333|/LitecoinCore:0.18.1/|24940|85.10.192.0/18|DE|ripencc|2005-02-23|HETZNER-AS, DE
+85.13.237.24|9333|/LitecoinCore:0.16.0/|31708|85.13.192.0/18|GB|ripencc|2005-04-05|COREIX-UK-AS London, Great Britain, GB
 85.15.179.171|9333|/LitecoinCore:0.18.1/|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
 85.159.233.1|9333|/LitecoinCore:0.18.1/|43350|85.159.232.0/21|NL|ripencc|2009-06-12|NFORCE, NL
 85.191.200.51|9333|/LitecoinCore:0.18.1/|43557|85.191.128.0/17|DK|ripencc|2005-01-05|ASEMNET, DK
