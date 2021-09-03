@@ -31,6 +31,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 131.196.133.168|/LitecoinCore:0.18.1/|70208|265928|131.196.132.0/23|BR|lacnic|2017-07-06|MWA MAIS, BR
 134.209.192.211|/CounosXCore:0.17.2/|70015|14061|134.209.192.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
 137.175.253.77|/NBitcoin:5.0.49/|70012|5769|137.175.192.0/18|CA|arin|2013-06-27|VIDEOTRON, CA
+138.199.19.193|/loaf-android:175/|70015|60068|138.199.18.0/23|GB|ripencc|1990-05-23|CDN77 ^_^, GB
 139.184.77.183|/LitecoinCore:0.18.1/|70015|786|139.184.0.0/17|GB|ripencc|1990-03-27|JANET Jisc Services Limited, GB
 139.184.77.183|/LitecoinCore:0.18.1/|70208|786|139.184.0.0/17|GB|ripencc|1990-03-27|JANET Jisc Services Limited, GB
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
@@ -114,6 +115,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 191.96.121.206|/LitecoinCore:0.18.1/|70015|36351|191.96.121.0/24|CL|lacnic|2013-10-24|SOFTLAYER, US
 191.96.121.206|/LitecoinCore:0.18.1/|70208|36351|191.96.121.0/24|CL|lacnic|2013-10-24|SOFTLAYER, US
 191.96.4.52|/B2CCoinCore:0.16.3/|70015|61317|191.96.4.0/24|CL|lacnic|2013-10-24|ASDETUK www.heficed.com, GB
+192.40.57.235|/WalletKit:0.1.0/|70015|46562|192.40.57.0/24|US|arin|2012-11-29|PERFORMIVE, US
 193.106.60.145|/CounosXCore:0.17.2/|70015|50281|193.106.60.0/22|UA|ripencc|2009-12-10|ISP6-6-AS, UA
 194.233.98.49|/LitecoinCore:0.18.1/|70015|136787|194.233.98.0/24|DE|ripencc|1996-01-26|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
 194.233.98.49|/LitecoinCore:0.18.1/|70208|136787|194.233.98.0/24|DE|ripencc|1996-01-26|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
@@ -140,8 +142,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.160.27.128|/litecoinj:0.15.2-SNAPSHOT/|70002|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 23.240.75.236|/FutureBit-ApolloCore:0.17.1/|70015|20001|23.240.0.0/14|US|arin|2013-09-20|TWC-20001-PACWEST, US
 23.92.25.116|/Node:0.8.7.2/|70002|63949|23.92.25.0/24|US|arin|2013-08-13|LINODE-AP Linode, LLC, US
-24.214.72.57|/LitecoinCore:0.18.1/|70015|12083|24.214.72.0/24|US|arin|1999-04-15|WOW-INTERNET, US
-24.214.72.57|/LitecoinCore:0.18.1/|70208|12083|24.214.72.0/24|US|arin|1999-04-15|WOW-INTERNET, US
 27.58.99.160|/LitecoinCore:0.18.1/|70015|24560|27.58.96.0/19|IN|apnic|2010-03-12|AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN
 27.58.99.160|/LitecoinCore:0.18.1/|70208|24560|27.58.96.0/19|IN|apnic|2010-03-12|AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN
 27.65.234.70|/NBitcoin:5.0.49/|70012|7552|27.65.232.0/21|VN|apnic|2010-04-27|VIETEL-AS-AP Viettel Group, VN
@@ -191,6 +191,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
 52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.196.0.0/14|US|arin|2015-09-02|AMAZON-02, US
 58.145.187.232|/loaf-android:175/|70015|24432|58.145.187.0/24|BD|apnic|2006-06-15|AXIATA-ROBI-AS-AP TM International Bangladesh Ltd.Internet service Provider,Gulshan-1,Dhaka-1212, BD
+58.145.189.252|/loaf-android:175/|70015|24432|58.145.189.0/24|BD|apnic|2006-06-15|AXIATA-ROBI-AS-AP TM International Bangladesh Ltd.Internet service Provider,Gulshan-1,Dhaka-1212, BD
 59.138.156.80|/LitecoinCore:0.18.1/|70015|2516|59.138.0.0/16|JP|apnic|2004-10-19|KDDI KDDI CORPORATION, JP
 59.138.156.80|/LitecoinCore:0.18.1/|70208|2516|59.138.0.0/16|JP|apnic|2004-10-19|KDDI KDDI CORPORATION, JP
 61.228.147.35|/LitecoinCore:0.18.1/|70015|3462|61.228.0.0/16|TW|apnic|2001-10-09|HINET Data Communication Business Group, TW
