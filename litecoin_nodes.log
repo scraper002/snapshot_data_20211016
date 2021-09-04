@@ -359,6 +359,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.130.44.140|9333|/LitecoinCore:0.17.1/|210083|185.130.44.0/24|BZ|ripencc|2018-10-11|PRIVEX, BZ
 185.130.45.145|10333|/LitecoinCore:0.18.1/|210083|185.130.45.0/24|BZ|ripencc|2018-10-11|PRIVEX, BZ
 185.138.8.45|9333|/LitecoinCore:0.15.1/|49253|185.138.8.0/24|RU|ripencc|2016-02-09|BRINGO-AS, RU
+185.141.63.163|8335|/LitecoinCore:0.18.1/|44901|185.141.63.0/24|CY|ripencc|2018-02-23|BELCLOUD, BG
 185.142.239.205|9333|/LitecoinCore:0.18.1/|174|185.142.239.0/24|SC|ripencc|2016-03-10|COGENT-174, US
 185.15.92.18|10993|/LitecoinCore:0.17.1/|25486|185.15.92.0/23|DE|ripencc|2013-01-10|LUN-AS Lightup Network Solutions GmbH & Co. KG, DE
 185.151.240.221|9333|/LitecoinCore:0.16.3/|49505|185.151.240.0/23|RU|ripencc|2016-05-13|SELECTEL, RU
@@ -541,7 +542,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 218.146.51.43|9333|/LitecoinCore:0.18.1(www.ali-bit.com)/|4766|218.144.0.0/13|KR|apnic|2001-09-24|KIXS-AS-KR Korea Telecom, KR
 220.132.100.42|9333|/LitecoinCore:0.18.1/|3462|220.132.64.0/18|TW|apnic|2003-06-09|HINET Data Communication Business Group, TW
 221.216.143.16|2321|/LitecoinCore:0.18.1/|4808|221.216.128.0/18|CN|apnic|2003-11-19|CHINA169-BJ China Unicom Beijing Province Network, CN
-221.219.102.228|2321|/LitecoinCore:0.18.1/|4808|221.219.64.0/18|CN|apnic|2003-11-19|CHINA169-BJ China Unicom Beijing Province Network, CN
 222.122.49.43|9333|/LitecoinCore:0.16.0/|4766|222.122.0.0/16|KR|apnic|2003-10-27|KIXS-AS-KR Korea Telecom, KR
 223.72.35.235|2321|/LitecoinCore:0.18.1/|56048|223.72.0.0/16|CN|apnic|2010-07-01|CMNET-BEIJING-AP China Mobile Communicaitons Corporation, CN
 23.102.77.31|9333|/LitecoinCore:0.16.3/|8075|23.102.0.0/16|US|arin|2013-06-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
@@ -711,7 +711,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:c4a::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:fd8::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3a:1060::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:3a:2913::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:1f86::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:5809::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:19ec::4204|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -1065,7 +1064,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 70.35.204.165|47890|/MonetaCore:0.18.1/|8560|70.35.192.0/20|US|arin|2009-03-27|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 70.63.170.86|9333|/LitecoinCore:0.18.1/|11426|70.63.128.0/17|US|arin|2004-05-19|TWC-11426-CAROLINAS, US
 71.114.80.129|9333|/LitecoinCore:0.18.1/|701|71.114.64.0/19|US|arin|2005-01-18|UUNET, US
-71.175.4.253|9333|/LitecoinCore:0.18.1/|701|71.175.0.0/16|US|arin|2005-06-01|UUNET, US
 71.36.116.205|9333|/LitecoinCore:0.14.2/|209|71.36.96.0/19|US|arin|2004-12-17|CENTURYLINK-US-LEGACY-QWEST, US
 71.57.69.177|9333|/LitecoinCore:0.18.1/|7922|71.56.0.0/13|US|arin|2005-04-29|COMCAST-7922, US
 72.135.240.177|9333|/LitecoinCore:0.18.1/|10796|72.135.192.0/18|US|arin|2005-08-02|TWC-10796-MIDWEST, US
@@ -1267,6 +1265,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.197.41|9333|/LitecoinCore:0.18.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.33.109|9333|/LitecoinCore:0.18.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.35.32|9333|/LitecoinCore:0.18.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
+95.217.36.126|9333|/LitecoinCore:0.16.3/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.38.60|9333|/LitecoinCore:0.16.0/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.44.33|9333|/LitecoinCore:0.18.1/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.53.101|9333|/LitecoinCore:0.16.3/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
