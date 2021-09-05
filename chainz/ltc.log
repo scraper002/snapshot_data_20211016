@@ -30,7 +30,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 128.124.38.66|/BitcoinKit:0.1.0/|70015|21497|128.124.0.0/18|UA|ripencc|2011-10-07|UMC-AS, UA
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
-134.209.192.211|/CounosXCore:0.17.2/|70015|14061|134.209.192.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
 136.56.100.184|/LitecoinCore:0.18.1/|70015|16591|136.56.96.0/20|US|arin|2015-10-06|GOOGLE-FIBER, US
 138.99.198.251|/NBitcoin:5.0.49/|70012|264216|138.99.198.0/23|BR|lacnic|2015-04-14|Fenix Wireless Internet Ltda, BR
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
@@ -40,6 +39,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.76.222.140|/Node:0.8.7.2/|70002|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
 146.185.139.235|/ltc_node_scanner:0.0.1/|70015|14061|146.185.128.0/19|US|ripencc|2011-07-13|DIGITALOCEAN-ASN, US
 149.210.234.234|/Node:0.8.7.2/|70002|20857|149.210.128.0/17|NL|ripencc|2011-08-17|TRANSIP-AS Amsterdam, the Netherlands, NL
+149.248.53.93|/DigitaleuroCore:0.16.3/|70015|20473|149.248.48.0/20|US|arin|2018-07-03|AS-CHOOPA, US
 15.237.152.102|/LitecoinCore:0.18.1/|70015|16509|15.236.0.0/15|US|arin|2018-09-27|AMAZON-02, US
 154.21.212.201|/WalletKit:0.1.0/|70015|174|154.21.0.0/16|US|arin|1992-02-05|COGENT-174, US
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|157.230.112.0/20|US|arin|2018-08-22|DIGITALOCEAN-ASN, US
@@ -189,9 +189,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.112.4.153|/BitcoinKit:0.1.0/|70015|8412|84.112.0.0/15|AT|ripencc|2004-04-07|TMA Magenta Telekom, AT
 86.125.139.49|/loaf-android:175/|70015|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
 86.91.152.168|/bitcore:1.1.0/|70003|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
-87.149.224.252|/WalletKit:0.1.0/|70015|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.197.116.128|/LitecoinCore:0.18.1/|70015|6855|87.197.0.0/16|SK|ripencc|2005-06-29|SK-TELEKOM Slovak Telekom T-Mobile CZ, SK
 87.98.234.172|/LitecoinCore:0.18.1/|70015|16276|87.98.128.0/17|FR|ripencc|2005-08-15|OVH, FR
+88.165.114.195|/LitecoinCore:0.16.3/|70015|12322|88.160.0.0/12|FR|ripencc|2005-10-03|PROXAD, FR
 88.198.207.38|/LitecoinCore:0.18.1/|70015|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.214.57.143|/LitecoinCore:0.17.1/|70015|30823|88.214.57.0/24|DE|ripencc|2018-11-20|COMBAHTON combahton GmbH, DE
 89.208.253.160|/BitcoinKit:0.1.0/|70015|25820|89.208.248.0/21|CA|arin|2017-12-13|IT7NET, CA
