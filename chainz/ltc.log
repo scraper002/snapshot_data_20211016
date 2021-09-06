@@ -67,6 +67,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 170.79.153.107|/B2CCoinCore:0.16.3/|70015|266294|170.79.153.0/24|BR|lacnic|2016-10-13|A Z DE ARAUJO NETO ME, BR
 170.82.203.126|/NBitcoin:5.0.49/|70012|266457|170.82.202.0/23|BR|lacnic|2017-01-04|TV Barigui Ltda., BR
+170.83.83.56|/loaf-android:175/|70015|263026|170.83.80.0/22|BR|lacnic|2017-01-06|IBL Banda Larga Internet Informatica LTDA, BR
 171.239.170.241|/loaf-android:175/|70015|7552|171.239.168.0/21|VN|apnic|2011-03-04|VIETEL-AS-AP Viettel Group, VN
 172.56.44.76|/BitcoinKit:0.1.0/|70015|21928|172.56.44.0/23|US|arin|2012-09-18|T-MOBILE-AS21928, US
 172.74.187.164|/BitcoinKit:0.1.0/|70015|11426|172.72.0.0/14|US|arin|2015-04-06|TWC-11426-CAROLINAS, US
@@ -93,7 +94,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 18.203.25.29|/LitecoinCore:0.17.1/|70015|16509|18.202.0.0/15|US|arin|2019-10-07|AMAZON-02, US
 180.150.44.138|/DigitaleuroCore:0.16.3/|70015|4764|180.150.44.0/22|AU|apnic|2009-09-01|WIDEBAND-AS-AP Aussie Broadband, AU
 181.223.12.182|/B2CCoinCore:0.16.3/|70015|28573|181.223.0.0/18|BR|lacnic|2014-06-02|CLARO S.A., BR
-183.88.34.212|/NBitcoin:5.0.49/|70012|45758|183.88.0.0/16|TH|apnic|2009-11-13|TTBP-AS-AP Triple T Broadband Public Company Limited, TH
 185.100.87.202|/BitcoinKit:0.1.0/|70015|200651|185.100.87.0/24|SC|ripencc|2015-05-15|FLOKINET, SC
 185.12.144.114|/LitecoinCore:0.18.1/|70015|43366|185.12.144.0/22|NL|ripencc|2012-12-06|OSSO, NL
 185.141.63.163|/LitecoinCore:0.18.1/|70015|44901|185.141.63.0/24|CY|ripencc|2018-02-23|BELCLOUD, BG
@@ -153,6 +153,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.186.201.25|/LitecoinCore:0.18.1/|70015|269820|45.186.201.0/24|VE|lacnic|2019-10-22|FULL DATA COMUNICACIONES C.A., VE
 45.188.194.28|/B2CCoinCore:0.16.3/|70015|269599|45.188.194.0/23|BR|lacnic|2019-11-29|Digiplan Comercio De Equipamentos de Informatica L, BR
 45.56.69.105|/Block.io:0.1.0/|70002|63949|45.56.64.0/20|US|arin|2015-01-21|LINODE-AP Linode, LLC, US
+45.87.214.198|/BitcoinKit:0.1.0/|70015|9009|45.87.214.0/24|RO|ripencc|2019-06-17|M247, GB
 46.133.216.0|/BitcoinKit:0.1.0/|70015|21497|46.133.192.0/18|UA|ripencc|2010-10-25|UMC-AS, UA
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba US Technology Co., Ltd., CN
 47.90.245.73|/LitecoinCore:0.17.1/|70015|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba US Technology Co., Ltd., CN
@@ -161,7 +162,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 49.150.134.106|/BitcoinKit:0.1.0/|70015|9299|49.150.128.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.150.241.123|/NBitcoin:5.0.49/|70012|9299|49.150.224.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
 49.228.193.183|/LitecoinCore:0.18.1/|70015|133481|49.228.192.0/22|TH|apnic|2010-11-25|AIS-FIBRE-AS-AP AIS Fibre, TH
-49.49.3.98|/LitecoinCore:0.18.1/|70015|45758|49.49.0.0/16|TH|apnic|2010-09-20|TTBP-AS-AP Triple T Broadband Public Company Limited, TH
+49.49.3.98|/LitecoinCore:0.18.1/|70015|45629|49.49.0.0/16|TH|apnic|2010-09-20|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
 5.168.78.241|/WalletKit:0.1.0/|70015|16232|5.168.0.0/16|IT|ripencc|2012-07-26|ASN-TIM Service Provider, IT
 5.188.71.62|/NBitcoin:5.0.49/|70012|199524|5.188.71.0/24|LU|ripencc|2012-08-09|GCORE, LU
 5.67.32.67|/BitcoinKit:0.1.0/|70015|5607|5.64.0.0/13|GB|ripencc|2012-06-11|BSKYB-BROADBAND-AS, GB
@@ -193,6 +194,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.120.122.114|/open-nodes:0.1/|70015|25229|77.120.96.0/19|UA|ripencc|2006-11-24|VOLIA-AS, UA
 78.102.228.51|/loaf-android:175/|70015|16019|78.102.128.0/17|CZ|ripencc|2007-06-04|VODAFONE-CZ-AS, CZ
 79.248.28.135|/LitecoinCore:0.18.1/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+80.246.94.89|/loaf-android:175/|70015|12389|80.246.94.0/24|RU|ripencc|2004-06-15|ROSTELECOM-AS, RU
 82.221.106.180|/FlashcoinCore:0.13.3.2/|70015|50613|82.221.96.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 83.136.182.18|/NBitcoin:5.0.49/|70012|141039|83.136.182.0/24|DE|ripencc|2019-01-08|TEFINCOMHOST-AS-AP Packethub s.a., PA
 83.248.17.31|/BitcoinKit:0.1.0/|70015|39651|83.248.0.0/13|SE|ripencc|2004-03-04|TELE2-FIXED-SWEDEN, SE
@@ -213,6 +215,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.246.121.37|/BitcoinKit:0.1.0/|70015|8881|89.246.121.0/24|DE|ripencc|2006-05-04|VERSATEL, DE
 89.72.4.244|/NBitcoin:5.0.49/|70012|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 91.142.81.82|/LitecoinCore:0.18.1/|70015|41722|91.142.81.0/24|RU|ripencc|2006-10-13|MIRAN-AS Miran DC, RU
+91.193.176.171|/loaf-android:175/|70015|16345|91.193.176.0/22|RU|ripencc|2007-04-24|BEE-AS Russia, RU
 91.193.181.3|/LitecoinCore:0.16.3/|70015|12722|91.193.180.0/22|GB|ripencc|2018-04-18|RECONN, RU
 91.239.130.62|/LitecoinCore:0.18.1/|70015|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 92.60.48.55|/loaf-android:175/|70015|44185|92.60.48.0/22|SK|ripencc|2007-11-30|BONET UPSTREAM, SK
