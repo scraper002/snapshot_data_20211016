@@ -39,11 +39,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 151.44.11.54|/LitecoinCashCore:0.16.3/|70015|1267|151.44.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 152.37.159.158|/LitecoinCashCore:0.16.1.1/|70015|11492|152.37.159.0/24|US|arin|2020-10-22|CABLEONE, US
 154.3.250.113|/LitecoinCashCore:0.16.1.3/|70015|174|154.3.0.0/16|US|arin|1992-02-05|COGENT-174, US
-154.3.251.34|/LitecoinCashCore:0.16.1.3/|70015|174|154.3.0.0/16|US|arin|1992-02-05|COGENT-174, US
 157.90.223.151|/LitecoinCashCore:0.16.3/|70015|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
 158.69.25.32|/LitecoinCashCore:0.16.1.3/|70015|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 159.65.138.251|/LitecoinCashCore:0.16.1.1/|70015|14061|159.65.128.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 161.97.187.181|/LitecoinCashCore:0.16.1.3/|70015|51167|161.97.184.0/22|DE|ripencc|1992-06-23|CONTABO, DE
+162.210.101.68|/LitecoinCashCore:0.16.1.3/|70015|32748|162.210.101.0/24|US|arin|2013-04-23|STEADFAST, US
 165.227.63.228|/LitecoinCashCore:0.16.3/|70015|14061|165.227.48.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 166.173.59.132|/LitecoinCashCore:0.16.1.3/|70015|20057|166.173.56.0/22|US|arin|1993-07-09|ATT-MOBILITY-LLC-AS20057, US
 166.70.69.187|/LitecoinCashCore:0.16.3/|70015|6315|166.70.0.0/16|US|arin|1997-02-19|XMISSION, US
@@ -59,6 +59,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.34.200.68|/LitecoinCashCore:0.16.3/|70015|14051|174.34.192.0/19|US|arin|2008-10-30|SUREWEST, US
 174.72.108.155|/LitecoinCashCore:0.16.3/|70015|22773|174.72.0.0/17|US|arin|2009-02-19|ASN-CXA-ALL-CCI-22773-RDC, US
 176.10.198.12|/LitecoinCashCore:0.16.2/|70015|8473|176.10.128.0/17|SE|ripencc|2011-05-18|BAHNHOF www.bahnhof.net, SE
+177.190.179.1|/LitecoinCashCore:0.15.0.1/|70015|262504|177.190.176.0/22|BR|lacnic|2013-12-11|Nova Rede de Telecomunicacoes Ltda, BR
 178.128.5.88|/LitecoinCashCore:0.16.1.3/|70015|14061|178.128.0.0/20|US|ripencc|2010-03-03|DIGITALOCEAN-ASN, US
 178.174.167.193|/LitecoinCashCore:0.16.2.1/|70015|8473|178.174.128.0/17|SE|ripencc|2010-04-28|BAHNHOF www.bahnhof.net, SE
 178.190.165.225|/LitecoinCashCore:0.16.3/|70015|8447|178.188.0.0/14|AT|ripencc|2010-02-08|A1TELEKOM-AT A1 Telekom Austria AG, AT
@@ -80,7 +81,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.114.59.78|/LitecoinCashCore:0.16.2/|70015|27901|190.114.56.0/21|CL|lacnic|2012-08-09|Pacifico Cable SPA., CL
 190.213.59.32|/LitecoinCashCore:0.16.2/|70015|27665|190.213.48.0/20|TT|lacnic|2007-09-26|Columbus Communications Trinidad Limited., TT
 192.222.229.98|/LitecoinCashCore:0.16.2.1/|70015|1403|192.222.224.0/19|CA|arin|2012-12-20|EBOX, CA
-192.53.173.10|/LitecoinCashCore:0.16.3/|70015|63949|192.53.172.0/22|US|ripencc|1989-03-27|LINODE-AP Linode, LLC, US
 193.27.13.72|/LitecoinCashCore:0.16.2/|70015|9009|193.27.13.0/24|RO|ripencc|2018-04-25|M247, GB
 195.201.212.176|/LitecoinCashCore:0.16.3/|70015|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
 195.210.202.211|/LitecoinCashCore:0.16.3/|70015|5603|195.210.192.0/20|SI|ripencc|1997-12-18|SIOL-NET Telekom Slovenije d.d., SI
@@ -203,6 +203,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.15.78.143|/LitecoinCashCore:0.16.1.3/|70015|5089|86.14.0.0/15|GB|ripencc|2005-03-29|NTL, GB
 86.180.25.46|/LitecoinCashCore:0.16.3/|70015|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 87.127.168.13|/LitecoinCashCore:0.16.2/|70015|8468|87.127.0.0/16|GB|ripencc|2005-09-08|ENTANET ENTANET International Limited, GB
+87.175.221.31|/LitecoinCashCore:0.16.1.1/|70015|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.183.119.166|/LitecoinCashCore:0.16.1.3/|70015|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.63.22.106|/LitecoinCashCore:0.16.3/|70015|3292|87.48.0.0/12|DK|ripencc|2005-05-20|TDC TDC AS, DK
 88.99.235.240|/LitecoinCashCore:0.16.1.2/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
