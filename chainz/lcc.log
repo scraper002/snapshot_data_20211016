@@ -52,6 +52,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 168.119.15.122|/LitecoinCashCore:0.16.1.3/|70015|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 170.80.155.55|/LitecoinCashCore:0.16.2/|70015|262765|170.80.155.0/24|BR|lacnic|2016-11-23|Net Facil Sistemas Eletronicos Ltda ME, BR
 172.58.172.107|/LitecoinCashCore:0.16.1.3/|70015|21928|172.58.168.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
+172.58.174.233|/LitecoinCashCore:0.16.1.3/|70015|21928|172.58.168.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 172.58.200.191|/LitecoinCashCore:0.16.3/|70015|21928|172.58.200.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 172.58.236.94|/LitecoinCashCore:0.16.2/|70015|21928|172.58.232.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 173.212.202.33|/LitecoinCashCore:0.16.1.2/|70015|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
@@ -134,10 +135,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.76.142.166|/LitecoinCashCore:0.16.1.1/|70015|20473|45.76.128.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 45.86.202.99|/LitecoinCashCore:0.16.3/|70015|206092|45.86.202.0/24|NL|ripencc|2019-06-13|SECFIREWALLAS, GB
 46.11.250.27|/LitecoinCashCore:0.15.0.1/|70015|35356|46.11.250.0/24|MT|ripencc|2010-09-14|MT-GOMOBILE-AS go mobile Malta Autonomous System, MT
-46.123.240.54|/LitecoinCashCore:0.16.3/|70015|21283|46.122.0.0/15|SI|ripencc|2010-05-28|A1SI-AS A1 Slovenija, SI
 46.123.245.110|/LitecoinCashCore:0.16.3/|70015|21283|46.122.0.0/15|SI|ripencc|2010-05-28|A1SI-AS A1 Slovenija, SI
 46.23.35.70|/LitecoinCashCore:0.16.3/|70015|24651|46.23.32.0/20|LV|ripencc|2010-12-02|LVBALTICOM-AS, LV
 46.249.83.82|/LitecoinCashCore:0.16.1.3/|70015|43561|46.249.64.0/19|BG|ripencc|2010-12-30|NET1-AS, BG
+46.59.216.92|/LitecoinCashCore:0.16.3/|70015|15943|46.59.128.0/17|DE|ripencc|2010-10-21|WTNET-AS wilhelm.tel GmbH, DE
 47.135.232.156|/LitecoinCashCore:0.16.3/|70015|20115|47.135.0.0/16|US|arin|2017-11-27|CHARTER-20115, US
 47.18.59.39|/LitecoinCashCore:0.16.1.3/|70015|6128|47.18.0.0/16|US|arin|2012-02-29|CABLE-NET-1, US
 47.186.94.184|/LitecoinCashCore:0.16.1.3/|70015|5650|47.184.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
@@ -202,7 +203,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.128.32.57|/LitecoinCashCore:0.16.1.3/|70015|60656|78.128.32.0/24|BG|ripencc|2007-04-05|BOLBGIZTOK, BG
 78.194.216.24|/LitecoinCashCore:0.16.3/|70015|12322|78.192.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
 78.94.230.70|/LitecoinCashCore:0.16.3/|70015|3209|78.94.128.0/17|DE|ripencc|2007-07-20|VODANET International IP-Backbone of Vodafone, DE
-79.234.61.111|/LitecoinCashCore:0.16.2/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.234.61.118|/LitecoinCashCore:0.16.2/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 8.36.226.158|/LitecoinCashCore:0.16.3/|70015|393552|8.36.226.0/23|US|arin|1992-12-01|COL-LPC, US
 8.6.145.97|/LitecoinCashCore:0.16.3/|70015|13335|8.6.145.0/24|US|arin|1992-12-01|CLOUDFLARENET, US
@@ -233,13 +233,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.0.26.120|/LitecoinCashCore:0.16.2/|70015|5089|86.0.0.0/16|GB|ripencc|2005-03-29|NTL, GB
 86.180.25.46|/LitecoinCashCore:0.16.3/|70015|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 87.175.221.31|/LitecoinCashCore:0.16.1.1/|70015|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
-87.214.83.33|/LitecoinCashCore:0.16.1.3/|70015|13127|87.214.0.0/15|NL|ripencc|2005-06-02|T-MOBILE AS for the Trans-European T-Mobile IP Transport backbone, NL
 88.22.134.63|/LitecoinCashCore:0.16.0.5/|70015|3352|88.22.0.0/16|ES|ripencc|2005-07-13|TELEFONICA_DE_ESPANA, ES
 88.99.235.240|/LitecoinCashCore:0.16.1.2/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.143.40.141|/LitecoinCashCore:0.16.3/|70015|5603|89.143.0.0/18|SI|ripencc|2006-03-03|SIOL-NET Telekom Slovenije d.d., SI
 89.163.135.58|/LitecoinCashCore:0.16.3/|70015|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.212.249.4|/LitecoinCashCore:0.16.1.3/|70015|34779|89.212.192.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2 d.o.o., SI
-89.36.78.140|/LitecoinCashCore:0.16.1.3/|70015|9009|89.36.78.0/24|RO|ripencc|2005-11-29|M247, GB
 89.36.78.60|/LitecoinCashCore:0.16.1.3/|70015|9009|89.36.78.0/24|RO|ripencc|2005-11-29|M247, GB
 89.36.78.62|/LitecoinCashCore:0.16.1.3/|70015|9009|89.36.78.0/24|RO|ripencc|2005-11-29|M247, GB
 89.38.225.46|/LitecoinCashCore:0.16.1.3/|70015|9009|89.38.225.0/24|RO|ripencc|2005-11-29|M247, GB
