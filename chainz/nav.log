@@ -9,6 +9,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.192.112.157|/Navcoin:6.0.1/|80020|3209|109.192.0.0/16|DE|ripencc|2009-10-06|VODANET International IP-Backbone of Vodafone, DE
 109.252.126.76|/Navcoin:6.1.0/|80021|25513|109.252.0.0/16|RU|ripencc|2009-12-07|ASN-MGTS-USPD, RU
 114.23.95.102|/Navcoin:6.1.0/|80021|56030|114.23.0.0/16|NZ|apnic|2011-01-10|VOYAGERNET-AS-AP Voyager Internet Ltd., NZ
+121.74.112.177|/NavCoin:6.0.0/|80020|9500|121.74.0.0/16|NZ|apnic|2008-04-18|VODAFONE-TRANSIT-AS Vodafone NZ Ltd., NZ
 121.75.213.255|/Navcoin:6.1.0/|80021|9500|121.75.0.0/16|NZ|apnic|2009-07-30|VODAFONE-TRANSIT-AS Vodafone NZ Ltd., NZ
 121.98.157.149|/Navcoin:6.1.0/|80021|9790|121.98.0.0/15|NZ|apnic|2007-09-24|VOCUSGROUPNZ VocusGroup, NZ
 122.60.21.105|/Navcoin:6.1.0/|80021|4771|122.60.16.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
@@ -69,7 +70,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 208.114.92.109|/Navcoin:6.1.0/|80021|35986|208.114.92.0/23|US|arin|2006-04-27|VYVE-BROADBAND, US
 212.102.49.129|/Navcoin:6.1.0/|80021|60068|212.102.48.0/23|GB|ripencc|1999-06-10|CDN77 ^_^, GB
 212.180.171.44|/Navcoin:6.1.0/|80021|9085|212.180.128.0/17|PL|ripencc|2000-08-31|SUPERMEDIA-AS, PL
-213.108.119.84|/Navcoin:6.1.0/|80021|60191|213.108.112.0/21|PL|ripencc|2009-07-29|NOWATEL-AS, PL
 213.136.26.41|/Navcoin:6.1.0/|80021|12859|213.136.0.0/19|NL|ripencc|1999-12-09|NL-BIT BIT BV, NL
 213.233.216.158|/Navcoin:6.1.0/|80021|12414|213.233.192.0/18|NL|ripencc|2003-05-15|NL-SOLCON SOLCON, NL
 216.131.116.225|/Navcoin:6.1.0/|80021|33438|216.131.116.0/23|US|arin|2001-06-29|HIGHWINDS2, US
@@ -98,7 +98,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.144.216.153|/Navcoin:6.1.0/|80021|25596|45.144.216.0/22|NL|ripencc|2019-08-23|CAMBRIUM-AS, NL
 46.169.166.71|/Navcoin:6.1.0/|80021|8374|46.168.0.0/15|PL|ripencc|2010-11-18|PLUSNET Plus network operator in Poland, PL
 46.188.1.45|/Navcoin:6.1.0/|80021|8334|46.188.0.0/17|RU|ripencc|2010-11-24|CO-2COM-AS Moscow, RU
-46.31.216.108|/Navcoin:6.1.0/|80021|29413|46.31.216.0/21|DE|ripencc|2010-09-23|KOMRO-AS Komro Telekommunikations GmbH, DE
 47.156.233.9|/Navcoin:6.1.0/|80021|5650|47.156.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.215.229.201|/Navcoin:6.1.0/|80021|19108|47.215.192.0/18|US|arin|2015-09-08|SUDDENLINK-COMMUNICATIONS, US
 49.51.136.144|/Navcoin:6.0.2/|80020|132203|49.51.136.0/23|CN|apnic|2011-04-07|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
@@ -142,18 +141,21 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.42.35.205|/Navcoin:6.1.0/|80021|3209|78.42.0.0/16|DE|ripencc|2007-03-23|VODANET International IP-Backbone of Vodafone, DE
 79.213.98.30|/Navcoin:6.1.0/|80021|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.110.44.247|/Navcoin:6.1.0/|80021|8412|80.110.0.0/17|AT|ripencc|2001-07-19|TMA Magenta Telekom, AT
+80.135.44.31|/Navcoin:6.1.0/|80021|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.43.82.78|/Navcoin:6.1.0/|80021|9105|80.42.0.0/15|GB|ripencc|2001-11-23|TISCALI-UK TalkTalk Communications Limited, GB
 81.105.235.92|/Navcoin:6.0.1/|80020|5089|81.104.0.0/15|GB|ripencc|2002-06-14|NTL, GB
 81.99.59.241|/Navcoin:6.1.0/|80021|5089|81.98.0.0/15|GB|ripencc|2002-06-14|NTL, GB
 82.174.0.234|/Navcoin:6.1.0/|80021|50266|82.174.0.0/16|NL|ripencc|2003-09-29|TMOBILE-THUIS, NL
 82.73.9.92|/Navcoin:6.1.0/|80021|33915|82.72.0.0/15|NL|ripencc|2003-07-04|TNF-AS, NL
 83.128.104.80|/NavCoin:4.1.1/|70020|15435|83.128.0.0/16|NL|ripencc|2004-01-05|KABELFOON DELTA Fiber Nederland, NL
+83.149.93.5|/Navcoin:6.1.0/|80021|60781|83.149.64.0/18|NL|ripencc|2004-03-09|LEASEWEB-NL-AMS-01 Netherlands, NL
 83.78.130.5|/Navcoin:6.1.0/|80021|3303|83.78.0.0/16|CH|ripencc|2003-12-10|SWISSCOM Swisscom Switzerland Ltd, CH
 83.82.47.217|/Navcoin:6.1.0/|80021|33915|83.80.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.107.201.210|/Navcoin:6.1.0/|80021|33915|84.106.0.0/15|NL|ripencc|2004-04-26|TNF-AS, NL
 84.118.108.138|/Navcoin:6.1.0/|80021|3209|84.118.0.0/16|NL|ripencc|2004-04-07|VODANET International IP-Backbone of Vodafone, DE
 84.168.155.29|/Navcoin:6.1.0/|80021|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.17.39.210|/Navcoin:6.1.0/|80021|60068|84.17.38.0/23|GB|ripencc|2004-07-23|CDN77 ^_^, GB
+84.191.62.49|/Navcoin:6.1.0/|80021|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 85.14.123.2|/Navcoin:6.1.0/|80021|31242|85.14.64.0/18|PL|ripencc|2005-04-06|TKPSA-AS, PL
 86.156.0.146|/Navcoin:6.1.0/|80021|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.31.85.171|/Navcoin:6.1.0/|80021|5089|86.24.0.0/13|GB|ripencc|2005-03-29|NTL, GB
