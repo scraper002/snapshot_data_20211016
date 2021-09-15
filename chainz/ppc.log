@@ -10,7 +10,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 115.84.237.105|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|9658|115.84.224.0/19|PH|apnic|2008-07-28|ETPI-IDS-AS-AP Eastern Telecoms Phils., Inc., PH
 116.7.245.182|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4134|116.4.0.0/14|CN|apnic|2007-03-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 118.173.90.69|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|23969|118.173.90.0/24|TH|apnic|2007-10-08|TOT-NET TOT Public Company Limited, TH
-119.45.242.241|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|45090|119.45.240.0/20|CN|apnic|2008-01-03|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 121.208.220.139|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|1221|121.208.0.0/12|AU|apnic|2006-06-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 125.168.26.11|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|9443|125.168.0.0/16|AU|apnic|2005-09-08|VOCUS-RETAIL-AU Vocus Retail, AU
 135.181.164.189|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
@@ -45,6 +44,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.212.171.80|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|197233|178.212.168.0/21|PL|ripencc|2010-08-20|VENTUS-AS, PL
 178.33.239.210|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|178.32.0.0/15|FR|ripencc|2010-01-19|OVH, FR
 184.153.216.246|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|11351|184.153.128.0/17|US|arin|2010-06-15|TWC-11351-NORTHEAST, US
+185.187.243.105|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|62240|185.187.243.0/24|DE|ripencc|2017-01-30|CLOUVIDER Clouvider - Global ASN, GB
 185.220.100.254|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
 185.244.193.79|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|197540|185.244.192.0/22|DE|ripencc|2018-02-02|NETCUP-AS netcup GmbH, DE
 188.119.81.167|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|35132|188.119.80.0/22|NO|ripencc|2018-11-23|ENIVEST-AS, NO
@@ -79,6 +79,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.187.123.156|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|9145|31.187.112.0/20|DE|ripencc|2011-03-25|EWETEL Cloppenburger Strasse 310, DE
 31.28.12.26|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|29076|31.28.12.0/22|RU|ripencc|2011-02-10|CITYTELECOM-AS Filanco LTD, RU
 37.120.217.84|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|9009|37.120.217.0/24|RO|ripencc|2012-02-13|M247, GB
+37.138.151.87|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|9145|37.138.0.0/16|DE|ripencc|2012-02-23|EWETEL Cloppenburger Strasse 310, DE
 37.170.102.77|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 37.170.125.199|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 37.173.106.2|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
@@ -136,7 +137,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.212.54.237|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|42841|88.212.48.0/20|SK|ripencc|2005-12-08|ANTIK, SK
 89.149.203.3|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|60781|89.149.192.0/20|NL|ripencc|2006-02-23|LEASEWEB-NL-AMS-01 Netherlands, NL
 89.187.170.165|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|60068|89.187.170.0/23|CZ|ripencc|2006-04-28|CDN77 ^_^, GB
-89.187.175.44|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|60068|89.187.175.0/24|CZ|ripencc|2006-04-28|CDN77 ^_^, GB
 90.107.111.50|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3215|90.107.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.149.225.131|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|58110|91.149.225.0/24|PL|ripencc|2006-11-20|IPVOLUME, CH
 91.152.120.76|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
