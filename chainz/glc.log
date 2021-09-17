@@ -27,6 +27,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 111.95.137.71|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23700|111.95.128.0/19|ID|apnic|2009-06-24|FASTNET-AS-ID Linknet-Fastnet ASN, ID
 111.95.162.145|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23700|111.95.160.0/19|ID|apnic|2009-06-24|FASTNET-AS-ID Linknet-Fastnet ASN, ID
 112.215.153.182|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|112.215.153.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
+112.215.219.192|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|112.215.219.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
 112.215.219.99|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|24203|112.215.219.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
 112.215.237.28|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|112.215.237.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
 112.215.65.141|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|112.215.65.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
@@ -100,7 +101,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 125.165.184.60|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|125.165.184.0/23|ID|apnic|2007-08-24|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 125.166.116.28|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|125.166.116.0/22|ID|apnic|2007-08-24|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 125.166.117.100|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|125.166.116.0/22|ID|apnic|2007-08-24|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
-125.166.121.96|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|125.166.120.0/22|ID|apnic|2007-08-24|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 125.166.8.45|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|125.166.0.0/16|ID|apnic|2007-08-24|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 125.166.9.200|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|125.166.0.0/16|ID|apnic|2007-08-24|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 135.181.165.109|/GoldcoinCore:0.14.6/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
@@ -134,7 +134,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 168.235.108.149|/GoldcoinCore:0.14.8/|70015|3842|168.235.108.0/22|US|arin|2014-06-26|RAMNODE, US
 172.124.245.189|/GoldcoinCore:0.14.7/|70015|7018|172.124.0.0/14|US|arin|2015-07-06|ATT-INTERNET4, US
 175.158.49.73|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|135478|175.158.49.0/24|ID|apnic|2010-01-19|ASN-CBNBROADBAND PT. Cyberindo Aditama, ID
-178.238.224.213|/Satoshi:0.7.5/|60020|51167|178.238.224.0/23|DE|ripencc|2010-07-28|CONTABO, DE
+178.238.224.213|???|0|51167|178.238.224.0/23|DE|ripencc|2010-07-28|CONTABO, DE
 180.214.232.87|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|45727|180.214.232.0/24|ID|apnic|2009-10-07|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 180.241.228.146|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.241.228.0/23|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 180.244.139.48|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.244.128.0/20|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
@@ -163,13 +163,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.0.207.46|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.0.192.0/18|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.0.241.58|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.0.224.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.11.137|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|23693|182.1.0.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
-182.1.113.74|???|0|23693|182.1.96.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.1.113.74|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.96.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.132.192|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000|23693|182.1.128.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.178.227|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.160.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.204.75|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.192.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
-182.1.229.154|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.224.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.36.3|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
-182.1.42.147|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|23693|182.1.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.44.242|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.47.20|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.50.185|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
@@ -188,6 +186,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.253.132.7|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|17451|182.253.132.0/24|ID|apnic|2010-05-10|BIZNET-AS-AP BIZNET NETWORKS, ID
 182.3.5.16|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.3.0.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.3.69.5|???|0|23693|182.3.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+182.3.71.224|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.3.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.3.73.148|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|23693|182.3.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 185.52.0.211|/GoldcoinCore:0.14.8/|70015|198203|185.52.0.0/22|US|ripencc|2014-03-27|ASN-ROUTELABEL, NL
 185.69.144.230|/goldwallet:1.0.9/|70000|25135|185.69.144.0/22|GB|ripencc|2014-09-09|VODAFONE_UK_ASN, GB
@@ -210,7 +209,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 216.137.116.136|/GoldcoinCore:0.14.8/|70015|19515|216.137.96.0/19|CA|arin|2004-02-02|ORICOM-QUEBEC1, CA
 221.122.37.71|/GoldcoinCore:0.14.4/|70015|23724|221.122.32.0/20|CN|apnic|2003-07-07|CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN
 223.255.228.84|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|45727|223.255.228.0/24|ID|apnic|2010-08-09|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
-223.255.228.88|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|45727|223.255.228.0/24|ID|apnic|2010-08-09|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 223.255.230.3|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|45727|223.255.230.0/24|ID|apnic|2010-08-09|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 23.233.55.92|/GoldcoinCore:0.14.8/|70015|5645|23.233.0.0/17|CA|arin|2013-09-24|TEKSAVVY, CA
 24.36.97.121|/GoldcoinCore:0.14.5/|70015|7992|24.36.0.0/16|CA|arin|2004-02-09|COGECOWAVE, CA
