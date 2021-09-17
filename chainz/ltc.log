@@ -17,6 +17,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.202.84.176|/MindexcoinCore:0.16.3/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.246.31.164|/LitecoinCore:0.17.1/|70015|4812|116.246.0.0/19|CN|apnic|2007-04-04|CHINANET-SH-AP China Telecom Group, CN
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 120.240.54.205|/WalletKit:0.1.0/|70015|56040|120.240.0.0/16|CN|apnic|2008-04-14|CMNET-GUANGDONG-AP China Mobile communications corporation, CN
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.40.220.204|/LitecoinCore:0.18.1/|70015|37963|121.40.0.0/15|CN|apnic|2006-05-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -98,6 +99,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 189.103.128.61|/B2CCoinCore:0.16.3/|70015|28573|189.103.128.0/21|BR|lacnic|2008-02-27|CLARO S.A., BR
 189.128.30.6|/NBitcoin:5.0.49/|70012|8151|189.128.24.0/21|MX|lacnic|2006-05-12|Uninet S.A. de C.V., MX
 189.37.71.222|/NBitcoin:5.0.49/|70012|16735|189.37.0.0/17|BR|lacnic|2007-05-10|ALGAR TELECOM SA, BR
+189.46.122.116|/B2CCoinCore:0.16.3/|70015|27699|189.46.0.0/16|BR|lacnic|2007-06-22|TELEFONICA BRASIL S.A, BR
 190.94.243.1|/LitecoinCore:0.18.1/|70015|8053|190.94.224.0/19|VE|lacnic|2011-06-27|IFX Networks Venezuela C.A., VE
 191.205.125.125|/NBitcoin:5.0.49/|70012|27699|191.205.0.0/16|BR|lacnic|2013-11-18|TELEFONICA BRASIL S.A, BR
 193.106.60.145|/CounosXCore:0.17.2/|70015|50281|193.106.60.0/22|UA|ripencc|2009-12-10|ISP6-6-AS, UA
@@ -123,7 +125,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.238.227.188|/LitecoinCore:0.16.3/|70015|14618|3.224.0.0/12|US|arin|2018-06-25|AMAZON-AES, US
 31.128.159.128|/LitecoinCore:0.18.1/|70015|51032|31.128.128.0/19|RU|ripencc|2011-03-03|NEVOD-AS, RU
 31.134.138.178|/LitecoinCore:0.18.1/|70015|42668|31.134.128.0/18|RU|ripencc|2011-05-12|NEVALINK-AS, RU
-34.201.114.34|/LitecoinCore:0.13.2/|70015|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 34.233.95.55|/bitcore:8.25.12/|70011|14618|34.224.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 35.162.126.176|/LitecoinCore:0.17.1/|70015|16509|35.160.0.0/13|US|arin|2016-08-09|AMAZON-02, US
 37.187.29.140|/LitecoinCore:0.18.1/|70015|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
@@ -158,7 +159,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
 52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.196.0.0/14|US|arin|2015-09-02|AMAZON-02, US
 52.207.245.154|/LitecoinCore:0.18.1/|70015|14618|52.200.0.0/13|US|arin|2015-09-02|AMAZON-AES, US
-52.43.255.93|/LitecoinCore:0.17.1/|70015|16509|52.40.0.0/14|US|arin|1991-12-19|AMAZON-02, US
 54.161.240.184|/Dain:0.1.0/|70003|14618|54.160.0.0/14|US|arin|2014-10-23|AMAZON-AES, US
 54.179.163.172|/MindexcoinCore:0.18.1/|70015|16509|54.179.128.0/18|US|arin|2014-10-23|AMAZON-02, US
 54.183.97.89|/LitecoinCore:0.18.1/|70015|16509|54.183.0.0/17|US|arin|2014-10-23|AMAZON-02, US
@@ -182,7 +182,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.112.160.209|/loaf-android:175/|70015|9051|82.112.160.0/21|LB|ripencc|2011-08-26|Beirut-Lebanon, LB
 82.42.174.27|/LitecoinCore:0.18.1/|70015|5089|82.42.0.0/16|GB|ripencc|2003-01-31|NTL, GB
 82.73.244.153|/LitecoinCore:0.18.1/|70015|33915|82.72.0.0/15|NL|ripencc|2003-07-04|TNF-AS, NL
-83.137.6.114|/LitecoinCore:0.18.1/|70015|31404|83.137.6.0/24|GB|ripencc|2004-04-27|LYCATEL-AS, GB
 83.220.238.131|/loaf-android:175/|70015|16345|83.220.236.0/22|RU|ripencc|2004-04-07|BEE-AS Russia, RU
 83.245.249.21|/loaf-android:175/|70015|719|83.245.128.0/17|FI|ripencc|2004-04-15|ELISA-AS Helsinki, Finland, FI
 83.251.81.167|/BitcoinKit:0.1.0/|70015|39651|83.248.0.0/13|SE|ripencc|2004-03-04|TELE2-FIXED-SWEDEN, SE
