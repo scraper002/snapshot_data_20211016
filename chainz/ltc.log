@@ -16,6 +16,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.40.220.204|/LitecoinCore:0.18.1/|70015|37963|121.40.0.0/15|CN|apnic|2006-05-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+13.229.236.58|/LitecoinCore:0.18.1/|70015|16509|13.228.0.0/15|US|arin|2019-10-01|AMAZON-02, US
 13.237.232.32|/LitecoinCore:0.18.1/|70015|16509|13.236.0.0/14|US|arin|2019-10-01|AMAZON-02, US
 134.209.192.211|/CounosXCore:0.17.2/|70015|14061|134.209.192.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
 139.5.218.218|/LitecoinCore:0.18.1/|70015|17882|139.5.218.0/24|MN|apnic|2016-03-30|ASN-MCS-AP # AS-MCS-AP CONVERTED TO ASN-MCS-AP FOR RPSL COMPLIANCE The first E-commerce and TriplePlay Service ISP in Mongolia., MN
@@ -74,6 +75,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.82.203.241|/LitecoinCore:0.17.1/|70015|60117|185.82.203.0/24|AE|ripencc|2014-12-31|HS, AE
 185.83.214.69|/LitecoinCore:0.14.2/|70015|58110|185.83.214.0/24|PT|ripencc|2015-01-13|IPVOLUME, CH
 186.194.115.194|/NBitcoin:5.0.49/|70012|263292|186.194.114.0/23|BR|lacnic|2012-01-17|L E M TELECOMUNICACOES LTDA -ME, BR
+187.122.124.116|/B2CCoinCore:0.16.3/|70015|28573|187.122.0.0/17|BR|lacnic|2010-03-01|CLARO S.A., BR
 187.18.122.92|/B2CCoinCore:0.16.3/|70015|22689|187.18.112.0/20|BR|lacnic|2008-12-09|Sercomtel Participacoes S.A., BR
 187.5.240.199|/NBitcoin:5.0.49/|70012|8167|187.5.192.0/18|BR|lacnic|2008-07-28|Brasil Telecom SA - Filial Distrito Federal, BR
 187.67.87.32|/B2CCoinCore:0.16.3/|70015|28573|187.67.0.0/16|BR|lacnic|2009-06-10|CLARO S.A., BR
@@ -127,7 +129,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 41.214.84.162|/BitcoinKit:0.1.0/|70015|8346|41.214.84.0/23|SN|afrinic|2009-01-23|SONATEL-AS Autonomous System, EU
 42.106.1.142|/loaf-android:175/|70015|38266|42.106.0.0/22|IN|apnic|2011-02-10|VODAFONE-IN Vodafone India Ltd., IN
 42.191.188.240|/BitcoinKit:0.1.0/|70015|4788|42.188.0.0/14|MY|apnic|2011-03-09|TMNET-AS-AP TM Net, Internet Service Provider, MY
-45.188.194.28|/B2CCoinCore:0.16.3/|70015|269599|45.188.194.0/23|BR|lacnic|2019-11-29|Digiplan Comercio De Equipamentos de Informatica L, BR
 45.236.246.8|/B2CCoinCore:0.16.3/|70015|266805|45.236.246.0/24|PY|lacnic|2018-05-21|NETI SIEMPRE CONECTADO, PY
 46.101.235.143|/bridgecoinCore:1.0.3/|70015|14061|46.101.128.0/17|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
 46.53.249.13|/LitecoinCore:0.18.1/|70015|42772|46.53.248.0/21|BY|ripencc|2010-08-24|A1-BY-AS, BY
@@ -167,7 +168,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.194.199.87|/LitecoinCore:0.18.1/|70015|15557|77.192.0.0/12|FR|ripencc|2006-11-30|LDCOMNET, FR
 78.165.64.66|/LitecoinCore:0.18.1/|70015|9121|78.165.0.0/17|TR|ripencc|2007-05-01|TTNET, TR
 81.0.34.87|/NBitcoin:5.0.49/|70012|15704|81.0.0.0/18|ES|ripencc|2001-11-30|AS15704, ES
-81.10.174.51|/WalletKit:0.1.0/|70015|12605|81.10.128.0/17|AT|ripencc|2002-04-16|LIWEST-AT Linz, Austria, AT
 82.42.174.27|/LitecoinCore:0.18.1/|70015|5089|82.42.0.0/16|GB|ripencc|2003-01-31|NTL, GB
 84.123.37.242|/NBitcoin:5.0.49/|70012|6739|84.123.0.0/16|ES|ripencc|2004-04-15|ONO-AS Cableuropa - ONO, ES
 85.117.102.7|/LitecoinCore:0.18.1/|70015|29555|85.117.102.0/24|KZ|ripencc|2005-03-24|Tele2 Kazakhstan, KZ
@@ -177,7 +177,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.198.207.38|/LitecoinCore:0.18.1/|70015|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.80.187.187|/litecoin-seeder:0.01/|70002|63949|88.80.184.0/21|US|ripencc|2005-11-30|LINODE-AP Linode, LLC, US
 89.230.66.44|/BitcoinKit:0.1.0/|70015|21021|89.230.0.0/16|PL|ripencc|2006-04-21|MULTIMEDIA-AS Cable DTV Internet Voice Provider in Poland., PL
-89.246.121.155|/BitcoinKit:0.1.0/|70015|8881|89.246.121.0/24|DE|ripencc|2006-05-04|VERSATEL, DE
 90.170.114.127|/LitecoinCore:0.18.1/|70015|12479|90.170.112.0/22|ES|ripencc|2006-09-12|UNI2-AS, ES
 91.108.0.170|/WalletKit:0.1.0/|70015|42065|91.108.0.0/22|AG|ripencc|2012-06-15|ETELECOM-AS, RU
 91.193.181.3|/LitecoinCore:0.16.3/|70015|12722|91.193.180.0/22|GB|ripencc|2018-04-18|RECONN, RU
