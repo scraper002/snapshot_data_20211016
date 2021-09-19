@@ -13,7 +13,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.7.245.182|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4134|116.4.0.0/14|CN|apnic|2007-03-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 122.199.28.233|/Satoshi:0.8.6/Peercoin:0.6.1/|70001|38195|122.199.28.0/24|AU|apnic|2006-09-19|SUPERLOOP-AS-AP Superloop, AU
 122.51.249.99|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|45090|122.51.192.0/18|CN|apnic|2006-07-19|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
-123.120.173.209|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|4808|123.120.128.0/18|CN|apnic|2007-01-29|CHINA169-BJ China Unicom Beijing Province Network, CN
 128.75.158.105|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|8402|128.75.158.0/23|RU|ripencc|2011-11-22|CORBINA-AS OJSC Vimpelcom, RU
 135.181.164.189|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.98.157|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
@@ -40,6 +39,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.4.64.243|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|27745|190.4.64.0/24|BQ|lacnic|2006-07-31|Telefonia Bonairiano N.V., BQ
 190.96.1.19|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
 194.75.83.180|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|6871|194.75.80.0/20|GB|ripencc|1996-10-16|PLUSNET UK Internet Service Provider, GB
+195.138.71.80|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|6876|195.138.64.0/19|UA|ripencc|1997-02-25|TENET-AS, UA
 198.53.147.49|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|852|198.53.0.0/16|CA|arin|1993-01-27|TELUS Communications, CA
 206.189.90.171|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|14061|206.189.80.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
 212.55.98.196|/Satoshi:0.8.6/Peercoin:0.6.3/|70001|12389|212.55.96.0/19|RU|ripencc|2006-07-14|ROSTELECOM-AS, RU
@@ -96,12 +96,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.4.127.198|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|5617|83.0.0.0/13|PL|ripencc|2003-12-03|TPNET, PL
 83.85.142.36|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 83.85.55.181|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
+84.17.45.27|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|60068|84.17.44.0/23|GB|ripencc|2004-07-23|CDN77 ^_^, GB
 84.187.135.74|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.254.103.159|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|8758|84.254.96.0/20|CH|ripencc|2004-10-06|IWAY, CH
 85.25.202.57|/Satoshi:0.6.3/Peercoin:0.5.4/|60006|8972|85.25.192.0/20|DE|ripencc|2005-12-05|GD-EMEA-DC-SXB1, DE
 86.150.182.173|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|2856|86.128.0.0/11|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 87.2.37.30|/Satoshi:0.8.6/Peercoin:0.6.1/|70001|3269|87.2.0.0/16|IT|ripencc|2005-07-13|ASN-IBSNAZ, IT
 88.126.202.24|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
+89.187.164.93|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|60068|89.187.164.0/24|CZ|ripencc|2006-04-28|CDN77 ^_^, GB
 89.78.211.165|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|6830|89.72.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 91.150.178.44|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|42673|91.150.160.0/19|PL|ripencc|2007-01-12|SKYWARE-AS, PL
 91.152.120.76|/Satoshi:0.20.1/Peercoin:0.10.1/|70015|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
