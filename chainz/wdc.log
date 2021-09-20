@@ -5,7 +5,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.49.7.226|/Worldcoin Global:0.10.4.1/|70003|2860|109.49.0.0/18|PT|ripencc|2009-10-19|NOS_COMUNICACOES, PT
 112.104.143.133|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|4780|112.104.128.0/19|TW|apnic|2009-01-13|SEEDNET Digital United Inc., TW
 112.74.45.139|/LitecoinCore:0.18.1/|70015|37963|112.74.0.0/17|CN|apnic|2008-12-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-113.87.131.159|/WorldCoinJ:0.11SNAPSHOT/Worldcoin Wallet:1.0.0/|75000|4134|113.64.0.0/11|CN|apnic|2008-11-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 118.163.120.175|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.123.135.100|/WorldCoinJ:0.11SNAPSHOT/Worldcoin Wallet:1.0.0/|75000|4134|119.120.0.0/13|CN|apnic|2008-02-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
@@ -13,6 +12,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 120.78.65.86|/WorldcoinFoundation:0.8.7.5/|70002|37963|120.78.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 124.130.30.127|/Worldcoin Global:0.10.4.1/|70003|4837|124.128.0.0/13|CN|apnic|2006-02-24|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 128.199.91.96|/btcwire:0.5.0/bitmarkdpaymentlightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
+13.237.232.32|/LitecoinCore:0.18.1/|70015|16509|13.236.0.0/14|US|arin|2019-10-01|AMAZON-02, US
 134.175.52.189|/btcseeder:0.0001/|70013|45090|134.175.48.0/20|CN|apnic|1989-06-28|CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 135.148.3.218|/LitecoinCore:0.18.1/|70015|16276|135.148.0.0/17|US|arin|2020-09-28|OVH, FR
 135.148.55.191|/LitecoinCore:0.16.3/|70015|16276|135.148.0.0/17|US|arin|2020-09-28|OVH, FR
@@ -107,15 +107,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.56.5.67|/LitecoinCore:0.18.1/|70015|6830|77.56.0.0/15|CH|ripencc|2006-10-19|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 78.46.46.22|/LitecoinCore:0.18.1/|70015|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 8.131.54.186|/LitecoinCore:0.18.1/|70015|37963|8.131.0.0/16|SG|apnic|1992-12-01|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
-8.135.49.172|/LitecoinCore:0.18.1/|70015|37963|8.135.0.0/17|SG|apnic|1992-12-01|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 82.64.185.60|/WorldcoinFoundation:0.8.7.5/|70002|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.65.33.15|/LitecoinCore:0.18.1/|70015|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 85.249.43.86|/WorldcoinFoundation:0.8.7.5/|70002|8402|85.249.32.0/19|RU|ripencc|2005-01-24|CORBINA-AS OJSC Vimpelcom, RU
 86.100.49.209|/Worldcoin Global:0.10.4.1/|70003|39007|86.100.0.0/17|LT|ripencc|2005-05-23|BALTICUM-TV-AS, LT
 88.131.213.108|/Worldcoin Global:0.10.4.1/|70003|1257|88.131.0.0/16|SE|ripencc|2005-10-24|TELE2, EU
 88.99.150.13|/LitecoinCore:0.16.3/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
-88.99.151.67|/LitecoinCore:0.16.3/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
-91.203.197.94|/Worldcoin Global:0.10.4.1/|70003|47156|91.203.196.0/22|RU|ripencc|2008-05-05|MALNET-AS, RU
 92.38.92.134|/Worldcoin Global:0.10.4.1/|70003|209954|92.38.92.0/24|CZ|ripencc|2008-02-01|STAR-TELECOM-AS, RU
 93.228.74.14|/WorldcoinFoundation:0.8.7.5/|70002|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.130.179.91|/LitecoinCore:0.17.1/|70015|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
