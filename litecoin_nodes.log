@@ -34,7 +34,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.236.88.130|9333|/LitecoinCore:0.17.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
 109.236.88.245|9333|/LitecoinCore:0.15.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
 109.236.88.254|9333|/LitecoinCore:0.18.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
-109.254.43.114|9333|/Satoshi:0.8.7.2/|20590|109.254.32.0/20|RU|ripencc|2009-12-10|DEC-AS, UA
 109.67.30.182|9333|/LitecoinCore:0.17.1/|8551|109.67.30.0/24|IL|ripencc|2009-08-10|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
 109.87.166.145|9333|/LitecoinCore:0.18.1/|13188|109.87.166.0/24|UA|ripencc|2009-08-20|TRIOLAN, UA
 111.108.29.123|9513|/Satoshi:0.8.7.2/|2516|111.108.0.0/16|JP|apnic|2009-06-12|KDDI KDDI CORPORATION, JP
@@ -58,6 +57,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.130.41.250|9333|/LitecoinCore:0.16.0/|3786|118.128.0.0/14|KR|apnic|2007-09-12|LGDACOM LG DACOM Corporation, KR
 118.163.120.179|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.74.161|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.23.109.19|9333|/LitecoinCore:0.16.3/|37963|119.23.0.0/17|CN|apnic|2007-12-03|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.77.249.96|9333|/LitecoinCore:0.18.1/|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 120.78.127.243|9333|/LitecoinCore:0.16.3/|37963|120.78.0.0/16|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -286,7 +286,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.51.177.2|9333|/LitecoinCore:0.18.1/|5650|173.51.176.0/23|US|arin|2008-10-09|FRONTIER-FRTR, US
 173.72.18.211|9333|/LitecoinCore:0.18.1/|701|173.72.0.0/17|US|arin|2008-08-11|UUNET, US
 173.82.46.189|9432|/Satoshi:0.8.6.5/|35916|173.82.0.0/16|US|arin|2008-11-14|MULTA-ASN1, US
-174.23.187.129|9333|/LitecoinCore:0.18.1/|209|174.23.0.0/16|US|arin|2009-02-17|CENTURYLINK-US-LEGACY-QWEST, US
 174.67.178.122|9333|/LitecoinCore:0.18.1/|22773|174.67.176.0/20|US|arin|2009-02-19|ASN-CXA-ALL-CCI-22773-RDC, US
 176.126.167.10|9333|/LitecoinCore:0.18.1/|59684|176.126.167.0/24|KG|ripencc|2012-09-14|ASHOSTER, KG
 176.223.132.108|9333|/LitecoinCore:0.16.3/|212531|176.223.128.0/20|LT|ripencc|2011-11-29|INTERNETO-VIZIJA, LT
@@ -488,6 +487,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:7e8:c81c:a400:1e69:7aff:fe6f:200f|9333|/LitecoinCore:0.18.1/|6661|2001:7e8::/32|LU|ripencc|2002-06-05|EPT-LU Entreprise des P. et T. Luxembourg, LU
 2001:8b0:13cf:e991:6a5b:35ff:febb:e101|9333|/LitecoinCore:0.18.1/|20712|2001:8b0::/32|GB|ripencc|2002-08-20|AS20712 Andrews & Arnold Ltd, GB
 2001:b011:300e:51b:6d4:c4ff:fe53:23fd|9333|/LitecoinCore:0.18.1/|3462|2001:b011:3000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
+2001:b011:800e:358d:bd22:5596:53e6:de48|9333|/LitecoinCore:0.18.1/|3462|2001:b011:8000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b030:2422::2475|9333|/LitecoinCore:0.18.1/|3462|2001:b030:2000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:bc8:47a4:1119::1|9532|/LitecoinCore:0.18.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:47ac:4e::1|8333|/LitecoinCore:0.17.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
@@ -1124,6 +1124,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.56.5.67|9333|/LitecoinCore:0.18.1/|6830|77.56.0.0/15|CH|ripencc|2006-10-19|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 77.57.204.50|9333|/LitecoinCore:0.18.1/|6830|77.56.0.0/15|CH|ripencc|2006-10-19|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 78.129.165.63|9333|/LitecoinCore:0.18.1/|20860|78.129.128.0/17|GB|ripencc|2007-04-18|IOMART-AS, GB
+78.29.32.227|9333|/LitecoinCore:0.18.1/|8369|78.29.32.0/19|RU|ripencc|2007-09-20|INTERSVYAZ-AS 38-B, Komsomolsky prospekt, RU
 78.42.183.100|9333|/LitecoinCore:0.18.1/|3209|78.42.0.0/16|DE|ripencc|2007-03-23|VODANET International IP-Backbone of Vodafone, DE
 78.44.250.93|9333|/LitecoinCore:0.18.1/|16019|78.44.0.0/16|CZ|ripencc|2007-04-13|VODAFONE-CZ-AS, CZ
 78.46.189.221|9333|/LitecoinCore:0.18.1/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
