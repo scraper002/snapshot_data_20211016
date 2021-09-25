@@ -19,6 +19,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 124.148.21.35|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|4739|124.148.20.0/22|AU|apnic|2006-03-02|INTERNODE-AS Internode Pty Ltd, AU
 125.168.40.74|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|9443|125.168.0.0/16|AU|apnic|2005-09-08|VOCUS-RETAIL-AU Vocus Retail, AU
 133.32.232.141|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|2519|133.32.224.0/19|JP|apnic|1997-03-01|VECTANT ARTERIA Networks Corporation, JP
+134.209.127.31|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|14061|134.209.112.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
 134.3.207.240|/Satoshi:0.8.6/Peercoin:0.7.2/|70002|3209|134.3.128.0/17|DE|ripencc|2011-11-01|VODANET International IP-Backbone of Vodafone, DE
 135.129.114.204|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|36492|135.129.114.0/24|US|arin|2021-03-23|GOOGLEWIFI, US
 135.181.164.189|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
@@ -41,7 +42,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.9.63.112|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
 178.19.40.206|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|202147|178.19.40.0/22|ES|ripencc|2010-04-29|VOZPLUS, ES
 178.27.111.205|/Satoshi:0.20.2/Peercoin:0.10.2/|70015|3209|178.24.0.0/14|DE|ripencc|2010-02-17|VODANET International IP-Backbone of Vodafone, DE
-179.19.226.22|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|271773|179.19.224.0/19|CO|lacnic|2014-02-19|PARTNERS TELECOM COLOMBIA SAS, CO
 179.19.232.249|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|271773|179.19.224.0/19|CO|lacnic|2014-02-19|PARTNERS TELECOM COLOMBIA SAS, CO
 180.248.241.87|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7713|180.248.240.0/21|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 184.16.187.211|/Satoshi:0.8.6/Peercoin:0.6.2/|70001|5650|184.16.0.0/14|US|arin|2009-09-22|FRONTIER-FRTR, US
@@ -96,6 +96,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 36.75.64.156|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7713|36.75.64.0/22|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 36.75.64.200|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7713|36.75.64.0/22|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 37.120.153.97|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|9009|37.120.153.0/24|RO|ripencc|2012-02-13|M247, GB
+37.120.192.23|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|9009|37.120.192.0/24|RO|ripencc|2012-02-13|M247, GB
 37.171.90.110|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 37.247.22.53|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|33885|37.247.0.0/19|SE|ripencc|2012-04-17|OWNIT Katarinavagen 15, SE
 37.5.251.55|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3209|37.4.0.0/15|DE|ripencc|2011-12-09|VODANET International IP-Backbone of Vodafone, DE
@@ -178,7 +179,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.27.46.48|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|8402|95.26.0.0/15|RU|ripencc|2008-10-10|CORBINA-AS OJSC Vimpelcom, RU
 95.65.35.43|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|31252|95.65.0.0/17|MD|ripencc|2008-10-28|STARNET-AS, MD
 97.113.187.57|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|209|97.113.0.0/16|US|arin|2007-12-19|CENTURYLINK-US-LEGACY-QWEST, US
-97.127.214.31|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|209|97.112.0.0/12|US|arin|2007-12-19|CENTURYLINK-US-LEGACY-QWEST, US
 97.75.255.13|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|33234|97.75.255.0/24|US|arin|2009-12-03|SJOBERGS-INC, US
 98.212.200.200|/Satoshi:0.8.6/Peercoin:0.6.3/|70001|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.234.117.52|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
