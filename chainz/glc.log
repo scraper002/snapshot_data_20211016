@@ -20,6 +20,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.208.205.162|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|134651|103.208.205.0/24|ID|apnic|2016-02-09|YETOYA-AS-ID PT Yetoya Solusi Indonesia, ID
 103.78.115.128|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|131111|103.78.115.0/24|ID|apnic|2016-11-02|CEPATNET-AS-ID PT Mora Telematika Indonesia, ID
 108.24.98.133|/GoldcoinCore:0.14.8/|70015|701|108.24.0.0/16|US|arin|2009-06-05|UUNET, US
+110.136.214.16|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|110.136.208.0/21|ID|apnic|2009-04-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 112.215.174.209|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|24203|112.215.174.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
 112.215.219.96|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|112.215.219.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
 112.215.220.147|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|112.215.220.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
@@ -96,7 +97,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 14.0.165.90|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|38819|14.0.160.0/21|HK|apnic|2010-09-09|HKCSL-AS-AP HKCSL GPRS NETWORK, HK
 140.213.11.42|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|140.213.11.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 140.213.126.224|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|24203|140.213.126.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
-140.213.126.41|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|24203|140.213.126.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 140.213.127.134|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|140.213.127.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 140.213.127.56|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|140.213.127.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 140.213.127.92|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|24203|140.213.127.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
@@ -158,7 +158,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.1.76.50|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.83.132|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.2.36.120|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
-182.2.39.250|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000|23693|182.2.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.2.72.212|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000|23693|182.2.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.2.73.225|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|23693|182.2.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.2.75.141|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000|23693|182.2.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
@@ -215,6 +214,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.19.25.38|/GoldcoinCore:0.14.7/|70015|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
 86.100.49.209|/GoldcoinCore:0.14.7/|70015|39007|86.100.0.0/17|LT|ripencc|2005-05-23|BALTICUM-TV-AS, LT
 86.173.121.224|/GoldcoinCore:0.14.7/|70015|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
+87.249.142.46|/GoldcoinCore:0.14.8/|70015|34040|87.249.140.0/22|CZ|ripencc|2005-08-30|CZTTNET-AS, CZ
 89.64.102.101|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|6830|89.64.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 91.206.16.214|/GoldcoinCore:0.14.4/|70015|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 93.146.9.236|/GoldcoinCore:0.14.4/|70015|30722|93.146.0.0/16|IT|ripencc|2008-04-11|VODAFONE-IT-ASN, IT
