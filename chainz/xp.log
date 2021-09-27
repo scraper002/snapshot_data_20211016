@@ -74,6 +74,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.176.211.97|/eXperience Points Core:3.4.0.4/|70917|206092|193.176.211.0/24|NL|ripencc|2019-10-15|SECFIREWALLAS, GB
 195.216.219.33|/eXperience Points Core:5.2.0.2/|70922|136787|195.216.219.0/24|DE|ripencc|2019-11-25|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
 202.8.211.76|/eXperience Points Core:3.4.0.4/|70917|7524|202.8.208.0/21|JP|apnic|2004-06-08|HANSHIN ITEC HANKYU HANSHIN CO.,LTD., JP
+203.141.137.28|/eXperience Points Core:3.4.0.2/|70917|2514|203.141.128.0/19|JP|apnic|1996-05-21|INFOSPHERE NTT PC Communications, Inc., JP
 207.180.200.78|/eXperience Points Core:3.4.0.2/|70917|51167|207.180.200.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.216.178|/eXperience Points Core:3.4.0.2/|70917|51167|207.180.216.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 210.198.201.165|/eXperience Points Core:3.4.0.1/|70917|2516|210.198.128.0/17|JP|apnic|1999-06-09|KDDI KDDI CORPORATION, JP
@@ -93,6 +94,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.76.58.216|/eXperience Points Core:5.2.0.2/|70922|20473|45.76.56.0/22|US|arin|2015-04-24|AS-CHOOPA, US
 46.127.13.11|/eXperience Points Core:5.2.0.2/|70922|6830|46.127.0.0/16|CH|ripencc|2010-06-01|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 5.249.122.122|/eXperience Points Core:3.4.0.3/|70917|12353|5.249.0.0/17|PT|ripencc|2012-09-13|VODAFONE-PT Vodafone Portugal, PT
+5.29.192.91|/eXperience Points Core:3.4.0.2/|70917|12849|5.29.192.0/20|IL|ripencc|2012-05-08|HOTNET-IL AMS-IX Admin LAN, IL
 51.222.8.123|/eXperience Points Core:3.4.0.3/|70917|16276|51.222.0.0/16|CA|arin|2020-03-31|OVH, FR
 51.83.36.212|/eXperience Points Core:3.4.0.4/|70917|16276|51.83.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.89.152.19|/eXperience Points Core:3.4.0.4/|70917|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -104,11 +106,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.171.162.106|/eXperience Points Core:3.4.0.4/|70917|51167|62.171.162.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.166.121|/eXperience Points Core:3.4.0.3/|70917|51167|62.171.166.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.178.22|/eXperience Points Core:3.4.0.3/|70917|51167|62.171.178.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.183.119|/eXperience Points Core:3.4.0.4/|70917|51167|62.171.182.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.184.227|/eXperience Points Core:3.4.0.4/|70917|51167|62.171.184.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.186.243|/eXperience Points Core:3.4.0.3/|70917|51167|62.171.186.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.37.126.55|/eXperience Points Core:3.4.0.4/|70917|12479|62.37.124.0/22|ES|ripencc|2000-01-03|UNI2-AS, ES
 64.66.194.26|/eXperience Points Core:5.2.0.2/|70922|53913|64.66.192.0/19|CA|arin|2018-04-30|CITY-WIDE-COMMUNICATIONS, CA
+68.183.182.205|/eXperience Points Core:3.4.0.3/|70917|14061|68.183.176.0/20|US|arin|2018-09-18|DIGITALOCEAN-ASN, US
 73.127.211.235|/eXperience Points Core:5.2.0.2/|70922|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.205.157.48|/eXperience Points Core:3.4.0.2/|70917|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 75.119.136.92|/eXperience Points Core:3.4.0.4/|70917|51167|75.119.128.0/19|DE|ripencc|2006-05-12|CONTABO, DE
@@ -120,7 +122,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.0.91.22|/eXperience Points Core:5.2.0.2/|70922|3303|85.0.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom Switzerland Ltd, CH
 85.217.170.214|???|0|44901|85.217.170.0/24|CY|ripencc|2005-01-18|BELCLOUD, BG
 86.92.240.22|/eXperience Points Core:3.4.0.2/|70917|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
-92.253.204.195|???|0|204889|92.253.204.0/24|CZ|ripencc|2007-12-03|TOBI-AS, UA
+92.253.204.195|/eXperience Points Core:3.4.0.4/|70917|204889|92.253.204.0/24|CZ|ripencc|2007-12-03|TOBI-AS, UA
 93.78.165.199|/eXperience Points Core:3.4.0.4/|70917|25229|93.78.128.0/18|UA|ripencc|2008-04-04|VOLIA-AS, UA
 95.72.20.174|/eXperience Points Core:3.4.0.2/|70917|12389|95.72.16.0/21|RU|ripencc|2008-11-28|ROSTELECOM-AS, RU
 95.78.156.132|/eXperience Points Core:3.4.0.3/|70917|41661|95.78.128.0/18|RU|ripencc|2008-12-10|ERTH-CHEL-AS, RU
