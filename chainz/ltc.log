@@ -9,6 +9,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.236.57.24|/Node:0.8.7.2/|70002|14061|104.236.0.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
 104.248.14.198|/LitecoinCore:0.18.1/|70015|14061|104.248.0.0/20|US|arin|2018-08-06|DIGITALOCEAN-ASN, US
 107.191.119.170|/DefcoinCore:1.0.0/|70015|3842|107.191.116.0/22|US|arin|2014-05-08|RAMNODE, US
+108.61.179.131|/litecoinj:0.15-SNAPSHOT/|70002|20473|108.61.178.0/23|US|arin|2010-12-08|AS-CHOOPA, US
 111.252.170.206|/litecoin-seeder:0.01/|70002|3462|111.252.0.0/16|TW|apnic|2009-07-23|HINET Data Communication Business Group, TW
 111.90.145.106|/LitecoinCore:0.18.1/|70015|45839|111.90.144.0/21|MY|apnic|2009-06-17|SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY
 112.104.143.133|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|4780|112.104.128.0/19|TW|apnic|2009-01-13|SEEDNET Digital United Inc., TW
@@ -16,7 +17,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.49.126.32|/LitecoinCore:0.18.1/|70015|4760|116.49.96.0/19|HK|apnic|2007-03-16|HKTIMS-AP HKT Limited, HK
 117.60.38.54|/LitecoinCore:0.18.1/|70015|4134|117.60.0.0/14|CN|apnic|2007-07-04|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
-118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.40.220.204|/LitecoinCore:0.18.1/|70015|37963|121.40.0.0/15|CN|apnic|2006-05-24|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.99.108.189|/BitcoinKit:0.1.0/|70015|9790|121.98.0.0/15|NZ|apnic|2010-08-26|VOCUSGROUPNZ VocusGroup, NZ
@@ -114,7 +114,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.238.227.188|/LitecoinCore:0.16.3/|70015|14618|3.224.0.0/12|US|arin|2018-06-25|AMAZON-AES, US
 3.80.88.244|/Dain:0.1.0/|70003|14618|3.80.0.0/12|US|arin|2017-12-20|AMAZON-AES, US
-31.210.227.236|/WalletKit:0.1.0/|70015|42666|31.210.224.0/21|ES|ripencc|2011-05-05|EMBOU Embou Nuevas Tecnologias, ES
 34.233.95.55|/bitcore:8.25.12/|70011|14618|34.224.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 35.162.126.176|/LitecoinCore:0.17.1/|70015|16509|35.160.0.0/13|US|arin|2016-08-09|AMAZON-02, US
 37.120.233.118|/BitcoinKit:0.1.0/|70015|9009|37.120.233.0/24|RO|ripencc|2012-02-13|M247, GB
@@ -135,6 +134,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.114.4.254|/WalletKit:0.1.0/|70015|6805|46.114.0.0/15|DE|ripencc|2010-05-11|TDDE-ASN1, DE
 46.36.40.44|/litecoinj:0.15.2-SNAPSHOT/|70002|42422|46.36.40.0/24|CZ|ripencc|2010-10-25|SECURITYNET-AS, CZ
 46.98.128.48|/LitecoinCore:0.18.1/|70015|15377|46.98.0.0/16|UA|ripencc|2010-06-03|FREGAT, UA
+47.149.49.24|/BitcoinKit:0.1.0/|70015|5650|47.144.0.0/13|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.213.222.149|/LitecoinCore:0.18.1/|70015|19108|47.213.0.0/16|US|arin|2015-09-08|SUDDENLINK-COMMUNICATIONS, US
 47.89.189.197|/LitecoinCore:0.17.1/|70015|45102|47.89.160.0/19|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba US Technology Co., Ltd., CN
 47.90.245.73|/LitecoinCore:0.17.1/|70015|45102|47.90.192.0/18|US|arin|2015-05-18|CNNIC-ALIBABA-US-NET-AP Alibaba US Technology Co., Ltd., CN
@@ -194,4 +194,3 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.162.57|/CounosXCore:0.17.2/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.196.157|/LitecoinCore:0.16.3/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.29.57.201|/loaf-android:175/|70015|8402|95.29.56.0/22|RU|ripencc|2008-10-10|CORBINA-AS OJSC Vimpelcom, RU
-99.106.205.185|/BitcoinKit:0.1.0/|70015|7018|99.106.0.0/15|US|arin|2008-02-25|ATT-INTERNET4, US
