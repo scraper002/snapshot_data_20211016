@@ -14,6 +14,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.104.143.133|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|4780|112.104.128.0/19|TW|apnic|2009-01-13|SEEDNET Digital United Inc., TW
 113.106.171.6|/LitecoinCore:0.18.1/|70015|4134|113.96.0.0/12|CN|apnic|2008-11-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 116.49.126.32|/LitecoinCore:0.18.1/|70015|4760|116.49.96.0/19|HK|apnic|2007-03-16|HKTIMS-AP HKT Limited, HK
+117.60.38.54|/LitecoinCore:0.18.1/|70015|4134|117.60.0.0/14|CN|apnic|2007-07-04|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 120.77.249.96|/LitecoinCore:0.17.1/|70015|37963|120.77.128.0/17|CN|apnic|2008-03-27|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
@@ -23,7 +24,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 124.88.111.100|/Satoshi:0.8.6.1/|70002|4837|124.88.0.0/16|CN|apnic|2006-01-25|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 124.88.112.225|/LitecoinCore:0.18.1/|70015|4837|124.88.0.0/16|CN|apnic|2006-01-25|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
-128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 136.158.116.139|/loaf-android:175/|70015|17639|136.158.116.0/22|PH|apnic|2004-04-14|CONVERGE-AS Converge ICT Solutions Inc., PH
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
@@ -130,6 +130,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.172.64.154|/NBitcoin:5.0.49/|70012|268791|45.172.64.0/22|BR|lacnic|2019-03-18|E C de CANO, BR
 45.229.54.38|/B2CCoinCore:0.16.3/|70015|267124|45.229.54.0/24|BR|lacnic|2018-01-05|Paulino Perreira Dos Santos ME, BR
 45.70.165.25|/B2CCoinCore:0.16.3/|70015|267578|45.70.164.0/22|BR|lacnic|2017-09-11|WILLIAN MENDES DE OLIVEIRA ME, BR
+45.8.223.220|/LitecoinCore:0.18.1/|70015|4785|45.8.223.0/24|DE|ripencc|2019-04-16|XTOM-AS-JP xTom, JP
 45.8.223.235|/LitecoinCore:0.18.1/|70015|4785|45.8.223.0/24|DE|ripencc|2019-04-16|XTOM-AS-JP xTom, JP
 46.114.4.254|/WalletKit:0.1.0/|70015|6805|46.114.0.0/15|DE|ripencc|2010-05-11|TDDE-ASN1, DE
 46.36.40.44|/litecoinj:0.15.2-SNAPSHOT/|70002|42422|46.36.40.0/24|CZ|ripencc|2010-10-25|SECURITYNET-AS, CZ
@@ -160,7 +161,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.196.252.59|/Dain:0.1.0/|70003|14618|54.196.0.0/15|US|arin|2014-10-23|AMAZON-AES, US
 54.197.30.223|/LitecoinCore:0.13.2/|70015|14618|54.196.0.0/15|US|arin|2014-10-23|AMAZON-AES, US
 54.89.246.238|/LitecoinCore:0.18.1/|70015|14618|54.89.0.0/16|US|arin|2014-06-20|AMAZON-AES, US
-62.221.231.118|/NBitcoin:5.0.49/|70012|208988|62.221.228.0/22|DE|ripencc|2003-02-10|BUCHHOLZ-DIGITAL Buchholz Digital GmbH, DE
 64.225.4.210|/B2CCoinCore:0.16.3/|70015|14061|64.225.0.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
 66.168.162.156|/BitcoinKit:0.1.0/|70015|20115|66.168.160.0/20|US|arin|2001-09-12|CHARTER-20115, US
 66.205.102.207|/LitecoinCore:0.18.1/|70015|19108|66.205.96.0/19|US|arin|2003-02-10|SUDDENLINK-COMMUNICATIONS, US
