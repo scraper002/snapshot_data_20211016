@@ -312,6 +312,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.169.33.163|20860|109.169.0.0/18|GB|ripencc|2009-11-02|IOMART-AS, GB
 109.170.62.103|12714|109.170.0.0/17|RU|ripencc|2009-11-09|TI-AS Moscow, Russia, RU
 109.183.26.233|12767|109.183.0.0/17|CZ|ripencc|2009-09-29|PRAGONET-AS, CZ
+109.197.193.160|50716|109.197.192.0/21|RU|ripencc|2010-03-10|TELECOMRUNET, RU
 109.201.133.100|43350|109.201.128.0/19|NL|ripencc|2010-02-12|NFORCE, NL
 109.201.142.53|43350|109.201.128.0/19|NL|ripencc|2010-02-12|NFORCE, NL
 109.202.205.95|13030|109.202.192.0/19|CH|ripencc|2010-02-22|INIT7, CH
@@ -385,7 +386,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.213.34.100|133159|112.213.32.0/21|AU|apnic|2009-02-18|MAMMOTHMEDIA-AS-AP Mammoth Media Pty Ltd, AU
 112.213.37.232|133159|112.213.32.0/21|AU|apnic|2009-02-18|MAMMOTHMEDIA-AS-AP Mammoth Media Pty Ltd, AU
 113.161.52.138|45899|113.161.48.0/21|VN|apnic|2008-11-04|VNPT-AS-VN VNPT Corp, VN
-113.252.223.214|9304|113.252.192.0/18|HK|apnic|2008-12-18|HUTCHISON-AS-AP HGC Global Communications Limited, HK
 114.108.58.201|23563|114.108.56.0/22|KR|apnic|2008-05-20|SKB-VITSSEN-SUWON-AS-KR SK Broadband Co Ltd, KR
 114.199.75.111|45250|114.199.75.0/24|HK|apnic|2008-06-30|VOCOM-AP-AS Vocom International Telecommunications AP Area, TW
 114.23.164.80|56030|114.23.0.0/16|NZ|apnic|2011-01-10|VOYAGERNET-AS-AP Voyager Internet Ltd., NZ
@@ -422,7 +422,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.86.148|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.203.88.24|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.203.93.236|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
-116.80.79.95|2514|116.80.0.0/16|JP|apnic|2007-05-14|INFOSPHERE NTT PC Communications, Inc., JP
 116.83.217.28|2510|116.83.0.0/16|JP|apnic|2007-05-14|INFOWEB FUJITSU LIMITED, JP
 117.215.168.10|9829|117.215.160.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
 117.236.189.106|9829|117.236.176.0/20|IN|apnic|2007-08-01|BSNL-NIB National Internet Backbone, IN
@@ -448,6 +447,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 123.243.38.124|7545|123.243.38.0/24|AU|apnic|2007-02-14|TPG-INTERNET-AP TPG Telecom Limited, AU
 123.255.62.137|23655|123.255.32.0/19|NZ|apnic|2006-11-30|TWODEGREES-NZ-AS 2degrees Networks Limited, NZ
 123.30.128.138|7643|123.30.128.0/24|VN|apnic|2007-01-11|VNPT-AS-VN Vietnam Posts and Telecommunications VNPT, VN
+124.121.124.99|17552|124.121.64.0/18|TH|apnic|2006-02-16|TRUEONLINE-AS-AP True Online, TH
 124.18.228.216|18126|124.18.0.0/16|JP|apnic|2005-12-02|CTCX Chubu Telecommunications Company, Inc., JP
 124.182.83.140|1221|124.176.0.0/12|AU|apnic|2006-05-12|ASN-TELSTRA Telstra Corporation Ltd, AU
 124.187.161.65|1221|124.176.0.0/12|AU|apnic|2006-05-12|ASN-TELSTRA Telstra Corporation Ltd, AU
@@ -512,7 +512,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 130.61.50.97|31898|130.61.48.0/20|US|arin|2016-10-31|ORACLE-BMC-31898, US
 130.61.51.183|31898|130.61.48.0/20|US|arin|2016-10-31|ORACLE-BMC-31898, US
 130.61.57.96|31898|130.61.48.0/20|US|arin|2016-10-31|ORACLE-BMC-31898, US
-130.61.78.141|31898|130.61.72.0/21|US|arin|2016-10-31|ORACLE-BMC-31898, US
 130.61.98.119|31898|130.61.98.0/23|US|arin|2016-10-31|ORACLE-BMC-31898, US
 130.89.149.57|1133|130.89.0.0/16|NL|ripencc|1991-04-12|UTWENTE-AS University Twente, NL
 131.150.192.182|20115|131.150.192.0/18|US|arin|2017-11-27|CHARTER-20115, US
@@ -659,7 +658,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.162.245.120|63949|139.162.224.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 139.162.30.247|63949|139.162.0.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 139.162.35.57|63949|139.162.32.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
-139.162.41.140|63949|139.162.32.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 139.162.43.196|63949|139.162.32.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 139.162.47.184|63949|139.162.32.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 139.162.6.10|63949|139.162.0.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
@@ -733,7 +731,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 141.136.0.3|43513|141.136.0.0/21|LV|ripencc|2011-06-29|NANO-AS, LV
 141.136.52.7|16006|141.136.48.0/21|SK|ripencc|2011-06-29|ASN for Rupkki, SK
 141.14.220.177|680|141.14.0.0/16|DE|ripencc|1990-06-07|DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
-141.20.103.33|680|141.20.0.0/16|DE|ripencc|1990-06-07|DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
 141.20.33.69|680|141.20.0.0/16|DE|ripencc|1990-06-07|DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
 141.224.227.186|15435|141.224.192.0/18|NL|ripencc|1990-08-03|KABELFOON DELTA Fiber Nederland, NL
 141.239.148.100|36149|141.239.0.0/16|US|arin|1990-08-10|HAWAIIAN-TELCOM, US
@@ -911,6 +908,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 148.251.7.156|24940|148.251.0.0/16|DE|ripencc|1993-09-01|HETZNER-AS, DE
 148.251.75.247|24940|148.251.0.0/16|DE|ripencc|1993-09-01|HETZNER-AS, DE
 148.251.81.16|24940|148.251.0.0/16|DE|ripencc|1993-09-01|HETZNER-AS, DE
+148.3.84.87|12430|148.3.0.0/16|ES|ripencc|1993-09-01|VODAFONE_ES, ES
 148.63.180.161|12353|148.63.0.0/16|PT|ripencc|1991-04-11|VODAFONE-PT Vodafone Portugal, PT
 149.154.152.121|57169|149.154.152.0/24|AT|ripencc|2011-08-16|EDIS-AS-EU, AT
 149.154.152.227|57169|149.154.152.0/24|AT|ripencc|2011-08-16|EDIS-AS-EU, AT
@@ -924,7 +922,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.202.190.14|16276|149.202.0.0/16|FR|ripencc|1999-04-26|OVH, FR
 149.202.238.204|16276|149.202.0.0/16|FR|ripencc|1999-04-26|OVH, FR
 149.202.91.90|16276|149.202.0.0/16|FR|ripencc|1999-04-26|OVH, FR
-149.210.150.150|20857|149.210.128.0/17|NL|ripencc|2011-08-17|TRANSIP-AS Amsterdam, the Netherlands, NL
 149.210.248.195|20857|149.210.128.0/17|NL|ripencc|2011-08-17|TRANSIP-AS Amsterdam, the Netherlands, NL
 149.28.11.148|20473|149.28.8.0/21|US|arin|2018-05-04|AS-CHOOPA, US
 149.28.115.118|20473|149.28.112.0/20|US|arin|2018-05-04|AS-CHOOPA, US
@@ -1048,6 +1045,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 158.69.205.92|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 158.69.207.216|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 158.69.217.34|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
+159.100.254.121|61098|159.100.248.0/21|CH|ripencc|1992-03-31|EXOSCALE, CH
 159.118.149.12|11492|159.118.149.0/24|US|arin|1992-04-09|CABLEONE, US
 159.196.69.117|4764|159.196.68.0/22|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
 159.196.89.240|4764|159.196.88.0/23|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
@@ -1210,6 +1208,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 164.68.107.222|51167|164.68.106.0/23|DE|ripencc|1992-12-17|CONTABO, DE
 164.68.107.237|51167|164.68.106.0/23|DE|ripencc|1992-12-17|CONTABO, DE
 164.68.108.59|51167|164.68.108.0/23|DE|ripencc|1992-12-17|CONTABO, DE
+164.70.73.218|2514|164.70.64.0/18|JP|apnic|1992-12-17|INFOSPHERE NTT PC Communications, Inc., JP
 165.169.205.127|37002|165.169.192.0/20|RE|afrinic|2015-06-26|Reunicable, RE
 165.22.200.169|14061|165.22.192.0/20|US|arin|2018-10-16|DIGITALOCEAN-ASN, US
 165.22.230.164|14061|165.22.224.0/20|US|arin|2018-10-16|DIGITALOCEAN-ASN, US
@@ -1265,7 +1264,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 171.25.193.78|198093|171.25.193.0/24|SE|ripencc|2012-01-13|DFRI-AS Foreningen for digitala fri- och rattigheter, SE
 171.25.193.9|198093|171.25.193.0/24|SE|ripencc|2012-01-13|DFRI-AS Foreningen for digitala fri- och rattigheter, SE
 171.7.12.46|45758|171.7.0.0/16|TH|apnic|2011-03-07|TTBP-AS-AP Triple T Broadband Public Company Limited, TH
-171.97.16.20|17552|171.97.0.0/18|TH|apnic|2011-03-07|TRUEONLINE-AS-AP True Online, TH
 172.103.171.217|25668|172.103.128.0/17|CA|arin|2015-06-22|CIPHERKEY, CA
 172.104.13.77|63949|172.104.8.0/21|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
 172.104.131.38|63949|172.104.128.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
@@ -1468,7 +1466,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.36.150.246|39608|176.36.0.0/16|UA|ripencc|2011-05-20|LANETUA-AS, UA
 176.37.153.38|39608|176.37.0.0/16|UA|ripencc|2011-05-20|LANETUA-AS, UA
 176.53.90.26|42926|176.53.90.0/24|TR|ripencc|2011-05-26|RADORE, TR
-176.57.79.249|199634|176.57.72.0/21|RU|ripencc|2011-06-01|GTS-M, RU
 176.58.100.98|63949|176.58.96.0/19|US|ripencc|2011-06-06|LINODE-AP Linode, LLC, US
 176.58.110.66|63949|176.58.96.0/19|US|ripencc|2011-06-06|LINODE-AP Linode, LLC, US
 176.58.121.159|63949|176.58.96.0/19|US|ripencc|2011-06-06|LINODE-AP Linode, LLC, US
@@ -1734,7 +1731,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.112.146.159|44925|185.112.144.0/22|IS|ripencc|2015-08-06|THE-1984-AS, IS
 185.112.146.188|44925|185.112.144.0/22|IS|ripencc|2015-08-06|THE-1984-AS, IS
 185.112.146.73|44925|185.112.144.0/22|IS|ripencc|2015-08-06|THE-1984-AS, IS
-185.112.146.85|44925|185.112.144.0/22|IS|ripencc|2015-08-06|THE-1984-AS, IS
 185.112.157.135|47381|185.112.156.0/22|HU|ripencc|2015-08-07|SERVERGARDEN-AS Servergarden Kft., HU
 185.113.143.86|204094|185.113.143.0/24|PT|ripencc|2015-08-14|I4W, PT
 185.113.143.87|204094|185.113.143.0/24|PT|ripencc|2015-08-14|I4W, PT
@@ -2991,6 +2987,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:08d8:1801:028d:0000:0000:0000:0001|8560|2001:8d8::/32|DE|ripencc|2002-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2001:08d8:1801:02a0:0000:0000:0000:0001|8560|2001:8d8::/32|DE|ripencc|2002-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2001:08d8:1801:0374:0000:0000:0000:0001|8560|2001:8d8::/32|DE|ripencc|2002-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+2001:08d8:1801:058b:0000:0000:0000:0001|8560|2001:8d8::/32|DE|ripencc|2002-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2001:08d8:1801:05ce:0000:0000:0000:0001|8560|2001:8d8::/32|DE|ripencc|2002-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2001:08d8:1801:803a:0000:0000:0000:0001|8560|2001:8d8::/32|DE|ripencc|2002-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2001:08d8:1801:82ca:0000:0000:0000:0001|8560|2001:8d8::/32|DE|ripencc|2002-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
@@ -3016,6 +3013,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:0ba0:1800:0029:0000:0000:0000:0001|8560|2001:ba0::/32|ES|ripencc|2003-03-26|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2001:0ba0:1800:00fe:0000:0000:0000:0001|8560|2001:ba0::/32|ES|ripencc|2003-03-26|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2001:0ba0:1800:809d:0000:0000:0000:0001|8560|2001:ba0::/32|ES|ripencc|2003-03-26|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+2001:0ba0:1800:8105:0000:0000:0000:0001|8560|2001:ba0::/32|ES|ripencc|2003-03-26|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2001:0ba0:1800:8188:0000:0000:0000:0001|8560|2001:ba0::/32|ES|ripencc|2003-03-26|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 2001:0ba8:01f1:f047:0000:0000:0000:0002|8943|2001:ba8::/32|GB|ripencc|2003-04-01|JUMP, GB
 2001:0ba8:01f1:f154:0000:0000:0000:0002|8943|2001:ba8::/32|GB|ripencc|2003-04-01|JUMP, GB
@@ -3364,6 +3362,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 206.55.74.1|14536|206.55.64.0/20|US|arin|1995-07-24|ASN-SOL, US
 206.63.229.144|10594|206.63.224.0/21|US|arin|1995-07-25|CEC, US
 207.102.69.139|852|207.102.0.0/16|CA|arin|2000-01-12|TELUS Communications, CA
+207.134.61.165|852|207.134.0.0/16|CA|arin|1996-05-09|TELUS Communications, CA
 207.148.68.137|20473|207.148.64.0/20|US|apnic|1996-06-07|AS-CHOOPA, US
 207.154.192.183|14061|207.154.192.0/20|US|arin|2016-04-12|DIGITALOCEAN-ASN, US
 207.154.217.3|14061|207.154.208.0/20|US|arin|2016-04-12|DIGITALOCEAN-ASN, US
@@ -3488,6 +3487,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.227.164.197|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 212.227.165.251|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 212.227.200.133|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+212.227.204.21|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 212.227.204.82|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 212.227.210.118|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 212.227.211.96|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
@@ -3715,6 +3715,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 221.113.50.91|4685|221.113.0.0/18|JP|apnic|2003-01-30|ASAHI-NET Asahi Net, JP
 221.121.153.184|45671|221.121.153.0/24|AU|apnic|2009-10-05|AS45671-NET-AU Wholesale Services Provider, AU
 222.152.181.111|4771|222.152.176.0/21|NZ|apnic|2003-12-03|SPARKNZ Spark New Zealand Trading Ltd., NZ
+223.16.126.165|9304|223.16.64.0/18|HK|apnic|2010-08-05|HUTCHISON-AS-AP HGC Global Communications Limited, HK
 223.18.191.101|9304|223.18.128.0/18|HK|apnic|2010-08-05|HUTCHISON-AS-AP HGC Global Communications Limited, HK
 223.25.69.206|56300|223.25.69.0/24|SG|apnic|2010-08-13|MYREPUBLIC-SG MyRepublic Ltd., SG
 23.105.163.117|30633|23.105.160.0/19|US|arin|2013-07-24|LEASEWEB-USA-WDC, US
@@ -3885,7 +3886,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2400:8901:0000:0000:f03c:91ff:fea3:0eda|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2400:8901:0000:0000:f03c:91ff:feb1:8ece|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2400:8901:0000:0000:f03c:92ff:fe39:ad32|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
-2400:8901:0000:0000:f03c:92ff:fe40:d037|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2400:8901:0000:0000:f03c:92ff:fe7a:6f74|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2400:8901:0000:0000:f03c:92ff:fe83:d27e|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
 2400:8901:0000:0000:f03c:92ff:fecc:7d69|63949|2400:8901::/32|SG|apnic|2014-08-20|LINODE-AP Linode, LLC, US
@@ -4739,6 +4739,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:04f9:c010:752f:0000:0000:0000:0001|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:04f9:c010:7573:0000:0000:0000:0001|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:04f9:c010:78b4:0000:0000:0000:fa00|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:04f9:c010:7aee:0000:0000:0000:0001|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:04f9:c010:84f4:0000:0000:0000:0001|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:04f9:c010:9cbb:0000:0000:0000:0001|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:04f9:c010:9d66:0000:0000:0000:0001|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -4757,14 +4758,12 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:04f9:c01f:0030:0000:0000:0000:0001|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:05f0:c001:0107:002f:0000:0000:0000|35592|2a01:5f0::/32|CZ|ripencc|2007-11-13|COOLHOUSING-AS Vinohradska 190, CZ
 2a01:079c:ceba:01b0:0000:0000:0000:0006|29695|2a01:798::/29|NO|ripencc|2008-01-23|ALTIBOX_AS Norway, NO
-2a01:07c8:aab2:006c:5054:00ff:fe20:16bf|20857|2a01:7c8::/32|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:07c8:aaca:0505:5772:0e7a:673e:b7fb|20857|2a01:7c8::/32|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:07c8:bb01:0580:5054:00ff:fe85:071b|20857|2a01:7c8::/32|NL|ripencc|2008-01-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 2a01:07e0:0000:0633:0000:0000:011e:ba5e|44066|2a01:7e0::/32|DE|ripencc|2008-01-30|DE-FIRSTCOLO www.first-colo.net, DE
 2a01:07e0:0000:0633:0000:0000:0be1:01c5|44066|2a01:7e0::/32|DE|ripencc|2008-01-30|DE-FIRSTCOLO www.first-colo.net, DE
 2a01:0c22:8556:6800:021e:06ff:fe10:1a35|6805|2a01:c00::/26|DE|ripencc|2007-11-07|TDDE-ASN1, DE
 2a01:0c22:ace3:9d00:5054:00ff:fe6d:2a2c|6805|2a01:c00::/26|DE|ripencc|2007-11-07|TDDE-ASN1, DE
-2a01:0c23:91ff:4900:7285:c2ff:fe75:f909|6805|2a01:c00::/26|DE|ripencc|2007-11-07|TDDE-ASN1, DE
 2a01:0e0a:000d:c540:4bfe:636b:b21c:42cf|12322|2a01:e0a::/39|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:0e0a:0016:b821:c0ff:00ee:0717:0717|12322|2a01:e0a::/39|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:0e0a:015c:2e40:acab:0003:0003:0003|12322|2a01:e0a::/39|FR|ripencc|2008-01-21|PROXAD, FR
@@ -5906,7 +5905,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.91.101.227|48314|45.91.101.0/24|DE|ripencc|2019-06-27|IP-PROJECTS, DE
 45.91.67.90|209696|45.91.67.0/24|RU|ripencc|2019-06-26|NILSAT, BG
 45.92.238.246|44489|45.92.236.0/22|CZ|ripencc|2019-07-02|STARNET, CZ
-45.95.11.16|61424|45.95.11.0/24|MD|ripencc|2021-06-04|ESERVER-SK-AS, SK
 45.95.184.83|3170|45.95.184.0/24|GB|ripencc|2019-07-10|VELOXSERV VeloxServ Communications Ltd, GB
 45.95.235.197|30860|45.95.235.0/24|RU|ripencc|2019-07-10|YURTEH-AS, UA
 45.95.235.86|30860|45.95.235.0/24|RU|ripencc|2019-07-10|YURTEH-AS, UA
@@ -6464,6 +6462,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.75.206.12|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.75.23.66|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.75.246.207|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
+51.75.32.31|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.75.54.88|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.75.64.23|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.75.64.245|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -6617,7 +6616,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.171.142.3|51167|62.171.142.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.144.155|51167|62.171.144.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.148.119|51167|62.171.148.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.165.116|51167|62.171.164.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.178.105.128|8412|62.178.0.0/17|AT|ripencc|2000-09-18|TMA Magenta Telekom, AT
 62.178.14.185|8412|62.178.0.0/17|AT|ripencc|2000-09-18|TMA Magenta Telekom, AT
 62.178.232.124|8412|62.178.128.0/17|AT|ripencc|2000-09-18|TMA Magenta Telekom, AT
@@ -6652,6 +6650,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.67.28.110|3356|62.67.0.0/16|GB|ripencc|2000-11-08|LEVEL3, US
 62.67.28.50|3356|62.67.0.0/16|GB|ripencc|2000-11-08|LEVEL3, US
 62.72.82.222|8881|62.72.64.0/19|DE|ripencc|2000-06-22|VERSATEL, DE
+62.75.155.229|8972|62.75.155.0/24|DE|ripencc|2001-07-27|GD-EMEA-DC-SXB1, DE
 62.78.187.78|16086|62.78.128.0/17|FI|ripencc|2001-09-18|DNA, FI
 62.78.194.4|16086|62.78.128.0/17|FI|ripencc|2001-09-18|DNA, FI
 62.80.227.49|25406|62.80.224.0/20|LT|ripencc|2002-11-08|SPLIUS-AS, LT
@@ -6830,6 +6829,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 74.207.173.224|14543|74.207.128.0/18|US|arin|2006-10-25|SRT-ASN, US
 74.207.231.186|63949|74.207.224.0/20|US|arin|2009-01-14|LINODE-AP Linode, LLC, US
 74.207.242.7|63949|74.207.242.0/24|US|arin|2009-01-14|LINODE-AP Linode, LLC, US
+74.208.120.64|8560|74.208.0.0/16|US|arin|2006-11-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 74.208.182.90|8560|74.208.0.0/16|US|arin|2006-11-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 74.208.228.111|8560|74.208.0.0/16|US|arin|2006-11-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 74.208.253.30|8560|74.208.0.0/16|US|arin|2006-11-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
@@ -6889,6 +6889,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.205.251.249|15557|77.192.0.0/12|FR|ripencc|2006-11-30|LDCOMNET, FR
 77.21.74.43|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
 77.22.158.154|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
+77.22.174.110|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
 77.22.187.206|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
 77.23.240.92|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
 77.23.84.15|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
@@ -7201,6 +7202,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.149.227.125|29551|82.149.224.0/19|DE|ripencc|2003-08-13|HGCOMP-ASN, DE
 82.149.227.126|29551|82.149.224.0/19|DE|ripencc|2003-08-13|HGCOMP-ASN, DE
 82.149.227.236|29551|82.149.224.0/19|DE|ripencc|2003-08-13|HGCOMP-ASN, DE
+82.158.100.67|6739|82.158.0.0/16|ES|ripencc|2003-12-02|ONO-AS Cableuropa - ONO, ES
 82.161.210.87|3265|82.161.0.0/16|NL|ripencc|2003-07-14|XS4ALL-NL Amsterdam, NL
 82.164.46.25|2119|82.164.0.0/16|NO|ripencc|2003-07-28|TELENOR-NEXTEL Telenor Norge AS, NO
 82.165.103.72|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
@@ -7250,6 +7252,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.223.222.61|8560|82.223.0.0/16|ES|ripencc|2003-12-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.223.23.176|8560|82.223.0.0/16|ES|ripencc|2003-12-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.223.67.175|8560|82.223.0.0/16|ES|ripencc|2003-12-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+82.223.70.114|8560|82.223.0.0/16|ES|ripencc|2003-12-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.223.9.152|8560|82.223.0.0/16|ES|ripencc|2003-12-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 82.35.159.1|5089|82.35.0.0/16|GB|ripencc|2003-01-31|NTL, GB
 82.46.247.132|5089|82.46.0.0/15|GB|ripencc|2003-01-31|NTL, GB
@@ -7326,6 +7329,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.250.154.149|39651|83.248.0.0/13|SE|ripencc|2004-03-04|TELE2-FIXED-SWEDEN, SE
 83.250.187.157|39651|83.248.0.0/13|SE|ripencc|2004-03-04|TELE2-FIXED-SWEDEN, SE
 83.39.105.30|3352|83.39.0.0/16|ES|ripencc|2003-12-02|TELEFONICA_DE_ESPANA, ES
+83.53.240.124|3352|83.53.0.0/16|ES|ripencc|2004-10-07|TELEFONICA_DE_ESPANA, ES
 83.53.71.25|3352|83.53.0.0/16|ES|ripencc|2004-10-07|TELEFONICA_DE_ESPANA, ES
 83.57.89.232|3352|83.57.0.0/16|ES|ripencc|2004-10-07|TELEFONICA_DE_ESPANA, ES
 83.59.101.76|3352|83.59.0.0/16|ES|ripencc|2004-10-07|TELEFONICA_DE_ESPANA, ES
@@ -7338,6 +7342,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.133.84.136|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.134.36.175|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.135.99.21|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.136.81.75|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.138.60.71|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.138.94.51|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.140.205.108|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
@@ -7378,6 +7383,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.249.29.37|1759|84.248.0.0/14|FI|ripencc|2004-06-02|TSF-IP-CORE Telia Finland Oyj, FI
 84.250.187.202|1759|84.248.0.0/14|FI|ripencc|2004-06-02|TSF-IP-CORE Telia Finland Oyj, FI
 84.252.121.67|29551|84.252.120.0/22|DE|ripencc|2018-11-16|HGCOMP-ASN, DE
+84.254.87.48|8758|84.254.80.0/20|CH|ripencc|2004-10-06|IWAY, CH
 84.39.112.110|9009|84.39.112.0/24|GB|ripencc|2012-08-31|M247, GB
 84.40.112.70|43561|84.40.112.0/24|BG|ripencc|2009-10-02|NET1-AS, BG
 84.48.227.87|15659|84.48.0.0/15|NO|ripencc|2004-09-09|NEXTGENTEL NEXTGENTEL Autonomous System, NO
@@ -7591,7 +7597,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.198.112.25|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.198.12.66|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.198.14.190|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
-88.198.169.70|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.198.207.48|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.198.32.73|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
 88.198.35.188|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
@@ -7724,7 +7729,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 90.35.211.203|3215|90.35.128.0/17|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 90.39.16.62|3215|90.39.0.0/17|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 90.65.44.193|3215|90.65.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
-90.76.106.83|3215|90.76.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 90.76.240.6|3215|90.76.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.10.244.7|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.106.138.111|198930|91.106.128.0/18|DE|ripencc|2012-06-21|DE-VSM-ASN Peering, DE
@@ -7917,6 +7921,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.60.36.153|197540|92.60.36.0/22|DE|ripencc|2018-08-23|NETCUP-AS netcup GmbH, DE
 92.60.37.105|197540|92.60.36.0/22|DE|ripencc|2018-08-23|NETCUP-AS netcup GmbH, DE
 92.60.39.18|197540|92.60.36.0/22|DE|ripencc|2018-08-23|NETCUP-AS netcup GmbH, DE
+92.92.33.51|15557|92.88.0.0/13|FR|ripencc|2007-10-17|LDCOMNET, FR
 93.104.173.44|8767|93.104.0.0/16|DE|ripencc|2008-03-18|MNET-AS Germany, DE
 93.104.209.61|8767|93.104.0.0/16|DE|ripencc|2008-03-18|MNET-AS Germany, DE
 93.104.213.2|8767|93.104.0.0/16|DE|ripencc|2008-03-18|MNET-AS Germany, DE
@@ -8092,7 +8097,7 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.111.246.7|51167|95.111.246.0/23|DE|ripencc|2008-12-30|CONTABO, DE
 95.111.252.230|51167|95.111.252.0/23|DE|ripencc|2008-12-30|CONTABO, DE
 95.111.255.193|51167|95.111.254.0/23|DE|ripencc|2008-12-30|CONTABO, DE
-95.112.223.100|6805|95.112.0.0/13|DE|ripencc|2008-11-26|TDDE-ASN1, DE
+95.112.225.193|6805|95.112.0.0/13|DE|ripencc|2008-11-26|TDDE-ASN1, DE
 95.116.84.109|6805|95.112.0.0/13|DE|ripencc|2008-11-26|TDDE-ASN1, DE
 95.117.37.101|6805|95.112.0.0/13|DE|ripencc|2008-11-26|TDDE-ASN1, DE
 95.118.101.130|6805|95.112.0.0/13|DE|ripencc|2008-11-26|TDDE-ASN1, DE
@@ -8215,7 +8220,6 @@ IP Address|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.236.237.159|3269|95.236.0.0/15|IT|ripencc|2009-01-15|ASN-IBSNAZ, IT
 95.25.179.123|8402|95.24.0.0/15|RU|ripencc|2008-10-10|CORBINA-AS OJSC Vimpelcom, RU
 95.252.114.152|3269|95.252.0.0/17|IT|ripencc|2009-01-15|ASN-IBSNAZ, IT
-95.32.231.147|12389|95.32.228.0/22|RU|ripencc|2008-10-10|ROSTELECOM-AS, RU
 95.33.156.211|9145|95.33.0.0/16|DE|ripencc|2008-11-03|EWETEL Cloppenburger Strasse 310, DE
 95.33.17.148|9145|95.33.0.0/16|DE|ripencc|2008-11-03|EWETEL Cloppenburger Strasse 310, DE
 95.42.102.195|8866|95.42.96.0/19|BG|ripencc|2008-10-15|BTC-AS BULGARIA, BG
