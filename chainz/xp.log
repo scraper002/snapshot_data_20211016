@@ -15,7 +15,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 134.209.157.117|/eXperience Points Core:3.4.0.3/|70917|14061|134.209.144.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
 139.59.17.54|/eXperience Points Core:5.2.0.2/|70922|14061|139.59.16.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.188.1|/eXperience Points Core:5.2.0.2/|70922|14061|139.59.176.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
-14.13.51.32|/eXperience Points Core:5.2.0.2/|70922|2516|14.12.0.0/15|JP|apnic|2010-08-17|KDDI KDDI CORPORATION, JP
 143.244.188.223|/eXperience Points Core:5.2.0.2/|70922|14061|143.244.176.0/20|US|arin|2020-01-09|DIGITALOCEAN-ASN, US
 144.91.104.91|/eXperience Points Core:5.2.0.2/|70922|51167|144.91.104.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 144.91.105.177|/eXperience Points Core:5.2.0.2/|70922|51167|144.91.104.0/23|DE|ripencc|1990-11-20|CONTABO, DE
@@ -43,6 +42,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.65.239.15|/eXperience Points Core:5.2.0.2/|70922|14061|159.65.224.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 160.16.94.56|/XP2-Core-CVMU:5.2.0.2/|70922|9370|160.16.0.0/17|JP|apnic|1992-06-10|SAKURA-B SAKURA Internet Inc., JP
 160.86.171.134|/eXperience Points Core:5.2.0.2/|70922|2527|160.86.0.0/16|JP|apnic|1992-04-29|SO-NET Sony Network Communications Inc., JP
+161.97.127.48|/eXperience Points Core:5.2.0.2/|70922|51167|161.97.126.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.127.49|/eXperience Points Core:5.2.0.2/|70922|51167|161.97.126.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.127.56|/eXperience Points Core:5.2.0.2/|70922|51167|161.97.126.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.130.109|/eXperience Points Core:5.2.0.2/|70922|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
@@ -54,7 +54,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.176.213|/eXperience Points Core:5.2.0.2/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.176.214|/eXperience Points Core:5.2.0.2/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.176.215|/eXperience Points Core:5.2.0.2/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
-161.97.176.216|/eXperience Points Core:5.2.0.2/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.176.217|/eXperience Points Core:5.2.0.2/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.176.218|/eXperience Points Core:5.2.0.2/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.176.219|/eXperience Points Core:5.2.0.2/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
@@ -117,14 +116,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 175.131.254.118|/eXperience Points Core:5.2.0.2/|70922|2516|175.131.0.0/16|JP|apnic|2010-01-07|KDDI KDDI CORPORATION, JP
 175.177.138.230|/eXperience Points Core:5.2.0.2/|70922|9365|175.177.0.0/16|JP|apnic|2010-01-21|ITSCOM its communications Inc., JP
 178.18.244.202|/eXperience Points Core:5.2.0.2/|70922|51167|178.18.240.0/20|DE|ripencc|2010-04-27|CONTABO, DE
-178.18.244.204|/eXperience Points Core:5.2.0.2/|70922|51167|178.18.240.0/20|DE|ripencc|2010-04-27|CONTABO, DE
 178.197.249.13|/eXperience Points Core:5.2.0.2/|70922|3303|178.196.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom Switzerland Ltd, CH
 178.239.165.193|/eXperience Points Core:5.2.0.2/|70922|25369|178.239.165.0/24|GB|ripencc|2010-09-02|BANDWIDTH-AS, GB
 178.38.225.127|/eXperience Points Core:5.2.0.2/|70922|6730|178.38.0.0/15|CH|ripencc|2010-02-02|SUNRISE, CH
 180.27.221.36|/eXperience Points Core:5.2.0.2/|70922|4713|180.0.0.0/10|JP|apnic|2009-07-06|OCN NTT Communications Corporation, JP
 182.236.25.247|/eXperience Points Core:5.2.0.2/|70922|10013|182.236.16.0/20|JP|apnic|2010-04-23|FBDC FreeBit Co.,Ltd., JP
 185.141.61.178|???|0|44901|185.141.61.0/24|CY|ripencc|2018-02-23|BELCLOUD, BG
-185.206.146.68|???|0|44901|185.206.146.0/24|CY|ripencc|2017-06-01|BELCLOUD, BG
 185.220.100.245|/eXperience Points Core:5.2.0.2/|70922|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
 185.220.100.252|/eXperience Points Core:5.2.0.2/|70922|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
 185.220.100.253|/eXperience Points Core:5.2.0.2/|70922|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
@@ -177,6 +174,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.222.80.12|/eXperience Points Core:5.2.0.2/|70922|16276|51.222.0.0/16|CA|arin|2020-03-31|OVH, FR
 51.83.36.212|/eXperience Points Core:5.2.0.2/|70922|16276|51.83.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.89.152.19|/eXperience Points Core:5.2.0.2/|70922|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
+51.89.152.98|/eXperience Points Core:5.2.0.2/|70922|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.91.74.223|/eXperience Points Core:5.2.0.2/|70922|16276|51.91.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 54.36.62.167|/eXperience Points Core:3.4.0.3/|70917|16276|54.36.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 60.110.80.14|/eXperience Points Core:3.4.0.4/|70917|17676|60.110.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
@@ -195,7 +193,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.171.172.196|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.172.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.172.26|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.172.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.177.210|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.176.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.178.22|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.178.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.183.119|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.182.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.186.243|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.186.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.37.126.55|/eXperience Points Core:5.2.0.2/|70922|12479|62.37.124.0/22|ES|ripencc|2000-01-03|UNI2-AS, ES
@@ -218,3 +215,4 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.132.136.78|/eXperience Points Core:5.2.0.2/|70922|9009|91.132.136.0/24|RO|ripencc|2018-12-20|M247, GB
 92.253.204.195|/eXperience Points Core:5.2.0.2/|70922|204889|92.253.204.0/24|CZ|ripencc|2007-12-03|TOBI-AS, UA
 93.104.213.141|/eXperience Points Core:5.2.0.2/|70922|8767|93.104.0.0/16|DE|ripencc|2008-03-18|MNET-AS Germany, DE
+95.217.73.169|/eXperience Points Core:5.2.0.2/|70922|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
