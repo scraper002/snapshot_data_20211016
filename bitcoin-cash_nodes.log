@@ -85,6 +85,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.49.221.204|8333|/Bitcoin Cash Node:23.0.0(EB32.0; bitcore)/|16509|13.48.0.0/15|US|arin|2020-08-05|AMAZON-02, US
 13.51.233.255|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/|16509|13.51.0.0/16|US|arin|2020-08-05|AMAZON-02, US
 13.53.124.134|8333|/Bitcoin Cash Node:23.0.0(EB32.0; bitcore)/|16509|13.53.0.0/16|US|arin|2020-08-05|AMAZON-02, US
+13.73.22.56|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/|8075|13.64.0.0/11|US|arin|2015-03-26|MICROSOFT-CORP-MSN-AS-BLOCK, US
 13.74.24.91|8333|/Bitcoin Cash Node:23.1.0(EB32.0)/|8075|13.64.0.0/11|US|arin|2015-03-26|MICROSOFT-CORP-MSN-AS-BLOCK, US
 13.90.141.13|8333|/Bitcoin ABC:0.23.5(EB32.0)/|8075|13.64.0.0/11|US|arin|2015-03-26|MICROSOFT-CORP-MSN-AS-BLOCK, US
 134.209.120.206|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/|14061|134.209.112.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
@@ -487,7 +488,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:8003:549c:9c00:d12c:287b:eff4:2f0b|8333|/Bitcoin ABC:0.24.3(EB32.0)/|1221|2001:8000::/20|AU|apnic|2004-12-02|ASN-TELSTRA Telstra Corporation Ltd, AU
 2001:bc8:32d7:25e::42|8333|/Bitcoin Cash Node:23.1.0(EB32.0)/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:bc8:6005:a:ec4:7aff:fe71:7fba|8333|/Bitcoin ABC:0.24.0(EB32.0)/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
-2001:e68:5427:c20:c031:fa28:efa3:5dfc|8333|/Bitcoin Cash Node:23.1.0(EB32.0)/|4788|2001:e68::/32|MY|apnic|2004-02-24|TMNET-AS-AP TM Net, Internet Service Provider, MY
 2001:f40:906:853a:ddcc:7798:381c:dffb|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U126 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
 2001:fb1:14e:562e:54f1:7e4d:a67f:8fd5|8333|/Bitcoin ABC:0.24.3(EB32.0)/|17552|2001:fb1:14e::/48|TH|apnic|2012-03-28|TRUEONLINE-AS-AP True Online, TH
 201.110.51.80|65006|/Bitcoin Cash Node:23.0.0(EB32.0)/|8151|201.110.48.0/21|MX|lacnic|2005-11-14|Uninet S.A. de C.V., MX
@@ -570,13 +570,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:141:321c::2|8333|/BCH Unlimited:1.8.0(EB32; AD12; 64bit)/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:150:7149::2|11108|/Bitcoin Cash Node:23.0.0(EB32.0)/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:151:1229::2|8333|/Bitcoin ABC:0.23.6(EB32.0)/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f8:160:1317::2|8328|/BCH Unlimited:1.9.2(EB32; AD12; 64bit)/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:160:7106::2|8334|/Bitcoin ABC:0.18.2(EB32.0)/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:162:524c::2|8333|/Bitcoin Cash Node:23.0.0(EB32.0)/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:171:3248::2|10333|/Bitcoin Cash Node:23.0.0(EB32.0)/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:190:4210::2|8333|/Bitcoin ABC:0.20.10(EB32.0)/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:191:3067::2|8333|/Bitcoin ABC:0.20.6(EB32.0)/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:191:40e8::2|8335|/Bitcoin Cash Node:23.0.0(EB32.0)/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:191:5061::2|8333|/Bitcoin Cash Node:22.1.0(EB32.0)/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:192:11ce::2|28333|/Bitcoin Cash Node:23.0.0(EB32.0)/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:1c1c:3bfa::1|8021|/Bitcoin Cash Node:0.21.2(EB32.0)/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:1c1c:69ee::1|8333|/Bitcoin ABC:0.23.8(EB32.0)/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -608,6 +608,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:4a:1916::2|8333|/Bitcoin ABC:0.23.4(EB32.0)/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:21c3::f8|8333|/Bitcoin Cash Node:23.0.1(EB32.0)/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4b:46aa::2|8333|/Bitcoin Cash Node:23.1.0(EB32.0)/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:6a:20e5::2|8333|/Bitcoin Cash Node:23.1.1(EB32.0)/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:c010:cb57::1|8333|/Bitcoin ABC:0.22.3(EB32.0)/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:c010:ce95::1|8333|/BCH Unlimited:1.9.0.1(EB32; AD12; 64bit)/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:5f0:beef:5:0:3:0:1|52102|/Bitcoin ABC:0.22.7(EB32.0)/|35592|2a01:5f0::/32|CZ|ripencc|2007-11-13|COOLHOUSING-AS Vinohradska 190, CZ
