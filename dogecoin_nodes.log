@@ -17,6 +17,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 100.4.96.17|22556|/Shibetoshi:1.14.4/|701|100.4.0.0/17|US|arin|2010-12-28|UUNET, US
 101.116.106.80|22556|/Shibetoshi:1.14.4/|133612|101.116.96.0/19|AU|apnic|2010-12-14|VODAFONE-AS-AP Vodafone Australia Pty Ltd, AU
 101.118.136.103|22556|/Shibetoshi:1.14.4/|133612|101.118.128.0/19|AU|apnic|2010-12-14|VODAFONE-AS-AP Vodafone Australia Pty Ltd, AU
+101.166.129.225|22556|/Shibetoshi:1.14.4/|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 101.189.22.6|22556|/Shibetoshi:1.14.4/|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 101.67.190.224|22556|/Shibetoshi:1.14.4/|4837|101.64.0.0/13|CN|apnic|2010-12-09|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 102.182.208.254|22556|/Shibetoshi:1.14.4/|37611|102.182.0.0/16|ZA|afrinic|2017-06-02|Afrihost, ZA
@@ -136,7 +137,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.133.45|20085|/Shibetoshi:1.14.4/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.136.95|22556|/Shibetoshi:1.14.3/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.165.109|20001|/Shibetoshi:1.14.4/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
-135.181.211.44|22556|/Shibetoshi:1.14.2/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.248.129|22556|/Shibetoshi:1.14.3/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.78.151|22556|/Shibetoshi:1.14.3/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.86.56|22556|/Shibetoshi:1.21.0/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
@@ -249,7 +249,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.187.181|22556|/Shibetoshi:1.14.3/|51167|161.97.184.0/22|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.187.4|22556|/Shibetoshi:1.14.2/|51167|161.97.184.0/22|DE|ripencc|1992-06-23|CONTABO, DE
 162.157.55.253|22556|/Shibetoshi:1.14.4/|852|162.157.0.0/16|CA|arin|2013-03-07|TELUS Communications, CA
-162.251.235.50|22556|/Shibetoshi:1.14.3(MINETHAT.COM, Las Vegas, NV)/|53340|162.251.232.0/22|US|arin|2014-01-15|FIBERHUB, US
 162.55.75.163|22556|/Shibetoshi:1.14.3/|24940|162.55.0.0/16|DE|ripencc|1992-08-03|HETZNER-AS, DE
 162.55.91.136|22556|/Shibetoshi:1.14.3/|24940|162.55.0.0/16|DE|ripencc|1992-08-03|HETZNER-AS, DE
 162.62.21.32|22556|/Shibetoshi:1.14.2/|132203|162.62.20.0/23|SG|apnic|1992-08-11|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
@@ -280,6 +279,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 168.235.102.99|22556|/Shibetoshi:1.14.2/|3842|168.235.100.0/22|US|arin|2014-06-26|RAMNODE, US
 170.10.11.8|22556|/Shibetoshi:1.14.4/|11976|170.10.11.0/24|US|arin|2017-02-07|FIDN, US
 171.97.172.132|22556|/Shibetoshi:1.14.4/|17552|171.97.128.0/18|TH|apnic|2011-03-07|TRUEONLINE-AS-AP True Online, TH
+172.1.224.179|22556|/Shibetoshi:1.14.4/|7018|172.0.0.0/12|US|arin|2012-08-20|ATT-INTERNET4, US
 172.100.77.228|22556|/Shibetoshi:1.14.4/|11351|172.100.0.0/15|US|arin|2015-06-15|TWC-11351-NORTHEAST, US
 172.101.62.144|22556|/Shibetoshi:1.14.2/|11351|172.100.0.0/15|US|arin|2015-06-15|TWC-11351-NORTHEAST, US
 172.101.65.3|22556|/Shibetoshi:1.14.4/|11351|172.100.0.0/15|US|arin|2015-06-15|TWC-11351-NORTHEAST, US
@@ -408,6 +408,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.34.165.57|22556|/Shibetoshi:1.14.4/|24940|188.34.128.0/17|DE|ripencc|2009-03-19|HETZNER-AS, DE
 188.75.11.106|22556|/Shibetoshi:1.14.4/|48209|188.75.11.0/24|RU|ripencc|2009-08-21|LANCRONIX-AS Moscow, Russia, RU
 188.76.208.123|22556|/Shibetoshi:1.14.4/|12479|188.76.208.0/23|ES|ripencc|2011-01-04|UNI2-AS, ES
+188.79.102.49|22445|/Pandoshi:3.0.7.2/|12479|188.79.100.0/22|ES|ripencc|2011-01-04|UNI2-AS, ES
 188.81.108.242|22556|/Shibetoshi:1.14.4/|3243|188.80.0.0/14|PT|ripencc|2009-03-25|MEO-RESIDENCIAL, PT
 188.84.17.228|22556|/Shibetoshi:1.14.4/|12430|188.84.0.0/14|ES|ripencc|2009-04-29|VODAFONE_ES, ES
 190.190.89.222|22556|/Shibetoshi:1.14.4/|7303|190.190.0.0/15|AR|lacnic|2008-02-19|Telecom Argentina S.A., AR
@@ -490,6 +491,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:8f8:1461:3e29:35c4:a20f:c83e:c0e3|22556|/Shibetoshi:1.14.2/|8966|2001:8f8::/32|AE|ripencc|2002-09-20|ETISALAT-AS P.O. Box 1150, Dubai, U, AE
 2001:b011:300d:16bc:70a0:369a:7d55:e3b8|22556|/Shibetoshi:1.14.3/|3462|2001:b011:3000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:300e:1ffc:31fc:1ec5:a9a4:6794|22556|/Shibetoshi:1.14.3/|3462|2001:b011:3000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
+2001:b011:4007:15c7:9158:7835:7bcc:972c|22556|/Shibetoshi:1.14.4/|3462|2001:b011:4000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:4009:1665:28b2:1b7c:d8c5:462f|22556|/Shibetoshi:1.14.3/|3462|2001:b011:4000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:7000:7e1:c8b0:5de9:41d2:9b70|22556|/Shibetoshi:1.14.4/|3462|2001:b011:7000::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:8011:1ec5:d7c:af1a:4dab:6c45|22556|/Shibetoshi:1.14.3/|3462|2001:b011:8000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
@@ -497,6 +499,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:b011:b0d0:16cb:a57b:b23e:84e6:4530|22556|/Shibetoshi:1.14.3/|3462|2001:b011:b000::/38|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:d00a:b70e:60d5:8e66:ee20:3d31|22556|/Shibetoshi:1.14.3/|3462|2001:b011:d000::/38|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b07:a14:d226:7dc0:c62b:2fa:9609|22556|/Shibetoshi:1.14.4/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
+2001:b400:e2c1:3237:58f7:5d6e:42e3:17f1|22556|/Shibetoshi:1.14.2/|17421|2001:b400:e000::/36|TW|apnic|2006-03-15|EMOME-NET Mobile Business Group, TW
 2001:bc8:608:641::1|22556|/Shibetoshi:1.14.2/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:e68:5429:ec7d:2574:510c:d255:54e1|22556|/Shibetoshi:1.14.4/|4788|2001:e68::/32|MY|apnic|2004-02-24|TMNET-AS-AP TM Net, Internet Service Provider, MY
 2001:fb0:1061:f:d86:ef19:fcee:9cf8|22445|/Pandoshi:3.0.7.1/|7470|2001:fb0::/32|TH|apnic|2004-01-06|TRUEINTERNET-AS-AP TRUE INTERNET Co.,Ltd., TH
@@ -595,7 +598,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.160.247.222|22556|/Shibetoshi:1.14.3/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 217.65.8.75|22556|/Shibetoshi:1.14.2/|3175|217.65.8.0/24|RU|ripencc|2005-10-03|CITYTELECOM-MSK, RU
 218.146.51.43|22556|/Shibetoshi:1.14.3(www.ali-bit.com)/|4766|218.144.0.0/13|KR|apnic|2001-09-24|KIXS-AS-KR Korea Telecom, KR
-218.200.3.26|22556|/Shibetoshi:1.14.3/|9808|218.200.3.0/24|CN|apnic|2001-11-06|CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
 220.132.135.208|22556|/Shibetoshi:1.14.4/|3462|220.132.128.0/18|TW|apnic|2003-06-09|HINET Data Communication Business Group, TW
 220.135.138.136|22556|/Shibetoshi:1.14.4/|3462|220.135.128.0/18|TW|apnic|2003-06-09|HINET Data Communication Business Group, TW
 220.233.26.61|22556|/Shibetoshi:1.14.2/|10143|220.233.0.0/18|AU|apnic|2004-02-09|EXETEL-AS-AP Exetel Pty Ltd, AU
@@ -616,6 +618,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 23.173.224.20|22556|/Shibetoshi:1.14.4/|397672|23.173.224.0/24|US|arin|2019-02-12|AS-WYOMINGWIRELESS, US
 23.179.0.71|22556|/Shibetoshi:1.14.2/|63297|23.179.0.0/24|CA|arin|2016-10-28|PACIFIC-SERVERS, CA
 23.233.106.219|22556|/Shibetoshi:1.14.4/|5645|23.233.104.0/21|CA|arin|2013-09-24|TEKSAVVY, CA
+23.233.55.92|22556|/Shibetoshi:1.14.2/|5645|23.233.0.0/17|CA|arin|2013-09-24|TEKSAVVY, CA
 23.239.15.210|22445|/Pandoshi:3.0.7.2/|63949|23.239.8.0/21|US|arin|2013-10-23|LINODE-AP Linode, LLC, US
 23.239.31.246|22556|/Shibetoshi:1.14.4/|63949|23.239.28.0/22|US|arin|2013-10-23|LINODE-AP Linode, LLC, US
 23.240.246.107|22556|/Shibetoshi:1.14.4/|20001|23.240.0.0/14|US|arin|2013-09-20|TWC-20001-PACWEST, US
@@ -766,7 +769,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:141:22cb::2|22556|/Shibetoshi:1.14.3/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:150:6197::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:150:8179::2|22556|/Shibetoshi:1.14.3/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f8:160:8048::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:171:16af::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:173:2765::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:190:2363::2|22556|/Shibetoshi:1.14.4/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -797,6 +799,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:3a:1060::2|22556|/Shibetoshi:1.14.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3a:169d::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3a:1cd2::2|20001|/Shibetoshi:1.14.4/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:3a:2913::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:1f86::2|22556|/Shibetoshi:1.14.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:4fe9::2|22556|/Shibetoshi:1.14.4(DLu6ZaDeWTz8AvGF15bhwwmpbtj7ELjAQc)/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:4a:19ec::4203|22556|/Shibetoshi:1.14.2/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -822,6 +825,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:e0a:848:fc0:1455:ea00:b8e:ae7|22556|/Shibetoshi:1.14.4/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:9c5:8e0:ad2d:e2d5:ee3c:3880|22556|/Shibetoshi:1.14.3/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
 2a01:e0a:aa0:8480:39cd:6442:a185:1af4|22556|/Shibetoshi:1.14.3/|12322|2a01:e00::/26|FR|ripencc|2008-01-21|PROXAD, FR
+2a01:e34:ec29:e8d0:ca6:bd78:dac3:2e62|22556|/Shibetoshi:1.14.2/|12322|2a01:e34::/32|FR|ripencc|2008-01-21|PROXAD, FR
 2a02:1205:c694:9370:4012:43cc:e4f2:fc87|22556|/Shibetoshi:1.14.4/|3303|2a02:1200::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom Switzerland Ltd, CH
 2a02:120b:2c68:6880:e8c3:70bc:bd46:adc2|22556|/Shibetoshi:1.14.4/|3303|2a02:1208::/29|CH|ripencc|2010-01-22|SWISSCOM Swisscom Switzerland Ltd, CH
 2a02:168:420b:a::2a|22556|/Shibetoshi:1.14.2/|13030|2a02:168::/32|CH|ripencc|2008-03-13|INIT7, CH
@@ -830,9 +834,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a02:2f0e:5b11:2900:2473:35b:c282:15a2|22556|/Shibetoshi:1.14.4/|8708|2a02:2f00::/28|RO|ripencc|2010-11-18|RCS-RDS 73-75 Dr. Staicovici, RO
 2a02:4780:1:1::1:8048|22556|/Shibetoshi:1.14.4/|47583|2a02:4780:1::/48|CY|ripencc|2011-07-13|AS-HOSTINGER, CY
 2a02:4780:8:6:2:f502:2b5:5736|22556|/Shibetoshi:1.14.3/|47583|2a02:4780:8::/48|CY|ripencc|2011-07-13|AS-HOSTINGER, CY
+2a02:6b60:0:f::59|22556|/Shibetoshi:1.14.4/|201838|2a02:6b60::/29|GB|ripencc|2014-05-30|ASN-COMMUNITYFIBRE, GB
 2a02:730::1430|22556|/Shibetoshi:1.14.3/|29278|2a02:730::/32|HU|ripencc|2008-09-01|DENINET-HU-AS, HU
 2a02:7b40:5928:2e::1|22556|/Shibetoshi:1.14.3/|62282|2a02:7b40::/32|LT|ripencc|2012-10-01|RACKRAY UAB Rakrejus, LT
 2a02:8071:82d6:da00:74d9:5f9:57f6:822a|22556|/Shibetoshi:1.14.4/|3209|2a02:8071::/32|DE|ripencc|2011-09-13|VODANET International IP-Backbone of Vodafone, DE
+2a02:8108:2a40:660::c758|22556|/Shibetoshi:1.14.4/|3209|2a02:8100::/27|DE|ripencc|2011-02-03|VODANET International IP-Backbone of Vodafone, DE
 2a02:8388:66c0:1e80:bc8a:8896:60f8:d6e7|22556|/Shibetoshi:1.14.4/|8412|2a02:8388:6000::/36|AT|ripencc|2012-02-09|TMA Magenta Telekom, AT
 2a02:a58:8240:4100:3dfe:b536:caa1:3f33|22556|/Shibetoshi:1.14.4/|8953|2a02:a58::/32|RO|ripencc|2009-02-17|ASN-ORANGE-ROMANIA, RO
 2a02:c207:2015:2082::1|23476|/Shibetoshi:1.14.2/|51167|2a02:c207::/32|DE|ripencc|2012-09-17|CONTABO, DE
@@ -958,7 +964,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.196.95.216|22556|/Shibetoshi:1.14.4/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
 5.39.95.186|22556|/Shibetoshi:1.14.3/|16276|5.39.0.0/17|FR|ripencc|2012-05-15|OVH, FR
 5.45.77.220|22556|/Shibetoshi:1.14.4/|58061|5.45.76.0/22|GB|ripencc|2012-05-24|SCALAXY-AS, NL
-5.9.10.66|22556|/Shibetoshi:1.14.0/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.109.174|22556|/Shibetoshi:1.14.4/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.144.181|22556|/Shibetoshi:1.14.4/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.145.235|22556|/Shibetoshi:1.14.0/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
@@ -980,6 +985,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.15.127.14|22556|/Shibetoshi:1.14.2/|12876|51.15.0.0/17|FR|ripencc|1993-09-01|Online SAS, FR
 51.15.138.91|22556|/Shibetoshi:1.14.2/|12876|51.15.0.0/16|FR|ripencc|1993-09-01|Online SAS, FR
 51.15.182.116|22556|/Shibetoshi:1.14.3/|12876|51.15.0.0/16|FR|ripencc|1993-09-01|Online SAS, FR
+51.154.22.95|22556|/Shibetoshi:1.14.4/|15796|51.154.0.0/16|CH|ripencc|1993-09-01|SALT-, CH
 51.159.64.73|22556|/Shibetoshi:1.14.2/|12876|51.158.0.0/15|FR|ripencc|1993-09-01|Online SAS, FR
 51.161.115.135|22556|/Shibetoshi:1.14.2/|16276|51.161.0.0/17|CA|arin|2019-09-03|OVH, FR
 51.178.76.73|8802|/Shibetoshi:1.14.4/|16276|51.178.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -1343,21 +1349,21 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.46.70.205|22556|/Shibetoshi:1.14.2/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 78.56.228.191|22556|/Shibetoshi:1.14.2/|8764|78.56.224.0/20|LT|ripencc|2007-03-21|TELIA-LIETUVA, LT
 78.56.43.239|22556|/Shibetoshi:1.14.3/|8764|78.56.32.0/20|LT|ripencc|2007-03-21|TELIA-LIETUVA, LT
-78.62.234.70|22556|/Shibetoshi:1.14.4/|8764|78.62.232.0/22|LT|ripencc|2007-03-21|TELIA-LIETUVA, LT
 78.73.162.232|22556|/Shibetoshi:1.14.4/|3301|78.64.0.0/12|SE|ripencc|2007-03-09|TELIANET-SWEDEN Telia Company, SE
 79.136.64.161|22556|/Shibetoshi:1.14.4/|8473|79.136.0.0/17|SE|ripencc|2007-09-27|BAHNHOF www.bahnhof.net, SE
 79.161.208.165|22556|/Shibetoshi:1.14.3/|29695|79.160.0.0/15|NO|ripencc|2007-06-19|ALTIBOX_AS Norway, NO
 79.62.205.18|22556|/Shibetoshi:1.14.4/|3269|79.62.0.0/16|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
-79.97.44.77|22556|/Shibetoshi:1.14.4/|6830|79.97.0.0/17|IE|ripencc|2007-10-17|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 8.140.169.173|22556|/Shibetoshi:1.14.3/|37963|8.140.0.0/15|SG|apnic|1992-12-01|CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 8.210.14.154|22557|/Shibetoshi:1.14.4/|45102|8.210.0.0/17|SG|apnic|1992-12-01|CNNIC-ALIBABA-US-NET-AP Alibaba US Technology Co., Ltd., CN
 8.42.76.74|22556|/Shibetoshi:1.14.3/|393552|8.42.76.0/22|US|arin|1992-12-01|COL-LPC, US
 80.184.84.188|22556|/Shibetoshi:1.14.4/|6412|80.184.80.0/21|KW|ripencc|2006-07-10|KW KEMS Block-A, Floor 7, Souq Al-Kabeer Kuwait City, State of Kuwait P O Box 3623, Safat 13037 KW, EU
 80.186.9.37|22556|/Shibetoshi:1.14.4/|719|80.186.0.0/16|FI|ripencc|2002-05-28|ELISA-AS Helsinki, Finland, FI
+80.219.136.78|22556|/Shibetoshi:1.14.2/|6830|80.219.0.0/16|CH|ripencc|2002-04-04|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 80.229.248.196|22556|/Shibetoshi:1.14.4/|6871|80.229.0.0/16|GB|ripencc|2003-10-17|PLUSNET UK Internet Service Provider, GB
 80.240.129.221|22556|/Shibetoshi:1.14.3/|14061|80.240.128.0/20|US|ripencc|2008-10-15|DIGITALOCEAN-ASN, US
 80.65.23.139|22554|/Shibetoshi:1.14.2/|31257|80.65.16.0/21|RU|ripencc|2004-03-18|ORIONNET-KRK, RU
 80.94.54.155|22556|/Shibetoshi:1.14.4/|38949|80.94.48.0/20|SK|ripencc|2005-07-29|TRESTEL-, SK
+81.189.180.183|22556|/Shibetoshi:1.14.4/|8437|81.189.0.0/16|AT|ripencc|2003-02-24|UTA-AS, AT
 81.217.175.249|22556|/Shibetoshi:1.14.3/|8339|81.217.0.0/16|AT|ripencc|2002-10-17|KABSI-AS, AT
 81.38.37.36|22556|/Shibetoshi:1.14.2/|3352|81.38.0.0/16|ES|ripencc|2002-02-15|TELEFONICA_DE_ESPANA, ES
 81.5.93.85|22556|/Shibetoshi:1.14.4/|25100|81.5.64.0/18|RU|ripencc|2002-05-22|MIPT-NET, RU
@@ -1399,7 +1405,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.196.174.247|22556|/Shibetoshi:1.14.3/|29580|85.196.172.0/22|BG|ripencc|2005-01-17|A1BG A1 EAD, BG
 85.210.127.182|22556|/Shibetoshi:1.14.3/|9105|85.210.0.0/16|GB|ripencc|2005-02-17|TISCALI-UK TalkTalk Communications Limited, GB
 85.214.89.55|22556|/Shibetoshi:1.14.2/|6724|85.214.0.0/15|DE|ripencc|2005-02-24|STRATO STRATO AG, DE
-85.216.45.184|22556|/Shibetoshi:1.14.4/|3209|85.216.0.0/18|DE|ripencc|2005-01-04|VODANET International IP-Backbone of Vodafone, DE
 85.228.70.50|22556|/Shibetoshi:1.14.2/|2119|85.224.0.0/13|SE|ripencc|2004-12-17|TELENOR-NEXTEL Telenor Norge AS, NO
 85.24.203.254|22556|/Shibetoshi:1.14.4/|8473|85.24.128.0/17|SE|ripencc|2005-02-24|BAHNHOF www.bahnhof.net, SE
 85.24.235.191|22556|/Shibetoshi:1.14.4/|8473|85.24.128.0/17|SE|ripencc|2005-02-24|BAHNHOF www.bahnhof.net, SE
@@ -1446,6 +1451,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.245.247.144|22556|/Shibetoshi:1.14.4/|8881|89.245.240.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
 89.35.163.127|22556|/Shibetoshi:1.14.3/|207375|89.35.163.0/24|NL|ripencc|2005-11-29|FIBO, NL
 89.40.0.46|22556|/Shibetoshi:1.14.3/|212531|89.40.0.0/20|LT|ripencc|2005-11-29|INTERNETO-VIZIJA, LT
+89.45.185.71|22556|/Shibetoshi:1.14.4/|201838|89.45.176.0/20|GB|ripencc|2005-11-29|ASN-COMMUNITYFIBRE, GB
 90.120.190.246|22556|/Shibetoshi:1.14.4/|3215|90.120.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 90.170.209.101|22556|/Shibetoshi:1.14.4/|12479|90.170.208.0/22|ES|ripencc|2006-09-12|UNI2-AS, ES
 90.242.141.189|22556|/Shibetoshi:1.14.4/|5378|90.240.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
@@ -1507,6 +1513,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.216.96.167|22556|/Shibetoshi:1.10.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.153.71|22556|/Shibetoshi:1.14.3/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.163.203|22556|/Shibetoshi:1.14.3/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
+95.217.36.126|22556|/Shibetoshi:1.14.4/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.78.81|22556|/Shibetoshi:1.14.2/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.223.20.114|22556|/Shibetoshi:1.14.3/|3209|95.223.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
 95.84.223.222|22556|/Shibetoshi:1.14.4/|42610|95.84.192.0/18|RU|ripencc|2009-06-15|NCNET-AS, RU
