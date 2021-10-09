@@ -10,6 +10,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 121.98.10.94|/Satoshi:2.1.8/|70005|9790|121.98.0.0/15|NZ|apnic|2007-09-24|VOCUSGROUPNZ VocusGroup, NZ
 123.50.114.203|/Satoshi:2.1.8/|70005|9471|123.50.114.0/24|PF|apnic|2006-09-27|ONATI-AS-AP ONATI, PF
 125.26.175.241|/Satoshi:2.1.8/|70005|23969|125.26.172.0/22|TH|apnic|2006-10-26|TOT-NET TOT Public Company Limited, TH
+133.106.179.19|/Satoshi:2.1.8/|70005|138384|133.106.128.0/17|JP|apnic|1997-03-01|RMNI-AS-AP Rakuten Mobile Network, Inc., JP
 134.97.145.137|/Satoshi:2.1.8/|70005|203761|134.97.128.0/17|DE|ripencc|1989-08-29|ACS-HARTMANN, DE
 141.224.223.210|/Satoshi:2.1.8/|70005|15435|141.224.192.0/18|NL|ripencc|1990-08-03|KABELFOON DELTA Fiber Nederland, NL
 149.172.238.233|/Satoshi:2.1.8/|70005|3209|149.172.128.0/17|DE|ripencc|2011-08-03|VODANET International IP-Backbone of Vodafone, DE
@@ -48,7 +49,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.132.36.190|/Satoshi:2.1.8/|70005|33915|24.132.0.0/17|NL|ripencc|1997-10-13|TNF-AS, NL
 24.211.62.92|/Satoshi:2.1.8/|70005|11426|24.211.32.0/19|US|arin|2001-06-29|TWC-11426-CAROLINAS, US
 31.150.114.86|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
-31.150.122.241|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
 45.131.193.138|/Satoshi:2.1.8/|70005|27589|45.131.193.0/24|NL|ripencc|2019-07-22|MOJOHOST, US
 45.158.172.249|/Satoshi:2.1.8/|70005|20810|45.158.172.0/22|DE|ripencc|2019-09-30|NETCOM-KASSEL Netcom Kassel, DE
 46.238.234.86|/Satoshi:2.1.8/|70005|12618|46.238.232.0/22|PL|ripencc|2011-02-08|PL-BYDMAN-COM Commercial Users, PL
@@ -89,7 +89,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.64.79.4|/Satoshi:2.1.8/|70005|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 83.135.98.156|/Satoshi:2.1.8/|70005|8881|83.135.96.0/20|DE|ripencc|2004-01-28|VERSATEL, DE
 83.54.206.173|/Satoshi:2.1.8/|70005|3352|83.54.0.0/16|ES|ripencc|2004-10-07|TELEFONICA_DE_ESPANA, ES
-84.119.162.12|/Satoshi:2.1.8/|70005|3209|84.119.0.0/16|NL|ripencc|2004-04-07|VODANET International IP-Backbone of Vodafone, DE
 84.159.187.165|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.188.206.147|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.195.111.156|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
@@ -99,6 +98,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.91.151.194|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 86.93.14.93|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 87.132.190.51|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
+87.164.40.251|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.187.16.222|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 88.130.51.59|/Satoshi:2.1.8/|70005|8881|88.130.51.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 88.18.227.89|/Satoshi:2.1.8/|70005|3352|88.18.0.0/16|ES|ripencc|2005-07-13|TELEFONICA_DE_ESPANA, ES
@@ -123,8 +123,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.235.162.206|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.48.255.43|/Satoshi:2.1.8/|70005|12874|93.48.0.0/13|IT|ripencc|2008-02-25|FASTWEB, IT
 93.5.151.196|/Satoshi:2.1.8/|70005|15557|93.0.0.0/11|FR|ripencc|2007-10-30|LDCOMNET, FR
+93.71.12.82|/Satoshi:2.1.8/|70005|30722|93.71.0.0/16|IT|ripencc|2008-03-17|VODAFONE-IT-ASN, IT
 94.114.221.91|/Satoshi:2.1.8/|70005|3209|94.114.0.0/16|DE|ripencc|2008-07-09|VODANET International IP-Backbone of Vodafone, DE
 94.12.249.38|/Satoshi:2.1.8/|70005|5607|94.0.0.0/12|GB|ripencc|2008-05-27|BSKYB-BROADBAND-AS, GB
+94.226.147.247|/Satoshi:2.1.8/|70005|6848|94.224.0.0/14|BE|ripencc|2008-09-18|TELENET-AS, BE
 94.30.0.250|/Satoshi:2.1.8/|70005|5413|94.30.0.0/17|GB|ripencc|2008-07-16|AS5413, GB
 95.217.78.80|/Satoshi:2.1.8/|70005|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.223.75.250|/Satoshi:2.1.8/|70005|3209|95.223.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
