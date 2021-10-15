@@ -2,7 +2,7 @@
 # PandaCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.4.234.20|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|23969|1.4.224.0/20|TH|apnic|2011-04-08|TOT-NET TOT Public Company Limited, TH
-101.51.198.22|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|23969|101.51.192.0/21|TH|apnic|2010-12-13|TOT-NET TOT Public Company Limited, TH
+101.109.84.217|/Satoshi:0.20.2/Pandacoin:4.10.4/|70015|23969|101.109.84.0/24|TH|apnic|2010-12-13|TOT-NET TOT Public Company Limited, TH
 101.51.199.235|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|23969|101.51.192.0/21|TH|apnic|2010-12-13|TOT-NET TOT Public Company Limited, TH
 107.4.167.155|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|7922|107.4.0.0/15|US|arin|2010-06-29|COMCAST-7922, US
 108.61.193.104|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|20473|108.61.192.0/23|US|arin|2010-12-08|AS-CHOOPA, US
@@ -16,8 +16,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 171.101.105.109|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|17552|171.101.64.0/18|TH|apnic|2011-03-07|TRUEONLINE-AS-AP True Online, TH
 171.101.165.28|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|17552|171.101.128.0/18|TH|apnic|2011-03-07|TRUEONLINE-AS-AP True Online, TH
 171.7.219.144|/Satoshi:0.20.2/Pandacoin:4.10.4/|70015|45758|171.7.0.0/16|TH|apnic|2011-03-07|TTBP-AS-AP Triple T Broadband Public Company Limited, TH
+172.104.178.96|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|63949|172.104.160.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
 172.245.245.8|???|0|36352|172.245.244.0/22|US|arin|2013-04-22|AS-COLOCROSSING, US
-173.230.142.84|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|63949|173.230.128.0/20|US|arin|2010-03-15|LINODE-AP Linode, LLC, US
 176.58.123.119|/Satoshi:0.20.2/Pandacoin:4.10.4/|70015|63949|176.58.96.0/19|US|ripencc|2011-06-06|LINODE-AP Linode, LLC, US
 178.198.132.125|/Satoshi:0.20.2/Pandacoin:4.10.4/|70015|3303|178.198.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom Switzerland Ltd, CH
 178.4.159.18|/Satoshi:0.20.2/Pandacoin:4.10.4/|70015|3209|178.0.0.0/12|DE|ripencc|2010-01-12|VODANET International IP-Backbone of Vodafone, DE
@@ -33,7 +33,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 208.91.66.30|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|40861|208.91.66.0/24|US|arin|2008-05-30|PARAD-40-ASN, US
 209.58.150.237|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|394380|209.58.144.0/20|US|arin|1999-04-29|LEASEWEB-USA-DAL, US
 213.161.21.113|/Satoshi:0.20.2/Pandacoin:4.10.4/|70015|3212|213.161.0.0/19|SI|ripencc|1999-12-23|TELEMACH Broadband Access & Carrier Services, SI
-220.167.106.74|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|38283|220.167.106.0/24|CN|apnic|2002-10-30|CHINANET-SCIDC-AS-AP CHINANET SiChuan Telecom Internet Data Center, CN
+220.167.106.74|???|0|38283|220.167.106.0/24|CN|apnic|2002-10-30|CHINANET-SCIDC-AS-AP CHINANET SiChuan Telecom Internet Data Center, CN
 223.24.157.114|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|132061|223.24.157.0/24|TH|apnic|2010-08-10|REALMOVE-AS-AP Realmove Company Limited, TH
 223.24.166.119|/Satoshi:0.20.2/Pandacoin:4.10.4/|70015|132061|223.24.166.0/24|TH|apnic|2010-08-10|REALMOVE-AS-AP Realmove Company Limited, TH
 223.24.184.23|/Satoshi:0.20.2/Pandacoin:4.10.4/|70015|132061|223.24.184.0/24|TH|apnic|2010-08-10|REALMOVE-AS-AP Realmove Company Limited, TH
@@ -46,11 +46,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.96.156.36|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|7029|50.96.0.0/16|US|arin|2011-03-11|WINDSTREAM, US
 61.90.22.176|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|17552|61.90.0.0/18|TH|apnic|2004-05-11|TRUEONLINE-AS-AP True Online, TH
 68.224.56.144|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|22773|68.224.0.0/17|US|arin|2003-03-19|ASN-CXA-ALL-CCI-22773-RDC, US
+71.81.180.241|/Satoshi:0.20.2/Pandacoin:4.10.4/|70015|20115|71.81.176.0/21|US|arin|2005-05-19|CHARTER-20115, US
 73.202.59.58|/Satoshi:0.20.2/Pandacoin:4.10.4/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
+73.254.118.233|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 75.150.121.113|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|7922|75.144.0.0/13|US|arin|2006-09-25|COMCAST-7922, US
 79.138.52.171|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|45011|79.138.0.0/17|SE|ripencc|2007-10-19|SE-A3 www.a3.se, SE
 85.216.148.139|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|6830|85.216.128.0/18|SK|ripencc|2005-01-14|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 88.131.213.108|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|1257|88.131.0.0/16|SE|ripencc|2005-10-24|TELE2, EU
 95.168.164.219|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|60781|95.168.160.0/20|NL|ripencc|2009-01-06|LEASEWEB-NL-AMS-01 Netherlands, NL
+95.217.77.209|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.239.25.159|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|3269|95.238.0.0/15|IT|ripencc|2009-01-15|ASN-IBSNAZ, IT
 96.126.106.42|/Satoshi:0.20.2/Pandacoin:4.10.4/|70015|63949|96.126.104.0/21|US|arin|2011-05-06|LINODE-AP Linode, LLC, US
+96.71.184.110|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|7922|96.64.0.0/11|US|arin|2008-02-21|COMCAST-7922, US

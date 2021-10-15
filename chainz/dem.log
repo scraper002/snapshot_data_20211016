@@ -6,6 +6,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.152.39.233|/eMark:1.6.1.2/|60012|11878|107.152.39.0/24|US|arin|2013-12-03|TZULO, US
 108.161.120.138|/eMark:1.5.1/|60011|5645|108.161.112.0/20|CA|arin|2011-10-25|TEKSAVVY, CA
 109.153.101.178|/eMark:1.5.1/|60011|2856|109.144.0.0/12|GB|ripencc|2009-08-06|BT-UK-AS BTnet UK Regional network, GB
+109.236.86.71|/eMark:1.5.1/|60011|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
 122.59.3.47|/eMark:1.6.1.2/|60012|4771|122.59.0.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
 139.162.155.117|/eMark:1.6.1.1/|60012|63949|139.162.128.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 141.155.129.92|/eMark:1.6.1.2/|60012|701|141.155.128.0/18|US|arin|1990-07-23|UUNET, US
@@ -44,7 +45,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.90.63.179|/eMark:1.5.1/|60011|48239|212.90.32.0/19|UA|ripencc|2010-11-09|ITTV-AS Kiev, Ukraine, UA
 213.136.80.217|/eMark:1.6.1.2/|60012|51167|213.136.80.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.151.5.210|/eMark:1.6.1.2/|60012|31499|213.151.5.0/24|RU|ripencc|2008-03-13|YCC-AS -- iHome --, RU
-213.162.128.166|/eMark:1.6.1.2/|60012|9136|213.162.128.0/19|DE|ripencc|2008-11-10|WOBCOM, DE
 213.60.47.89|/eMark:1.6.1.2/|60012|12334|213.60.0.0/18|ES|ripencc|1999-09-01|Galicia - Spain, ES
 217.229.239.133|/eMark:1.5.1/|60011|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.236.42.148|/eMark:1.6.1.2/|60012|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
@@ -56,7 +56,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.142.176.172|/eMark:1.6.1/|60012|197540|45.142.176.0/22|DE|ripencc|2019-08-19|NETCUP-AS netcup GmbH, DE
 45.236.101.189|/eMark:1.5.1/|60011|266806|45.236.101.0/24|AR|lacnic|2018-05-09|DIAZ MARCELA ALEJANDRAPATAGONIA DIGITAL, AR
 46.101.235.143|/eMark:1.5.1/|60011|14061|46.101.128.0/17|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
-46.223.223.150|/eMark:1.6.1.2/|60012|3209|46.223.128.0/17|DE|ripencc|2011-01-26|VODANET International IP-Backbone of Vodafone, DE
 46.232.249.107|/eMark:1.6.1/|60012|197540|46.232.248.0/22|DE|ripencc|2018-06-15|NETCUP-AS netcup GmbH, DE
 47.156.121.54|/eMark:1.6.1.2/|60012|5650|47.156.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
 5.9.141.86|/eMark:1.5.0/|60011|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
@@ -80,6 +79,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.112.227.155|/eMark:1.5.1/|60011|8412|84.112.0.0/15|AT|ripencc|2004-04-07|TMA Magenta Telekom, AT
 84.169.225.20|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 85.140.117.254|/eMark:1.6.1.2/|60012|8359|85.140.116.0/22|RU|ripencc|2004-12-13|MTS, RU
+85.140.8.150|/eMark:1.6.1.2/|60012|8359|85.140.8.0/22|RU|ripencc|2004-12-13|MTS, RU
 85.15.179.171|/eMark:1.6.1/|60012|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
 85.19.25.38|/eMark:1.6.1/|60012|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
 87.123.202.82|/eMark:1.6.1.2/|60012|8881|87.123.202.0/24|DE|ripencc|2005-07-27|VERSATEL, DE
@@ -94,9 +94,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.211.227.205|/eMark:1.5.1/|60011|13127|87.211.0.0/16|NL|ripencc|2005-06-02|T-MOBILE AS for the Trans-European T-Mobile IP Transport backbone, NL
 87.5.4.155|/eMark:1.6.1.2/|60012|3269|87.4.0.0/15|IT|ripencc|2005-07-13|ASN-IBSNAZ, IT
 87.79.199.153|/eMark:1.6.1.2/|60012|8422|87.78.0.0/15|DE|ripencc|2005-05-31|NETCOLOGNE, DE
+88.217.46.27|/eMark:1.5.1/|60011|8767|88.217.0.0/16|DE|ripencc|2005-11-23|MNET-AS Germany, DE
 89.163.255.142|/eMark:1.5.1/|60011|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
-89.187.174.239|/eMark:1.5.1/|60011|60068|89.187.174.0/24|CZ|ripencc|2006-04-28|CDN77 ^_^, GB
-89.46.223.228|/eMark:1.5.1/|60011|25369|89.46.223.0/24|GB|ripencc|2005-11-29|BANDWIDTH-AS, GB
+89.46.223.83|/eMark:1.5.1/|60011|25369|89.46.223.0/24|GB|ripencc|2005-11-29|BANDWIDTH-AS, GB
 91.1.178.115|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.1.182.111|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.32.146.100|/eMark:1.5.1/|60011|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
@@ -106,6 +106,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.117.86.114|/eMark:1.5.1/|60011|8881|92.117.80.0/20|DE|ripencc|2007-10-25|VERSATEL, DE
 92.192.30.143|/eMark:1.6.1.2/|60012|20676|92.192.0.0/13|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 92.206.14.239|/eMark:1.6.1.2/|60012|16202|92.206.0.0/17|DE|ripencc|2007-10-17|TELECOLUMBUS-AS, DE
+93.197.229.75|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.220.42.14|/eMark:1.5.1/|60011|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.226.113.207|/eMark:1.5.1/|60011|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.238.97.180|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
